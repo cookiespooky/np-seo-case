@@ -9,49 +9,57 @@ city_name: "Воронеж"
 city_name_in: "Воронеже"
 service_slug: "uslugi-elektrika"
 service_name: "Услуги электрика"
+service_image: "electricity.webp"
 price_min: 1700
 price_max: 6500
 og_variant: "city_service"
 ---
-# Услуги электрика в Воронеже
-
-Услуга доступна в Воронеже. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 1 700 ₽**
-- Верхний диапазон: **до 6 500 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Воронеже
 
-- [Ремонт квартир](/np-seo-case/voronezh/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/voronezh/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/voronezh/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/voronezh/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/voronezh/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/voronezh/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/voronezh/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/voronezh/zamena-okon/)
-- [Клининг квартир](/np-seo-case/voronezh/klining-kvartir/)
-- [Установка дверей](/np-seo-case/voronezh/ustanovka-dverej/)
+- [Ремонт квартир](/voronezh/remont-kvartir/)
+- [Ремонт ванной комнаты](/voronezh/remont-vannoj/)
+- [Укладка плитки](/voronezh/ukladka-plitki/)
+- [Установка сантехники](/voronezh/ustanovka-santehniki/)
+- [Услуги электрика](/voronezh/uslugi-elektrika/)
+- [Сборка мебели](/voronezh/sborka-mebeli/)
+- [Натяжные потолки](/voronezh/natyazhnye-potolki/)
+- [Замена окон](/voronezh/zamena-okon/)
+- [Клининг квартир](/voronezh/klining-kvartir/)
+- [Установка дверей](/voronezh/ustanovka-dverej/)
 
 ## Услуги электрика в других городах
 
-- [Услуги электрика в Волгограде](/np-seo-case/volgograd/uslugi-elektrika/)
-- [Услуги электрика в Омске](/np-seo-case/omsk/uslugi-elektrika/)
-- [Услуги электрика в Москве](/np-seo-case/moskva/uslugi-elektrika/)
-- [Услуги электрика в Санкт-Петербурге](/np-seo-case/spb/uslugi-elektrika/)
-- [Услуги электрика в Казани](/np-seo-case/kazan/uslugi-elektrika/)
-- [Услуги электрика в Екатеринбурге](/np-seo-case/ekaterinburg/uslugi-elektrika/)
-- [Услуги электрика в Новосибирске](/np-seo-case/novosibirsk/uslugi-elektrika/)
+- [Услуги электрика в Волгограде](/volgograd/uslugi-elektrika/)
+- [Услуги электрика в Омске](/omsk/uslugi-elektrika/)
+- [Услуги электрика в Москве](/moskva/uslugi-elektrika/)
+- [Услуги электрика в Санкт-Петербурге](/spb/uslugi-elektrika/)
+- [Услуги электрика в Казани](/kazan/uslugi-elektrika/)
+- [Услуги электрика в Екатеринбурге](/ekaterinburg/uslugi-elektrika/)
+- [Услуги электрика в Новосибирске](/novosibirsk/uslugi-elektrika/)
 
 ## Полезные статьи
 
-- [Как рассчитать бюджет на ремонт в регионе](/np-seo-case/blog/kak-rasschitat-byudzhet-na-remont-v-regione/)
-- [Как выбрать сервис по отзывам и кейсам](/np-seo-case/blog/kak-vybrat-servis-po-otzyvam-i-kejsam/)
-- [Как не переплатить за срочные работы](/np-seo-case/blog/kak-ne-pereplatit-za-srochnye-raboty/)
+1. ![Установка сантехники](/assets/services/plumbery.webp)
+
+    *07.05.2025*
+
+    [Сборка мебели после переезда: чек-лист](/blog/sborka-mebeli-posle-pereezda-checklist/)
+
+    Категория: Переезд. Практические советы по теме материала и типовым задачам.
+2. ![Укладка плитки](/assets/services/tile.webp)
+
+    *29.03.2025*
+
+    [Как проверить качество электромонтажных работ](/blog/kak-proverit-kachestvo-elektromontazhnyh-rabot/)
+
+    Категория: Контроль качества. Практические советы по теме материала и типовым задачам.
+3. ![Ремонт квартир](/assets/services/renovation.webp)
+
+    *18.02.2025*
+
+    [5 ошибок при выборе мастера по сантехнике](/blog/5-oshibok-pri-vybore-mastera-po-santehnike/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

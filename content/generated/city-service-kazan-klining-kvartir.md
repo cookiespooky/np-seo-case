@@ -9,49 +9,57 @@ city_name: "Казань"
 city_name_in: "Казани"
 service_slug: "klining-kvartir"
 service_name: "Клининг квартир"
+service_image: "cleaning.webp"
 price_min: 2800
 price_max: 9100
 og_variant: "city_service"
 ---
-# Клининг квартир в Казани
-
-Услуга доступна в Казани. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 2 800 ₽**
-- Верхний диапазон: **до 9 100 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Казани
 
-- [Ремонт квартир](/np-seo-case/kazan/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/kazan/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/kazan/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/kazan/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/kazan/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/kazan/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/kazan/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/kazan/zamena-okon/)
-- [Клининг квартир](/np-seo-case/kazan/klining-kvartir/)
-- [Установка дверей](/np-seo-case/kazan/ustanovka-dverej/)
+- [Ремонт квартир](/kazan/remont-kvartir/)
+- [Ремонт ванной комнаты](/kazan/remont-vannoj/)
+- [Укладка плитки](/kazan/ukladka-plitki/)
+- [Установка сантехники](/kazan/ustanovka-santehniki/)
+- [Услуги электрика](/kazan/uslugi-elektrika/)
+- [Сборка мебели](/kazan/sborka-mebeli/)
+- [Натяжные потолки](/kazan/natyazhnye-potolki/)
+- [Замена окон](/kazan/zamena-okon/)
+- [Клининг квартир](/kazan/klining-kvartir/)
+- [Установка дверей](/kazan/ustanovka-dverej/)
 
 ## Клининг квартир в других городах
 
-- [Клининг квартир в Екатеринбурге](/np-seo-case/ekaterinburg/klining-kvartir/)
-- [Клининг квартир в Новосибирске](/np-seo-case/novosibirsk/klining-kvartir/)
-- [Клининг квартир в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/klining-kvartir/)
-- [Клининг квартир в Краснодаре](/np-seo-case/krasnodar/klining-kvartir/)
-- [Клининг квартир в Ростове-на-Дону](/np-seo-case/rostov-na-donu/klining-kvartir/)
-- [Клининг квартир в Самаре](/np-seo-case/samara/klining-kvartir/)
-- [Клининг квартир в Челябинске](/np-seo-case/chelyabinsk/klining-kvartir/)
+- [Клининг квартир в Екатеринбурге](/ekaterinburg/klining-kvartir/)
+- [Клининг квартир в Новосибирске](/novosibirsk/klining-kvartir/)
+- [Клининг квартир в Нижнем Новгороде](/nizhniy-novgorod/klining-kvartir/)
+- [Клининг квартир в Краснодаре](/krasnodar/klining-kvartir/)
+- [Клининг квартир в Ростове-на-Дону](/rostov-na-donu/klining-kvartir/)
+- [Клининг квартир в Самаре](/samara/klining-kvartir/)
+- [Клининг квартир в Челябинске](/chelyabinsk/klining-kvartir/)
 
 ## Полезные статьи
 
-- [От чего зависит стоимость укладки плитки](/np-seo-case/blog/ot-chego-zavisit-stoimost-ukladki-plitki/)
-- [Замена окон в зимний период: что учесть](/np-seo-case/blog/zamena-okon-v-zimnij-period-chto-uchest/)
-- [Натяжные потолки: как выбрать материал](/np-seo-case/blog/natyazhnye-potolki-kak-vybrat-material/)
+1. ![Клининг квартир](/assets/services/cleaning.webp)
+
+    *14.09.2025*
+
+    [Типовые вопросы по гарантии на работы](/blog/tipovye-voprosy-po-garantii-na-raboty/)
+
+    Категория: Гарантии. Практические советы по теме материала и типовым задачам.
+2. ![Замена окон](/assets/services/windows.webp)
+
+    *06.08.2025*
+
+    [Приемка работ: пошаговая инструкция](/blog/priemka-rabot-poshagovaya-instrukciya/)
+
+    Категория: Контроль качества. Практические советы по теме материала и типовым задачам.
+3. ![Сборка мебели](/assets/services/furniture.webp)
+
+    *28.06.2025*
+
+    [Минимальный набор работ при косметическом ремонте](/blog/minimalnyj-nabor-rabot-pri-kosmeticheskom-remonte/)
+
+    Категория: Ремонт. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

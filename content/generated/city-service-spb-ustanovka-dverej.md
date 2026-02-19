@@ -9,49 +9,57 @@ city_name: "Санкт-Петербург"
 city_name_in: "Санкт-Петербурге"
 service_slug: "ustanovka-dverej"
 service_name: "Установка дверей"
+service_image: "doors.webp"
 price_min: 3900
 price_max: 12000
 og_variant: "city_service"
 ---
-# Установка дверей в Санкт-Петербурге
-
-Услуга доступна в Санкт-Петербурге. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 3 900 ₽**
-- Верхний диапазон: **до 12 000 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Санкт-Петербурге
 
-- [Ремонт квартир](/np-seo-case/spb/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/spb/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/spb/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/spb/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/spb/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/spb/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/spb/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/spb/zamena-okon/)
-- [Клининг квартир](/np-seo-case/spb/klining-kvartir/)
-- [Установка дверей](/np-seo-case/spb/ustanovka-dverej/)
+- [Ремонт квартир](/spb/remont-kvartir/)
+- [Ремонт ванной комнаты](/spb/remont-vannoj/)
+- [Укладка плитки](/spb/ukladka-plitki/)
+- [Установка сантехники](/spb/ustanovka-santehniki/)
+- [Услуги электрика](/spb/uslugi-elektrika/)
+- [Сборка мебели](/spb/sborka-mebeli/)
+- [Натяжные потолки](/spb/natyazhnye-potolki/)
+- [Замена окон](/spb/zamena-okon/)
+- [Клининг квартир](/spb/klining-kvartir/)
+- [Установка дверей](/spb/ustanovka-dverej/)
 
 ## Установка дверей в других городах
 
-- [Установка дверей в Казани](/np-seo-case/kazan/ustanovka-dverej/)
-- [Установка дверей в Екатеринбурге](/np-seo-case/ekaterinburg/ustanovka-dverej/)
-- [Установка дверей в Новосибирске](/np-seo-case/novosibirsk/ustanovka-dverej/)
-- [Установка дверей в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/ustanovka-dverej/)
-- [Установка дверей в Краснодаре](/np-seo-case/krasnodar/ustanovka-dverej/)
-- [Установка дверей в Ростове-на-Дону](/np-seo-case/rostov-na-donu/ustanovka-dverej/)
-- [Установка дверей в Самаре](/np-seo-case/samara/ustanovka-dverej/)
+- [Установка дверей в Казани](/kazan/ustanovka-dverej/)
+- [Установка дверей в Екатеринбурге](/ekaterinburg/ustanovka-dverej/)
+- [Установка дверей в Новосибирске](/novosibirsk/ustanovka-dverej/)
+- [Установка дверей в Нижнем Новгороде](/nizhniy-novgorod/ustanovka-dverej/)
+- [Установка дверей в Краснодаре](/krasnodar/ustanovka-dverej/)
+- [Установка дверей в Ростове-на-Дону](/rostov-na-donu/ustanovka-dverej/)
+- [Установка дверей в Самаре](/samara/ustanovka-dverej/)
 
 ## Полезные статьи
 
-- [Сроки ремонта ванной комнаты по этапам](/np-seo-case/blog/sroki-remonta-vannoj-komnaty-po-etapam/)
-- [Установка дверей: как избежать перекоса](/np-seo-case/blog/ustanovka-dverej-kak-izbezhat-perekosa/)
-- [Как рассчитать бюджет на ремонт в регионе](/np-seo-case/blog/kak-rasschitat-byudzhet-na-remont-v-regione/)
+1. ![Натяжные потолки](/assets/services/ceiling.webp)
+
+    *24.07.2025*
+
+    [Как составить план работ для бригады](/blog/kak-sostavit-plan-rabot-dlya-brigady/)
+
+    Категория: Организация. Практические советы по теме материала и типовым задачам.
+2. ![Сборка мебели](/assets/services/furniture.webp)
+
+    *15.06.2025*
+
+    [Как сравнивать коммерческие предложения по услугам](/blog/kak-sravnivat-kommercheskie-predlozheniya/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
+3. ![Установка сантехники](/assets/services/plumbery.webp)
+
+    *07.05.2025*
+
+    [Сборка мебели после переезда: чек-лист](/blog/sborka-mebeli-posle-pereezda-checklist/)
+
+    Категория: Переезд. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

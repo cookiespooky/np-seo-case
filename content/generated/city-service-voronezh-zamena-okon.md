@@ -9,49 +9,57 @@ city_name: "Воронеж"
 city_name_in: "Воронеже"
 service_slug: "zamena-okon"
 service_name: "Замена окон"
+service_image: "windows.webp"
 price_min: 6500
 price_max: 17600
 og_variant: "city_service"
 ---
-# Замена окон в Воронеже
-
-Услуга доступна в Воронеже. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 6 500 ₽**
-- Верхний диапазон: **до 17 600 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Воронеже
 
-- [Ремонт квартир](/np-seo-case/voronezh/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/voronezh/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/voronezh/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/voronezh/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/voronezh/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/voronezh/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/voronezh/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/voronezh/zamena-okon/)
-- [Клининг квартир](/np-seo-case/voronezh/klining-kvartir/)
-- [Установка дверей](/np-seo-case/voronezh/ustanovka-dverej/)
+- [Ремонт квартир](/voronezh/remont-kvartir/)
+- [Ремонт ванной комнаты](/voronezh/remont-vannoj/)
+- [Укладка плитки](/voronezh/ukladka-plitki/)
+- [Установка сантехники](/voronezh/ustanovka-santehniki/)
+- [Услуги электрика](/voronezh/uslugi-elektrika/)
+- [Сборка мебели](/voronezh/sborka-mebeli/)
+- [Натяжные потолки](/voronezh/natyazhnye-potolki/)
+- [Замена окон](/voronezh/zamena-okon/)
+- [Клининг квартир](/voronezh/klining-kvartir/)
+- [Установка дверей](/voronezh/ustanovka-dverej/)
 
 ## Замена окон в других городах
 
-- [Замена окон в Волгограде](/np-seo-case/volgograd/zamena-okon/)
-- [Замена окон в Омске](/np-seo-case/omsk/zamena-okon/)
-- [Замена окон в Москве](/np-seo-case/moskva/zamena-okon/)
-- [Замена окон в Санкт-Петербурге](/np-seo-case/spb/zamena-okon/)
-- [Замена окон в Казани](/np-seo-case/kazan/zamena-okon/)
-- [Замена окон в Екатеринбурге](/np-seo-case/ekaterinburg/zamena-okon/)
-- [Замена окон в Новосибирске](/np-seo-case/novosibirsk/zamena-okon/)
+- [Замена окон в Волгограде](/volgograd/zamena-okon/)
+- [Замена окон в Омске](/omsk/zamena-okon/)
+- [Замена окон в Москве](/moskva/zamena-okon/)
+- [Замена окон в Санкт-Петербурге](/spb/zamena-okon/)
+- [Замена окон в Казани](/kazan/zamena-okon/)
+- [Замена окон в Екатеринбурге](/ekaterinburg/zamena-okon/)
+- [Замена окон в Новосибирске](/novosibirsk/zamena-okon/)
 
 ## Полезные статьи
 
-- [Сборка мебели после переезда: чек-лист](/np-seo-case/blog/sborka-mebeli-posle-pereezda-checklist/)
-- [Как сравнивать коммерческие предложения по услугам](/np-seo-case/blog/kak-sravnivat-kommercheskie-predlozheniya/)
-- [Как составить план работ для бригады](/np-seo-case/blog/kak-sostavit-plan-rabot-dlya-brigady/)
+1. ![Натяжные потолки](/assets/services/ceiling.webp)
+
+    *11.07.2025*
+
+    [Как рассчитать бюджет на ремонт в регионе](/blog/kak-rasschitat-byudzhet-na-remont-v-regione/)
+
+    Категория: Бюджет. Практические советы по теме материала и типовым задачам.
+2. ![Услуги электрика](/assets/services/electricity.webp)
+
+    *02.06.2025*
+
+    [Установка дверей: как избежать перекоса](/blog/ustanovka-dverej-kak-izbezhat-perekosa/)
+
+    Категория: Монтаж. Практические советы по теме материала и типовым задачам.
+3. ![Установка сантехники](/assets/services/plumbery.webp)
+
+    *24.04.2025*
+
+    [Сроки ремонта ванной комнаты по этапам](/blog/sroki-remonta-vannoj-komnaty-po-etapam/)
+
+    Категория: Сроки. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

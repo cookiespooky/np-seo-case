@@ -1,12 +1,80 @@
 <article class="page-content">
   {{- $kind := printf "%v" (index .FM "page_kind") -}}
-  {{- if eq $kind "city_service" }}
+  {{- if eq $kind "service" }}
+  <nav class="breadcrumbs" aria-label="Хлебные крошки">
+    <a href="{{ .BaseURL }}/">Главная</a>
+    <span>/</span>
+    <a href="{{ .BaseURL }}/services/">Услуги</a>
+    <span>/</span>
+    <span>{{ index .FM "service_name" }}</span>
+  </nav>
+  {{- $serviceImage := printf "%v" (index .FM "service_image") -}}
+  {{- if eq $serviceImage "<nil>" }}{{- $serviceImage = "renovation.webp" -}}{{- end -}}
+  <section class="service-hero">
+    <div class="service-hero__text">
+      <h1>{{ index .FM "service_name" }}</h1>
+      <p>Раздел содержит базовую информацию по услуге, ориентиры по стоимости и переходы к страницам по всем городам каталога.</p>
+      <p><a class="btn" href="{{ .BaseURL }}/cities/">Выбрать город</a></p>
+    </div>
+    <figure class="service-hero__media">
+      <img src="{{ .AssetsBase }}/services/{{ $serviceImage }}" alt="{{ index .FM "service_name" }}" width="1200" height="800" loading="eager" decoding="async" />
+    </figure>
+  </section>
+  {{- else if eq $kind "city" }}
+  <nav class="breadcrumbs" aria-label="Хлебные крошки">
+    <a href="{{ .BaseURL }}/">Главная</a>
+    <span>/</span>
+    <a href="{{ .BaseURL }}/cities/">Города</a>
+    <span>/</span>
+    <span>{{ index .FM "city_name" }}</span>
+  </nav>
+  {{- else if eq $kind "city_service" }}
   <nav class="breadcrumbs" aria-label="Хлебные крошки">
     <a href="{{ .BaseURL }}/">Главная</a>
     <span>/</span>
     <a href="{{ .BaseURL }}/cities/{{ index .FM "city_slug" }}/">{{ index .FM "city_name" }}</a>
     <span>/</span>
     <span>{{ index .FM "service_name" }}</span>
+  </nav>
+
+  {{- $serviceImage := printf "%v" (index .FM "service_image") -}}
+  {{- if eq $serviceImage "<nil>" }}{{- $serviceImage = "renovation.webp" -}}{{- end -}}
+  <section class="city-service-hero">
+    <div class="city-service-hero__text">
+      <h1>{{ index .FM "service_name" }} в {{ index .FM "city_name_in" }}</h1>
+      <p>Услуга доступна в {{ index .FM "city_name_in" }}. Страница содержит ориентировочную стоимость, структуру работ и базовые ответы на частые вопросы.</p>
+      <p><a class="btn" href="#cta-form">Оставить заявку</a></p>
+    </div>
+    <figure class="city-service-hero__media">
+      <img src="{{ .AssetsBase }}/services/{{ $serviceImage }}" alt="{{ index .FM "service_name" }} в {{ index .FM "city_name_in" }}" width="1200" height="800" loading="eager" decoding="async" />
+    </figure>
+  </section>
+
+  <h2>Ориентировочные цены</h2>
+  <ul>
+    <li>Минимальный диапазон: <strong>от {{ index .FM "price_min" }} ₽</strong></li>
+    <li>Верхний диапазон: <strong>до {{ index .FM "price_max" }} ₽</strong></li>
+    <li>Актуализация стоимости выполняется после оценки объема работ.</li>
+  </ul>
+
+  <h2>Заявка и консультация</h2>
+  <p>Для быстрого согласования деталей свяжитесь по телефону:
+    <strong><a href="tel:+74950000000">+7 495 000-00-00</a></strong>.
+  </p>
+  <form id="cta-form" class="cta-form" method="post" action="#">
+    <label for="name-{{ index .FM "city_slug" }}-{{ index .FM "service_slug" }}">Имя</label>
+    <input id="name-{{ index .FM "city_slug" }}-{{ index .FM "service_slug" }}" name="name" type="text" autocomplete="name" placeholder="Ваше имя" required />
+    <label for="phone-{{ index .FM "city_slug" }}-{{ index .FM "service_slug" }}">Телефон</label>
+    <input id="phone-{{ index .FM "city_slug" }}-{{ index .FM "service_slug" }}" name="phone" type="tel" autocomplete="tel" placeholder="+7 (___) ___-__-__" required />
+    <button type="submit">Отправить заявку</button>
+  </form>
+  {{- else if eq $kind "blog_page" }}
+  <nav class="breadcrumbs" aria-label="Хлебные крошки">
+    <a href="{{ .BaseURL }}/">Главная</a>
+    <span>/</span>
+    <a href="{{ .BaseURL }}/blog/">Блог</a>
+    <span>/</span>
+    <span>Страница</span>
   </nav>
   {{- end }}
   {{ .Body }}

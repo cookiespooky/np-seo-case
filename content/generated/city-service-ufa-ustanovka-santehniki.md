@@ -9,49 +9,57 @@ city_name: "Уфа"
 city_name_in: "Уфе"
 service_slug: "ustanovka-santehniki"
 service_name: "Установка сантехники"
+service_image: "plumbery.webp"
 price_min: 2200
 price_max: 7400
 og_variant: "city_service"
 ---
-# Установка сантехники в Уфе
-
-Услуга доступна в Уфе. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 2 200 ₽**
-- Верхний диапазон: **до 7 400 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Уфе
 
-- [Ремонт квартир](/np-seo-case/ufa/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/ufa/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/ufa/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/ufa/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/ufa/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/ufa/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/ufa/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/ufa/zamena-okon/)
-- [Клининг квартир](/np-seo-case/ufa/klining-kvartir/)
-- [Установка дверей](/np-seo-case/ufa/ustanovka-dverej/)
+- [Ремонт квартир](/ufa/remont-kvartir/)
+- [Ремонт ванной комнаты](/ufa/remont-vannoj/)
+- [Укладка плитки](/ufa/ukladka-plitki/)
+- [Установка сантехники](/ufa/ustanovka-santehniki/)
+- [Услуги электрика](/ufa/uslugi-elektrika/)
+- [Сборка мебели](/ufa/sborka-mebeli/)
+- [Натяжные потолки](/ufa/natyazhnye-potolki/)
+- [Замена окон](/ufa/zamena-okon/)
+- [Клининг квартир](/ufa/klining-kvartir/)
+- [Установка дверей](/ufa/ustanovka-dverej/)
 
 ## Установка сантехники в других городах
 
-- [Установка сантехники в Перми](/np-seo-case/perm/ustanovka-santehniki/)
-- [Установка сантехники в Воронеже](/np-seo-case/voronezh/ustanovka-santehniki/)
-- [Установка сантехники в Волгограде](/np-seo-case/volgograd/ustanovka-santehniki/)
-- [Установка сантехники в Омске](/np-seo-case/omsk/ustanovka-santehniki/)
-- [Установка сантехники в Москве](/np-seo-case/moskva/ustanovka-santehniki/)
-- [Установка сантехники в Санкт-Петербурге](/np-seo-case/spb/ustanovka-santehniki/)
-- [Установка сантехники в Казани](/np-seo-case/kazan/ustanovka-santehniki/)
+- [Установка сантехники в Перми](/perm/ustanovka-santehniki/)
+- [Установка сантехники в Воронеже](/voronezh/ustanovka-santehniki/)
+- [Установка сантехники в Волгограде](/volgograd/ustanovka-santehniki/)
+- [Установка сантехники в Омске](/omsk/ustanovka-santehniki/)
+- [Установка сантехники в Москве](/moskva/ustanovka-santehniki/)
+- [Установка сантехники в Санкт-Петербурге](/spb/ustanovka-santehniki/)
+- [Установка сантехники в Казани](/kazan/ustanovka-santehniki/)
 
 ## Полезные статьи
 
-- [Замена окон в зимний период: что учесть](/np-seo-case/blog/zamena-okon-v-zimnij-period-chto-uchest/)
-- [Натяжные потолки: как выбрать материал](/np-seo-case/blog/natyazhnye-potolki-kak-vybrat-material/)
-- [Минимальный набор работ при косметическом ремонте](/np-seo-case/blog/minimalnyj-nabor-rabot-pri-kosmeticheskom-remonte/)
+1. ![Замена окон](/assets/services/windows.webp)
+
+    *06.08.2025*
+
+    [Приемка работ: пошаговая инструкция](/blog/priemka-rabot-poshagovaya-instrukciya/)
+
+    Категория: Контроль качества. Практические советы по теме материала и типовым задачам.
+2. ![Сборка мебели](/assets/services/furniture.webp)
+
+    *28.06.2025*
+
+    [Минимальный набор работ при косметическом ремонте](/blog/minimalnyj-nabor-rabot-pri-kosmeticheskom-remonte/)
+
+    Категория: Ремонт. Практические советы по теме материала и типовым задачам.
+3. ![Услуги электрика](/assets/services/electricity.webp)
+
+    *20.05.2025*
+
+    [Натяжные потолки: как выбрать материал](/blog/natyazhnye-potolki-kak-vybrat-material/)
+
+    Категория: Материалы. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

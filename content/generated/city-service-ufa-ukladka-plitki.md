@@ -9,49 +9,57 @@ city_name: "Уфа"
 city_name_in: "Уфе"
 service_slug: "ukladka-plitki"
 service_name: "Укладка плитки"
+service_image: "tile.webp"
 price_min: 1600
 price_max: 4100
 og_variant: "city_service"
 ---
-# Укладка плитки в Уфе
-
-Услуга доступна в Уфе. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 1 600 ₽**
-- Верхний диапазон: **до 4 100 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Уфе
 
-- [Ремонт квартир](/np-seo-case/ufa/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/ufa/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/ufa/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/ufa/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/ufa/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/ufa/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/ufa/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/ufa/zamena-okon/)
-- [Клининг квартир](/np-seo-case/ufa/klining-kvartir/)
-- [Установка дверей](/np-seo-case/ufa/ustanovka-dverej/)
+- [Ремонт квартир](/ufa/remont-kvartir/)
+- [Ремонт ванной комнаты](/ufa/remont-vannoj/)
+- [Укладка плитки](/ufa/ukladka-plitki/)
+- [Установка сантехники](/ufa/ustanovka-santehniki/)
+- [Услуги электрика](/ufa/uslugi-elektrika/)
+- [Сборка мебели](/ufa/sborka-mebeli/)
+- [Натяжные потолки](/ufa/natyazhnye-potolki/)
+- [Замена окон](/ufa/zamena-okon/)
+- [Клининг квартир](/ufa/klining-kvartir/)
+- [Установка дверей](/ufa/ustanovka-dverej/)
 
 ## Укладка плитки в других городах
 
-- [Укладка плитки в Перми](/np-seo-case/perm/ukladka-plitki/)
-- [Укладка плитки в Воронеже](/np-seo-case/voronezh/ukladka-plitki/)
-- [Укладка плитки в Волгограде](/np-seo-case/volgograd/ukladka-plitki/)
-- [Укладка плитки в Омске](/np-seo-case/omsk/ukladka-plitki/)
-- [Укладка плитки в Москве](/np-seo-case/moskva/ukladka-plitki/)
-- [Укладка плитки в Санкт-Петербурге](/np-seo-case/spb/ukladka-plitki/)
-- [Укладка плитки в Казани](/np-seo-case/kazan/ukladka-plitki/)
+- [Укладка плитки в Перми](/perm/ukladka-plitki/)
+- [Укладка плитки в Воронеже](/voronezh/ukladka-plitki/)
+- [Укладка плитки в Волгограде](/volgograd/ukladka-plitki/)
+- [Укладка плитки в Омске](/omsk/ukladka-plitki/)
+- [Укладка плитки в Москве](/moskva/ukladka-plitki/)
+- [Укладка плитки в Санкт-Петербурге](/spb/ukladka-plitki/)
+- [Укладка плитки в Казани](/kazan/ukladka-plitki/)
 
 ## Полезные статьи
 
-- [Как оценить смету перед ремонтом квартиры](/np-seo-case/blog/kak-ocenit-smetu-pered-remontom-kvartiry/)
-- [Как подготовить квартиру к клинингу](/np-seo-case/blog/kak-podgotovit-kvartiru-k-kliningu/)
-- [Сроки ремонта ванной комнаты по этапам](/np-seo-case/blog/sroki-remonta-vannoj-komnaty-po-etapam/)
+1. ![Установка дверей](/assets/services/doors.webp)
+
+    *10.10.2025*
+
+    [Как работает модель «услуга × город» в каталоге](/blog/kak-rabotaet-model-usluga-gorod-v-kataloge/)
+
+    Категория: SEO. Практические советы по теме материала и типовым задачам.
+2. ![Клининг квартир](/assets/services/cleaning.webp)
+
+    *01.09.2025*
+
+    [Когда выгоднее делать клининг после ремонта](/blog/kogda-vygodnee-delat-klining-posle-remonta/)
+
+    Категория: Сезонность. Практические советы по теме материала и типовым задачам.
+3. ![Натяжные потолки](/assets/services/ceiling.webp)
+
+    *24.07.2025*
+
+    [Как составить план работ для бригады](/blog/kak-sostavit-plan-rabot-dlya-brigady/)
+
+    Категория: Организация. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

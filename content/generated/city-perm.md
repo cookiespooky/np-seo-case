@@ -22,13 +22,13 @@ og_variant: "default"
 
 ## Все услуги в Перми
 
-- [Ремонт квартир в Перми](/np-seo-case/perm/remont-kvartir/)
-- [Ремонт ванной комнаты в Перми](/np-seo-case/perm/remont-vannoj/)
-- [Укладка плитки в Перми](/np-seo-case/perm/ukladka-plitki/)
-- [Установка сантехники в Перми](/np-seo-case/perm/ustanovka-santehniki/)
-- [Услуги электрика в Перми](/np-seo-case/perm/uslugi-elektrika/)
-- [Сборка мебели в Перми](/np-seo-case/perm/sborka-mebeli/)
-- [Натяжные потолки в Перми](/np-seo-case/perm/natyazhnye-potolki/)
-- [Замена окон в Перми](/np-seo-case/perm/zamena-okon/)
-- [Клининг квартир в Перми](/np-seo-case/perm/klining-kvartir/)
-- [Установка дверей в Перми](/np-seo-case/perm/ustanovka-dverej/)
+- [Ремонт квартир в Перми](/perm/remont-kvartir/)
+- [Ремонт ванной комнаты в Перми](/perm/remont-vannoj/)
+- [Укладка плитки в Перми](/perm/ukladka-plitki/)
+- [Установка сантехники в Перми](/perm/ustanovka-santehniki/)
+- [Услуги электрика в Перми](/perm/uslugi-elektrika/)
+- [Сборка мебели в Перми](/perm/sborka-mebeli/)
+- [Натяжные потолки в Перми](/perm/natyazhnye-potolki/)
+- [Замена окон в Перми](/perm/zamena-okon/)
+- [Клининг квартир в Перми](/perm/klining-kvartir/)
+- [Установка дверей в Перми](/perm/ustanovka-dverej/)

@@ -9,49 +9,57 @@ city_name: "Казань"
 city_name_in: "Казани"
 service_slug: "remont-kvartir"
 service_name: "Ремонт квартир"
+service_image: "renovation.webp"
 price_min: 5900
 price_max: 15700
 og_variant: "city_service"
 ---
-# Ремонт квартир в Казани
-
-Услуга доступна в Казани. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 5 900 ₽**
-- Верхний диапазон: **до 15 700 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Казани
 
-- [Ремонт квартир](/np-seo-case/kazan/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/kazan/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/kazan/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/kazan/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/kazan/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/kazan/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/kazan/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/kazan/zamena-okon/)
-- [Клининг квартир](/np-seo-case/kazan/klining-kvartir/)
-- [Установка дверей](/np-seo-case/kazan/ustanovka-dverej/)
+- [Ремонт квартир](/kazan/remont-kvartir/)
+- [Ремонт ванной комнаты](/kazan/remont-vannoj/)
+- [Укладка плитки](/kazan/ukladka-plitki/)
+- [Установка сантехники](/kazan/ustanovka-santehniki/)
+- [Услуги электрика](/kazan/uslugi-elektrika/)
+- [Сборка мебели](/kazan/sborka-mebeli/)
+- [Натяжные потолки](/kazan/natyazhnye-potolki/)
+- [Замена окон](/kazan/zamena-okon/)
+- [Клининг квартир](/kazan/klining-kvartir/)
+- [Установка дверей](/kazan/ustanovka-dverej/)
 
 ## Ремонт квартир в других городах
 
-- [Ремонт квартир в Екатеринбурге](/np-seo-case/ekaterinburg/remont-kvartir/)
-- [Ремонт квартир в Новосибирске](/np-seo-case/novosibirsk/remont-kvartir/)
-- [Ремонт квартир в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/remont-kvartir/)
-- [Ремонт квартир в Краснодаре](/np-seo-case/krasnodar/remont-kvartir/)
-- [Ремонт квартир в Ростове-на-Дону](/np-seo-case/rostov-na-donu/remont-kvartir/)
-- [Ремонт квартир в Самаре](/np-seo-case/samara/remont-kvartir/)
-- [Ремонт квартир в Челябинске](/np-seo-case/chelyabinsk/remont-kvartir/)
+- [Ремонт квартир в Екатеринбурге](/ekaterinburg/remont-kvartir/)
+- [Ремонт квартир в Новосибирске](/novosibirsk/remont-kvartir/)
+- [Ремонт квартир в Нижнем Новгороде](/nizhniy-novgorod/remont-kvartir/)
+- [Ремонт квартир в Краснодаре](/krasnodar/remont-kvartir/)
+- [Ремонт квартир в Ростове-на-Дону](/rostov-na-donu/remont-kvartir/)
+- [Ремонт квартир в Самаре](/samara/remont-kvartir/)
+- [Ремонт квартир в Челябинске](/chelyabinsk/remont-kvartir/)
 
 ## Полезные статьи
 
-- [От чего зависит стоимость укладки плитки](/np-seo-case/blog/ot-chego-zavisit-stoimost-ukladki-plitki/)
-- [Замена окон в зимний период: что учесть](/np-seo-case/blog/zamena-okon-v-zimnij-period-chto-uchest/)
-- [Натяжные потолки: как выбрать материал](/np-seo-case/blog/natyazhnye-potolki-kak-vybrat-material/)
+1. ![Клининг квартир](/assets/services/cleaning.webp)
+
+    *14.09.2025*
+
+    [Типовые вопросы по гарантии на работы](/blog/tipovye-voprosy-po-garantii-na-raboty/)
+
+    Категория: Гарантии. Практические советы по теме материала и типовым задачам.
+2. ![Замена окон](/assets/services/windows.webp)
+
+    *06.08.2025*
+
+    [Приемка работ: пошаговая инструкция](/blog/priemka-rabot-poshagovaya-instrukciya/)
+
+    Категория: Контроль качества. Практические советы по теме материала и типовым задачам.
+3. ![Сборка мебели](/assets/services/furniture.webp)
+
+    *28.06.2025*
+
+    [Минимальный набор работ при косметическом ремонте](/blog/minimalnyj-nabor-rabot-pri-kosmeticheskom-remonte/)
+
+    Категория: Ремонт. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

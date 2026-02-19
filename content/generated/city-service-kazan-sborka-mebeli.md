@@ -9,49 +9,57 @@ city_name: "Казань"
 city_name_in: "Казани"
 service_slug: "sborka-mebeli"
 service_name: "Сборка мебели"
+service_image: "furniture.webp"
 price_min: 1500
 price_max: 5600
 og_variant: "city_service"
 ---
-# Сборка мебели в Казани
-
-Услуга доступна в Казани. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 1 500 ₽**
-- Верхний диапазон: **до 5 600 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Казани
 
-- [Ремонт квартир](/np-seo-case/kazan/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/kazan/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/kazan/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/kazan/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/kazan/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/kazan/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/kazan/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/kazan/zamena-okon/)
-- [Клининг квартир](/np-seo-case/kazan/klining-kvartir/)
-- [Установка дверей](/np-seo-case/kazan/ustanovka-dverej/)
+- [Ремонт квартир](/kazan/remont-kvartir/)
+- [Ремонт ванной комнаты](/kazan/remont-vannoj/)
+- [Укладка плитки](/kazan/ukladka-plitki/)
+- [Установка сантехники](/kazan/ustanovka-santehniki/)
+- [Услуги электрика](/kazan/uslugi-elektrika/)
+- [Сборка мебели](/kazan/sborka-mebeli/)
+- [Натяжные потолки](/kazan/natyazhnye-potolki/)
+- [Замена окон](/kazan/zamena-okon/)
+- [Клининг квартир](/kazan/klining-kvartir/)
+- [Установка дверей](/kazan/ustanovka-dverej/)
 
 ## Сборка мебели в других городах
 
-- [Сборка мебели в Екатеринбурге](/np-seo-case/ekaterinburg/sborka-mebeli/)
-- [Сборка мебели в Новосибирске](/np-seo-case/novosibirsk/sborka-mebeli/)
-- [Сборка мебели в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/sborka-mebeli/)
-- [Сборка мебели в Краснодаре](/np-seo-case/krasnodar/sborka-mebeli/)
-- [Сборка мебели в Ростове-на-Дону](/np-seo-case/rostov-na-donu/sborka-mebeli/)
-- [Сборка мебели в Самаре](/np-seo-case/samara/sborka-mebeli/)
-- [Сборка мебели в Челябинске](/np-seo-case/chelyabinsk/sborka-mebeli/)
+- [Сборка мебели в Екатеринбурге](/ekaterinburg/sborka-mebeli/)
+- [Сборка мебели в Новосибирске](/novosibirsk/sborka-mebeli/)
+- [Сборка мебели в Нижнем Новгороде](/nizhniy-novgorod/sborka-mebeli/)
+- [Сборка мебели в Краснодаре](/krasnodar/sborka-mebeli/)
+- [Сборка мебели в Ростове-на-Дону](/rostov-na-donu/sborka-mebeli/)
+- [Сборка мебели в Самаре](/samara/sborka-mebeli/)
+- [Сборка мебели в Челябинске](/chelyabinsk/sborka-mebeli/)
 
 ## Полезные статьи
 
-- [Сборка мебели после переезда: чек-лист](/np-seo-case/blog/sborka-mebeli-posle-pereezda-checklist/)
-- [Как сравнивать коммерческие предложения по услугам](/np-seo-case/blog/kak-sravnivat-kommercheskie-predlozheniya/)
-- [Как составить план работ для бригады](/np-seo-case/blog/kak-sostavit-plan-rabot-dlya-brigady/)
+1. ![Натяжные потолки](/assets/services/ceiling.webp)
+
+    *11.07.2025*
+
+    [Как рассчитать бюджет на ремонт в регионе](/blog/kak-rasschitat-byudzhet-na-remont-v-regione/)
+
+    Категория: Бюджет. Практические советы по теме материала и типовым задачам.
+2. ![Услуги электрика](/assets/services/electricity.webp)
+
+    *02.06.2025*
+
+    [Установка дверей: как избежать перекоса](/blog/ustanovka-dverej-kak-izbezhat-perekosa/)
+
+    Категория: Монтаж. Практические советы по теме материала и типовым задачам.
+3. ![Установка сантехники](/assets/services/plumbery.webp)
+
+    *24.04.2025*
+
+    [Сроки ремонта ванной комнаты по этапам](/blog/sroki-remonta-vannoj-komnaty-po-etapam/)
+
+    Категория: Сроки. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

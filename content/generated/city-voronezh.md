@@ -22,13 +22,13 @@ og_variant: "default"
 
 ## Все услуги в Воронеже
 
-- [Ремонт квартир в Воронеже](/np-seo-case/voronezh/remont-kvartir/)
-- [Ремонт ванной комнаты в Воронеже](/np-seo-case/voronezh/remont-vannoj/)
-- [Укладка плитки в Воронеже](/np-seo-case/voronezh/ukladka-plitki/)
-- [Установка сантехники в Воронеже](/np-seo-case/voronezh/ustanovka-santehniki/)
-- [Услуги электрика в Воронеже](/np-seo-case/voronezh/uslugi-elektrika/)
-- [Сборка мебели в Воронеже](/np-seo-case/voronezh/sborka-mebeli/)
-- [Натяжные потолки в Воронеже](/np-seo-case/voronezh/natyazhnye-potolki/)
-- [Замена окон в Воронеже](/np-seo-case/voronezh/zamena-okon/)
-- [Клининг квартир в Воронеже](/np-seo-case/voronezh/klining-kvartir/)
-- [Установка дверей в Воронеже](/np-seo-case/voronezh/ustanovka-dverej/)
+- [Ремонт квартир в Воронеже](/voronezh/remont-kvartir/)
+- [Ремонт ванной комнаты в Воронеже](/voronezh/remont-vannoj/)
+- [Укладка плитки в Воронеже](/voronezh/ukladka-plitki/)
+- [Установка сантехники в Воронеже](/voronezh/ustanovka-santehniki/)
+- [Услуги электрика в Воронеже](/voronezh/uslugi-elektrika/)
+- [Сборка мебели в Воронеже](/voronezh/sborka-mebeli/)
+- [Натяжные потолки в Воронеже](/voronezh/natyazhnye-potolki/)
+- [Замена окон в Воронеже](/voronezh/zamena-okon/)
+- [Клининг квартир в Воронеже](/voronezh/klining-kvartir/)
+- [Установка дверей в Воронеже](/voronezh/ustanovka-dverej/)

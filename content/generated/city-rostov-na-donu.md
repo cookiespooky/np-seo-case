@@ -22,13 +22,13 @@ og_variant: "default"
 
 ## Все услуги в Ростове-на-Дону
 
-- [Ремонт квартир в Ростове-на-Дону](/np-seo-case/rostov-na-donu/remont-kvartir/)
-- [Ремонт ванной комнаты в Ростове-на-Дону](/np-seo-case/rostov-na-donu/remont-vannoj/)
-- [Укладка плитки в Ростове-на-Дону](/np-seo-case/rostov-na-donu/ukladka-plitki/)
-- [Установка сантехники в Ростове-на-Дону](/np-seo-case/rostov-na-donu/ustanovka-santehniki/)
-- [Услуги электрика в Ростове-на-Дону](/np-seo-case/rostov-na-donu/uslugi-elektrika/)
-- [Сборка мебели в Ростове-на-Дону](/np-seo-case/rostov-na-donu/sborka-mebeli/)
-- [Натяжные потолки в Ростове-на-Дону](/np-seo-case/rostov-na-donu/natyazhnye-potolki/)
-- [Замена окон в Ростове-на-Дону](/np-seo-case/rostov-na-donu/zamena-okon/)
-- [Клининг квартир в Ростове-на-Дону](/np-seo-case/rostov-na-donu/klining-kvartir/)
-- [Установка дверей в Ростове-на-Дону](/np-seo-case/rostov-na-donu/ustanovka-dverej/)
+- [Ремонт квартир в Ростове-на-Дону](/rostov-na-donu/remont-kvartir/)
+- [Ремонт ванной комнаты в Ростове-на-Дону](/rostov-na-donu/remont-vannoj/)
+- [Укладка плитки в Ростове-на-Дону](/rostov-na-donu/ukladka-plitki/)
+- [Установка сантехники в Ростове-на-Дону](/rostov-na-donu/ustanovka-santehniki/)
+- [Услуги электрика в Ростове-на-Дону](/rostov-na-donu/uslugi-elektrika/)
+- [Сборка мебели в Ростове-на-Дону](/rostov-na-donu/sborka-mebeli/)
+- [Натяжные потолки в Ростове-на-Дону](/rostov-na-donu/natyazhnye-potolki/)
+- [Замена окон в Ростове-на-Дону](/rostov-na-donu/zamena-okon/)
+- [Клининг квартир в Ростове-на-Дону](/rostov-na-donu/klining-kvartir/)
+- [Установка дверей в Ростове-на-Дону](/rostov-na-donu/ustanovka-dverej/)

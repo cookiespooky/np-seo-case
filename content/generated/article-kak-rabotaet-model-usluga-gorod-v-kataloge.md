@@ -6,18 +6,21 @@ description: "Практический материал: как работает
 date: "2025-10-10"
 page_kind: "article"
 og_variant: "article"
-city_slug: "moskva"
-city_name: "Москва"
-city_name_in: "Москве"
-service_slug: "remont-kvartir"
-service_name: "Ремонт квартир"
-service_slug_alt: "uslugi-elektrika"
-service_name_alt: "Услуги электрика"
+city_slug: "novosibirsk"
+city_name: "Новосибирск"
+city_name_in: "Новосибирске"
+service_slug: "ustanovka-dverej"
+service_name: "Установка дверей"
+service_image: "doors.webp"
+service_slug_alt: "remont-kvartir"
+service_name_alt: "Ремонт квартир"
 date_modified: "2026-02-19"
 ---
 # Как работает модель «услуга × город» в каталоге
 
-Категория: **SEO**. Дата публикации: **2025-10-10**.
+![Установка дверей](/assets/services/doors.webp)
+
+Категория: **SEO**. Дата публикации: **10.10.2025**.
 
 При планировании работ важно заранее определить объем задач, последовательность этапов
 и критерии контроля результата. В реальных проектах на итоговый бюджет влияют
@@ -29,7 +32,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Ремонт квартир в Москве](/np-seo-case/moskva/remont-kvartir/)
-- [Услуги электрика в Москве](/np-seo-case/moskva/uslugi-elektrika/)
-- [Ремонт квартир](/np-seo-case/services/remont-kvartir/)
-- [Услуги в Москве](/np-seo-case/cities/moskva/)
+- [Установка дверей в Новосибирске](/novosibirsk/ustanovka-dverej/)
+- [Ремонт квартир в Новосибирске](/novosibirsk/remont-kvartir/)
+- [Установка дверей](/services/ustanovka-dverej/)
+- [Услуги в Новосибирске](/cities/novosibirsk/)

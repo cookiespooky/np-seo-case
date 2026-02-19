@@ -9,49 +9,57 @@ city_name: "Самара"
 city_name_in: "Самаре"
 service_slug: "natyazhnye-potolki"
 service_name: "Натяжные потолки"
+service_image: "ceiling.webp"
 price_min: 900
 price_max: 2600
 og_variant: "city_service"
 ---
-# Натяжные потолки в Самаре
-
-Услуга доступна в Самаре. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 900 ₽**
-- Верхний диапазон: **до 2 600 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Самаре
 
-- [Ремонт квартир](/np-seo-case/samara/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/samara/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/samara/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/samara/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/samara/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/samara/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/samara/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/samara/zamena-okon/)
-- [Клининг квартир](/np-seo-case/samara/klining-kvartir/)
-- [Установка дверей](/np-seo-case/samara/ustanovka-dverej/)
+- [Ремонт квартир](/samara/remont-kvartir/)
+- [Ремонт ванной комнаты](/samara/remont-vannoj/)
+- [Укладка плитки](/samara/ukladka-plitki/)
+- [Установка сантехники](/samara/ustanovka-santehniki/)
+- [Услуги электрика](/samara/uslugi-elektrika/)
+- [Сборка мебели](/samara/sborka-mebeli/)
+- [Натяжные потолки](/samara/natyazhnye-potolki/)
+- [Замена окон](/samara/zamena-okon/)
+- [Клининг квартир](/samara/klining-kvartir/)
+- [Установка дверей](/samara/ustanovka-dverej/)
 
 ## Натяжные потолки в других городах
 
-- [Натяжные потолки в Челябинске](/np-seo-case/chelyabinsk/natyazhnye-potolki/)
-- [Натяжные потолки в Уфе](/np-seo-case/ufa/natyazhnye-potolki/)
-- [Натяжные потолки в Перми](/np-seo-case/perm/natyazhnye-potolki/)
-- [Натяжные потолки в Воронеже](/np-seo-case/voronezh/natyazhnye-potolki/)
-- [Натяжные потолки в Волгограде](/np-seo-case/volgograd/natyazhnye-potolki/)
-- [Натяжные потолки в Омске](/np-seo-case/omsk/natyazhnye-potolki/)
-- [Натяжные потолки в Москве](/np-seo-case/moskva/natyazhnye-potolki/)
+- [Натяжные потолки в Челябинске](/chelyabinsk/natyazhnye-potolki/)
+- [Натяжные потолки в Уфе](/ufa/natyazhnye-potolki/)
+- [Натяжные потолки в Перми](/perm/natyazhnye-potolki/)
+- [Натяжные потолки в Воронеже](/voronezh/natyazhnye-potolki/)
+- [Натяжные потолки в Волгограде](/volgograd/natyazhnye-potolki/)
+- [Натяжные потолки в Омске](/omsk/natyazhnye-potolki/)
+- [Натяжные потолки в Москве](/moskva/natyazhnye-potolki/)
 
 ## Полезные статьи
 
-- [Как не переплатить за срочные работы](/np-seo-case/blog/kak-ne-pereplatit-za-srochnye-raboty/)
-- [5 ошибок при выборе мастера по сантехнике](/np-seo-case/blog/5-oshibok-pri-vybore-mastera-po-santehnike/)
-- [Как проверить качество электромонтажных работ](/np-seo-case/blog/kak-proverit-kachestvo-elektromontazhnyh-rabot/)
+1. ![Ремонт квартир](/assets/services/renovation.webp)
+
+    *18.02.2025*
+
+    [5 ошибок при выборе мастера по сантехнике](/blog/5-oshibok-pri-vybore-mastera-po-santehnike/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
+2. ![Установка дверей](/assets/services/doors.webp)
+
+    *27.09.2025*
+
+    [Как не переплатить за срочные работы](/blog/kak-ne-pereplatit-za-srochnye-raboty/)
+
+    Категория: Цены. Практические советы по теме материала и типовым задачам.
+3. ![Замена окон](/assets/services/windows.webp)
+
+    *19.08.2025*
+
+    [Как выбрать сервис по отзывам и кейсам](/blog/kak-vybrat-servis-po-otzyvam-i-kejsam/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

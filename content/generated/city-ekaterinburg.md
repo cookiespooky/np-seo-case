@@ -22,13 +22,13 @@ og_variant: "default"
 
 ## Все услуги в Екатеринбурге
 
-- [Ремонт квартир в Екатеринбурге](/np-seo-case/ekaterinburg/remont-kvartir/)
-- [Ремонт ванной комнаты в Екатеринбурге](/np-seo-case/ekaterinburg/remont-vannoj/)
-- [Укладка плитки в Екатеринбурге](/np-seo-case/ekaterinburg/ukladka-plitki/)
-- [Установка сантехники в Екатеринбурге](/np-seo-case/ekaterinburg/ustanovka-santehniki/)
-- [Услуги электрика в Екатеринбурге](/np-seo-case/ekaterinburg/uslugi-elektrika/)
-- [Сборка мебели в Екатеринбурге](/np-seo-case/ekaterinburg/sborka-mebeli/)
-- [Натяжные потолки в Екатеринбурге](/np-seo-case/ekaterinburg/natyazhnye-potolki/)
-- [Замена окон в Екатеринбурге](/np-seo-case/ekaterinburg/zamena-okon/)
-- [Клининг квартир в Екатеринбурге](/np-seo-case/ekaterinburg/klining-kvartir/)
-- [Установка дверей в Екатеринбурге](/np-seo-case/ekaterinburg/ustanovka-dverej/)
+- [Ремонт квартир в Екатеринбурге](/ekaterinburg/remont-kvartir/)
+- [Ремонт ванной комнаты в Екатеринбурге](/ekaterinburg/remont-vannoj/)
+- [Укладка плитки в Екатеринбурге](/ekaterinburg/ukladka-plitki/)
+- [Установка сантехники в Екатеринбурге](/ekaterinburg/ustanovka-santehniki/)
+- [Услуги электрика в Екатеринбурге](/ekaterinburg/uslugi-elektrika/)
+- [Сборка мебели в Екатеринбурге](/ekaterinburg/sborka-mebeli/)
+- [Натяжные потолки в Екатеринбурге](/ekaterinburg/natyazhnye-potolki/)
+- [Замена окон в Екатеринбурге](/ekaterinburg/zamena-okon/)
+- [Клининг квартир в Екатеринбурге](/ekaterinburg/klining-kvartir/)
+- [Установка дверей в Екатеринбурге](/ekaterinburg/ustanovka-dverej/)

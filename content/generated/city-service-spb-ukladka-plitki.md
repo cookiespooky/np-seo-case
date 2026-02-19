@@ -9,49 +9,57 @@ city_name: "Санкт-Петербург"
 city_name_in: "Санкт-Петербурге"
 service_slug: "ukladka-plitki"
 service_name: "Укладка плитки"
+service_image: "tile.webp"
 price_min: 2000
 price_max: 5100
 og_variant: "city_service"
 ---
-# Укладка плитки в Санкт-Петербурге
-
-Услуга доступна в Санкт-Петербурге. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 2 000 ₽**
-- Верхний диапазон: **до 5 100 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Санкт-Петербурге
 
-- [Ремонт квартир](/np-seo-case/spb/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/spb/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/spb/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/spb/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/spb/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/spb/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/spb/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/spb/zamena-okon/)
-- [Клининг квартир](/np-seo-case/spb/klining-kvartir/)
-- [Установка дверей](/np-seo-case/spb/ustanovka-dverej/)
+- [Ремонт квартир](/spb/remont-kvartir/)
+- [Ремонт ванной комнаты](/spb/remont-vannoj/)
+- [Укладка плитки](/spb/ukladka-plitki/)
+- [Установка сантехники](/spb/ustanovka-santehniki/)
+- [Услуги электрика](/spb/uslugi-elektrika/)
+- [Сборка мебели](/spb/sborka-mebeli/)
+- [Натяжные потолки](/spb/natyazhnye-potolki/)
+- [Замена окон](/spb/zamena-okon/)
+- [Клининг квартир](/spb/klining-kvartir/)
+- [Установка дверей](/spb/ustanovka-dverej/)
 
 ## Укладка плитки в других городах
 
-- [Укладка плитки в Казани](/np-seo-case/kazan/ukladka-plitki/)
-- [Укладка плитки в Екатеринбурге](/np-seo-case/ekaterinburg/ukladka-plitki/)
-- [Укладка плитки в Новосибирске](/np-seo-case/novosibirsk/ukladka-plitki/)
-- [Укладка плитки в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/ukladka-plitki/)
-- [Укладка плитки в Краснодаре](/np-seo-case/krasnodar/ukladka-plitki/)
-- [Укладка плитки в Ростове-на-Дону](/np-seo-case/rostov-na-donu/ukladka-plitki/)
-- [Укладка плитки в Самаре](/np-seo-case/samara/ukladka-plitki/)
+- [Укладка плитки в Казани](/kazan/ukladka-plitki/)
+- [Укладка плитки в Екатеринбурге](/ekaterinburg/ukladka-plitki/)
+- [Укладка плитки в Новосибирске](/novosibirsk/ukladka-plitki/)
+- [Укладка плитки в Нижнем Новгороде](/nizhniy-novgorod/ukladka-plitki/)
+- [Укладка плитки в Краснодаре](/krasnodar/ukladka-plitki/)
+- [Укладка плитки в Ростове-на-Дону](/rostov-na-donu/ukladka-plitki/)
+- [Укладка плитки в Самаре](/samara/ukladka-plitki/)
 
 ## Полезные статьи
 
-- [Минимальный набор работ при косметическом ремонте](/np-seo-case/blog/minimalnyj-nabor-rabot-pri-kosmeticheskom-remonte/)
-- [Приемка работ: пошаговая инструкция](/np-seo-case/blog/priemka-rabot-poshagovaya-instrukciya/)
-- [Типовые вопросы по гарантии на работы](/np-seo-case/blog/tipovye-voprosy-po-garantii-na-raboty/)
+1. ![Услуги электрика](/assets/services/electricity.webp)
+
+    *20.05.2025*
+
+    [Натяжные потолки: как выбрать материал](/blog/natyazhnye-potolki-kak-vybrat-material/)
+
+    Категория: Материалы. Практические советы по теме материала и типовым задачам.
+2. ![Укладка плитки](/assets/services/tile.webp)
+
+    *11.04.2025*
+
+    [Замена окон в зимний период: что учесть](/blog/zamena-okon-v-zimnij-period-chto-uchest/)
+
+    Категория: Сезонность. Практические советы по теме материала и типовым задачам.
+3. ![Ремонт ванной комнаты](/assets/services/bathroom.webp)
+
+    *03.03.2025*
+
+    [От чего зависит стоимость укладки плитки](/blog/ot-chego-zavisit-stoimost-ukladki-plitki/)
+
+    Категория: Цены. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

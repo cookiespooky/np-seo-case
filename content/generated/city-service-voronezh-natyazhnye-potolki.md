@@ -9,49 +9,57 @@ city_name: "Воронеж"
 city_name_in: "Воронеже"
 service_slug: "natyazhnye-potolki"
 service_name: "Натяжные потолки"
+service_image: "ceiling.webp"
 price_min: 900
 price_max: 2500
 og_variant: "city_service"
 ---
-# Натяжные потолки в Воронеже
-
-Услуга доступна в Воронеже. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 900 ₽**
-- Верхний диапазон: **до 2 500 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Воронеже
 
-- [Ремонт квартир](/np-seo-case/voronezh/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/voronezh/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/voronezh/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/voronezh/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/voronezh/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/voronezh/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/voronezh/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/voronezh/zamena-okon/)
-- [Клининг квартир](/np-seo-case/voronezh/klining-kvartir/)
-- [Установка дверей](/np-seo-case/voronezh/ustanovka-dverej/)
+- [Ремонт квартир](/voronezh/remont-kvartir/)
+- [Ремонт ванной комнаты](/voronezh/remont-vannoj/)
+- [Укладка плитки](/voronezh/ukladka-plitki/)
+- [Установка сантехники](/voronezh/ustanovka-santehniki/)
+- [Услуги электрика](/voronezh/uslugi-elektrika/)
+- [Сборка мебели](/voronezh/sborka-mebeli/)
+- [Натяжные потолки](/voronezh/natyazhnye-potolki/)
+- [Замена окон](/voronezh/zamena-okon/)
+- [Клининг квартир](/voronezh/klining-kvartir/)
+- [Установка дверей](/voronezh/ustanovka-dverej/)
 
 ## Натяжные потолки в других городах
 
-- [Натяжные потолки в Волгограде](/np-seo-case/volgograd/natyazhnye-potolki/)
-- [Натяжные потолки в Омске](/np-seo-case/omsk/natyazhnye-potolki/)
-- [Натяжные потолки в Москве](/np-seo-case/moskva/natyazhnye-potolki/)
-- [Натяжные потолки в Санкт-Петербурге](/np-seo-case/spb/natyazhnye-potolki/)
-- [Натяжные потолки в Казани](/np-seo-case/kazan/natyazhnye-potolki/)
-- [Натяжные потолки в Екатеринбурге](/np-seo-case/ekaterinburg/natyazhnye-potolki/)
-- [Натяжные потолки в Новосибирске](/np-seo-case/novosibirsk/natyazhnye-potolki/)
+- [Натяжные потолки в Волгограде](/volgograd/natyazhnye-potolki/)
+- [Натяжные потолки в Омске](/omsk/natyazhnye-potolki/)
+- [Натяжные потолки в Москве](/moskva/natyazhnye-potolki/)
+- [Натяжные потолки в Санкт-Петербурге](/spb/natyazhnye-potolki/)
+- [Натяжные потолки в Казани](/kazan/natyazhnye-potolki/)
+- [Натяжные потолки в Екатеринбурге](/ekaterinburg/natyazhnye-potolki/)
+- [Натяжные потолки в Новосибирске](/novosibirsk/natyazhnye-potolki/)
 
 ## Полезные статьи
 
-- [От чего зависит стоимость укладки плитки](/np-seo-case/blog/ot-chego-zavisit-stoimost-ukladki-plitki/)
-- [Замена окон в зимний период: что учесть](/np-seo-case/blog/zamena-okon-v-zimnij-period-chto-uchest/)
-- [Натяжные потолки: как выбрать материал](/np-seo-case/blog/natyazhnye-potolki-kak-vybrat-material/)
+1. ![Клининг квартир](/assets/services/cleaning.webp)
+
+    *14.09.2025*
+
+    [Типовые вопросы по гарантии на работы](/blog/tipovye-voprosy-po-garantii-na-raboty/)
+
+    Категория: Гарантии. Практические советы по теме материала и типовым задачам.
+2. ![Замена окон](/assets/services/windows.webp)
+
+    *06.08.2025*
+
+    [Приемка работ: пошаговая инструкция](/blog/priemka-rabot-poshagovaya-instrukciya/)
+
+    Категория: Контроль качества. Практические советы по теме материала и типовым задачам.
+3. ![Сборка мебели](/assets/services/furniture.webp)
+
+    *28.06.2025*
+
+    [Минимальный набор работ при косметическом ремонте](/blog/minimalnyj-nabor-rabot-pri-kosmeticheskom-remonte/)
+
+    Категория: Ремонт. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

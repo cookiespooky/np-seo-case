@@ -9,49 +9,57 @@ city_name: "Пермь"
 city_name_in: "Перми"
 service_slug: "natyazhnye-potolki"
 service_name: "Натяжные потолки"
+service_image: "ceiling.webp"
 price_min: 900
 price_max: 2500
 og_variant: "city_service"
 ---
-# Натяжные потолки в Перми
-
-Услуга доступна в Перми. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 900 ₽**
-- Верхний диапазон: **до 2 500 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Перми
 
-- [Ремонт квартир](/np-seo-case/perm/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/perm/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/perm/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/perm/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/perm/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/perm/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/perm/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/perm/zamena-okon/)
-- [Клининг квартир](/np-seo-case/perm/klining-kvartir/)
-- [Установка дверей](/np-seo-case/perm/ustanovka-dverej/)
+- [Ремонт квартир](/perm/remont-kvartir/)
+- [Ремонт ванной комнаты](/perm/remont-vannoj/)
+- [Укладка плитки](/perm/ukladka-plitki/)
+- [Установка сантехники](/perm/ustanovka-santehniki/)
+- [Услуги электрика](/perm/uslugi-elektrika/)
+- [Сборка мебели](/perm/sborka-mebeli/)
+- [Натяжные потолки](/perm/natyazhnye-potolki/)
+- [Замена окон](/perm/zamena-okon/)
+- [Клининг квартир](/perm/klining-kvartir/)
+- [Установка дверей](/perm/ustanovka-dverej/)
 
 ## Натяжные потолки в других городах
 
-- [Натяжные потолки в Воронеже](/np-seo-case/voronezh/natyazhnye-potolki/)
-- [Натяжные потолки в Волгограде](/np-seo-case/volgograd/natyazhnye-potolki/)
-- [Натяжные потолки в Омске](/np-seo-case/omsk/natyazhnye-potolki/)
-- [Натяжные потолки в Москве](/np-seo-case/moskva/natyazhnye-potolki/)
-- [Натяжные потолки в Санкт-Петербурге](/np-seo-case/spb/natyazhnye-potolki/)
-- [Натяжные потолки в Казани](/np-seo-case/kazan/natyazhnye-potolki/)
-- [Натяжные потолки в Екатеринбурге](/np-seo-case/ekaterinburg/natyazhnye-potolki/)
+- [Натяжные потолки в Воронеже](/voronezh/natyazhnye-potolki/)
+- [Натяжные потолки в Волгограде](/volgograd/natyazhnye-potolki/)
+- [Натяжные потолки в Омске](/omsk/natyazhnye-potolki/)
+- [Натяжные потолки в Москве](/moskva/natyazhnye-potolki/)
+- [Натяжные потолки в Санкт-Петербурге](/spb/natyazhnye-potolki/)
+- [Натяжные потолки в Казани](/kazan/natyazhnye-potolki/)
+- [Натяжные потолки в Екатеринбурге](/ekaterinburg/natyazhnye-potolki/)
 
 ## Полезные статьи
 
-- [5 ошибок при выборе мастера по сантехнике](/np-seo-case/blog/5-oshibok-pri-vybore-mastera-po-santehnike/)
-- [Как проверить качество электромонтажных работ](/np-seo-case/blog/kak-proverit-kachestvo-elektromontazhnyh-rabot/)
-- [Сборка мебели после переезда: чек-лист](/np-seo-case/blog/sborka-mebeli-posle-pereezda-checklist/)
+1. ![Установка дверей](/assets/services/doors.webp)
+
+    *27.09.2025*
+
+    [Как не переплатить за срочные работы](/blog/kak-ne-pereplatit-za-srochnye-raboty/)
+
+    Категория: Цены. Практические советы по теме материала и типовым задачам.
+2. ![Замена окон](/assets/services/windows.webp)
+
+    *19.08.2025*
+
+    [Как выбрать сервис по отзывам и кейсам](/blog/kak-vybrat-servis-po-otzyvam-i-kejsam/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
+3. ![Натяжные потолки](/assets/services/ceiling.webp)
+
+    *11.07.2025*
+
+    [Как рассчитать бюджет на ремонт в регионе](/blog/kak-rasschitat-byudzhet-na-remont-v-regione/)
+
+    Категория: Бюджет. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

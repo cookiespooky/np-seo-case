@@ -9,49 +9,57 @@ city_name: "Екатеринбург"
 city_name_in: "Екатеринбурге"
 service_slug: "ustanovka-dverej"
 service_name: "Установка дверей"
+service_image: "doors.webp"
 price_min: 3500
 price_max: 10800
 og_variant: "city_service"
 ---
-# Установка дверей в Екатеринбурге
-
-Услуга доступна в Екатеринбурге. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 3 500 ₽**
-- Верхний диапазон: **до 10 800 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Екатеринбурге
 
-- [Ремонт квартир](/np-seo-case/ekaterinburg/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/ekaterinburg/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/ekaterinburg/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/ekaterinburg/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/ekaterinburg/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/ekaterinburg/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/ekaterinburg/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/ekaterinburg/zamena-okon/)
-- [Клининг квартир](/np-seo-case/ekaterinburg/klining-kvartir/)
-- [Установка дверей](/np-seo-case/ekaterinburg/ustanovka-dverej/)
+- [Ремонт квартир](/ekaterinburg/remont-kvartir/)
+- [Ремонт ванной комнаты](/ekaterinburg/remont-vannoj/)
+- [Укладка плитки](/ekaterinburg/ukladka-plitki/)
+- [Установка сантехники](/ekaterinburg/ustanovka-santehniki/)
+- [Услуги электрика](/ekaterinburg/uslugi-elektrika/)
+- [Сборка мебели](/ekaterinburg/sborka-mebeli/)
+- [Натяжные потолки](/ekaterinburg/natyazhnye-potolki/)
+- [Замена окон](/ekaterinburg/zamena-okon/)
+- [Клининг квартир](/ekaterinburg/klining-kvartir/)
+- [Установка дверей](/ekaterinburg/ustanovka-dverej/)
 
 ## Установка дверей в других городах
 
-- [Установка дверей в Новосибирске](/np-seo-case/novosibirsk/ustanovka-dverej/)
-- [Установка дверей в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/ustanovka-dverej/)
-- [Установка дверей в Краснодаре](/np-seo-case/krasnodar/ustanovka-dverej/)
-- [Установка дверей в Ростове-на-Дону](/np-seo-case/rostov-na-donu/ustanovka-dverej/)
-- [Установка дверей в Самаре](/np-seo-case/samara/ustanovka-dverej/)
-- [Установка дверей в Челябинске](/np-seo-case/chelyabinsk/ustanovka-dverej/)
-- [Установка дверей в Уфе](/np-seo-case/ufa/ustanovka-dverej/)
+- [Установка дверей в Новосибирске](/novosibirsk/ustanovka-dverej/)
+- [Установка дверей в Нижнем Новгороде](/nizhniy-novgorod/ustanovka-dverej/)
+- [Установка дверей в Краснодаре](/krasnodar/ustanovka-dverej/)
+- [Установка дверей в Ростове-на-Дону](/rostov-na-donu/ustanovka-dverej/)
+- [Установка дверей в Самаре](/samara/ustanovka-dverej/)
+- [Установка дверей в Челябинске](/chelyabinsk/ustanovka-dverej/)
+- [Установка дверей в Уфе](/ufa/ustanovka-dverej/)
 
 ## Полезные статьи
 
-- [Натяжные потолки: как выбрать материал](/np-seo-case/blog/natyazhnye-potolki-kak-vybrat-material/)
-- [Минимальный набор работ при косметическом ремонте](/np-seo-case/blog/minimalnyj-nabor-rabot-pri-kosmeticheskom-remonte/)
-- [Приемка работ: пошаговая инструкция](/np-seo-case/blog/priemka-rabot-poshagovaya-instrukciya/)
+1. ![Сборка мебели](/assets/services/furniture.webp)
+
+    *28.06.2025*
+
+    [Минимальный набор работ при косметическом ремонте](/blog/minimalnyj-nabor-rabot-pri-kosmeticheskom-remonte/)
+
+    Категория: Ремонт. Практические советы по теме материала и типовым задачам.
+2. ![Услуги электрика](/assets/services/electricity.webp)
+
+    *20.05.2025*
+
+    [Натяжные потолки: как выбрать материал](/blog/natyazhnye-potolki-kak-vybrat-material/)
+
+    Категория: Материалы. Практические советы по теме материала и типовым задачам.
+3. ![Укладка плитки](/assets/services/tile.webp)
+
+    *11.04.2025*
+
+    [Замена окон в зимний период: что учесть](/blog/zamena-okon-v-zimnij-period-chto-uchest/)
+
+    Категория: Сезонность. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

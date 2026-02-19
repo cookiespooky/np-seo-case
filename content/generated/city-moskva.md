@@ -22,13 +22,13 @@ og_variant: "default"
 
 ## Все услуги в Москве
 
-- [Ремонт квартир в Москве](/np-seo-case/moskva/remont-kvartir/)
-- [Ремонт ванной комнаты в Москве](/np-seo-case/moskva/remont-vannoj/)
-- [Укладка плитки в Москве](/np-seo-case/moskva/ukladka-plitki/)
-- [Установка сантехники в Москве](/np-seo-case/moskva/ustanovka-santehniki/)
-- [Услуги электрика в Москве](/np-seo-case/moskva/uslugi-elektrika/)
-- [Сборка мебели в Москве](/np-seo-case/moskva/sborka-mebeli/)
-- [Натяжные потолки в Москве](/np-seo-case/moskva/natyazhnye-potolki/)
-- [Замена окон в Москве](/np-seo-case/moskva/zamena-okon/)
-- [Клининг квартир в Москве](/np-seo-case/moskva/klining-kvartir/)
-- [Установка дверей в Москве](/np-seo-case/moskva/ustanovka-dverej/)
+- [Ремонт квартир в Москве](/moskva/remont-kvartir/)
+- [Ремонт ванной комнаты в Москве](/moskva/remont-vannoj/)
+- [Укладка плитки в Москве](/moskva/ukladka-plitki/)
+- [Установка сантехники в Москве](/moskva/ustanovka-santehniki/)
+- [Услуги электрика в Москве](/moskva/uslugi-elektrika/)
+- [Сборка мебели в Москве](/moskva/sborka-mebeli/)
+- [Натяжные потолки в Москве](/moskva/natyazhnye-potolki/)
+- [Замена окон в Москве](/moskva/zamena-okon/)
+- [Клининг квартир в Москве](/moskva/klining-kvartir/)
+- [Установка дверей в Москве](/moskva/ustanovka-dverej/)

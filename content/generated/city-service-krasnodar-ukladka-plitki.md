@@ -9,49 +9,57 @@ city_name: "Краснодар"
 city_name_in: "Краснодаре"
 service_slug: "ukladka-plitki"
 service_name: "Укладка плитки"
+service_image: "tile.webp"
 price_min: 1700
 price_max: 4400
 og_variant: "city_service"
 ---
-# Укладка плитки в Краснодаре
-
-Услуга доступна в Краснодаре. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 1 700 ₽**
-- Верхний диапазон: **до 4 400 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Краснодаре
 
-- [Ремонт квартир](/np-seo-case/krasnodar/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/krasnodar/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/krasnodar/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/krasnodar/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/krasnodar/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/krasnodar/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/krasnodar/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/krasnodar/zamena-okon/)
-- [Клининг квартир](/np-seo-case/krasnodar/klining-kvartir/)
-- [Установка дверей](/np-seo-case/krasnodar/ustanovka-dverej/)
+- [Ремонт квартир](/krasnodar/remont-kvartir/)
+- [Ремонт ванной комнаты](/krasnodar/remont-vannoj/)
+- [Укладка плитки](/krasnodar/ukladka-plitki/)
+- [Установка сантехники](/krasnodar/ustanovka-santehniki/)
+- [Услуги электрика](/krasnodar/uslugi-elektrika/)
+- [Сборка мебели](/krasnodar/sborka-mebeli/)
+- [Натяжные потолки](/krasnodar/natyazhnye-potolki/)
+- [Замена окон](/krasnodar/zamena-okon/)
+- [Клининг квартир](/krasnodar/klining-kvartir/)
+- [Установка дверей](/krasnodar/ustanovka-dverej/)
 
 ## Укладка плитки в других городах
 
-- [Укладка плитки в Ростове-на-Дону](/np-seo-case/rostov-na-donu/ukladka-plitki/)
-- [Укладка плитки в Самаре](/np-seo-case/samara/ukladka-plitki/)
-- [Укладка плитки в Челябинске](/np-seo-case/chelyabinsk/ukladka-plitki/)
-- [Укладка плитки в Уфе](/np-seo-case/ufa/ukladka-plitki/)
-- [Укладка плитки в Перми](/np-seo-case/perm/ukladka-plitki/)
-- [Укладка плитки в Воронеже](/np-seo-case/voronezh/ukladka-plitki/)
-- [Укладка плитки в Волгограде](/np-seo-case/volgograd/ukladka-plitki/)
+- [Укладка плитки в Ростове-на-Дону](/rostov-na-donu/ukladka-plitki/)
+- [Укладка плитки в Самаре](/samara/ukladka-plitki/)
+- [Укладка плитки в Челябинске](/chelyabinsk/ukladka-plitki/)
+- [Укладка плитки в Уфе](/ufa/ukladka-plitki/)
+- [Укладка плитки в Перми](/perm/ukladka-plitki/)
+- [Укладка плитки в Воронеже](/voronezh/ukladka-plitki/)
+- [Укладка плитки в Волгограде](/volgograd/ukladka-plitki/)
 
 ## Полезные статьи
 
-- [Когда выгоднее делать клининг после ремонта](/np-seo-case/blog/kogda-vygodnee-delat-klining-posle-remonta/)
-- [Как работает модель «услуга × город» в каталоге](/np-seo-case/blog/kak-rabotaet-model-usluga-gorod-v-kataloge/)
-- [От чего зависит стоимость укладки плитки](/np-seo-case/blog/ot-chego-zavisit-stoimost-ukladki-plitki/)
+1. ![Ремонт ванной комнаты](/assets/services/bathroom.webp)
+
+    *16.03.2025*
+
+    [Как подготовить квартиру к клинингу](/blog/kak-podgotovit-kvartiru-k-kliningu/)
+
+    Категория: Подготовка. Практические советы по теме материала и типовым задачам.
+2. ![Ремонт квартир](/assets/services/renovation.webp)
+
+    *05.02.2025*
+
+    [Как оценить смету перед ремонтом квартиры](/blog/kak-ocenit-smetu-pered-remontom-kvartiry/)
+
+    Категория: Смета и бюджет. Практические советы по теме материала и типовым задачам.
+3. ![Клининг квартир](/assets/services/cleaning.webp)
+
+    *14.09.2025*
+
+    [Типовые вопросы по гарантии на работы](/blog/tipovye-voprosy-po-garantii-na-raboty/)
+
+    Категория: Гарантии. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

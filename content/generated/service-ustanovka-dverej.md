@@ -6,36 +6,33 @@ description: "Страница услуги «Установка дверей»:
 page_kind: "service"
 service_slug: "ustanovka-dverej"
 service_name: "Установка дверей"
+service_image: "doors.webp"
 og_variant: "default"
 ---
-# Установка дверей
-
-Раздел содержит базовую информацию по услуге и ссылки на все города каталога.
-
 ## Установка дверей по городам
 
-- [Установка дверей в Москве](/np-seo-case/moskva/ustanovka-dverej/)
-- [Установка дверей в Санкт-Петербурге](/np-seo-case/spb/ustanovka-dverej/)
-- [Установка дверей в Казани](/np-seo-case/kazan/ustanovka-dverej/)
-- [Установка дверей в Екатеринбурге](/np-seo-case/ekaterinburg/ustanovka-dverej/)
-- [Установка дверей в Новосибирске](/np-seo-case/novosibirsk/ustanovka-dverej/)
-- [Установка дверей в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/ustanovka-dverej/)
-- [Установка дверей в Краснодаре](/np-seo-case/krasnodar/ustanovka-dverej/)
-- [Установка дверей в Ростове-на-Дону](/np-seo-case/rostov-na-donu/ustanovka-dverej/)
-- [Установка дверей в Самаре](/np-seo-case/samara/ustanovka-dverej/)
-- [Установка дверей в Челябинске](/np-seo-case/chelyabinsk/ustanovka-dverej/)
-- [Установка дверей в Уфе](/np-seo-case/ufa/ustanovka-dverej/)
-- [Установка дверей в Перми](/np-seo-case/perm/ustanovka-dverej/)
-- [Установка дверей в Воронеже](/np-seo-case/voronezh/ustanovka-dverej/)
-- [Установка дверей в Волгограде](/np-seo-case/volgograd/ustanovka-dverej/)
-- [Установка дверей в Омске](/np-seo-case/omsk/ustanovka-dverej/)
+- [Установка дверей в Москве](/moskva/ustanovka-dverej/)
+- [Установка дверей в Санкт-Петербурге](/spb/ustanovka-dverej/)
+- [Установка дверей в Казани](/kazan/ustanovka-dverej/)
+- [Установка дверей в Екатеринбурге](/ekaterinburg/ustanovka-dverej/)
+- [Установка дверей в Новосибирске](/novosibirsk/ustanovka-dverej/)
+- [Установка дверей в Нижнем Новгороде](/nizhniy-novgorod/ustanovka-dverej/)
+- [Установка дверей в Краснодаре](/krasnodar/ustanovka-dverej/)
+- [Установка дверей в Ростове-на-Дону](/rostov-na-donu/ustanovka-dverej/)
+- [Установка дверей в Самаре](/samara/ustanovka-dverej/)
+- [Установка дверей в Челябинске](/chelyabinsk/ustanovka-dverej/)
+- [Установка дверей в Уфе](/ufa/ustanovka-dverej/)
+- [Установка дверей в Перми](/perm/ustanovka-dverej/)
+- [Установка дверей в Воронеже](/voronezh/ustanovka-dverej/)
+- [Установка дверей в Волгограде](/volgograd/ustanovka-dverej/)
+- [Установка дверей в Омске](/omsk/ustanovka-dverej/)
 
 ## Полезные статьи по теме
 
-- [Как не переплатить за срочные работы](/np-seo-case/blog/kak-ne-pereplatit-za-srochnye-raboty/)
-- [5 ошибок при выборе мастера по сантехнике](/np-seo-case/blog/5-oshibok-pri-vybore-mastera-po-santehnike/)
-- [Как проверить качество электромонтажных работ](/np-seo-case/blog/kak-proverit-kachestvo-elektromontazhnyh-rabot/)
-- [Сборка мебели после переезда: чек-лист](/np-seo-case/blog/sborka-mebeli-posle-pereezda-checklist/)
+- [Как не переплатить за срочные работы](/blog/kak-ne-pereplatit-za-srochnye-raboty/)
+- [5 ошибок при выборе мастера по сантехнике](/blog/5-oshibok-pri-vybore-mastera-po-santehnike/)
+- [Как проверить качество электромонтажных работ](/blog/kak-proverit-kachestvo-elektromontazhnyh-rabot/)
+- [Сборка мебели после переезда: чек-лист](/blog/sborka-mebeli-posle-pereezda-checklist/)
 
 ## Коротко о стоимости
 

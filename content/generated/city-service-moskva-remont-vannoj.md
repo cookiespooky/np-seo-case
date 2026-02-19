@@ -9,49 +9,57 @@ city_name: "Москва"
 city_name_in: "Москве"
 service_slug: "remont-vannoj"
 service_name: "Ремонт ванной комнаты"
+service_image: "bathroom.webp"
 price_min: 8700
 price_max: 22000
 og_variant: "city_service"
 ---
-# Ремонт ванной комнаты в Москве
-
-Услуга доступна в Москве. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 8 700 ₽**
-- Верхний диапазон: **до 22 000 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Москве
 
-- [Ремонт квартир](/np-seo-case/moskva/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/moskva/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/moskva/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/moskva/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/moskva/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/moskva/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/moskva/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/moskva/zamena-okon/)
-- [Клининг квартир](/np-seo-case/moskva/klining-kvartir/)
-- [Установка дверей](/np-seo-case/moskva/ustanovka-dverej/)
+- [Ремонт квартир](/moskva/remont-kvartir/)
+- [Ремонт ванной комнаты](/moskva/remont-vannoj/)
+- [Укладка плитки](/moskva/ukladka-plitki/)
+- [Установка сантехники](/moskva/ustanovka-santehniki/)
+- [Услуги электрика](/moskva/uslugi-elektrika/)
+- [Сборка мебели](/moskva/sborka-mebeli/)
+- [Натяжные потолки](/moskva/natyazhnye-potolki/)
+- [Замена окон](/moskva/zamena-okon/)
+- [Клининг квартир](/moskva/klining-kvartir/)
+- [Установка дверей](/moskva/ustanovka-dverej/)
 
 ## Ремонт ванной комнаты в других городах
 
-- [Ремонт ванной комнаты в Санкт-Петербурге](/np-seo-case/spb/remont-vannoj/)
-- [Ремонт ванной комнаты в Казани](/np-seo-case/kazan/remont-vannoj/)
-- [Ремонт ванной комнаты в Екатеринбурге](/np-seo-case/ekaterinburg/remont-vannoj/)
-- [Ремонт ванной комнаты в Новосибирске](/np-seo-case/novosibirsk/remont-vannoj/)
-- [Ремонт ванной комнаты в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/remont-vannoj/)
-- [Ремонт ванной комнаты в Краснодаре](/np-seo-case/krasnodar/remont-vannoj/)
-- [Ремонт ванной комнаты в Ростове-на-Дону](/np-seo-case/rostov-na-donu/remont-vannoj/)
+- [Ремонт ванной комнаты в Санкт-Петербурге](/spb/remont-vannoj/)
+- [Ремонт ванной комнаты в Казани](/kazan/remont-vannoj/)
+- [Ремонт ванной комнаты в Екатеринбурге](/ekaterinburg/remont-vannoj/)
+- [Ремонт ванной комнаты в Новосибирске](/novosibirsk/remont-vannoj/)
+- [Ремонт ванной комнаты в Нижнем Новгороде](/nizhniy-novgorod/remont-vannoj/)
+- [Ремонт ванной комнаты в Краснодаре](/krasnodar/remont-vannoj/)
+- [Ремонт ванной комнаты в Ростове-на-Дону](/rostov-na-donu/remont-vannoj/)
 
 ## Полезные статьи
 
-- [Замена окон в зимний период: что учесть](/np-seo-case/blog/zamena-okon-v-zimnij-period-chto-uchest/)
-- [Натяжные потолки: как выбрать материал](/np-seo-case/blog/natyazhnye-potolki-kak-vybrat-material/)
-- [Минимальный набор работ при косметическом ремонте](/np-seo-case/blog/minimalnyj-nabor-rabot-pri-kosmeticheskom-remonte/)
+1. ![Замена окон](/assets/services/windows.webp)
+
+    *06.08.2025*
+
+    [Приемка работ: пошаговая инструкция](/blog/priemka-rabot-poshagovaya-instrukciya/)
+
+    Категория: Контроль качества. Практические советы по теме материала и типовым задачам.
+2. ![Сборка мебели](/assets/services/furniture.webp)
+
+    *28.06.2025*
+
+    [Минимальный набор работ при косметическом ремонте](/blog/minimalnyj-nabor-rabot-pri-kosmeticheskom-remonte/)
+
+    Категория: Ремонт. Практические советы по теме материала и типовым задачам.
+3. ![Услуги электрика](/assets/services/electricity.webp)
+
+    *20.05.2025*
+
+    [Натяжные потолки: как выбрать материал](/blog/natyazhnye-potolki-kak-vybrat-material/)
+
+    Категория: Материалы. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

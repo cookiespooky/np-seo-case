@@ -9,49 +9,57 @@ city_name: "Пермь"
 city_name_in: "Перми"
 service_slug: "sborka-mebeli"
 service_name: "Сборка мебели"
+service_image: "furniture.webp"
 price_min: 1300
 price_max: 5000
 og_variant: "city_service"
 ---
-# Сборка мебели в Перми
-
-Услуга доступна в Перми. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 1 300 ₽**
-- Верхний диапазон: **до 5 000 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Перми
 
-- [Ремонт квартир](/np-seo-case/perm/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/perm/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/perm/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/perm/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/perm/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/perm/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/perm/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/perm/zamena-okon/)
-- [Клининг квартир](/np-seo-case/perm/klining-kvartir/)
-- [Установка дверей](/np-seo-case/perm/ustanovka-dverej/)
+- [Ремонт квартир](/perm/remont-kvartir/)
+- [Ремонт ванной комнаты](/perm/remont-vannoj/)
+- [Укладка плитки](/perm/ukladka-plitki/)
+- [Установка сантехники](/perm/ustanovka-santehniki/)
+- [Услуги электрика](/perm/uslugi-elektrika/)
+- [Сборка мебели](/perm/sborka-mebeli/)
+- [Натяжные потолки](/perm/natyazhnye-potolki/)
+- [Замена окон](/perm/zamena-okon/)
+- [Клининг квартир](/perm/klining-kvartir/)
+- [Установка дверей](/perm/ustanovka-dverej/)
 
 ## Сборка мебели в других городах
 
-- [Сборка мебели в Воронеже](/np-seo-case/voronezh/sborka-mebeli/)
-- [Сборка мебели в Волгограде](/np-seo-case/volgograd/sborka-mebeli/)
-- [Сборка мебели в Омске](/np-seo-case/omsk/sborka-mebeli/)
-- [Сборка мебели в Москве](/np-seo-case/moskva/sborka-mebeli/)
-- [Сборка мебели в Санкт-Петербурге](/np-seo-case/spb/sborka-mebeli/)
-- [Сборка мебели в Казани](/np-seo-case/kazan/sborka-mebeli/)
-- [Сборка мебели в Екатеринбурге](/np-seo-case/ekaterinburg/sborka-mebeli/)
+- [Сборка мебели в Воронеже](/voronezh/sborka-mebeli/)
+- [Сборка мебели в Волгограде](/volgograd/sborka-mebeli/)
+- [Сборка мебели в Омске](/omsk/sborka-mebeli/)
+- [Сборка мебели в Москве](/moskva/sborka-mebeli/)
+- [Сборка мебели в Санкт-Петербурге](/spb/sborka-mebeli/)
+- [Сборка мебели в Казани](/kazan/sborka-mebeli/)
+- [Сборка мебели в Екатеринбурге](/ekaterinburg/sborka-mebeli/)
 
 ## Полезные статьи
 
-- [Когда выгоднее делать клининг после ремонта](/np-seo-case/blog/kogda-vygodnee-delat-klining-posle-remonta/)
-- [Как работает модель «услуга × город» в каталоге](/np-seo-case/blog/kak-rabotaet-model-usluga-gorod-v-kataloge/)
-- [От чего зависит стоимость укладки плитки](/np-seo-case/blog/ot-chego-zavisit-stoimost-ukladki-plitki/)
+1. ![Ремонт ванной комнаты](/assets/services/bathroom.webp)
+
+    *16.03.2025*
+
+    [Как подготовить квартиру к клинингу](/blog/kak-podgotovit-kvartiru-k-kliningu/)
+
+    Категория: Подготовка. Практические советы по теме материала и типовым задачам.
+2. ![Ремонт квартир](/assets/services/renovation.webp)
+
+    *05.02.2025*
+
+    [Как оценить смету перед ремонтом квартиры](/blog/kak-ocenit-smetu-pered-remontom-kvartiry/)
+
+    Категория: Смета и бюджет. Практические советы по теме материала и типовым задачам.
+3. ![Клининг квартир](/assets/services/cleaning.webp)
+
+    *14.09.2025*
+
+    [Типовые вопросы по гарантии на работы](/blog/tipovye-voprosy-po-garantii-na-raboty/)
+
+    Категория: Гарантии. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

@@ -6,84 +6,102 @@ description: "Каталог бытовых и ремонтных услуг в 
 og_variant: "default"
 page_kind: "home"
 ---
-> **Демонстрационный SEO-кейс**
->
-> ~200 страниц: 10 услуг × 15 городов + блог.
-> Статическая сборка без CMS и серверов.
-> Развёрнут на GitHub Pages.
->
-> [Подробнее о структуре проекта →](/np-seo-case/about-project/)
-
-# Бытовые услуги для дома в городах России
-
-![Каталог бытовых услуг по городам России](/np-seo-case/assets/hero.webp)
-
-Каталог бытовых и ремонтных услуг в крупнейших городах России.
-Страницы структурированы по модели «услуга × город»
-и охватывают ключевые направления домашнего сервиса.
-
-[Услуги](/np-seo-case/services/) [Города](/np-seo-case/cities/)
-
 ## Популярные услуги
 
-- [Ремонт квартир](/np-seo-case/services/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/services/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/services/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/services/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/services/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/services/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/services/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/services/zamena-okon/)
-- [Клининг квартир](/np-seo-case/services/klining-kvartir/)
-- [Установка дверей](/np-seo-case/services/ustanovka-dverej/)
+- [Ремонт квартир](/services/remont-kvartir/)
+- [Ремонт ванной комнаты](/services/remont-vannoj/)
+- [Укладка плитки](/services/ukladka-plitki/)
+- [Установка сантехники](/services/ustanovka-santehniki/)
+- [Услуги электрика](/services/uslugi-elektrika/)
+- [Сборка мебели](/services/sborka-mebeli/)
+- [Натяжные потолки](/services/natyazhnye-potolki/)
+- [Замена окон](/services/zamena-okon/)
+- [Клининг квартир](/services/klining-kvartir/)
+- [Установка дверей](/services/ustanovka-dverej/)
 
 ## Популярные города
 
-- [Москва](/np-seo-case/cities/moskva/)
-- [Санкт-Петербург](/np-seo-case/cities/spb/)
-- [Казань](/np-seo-case/cities/kazan/)
-- [Екатеринбург](/np-seo-case/cities/ekaterinburg/)
-- [Новосибирск](/np-seo-case/cities/novosibirsk/)
-- [Нижний Новгород](/np-seo-case/cities/nizhniy-novgorod/)
-- [Краснодар](/np-seo-case/cities/krasnodar/)
-- [Ростов-на-Дону](/np-seo-case/cities/rostov-na-donu/)
-- [Самара](/np-seo-case/cities/samara/)
-- [Челябинск](/np-seo-case/cities/chelyabinsk/)
-- [Уфа](/np-seo-case/cities/ufa/)
-- [Пермь](/np-seo-case/cities/perm/)
-- [Воронеж](/np-seo-case/cities/voronezh/)
-- [Волгоград](/np-seo-case/cities/volgograd/)
-- [Омск](/np-seo-case/cities/omsk/)
+- [Москва](/cities/moskva/)
+- [Санкт-Петербург](/cities/spb/)
+- [Казань](/cities/kazan/)
+- [Екатеринбург](/cities/ekaterinburg/)
+- [Новосибирск](/cities/novosibirsk/)
+- [Нижний Новгород](/cities/nizhniy-novgorod/)
+- [Краснодар](/cities/krasnodar/)
+- [Ростов-на-Дону](/cities/rostov-na-donu/)
+- [Самара](/cities/samara/)
+- [Челябинск](/cities/chelyabinsk/)
+- [Уфа](/cities/ufa/)
+- [Пермь](/cities/perm/)
+- [Воронеж](/cities/voronezh/)
+- [Волгоград](/cities/volgograd/)
+- [Омск](/cities/omsk/)
 
 ## Услуга в городе
 
-- [Ремонт квартир в Москве](/np-seo-case/moskva/remont-kvartir/)
-- [Ремонт ванной комнаты в Москве](/np-seo-case/moskva/remont-vannoj/)
-- [Услуги электрика в Москве](/np-seo-case/moskva/uslugi-elektrika/)
-- [Замена окон в Москве](/np-seo-case/moskva/zamena-okon/)
-- [Ремонт квартир в Санкт-Петербурге](/np-seo-case/spb/remont-kvartir/)
-- [Укладка плитки в Санкт-Петербурге](/np-seo-case/spb/ukladka-plitki/)
-- [Установка сантехники в Санкт-Петербурге](/np-seo-case/spb/ustanovka-santehniki/)
-- [Натяжные потолки в Санкт-Петербурге](/np-seo-case/spb/natyazhnye-potolki/)
-- [Ремонт квартир в Казани](/np-seo-case/kazan/remont-kvartir/)
-- [Клининг квартир в Казани](/np-seo-case/kazan/klining-kvartir/)
-- [Услуги электрика в Екатеринбурге](/np-seo-case/ekaterinburg/uslugi-elektrika/)
-- [Установка дверей в Новосибирске](/np-seo-case/novosibirsk/ustanovka-dverej/)
-- [Сборка мебели в Краснодаре](/np-seo-case/krasnodar/sborka-mebeli/)
-- [Замена окон в Самаре](/np-seo-case/samara/zamena-okon/)
-- [Ремонт ванной комнаты в Уфе](/np-seo-case/ufa/remont-vannoj/)
-- [Укладка плитки в Перми](/np-seo-case/perm/ukladka-plitki/)
+- [Ремонт квартир в Москве](/moskva/remont-kvartir/)
+- [Ремонт ванной комнаты в Москве](/moskva/remont-vannoj/)
+- [Услуги электрика в Москве](/moskva/uslugi-elektrika/)
+- [Замена окон в Москве](/moskva/zamena-okon/)
+- [Ремонт квартир в Санкт-Петербурге](/spb/remont-kvartir/)
+- [Укладка плитки в Санкт-Петербурге](/spb/ukladka-plitki/)
+- [Установка сантехники в Санкт-Петербурге](/spb/ustanovka-santehniki/)
+- [Натяжные потолки в Санкт-Петербурге](/spb/natyazhnye-potolki/)
+- [Ремонт квартир в Казани](/kazan/remont-kvartir/)
+- [Клининг квартир в Казани](/kazan/klining-kvartir/)
+- [Услуги электрика в Екатеринбурге](/ekaterinburg/uslugi-elektrika/)
+- [Установка дверей в Новосибирске](/novosibirsk/ustanovka-dverej/)
+- [Сборка мебели в Краснодаре](/krasnodar/sborka-mebeli/)
+- [Замена окон в Самаре](/samara/zamena-okon/)
+- [Ремонт ванной комнаты в Уфе](/ufa/remont-vannoj/)
+- [Укладка плитки в Перми](/perm/ukladka-plitki/)
 
 ## Последние статьи
 
-- [Как работает модель «услуга × город» в каталоге](/np-seo-case/blog/kak-rabotaet-model-usluga-gorod-v-kataloge/) — 2025-10-10
-- [Как не переплатить за срочные работы](/np-seo-case/blog/kak-ne-pereplatit-za-srochnye-raboty/) — 2025-09-27
-- [Типовые вопросы по гарантии на работы](/np-seo-case/blog/tipovye-voprosy-po-garantii-na-raboty/) — 2025-09-14
-- [Когда выгоднее делать клининг после ремонта](/np-seo-case/blog/kogda-vygodnee-delat-klining-posle-remonta/) — 2025-09-01
-- [Как выбрать сервис по отзывам и кейсам](/np-seo-case/blog/kak-vybrat-servis-po-otzyvam-i-kejsam/) — 2025-08-19
-- [Приемка работ: пошаговая инструкция](/np-seo-case/blog/priemka-rabot-poshagovaya-instrukciya/) — 2025-08-06
+1. ![Установка дверей](/assets/services/doors.webp)
 
-[Все статьи →](/np-seo-case/blog/)
+    *10.10.2025*
+
+    [Как работает модель «услуга × город» в каталоге](/blog/kak-rabotaet-model-usluga-gorod-v-kataloge/)
+
+    Категория: SEO. Практические советы по теме материала и типовым задачам.
+2. ![Установка дверей](/assets/services/doors.webp)
+
+    *27.09.2025*
+
+    [Как не переплатить за срочные работы](/blog/kak-ne-pereplatit-za-srochnye-raboty/)
+
+    Категория: Цены. Практические советы по теме материала и типовым задачам.
+3. ![Клининг квартир](/assets/services/cleaning.webp)
+
+    *14.09.2025*
+
+    [Типовые вопросы по гарантии на работы](/blog/tipovye-voprosy-po-garantii-na-raboty/)
+
+    Категория: Гарантии. Практические советы по теме материала и типовым задачам.
+4. ![Клининг квартир](/assets/services/cleaning.webp)
+
+    *01.09.2025*
+
+    [Когда выгоднее делать клининг после ремонта](/blog/kogda-vygodnee-delat-klining-posle-remonta/)
+
+    Категория: Сезонность. Практические советы по теме материала и типовым задачам.
+5. ![Замена окон](/assets/services/windows.webp)
+
+    *19.08.2025*
+
+    [Как выбрать сервис по отзывам и кейсам](/blog/kak-vybrat-servis-po-otzyvam-i-kejsam/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
+6. ![Замена окон](/assets/services/windows.webp)
+
+    *06.08.2025*
+
+    [Приемка работ: пошаговая инструкция](/blog/priemka-rabot-poshagovaya-instrukciya/)
+
+    Категория: Контроль качества. Практические советы по теме материала и типовым задачам.
+
+[Все статьи →](/blog/)
 
 ## О каталоге
 

@@ -6,18 +6,21 @@ description: "Практический материал: установка дв
 date: "2025-06-02"
 page_kind: "article"
 og_variant: "article"
-city_slug: "ufa"
-city_name: "Уфа"
-city_name_in: "Уфе"
-service_slug: "remont-kvartir"
-service_name: "Ремонт квартир"
-service_slug_alt: "uslugi-elektrika"
-service_name_alt: "Услуги электрика"
+city_slug: "chelyabinsk"
+city_name: "Челябинск"
+city_name_in: "Челябинске"
+service_slug: "uslugi-elektrika"
+service_name: "Услуги электрика"
+service_image: "electricity.webp"
+service_slug_alt: "sborka-mebeli"
+service_name_alt: "Сборка мебели"
 date_modified: "2026-02-19"
 ---
 # Установка дверей: как избежать перекоса
 
-Категория: **Монтаж**. Дата публикации: **2025-06-02**.
+![Услуги электрика](/assets/services/electricity.webp)
+
+Категория: **Монтаж**. Дата публикации: **02.06.2025**.
 
 При планировании работ важно заранее определить объем задач, последовательность этапов
 и критерии контроля результата. В реальных проектах на итоговый бюджет влияют
@@ -29,7 +32,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Ремонт квартир в Уфе](/np-seo-case/ufa/remont-kvartir/)
-- [Услуги электрика в Уфе](/np-seo-case/ufa/uslugi-elektrika/)
-- [Ремонт квартир](/np-seo-case/services/remont-kvartir/)
-- [Услуги в Уфе](/np-seo-case/cities/ufa/)
+- [Услуги электрика в Челябинске](/chelyabinsk/uslugi-elektrika/)
+- [Сборка мебели в Челябинске](/chelyabinsk/sborka-mebeli/)
+- [Услуги электрика](/services/uslugi-elektrika/)
+- [Услуги в Челябинске](/cities/chelyabinsk/)

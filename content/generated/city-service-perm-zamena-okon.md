@@ -9,49 +9,57 @@ city_name: "Пермь"
 city_name_in: "Перми"
 service_slug: "zamena-okon"
 service_name: "Замена окон"
+service_image: "windows.webp"
 price_min: 6500
 price_max: 17800
 og_variant: "city_service"
 ---
-# Замена окон в Перми
-
-Услуга доступна в Перми. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 6 500 ₽**
-- Верхний диапазон: **до 17 800 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Перми
 
-- [Ремонт квартир](/np-seo-case/perm/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/perm/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/perm/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/perm/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/perm/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/perm/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/perm/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/perm/zamena-okon/)
-- [Клининг квартир](/np-seo-case/perm/klining-kvartir/)
-- [Установка дверей](/np-seo-case/perm/ustanovka-dverej/)
+- [Ремонт квартир](/perm/remont-kvartir/)
+- [Ремонт ванной комнаты](/perm/remont-vannoj/)
+- [Укладка плитки](/perm/ukladka-plitki/)
+- [Установка сантехники](/perm/ustanovka-santehniki/)
+- [Услуги электрика](/perm/uslugi-elektrika/)
+- [Сборка мебели](/perm/sborka-mebeli/)
+- [Натяжные потолки](/perm/natyazhnye-potolki/)
+- [Замена окон](/perm/zamena-okon/)
+- [Клининг квартир](/perm/klining-kvartir/)
+- [Установка дверей](/perm/ustanovka-dverej/)
 
 ## Замена окон в других городах
 
-- [Замена окон в Воронеже](/np-seo-case/voronezh/zamena-okon/)
-- [Замена окон в Волгограде](/np-seo-case/volgograd/zamena-okon/)
-- [Замена окон в Омске](/np-seo-case/omsk/zamena-okon/)
-- [Замена окон в Москве](/np-seo-case/moskva/zamena-okon/)
-- [Замена окон в Санкт-Петербурге](/np-seo-case/spb/zamena-okon/)
-- [Замена окон в Казани](/np-seo-case/kazan/zamena-okon/)
-- [Замена окон в Екатеринбурге](/np-seo-case/ekaterinburg/zamena-okon/)
+- [Замена окон в Воронеже](/voronezh/zamena-okon/)
+- [Замена окон в Волгограде](/volgograd/zamena-okon/)
+- [Замена окон в Омске](/omsk/zamena-okon/)
+- [Замена окон в Москве](/moskva/zamena-okon/)
+- [Замена окон в Санкт-Петербурге](/spb/zamena-okon/)
+- [Замена окон в Казани](/kazan/zamena-okon/)
+- [Замена окон в Екатеринбурге](/ekaterinburg/zamena-okon/)
 
 ## Полезные статьи
 
-- [Сроки ремонта ванной комнаты по этапам](/np-seo-case/blog/sroki-remonta-vannoj-komnaty-po-etapam/)
-- [Установка дверей: как избежать перекоса](/np-seo-case/blog/ustanovka-dverej-kak-izbezhat-perekosa/)
-- [Как рассчитать бюджет на ремонт в регионе](/np-seo-case/blog/kak-rasschitat-byudzhet-na-remont-v-regione/)
+1. ![Натяжные потолки](/assets/services/ceiling.webp)
+
+    *24.07.2025*
+
+    [Как составить план работ для бригады](/blog/kak-sostavit-plan-rabot-dlya-brigady/)
+
+    Категория: Организация. Практические советы по теме материала и типовым задачам.
+2. ![Сборка мебели](/assets/services/furniture.webp)
+
+    *15.06.2025*
+
+    [Как сравнивать коммерческие предложения по услугам](/blog/kak-sravnivat-kommercheskie-predlozheniya/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
+3. ![Установка сантехники](/assets/services/plumbery.webp)
+
+    *07.05.2025*
+
+    [Сборка мебели после переезда: чек-лист](/blog/sborka-mebeli-posle-pereezda-checklist/)
+
+    Категория: Переезд. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

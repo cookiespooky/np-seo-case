@@ -9,49 +9,57 @@ city_name: "Екатеринбург"
 city_name_in: "Екатеринбурге"
 service_slug: "uslugi-elektrika"
 service_name: "Услуги электрика"
+service_image: "electricity.webp"
 price_min: 2000
 price_max: 7500
 og_variant: "city_service"
 ---
-# Услуги электрика в Екатеринбурге
-
-Услуга доступна в Екатеринбурге. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 2 000 ₽**
-- Верхний диапазон: **до 7 500 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Екатеринбурге
 
-- [Ремонт квартир](/np-seo-case/ekaterinburg/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/ekaterinburg/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/ekaterinburg/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/ekaterinburg/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/ekaterinburg/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/ekaterinburg/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/ekaterinburg/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/ekaterinburg/zamena-okon/)
-- [Клининг квартир](/np-seo-case/ekaterinburg/klining-kvartir/)
-- [Установка дверей](/np-seo-case/ekaterinburg/ustanovka-dverej/)
+- [Ремонт квартир](/ekaterinburg/remont-kvartir/)
+- [Ремонт ванной комнаты](/ekaterinburg/remont-vannoj/)
+- [Укладка плитки](/ekaterinburg/ukladka-plitki/)
+- [Установка сантехники](/ekaterinburg/ustanovka-santehniki/)
+- [Услуги электрика](/ekaterinburg/uslugi-elektrika/)
+- [Сборка мебели](/ekaterinburg/sborka-mebeli/)
+- [Натяжные потолки](/ekaterinburg/natyazhnye-potolki/)
+- [Замена окон](/ekaterinburg/zamena-okon/)
+- [Клининг квартир](/ekaterinburg/klining-kvartir/)
+- [Установка дверей](/ekaterinburg/ustanovka-dverej/)
 
 ## Услуги электрика в других городах
 
-- [Услуги электрика в Новосибирске](/np-seo-case/novosibirsk/uslugi-elektrika/)
-- [Услуги электрика в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/uslugi-elektrika/)
-- [Услуги электрика в Краснодаре](/np-seo-case/krasnodar/uslugi-elektrika/)
-- [Услуги электрика в Ростове-на-Дону](/np-seo-case/rostov-na-donu/uslugi-elektrika/)
-- [Услуги электрика в Самаре](/np-seo-case/samara/uslugi-elektrika/)
-- [Услуги электрика в Челябинске](/np-seo-case/chelyabinsk/uslugi-elektrika/)
-- [Услуги электрика в Уфе](/np-seo-case/ufa/uslugi-elektrika/)
+- [Услуги электрика в Новосибирске](/novosibirsk/uslugi-elektrika/)
+- [Услуги электрика в Нижнем Новгороде](/nizhniy-novgorod/uslugi-elektrika/)
+- [Услуги электрика в Краснодаре](/krasnodar/uslugi-elektrika/)
+- [Услуги электрика в Ростове-на-Дону](/rostov-na-donu/uslugi-elektrika/)
+- [Услуги электрика в Самаре](/samara/uslugi-elektrika/)
+- [Услуги электрика в Челябинске](/chelyabinsk/uslugi-elektrika/)
+- [Услуги электрика в Уфе](/ufa/uslugi-elektrika/)
 
 ## Полезные статьи
 
-- [Как подготовить квартиру к клинингу](/np-seo-case/blog/kak-podgotovit-kvartiru-k-kliningu/)
-- [Сроки ремонта ванной комнаты по этапам](/np-seo-case/blog/sroki-remonta-vannoj-komnaty-po-etapam/)
-- [Установка дверей: как избежать перекоса](/np-seo-case/blog/ustanovka-dverej-kak-izbezhat-perekosa/)
+1. ![Клининг квартир](/assets/services/cleaning.webp)
+
+    *01.09.2025*
+
+    [Когда выгоднее делать клининг после ремонта](/blog/kogda-vygodnee-delat-klining-posle-remonta/)
+
+    Категория: Сезонность. Практические советы по теме материала и типовым задачам.
+2. ![Натяжные потолки](/assets/services/ceiling.webp)
+
+    *24.07.2025*
+
+    [Как составить план работ для бригады](/blog/kak-sostavit-plan-rabot-dlya-brigady/)
+
+    Категория: Организация. Практические советы по теме материала и типовым задачам.
+3. ![Сборка мебели](/assets/services/furniture.webp)
+
+    *15.06.2025*
+
+    [Как сравнивать коммерческие предложения по услугам](/blog/kak-sravnivat-kommercheskie-predlozheniya/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

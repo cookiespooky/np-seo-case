@@ -9,49 +9,57 @@ city_name: "Самара"
 city_name_in: "Самаре"
 service_slug: "remont-kvartir"
 service_name: "Ремонт квартир"
+service_image: "renovation.webp"
 price_min: 5500
 price_max: 14500
 og_variant: "city_service"
 ---
-# Ремонт квартир в Самаре
-
-Услуга доступна в Самаре. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 5 500 ₽**
-- Верхний диапазон: **до 14 500 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Самаре
 
-- [Ремонт квартир](/np-seo-case/samara/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/samara/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/samara/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/samara/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/samara/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/samara/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/samara/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/samara/zamena-okon/)
-- [Клининг квартир](/np-seo-case/samara/klining-kvartir/)
-- [Установка дверей](/np-seo-case/samara/ustanovka-dverej/)
+- [Ремонт квартир](/samara/remont-kvartir/)
+- [Ремонт ванной комнаты](/samara/remont-vannoj/)
+- [Укладка плитки](/samara/ukladka-plitki/)
+- [Установка сантехники](/samara/ustanovka-santehniki/)
+- [Услуги электрика](/samara/uslugi-elektrika/)
+- [Сборка мебели](/samara/sborka-mebeli/)
+- [Натяжные потолки](/samara/natyazhnye-potolki/)
+- [Замена окон](/samara/zamena-okon/)
+- [Клининг квартир](/samara/klining-kvartir/)
+- [Установка дверей](/samara/ustanovka-dverej/)
 
 ## Ремонт квартир в других городах
 
-- [Ремонт квартир в Челябинске](/np-seo-case/chelyabinsk/remont-kvartir/)
-- [Ремонт квартир в Уфе](/np-seo-case/ufa/remont-kvartir/)
-- [Ремонт квартир в Перми](/np-seo-case/perm/remont-kvartir/)
-- [Ремонт квартир в Воронеже](/np-seo-case/voronezh/remont-kvartir/)
-- [Ремонт квартир в Волгограде](/np-seo-case/volgograd/remont-kvartir/)
-- [Ремонт квартир в Омске](/np-seo-case/omsk/remont-kvartir/)
-- [Ремонт квартир в Москве](/np-seo-case/moskva/remont-kvartir/)
+- [Ремонт квартир в Челябинске](/chelyabinsk/remont-kvartir/)
+- [Ремонт квартир в Уфе](/ufa/remont-kvartir/)
+- [Ремонт квартир в Перми](/perm/remont-kvartir/)
+- [Ремонт квартир в Воронеже](/voronezh/remont-kvartir/)
+- [Ремонт квартир в Волгограде](/volgograd/remont-kvartir/)
+- [Ремонт квартир в Омске](/omsk/remont-kvartir/)
+- [Ремонт квартир в Москве](/moskva/remont-kvartir/)
 
 ## Полезные статьи
 
-- [Натяжные потолки: как выбрать материал](/np-seo-case/blog/natyazhnye-potolki-kak-vybrat-material/)
-- [Минимальный набор работ при косметическом ремонте](/np-seo-case/blog/minimalnyj-nabor-rabot-pri-kosmeticheskom-remonte/)
-- [Приемка работ: пошаговая инструкция](/np-seo-case/blog/priemka-rabot-poshagovaya-instrukciya/)
+1. ![Сборка мебели](/assets/services/furniture.webp)
+
+    *28.06.2025*
+
+    [Минимальный набор работ при косметическом ремонте](/blog/minimalnyj-nabor-rabot-pri-kosmeticheskom-remonte/)
+
+    Категория: Ремонт. Практические советы по теме материала и типовым задачам.
+2. ![Услуги электрика](/assets/services/electricity.webp)
+
+    *20.05.2025*
+
+    [Натяжные потолки: как выбрать материал](/blog/natyazhnye-potolki-kak-vybrat-material/)
+
+    Категория: Материалы. Практические советы по теме материала и типовым задачам.
+3. ![Укладка плитки](/assets/services/tile.webp)
+
+    *11.04.2025*
+
+    [Замена окон в зимний период: что учесть](/blog/zamena-okon-v-zimnij-period-chto-uchest/)
+
+    Категория: Сезонность. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

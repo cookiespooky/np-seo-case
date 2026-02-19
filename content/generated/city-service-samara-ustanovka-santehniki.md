@@ -9,49 +9,57 @@ city_name: "Самара"
 city_name_in: "Самаре"
 service_slug: "ustanovka-santehniki"
 service_name: "Установка сантехники"
+service_image: "plumbery.webp"
 price_min: 2200
 price_max: 7600
 og_variant: "city_service"
 ---
-# Установка сантехники в Самаре
-
-Услуга доступна в Самаре. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 2 200 ₽**
-- Верхний диапазон: **до 7 600 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Самаре
 
-- [Ремонт квартир](/np-seo-case/samara/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/samara/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/samara/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/samara/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/samara/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/samara/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/samara/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/samara/zamena-okon/)
-- [Клининг квартир](/np-seo-case/samara/klining-kvartir/)
-- [Установка дверей](/np-seo-case/samara/ustanovka-dverej/)
+- [Ремонт квартир](/samara/remont-kvartir/)
+- [Ремонт ванной комнаты](/samara/remont-vannoj/)
+- [Укладка плитки](/samara/ukladka-plitki/)
+- [Установка сантехники](/samara/ustanovka-santehniki/)
+- [Услуги электрика](/samara/uslugi-elektrika/)
+- [Сборка мебели](/samara/sborka-mebeli/)
+- [Натяжные потолки](/samara/natyazhnye-potolki/)
+- [Замена окон](/samara/zamena-okon/)
+- [Клининг квартир](/samara/klining-kvartir/)
+- [Установка дверей](/samara/ustanovka-dverej/)
 
 ## Установка сантехники в других городах
 
-- [Установка сантехники в Челябинске](/np-seo-case/chelyabinsk/ustanovka-santehniki/)
-- [Установка сантехники в Уфе](/np-seo-case/ufa/ustanovka-santehniki/)
-- [Установка сантехники в Перми](/np-seo-case/perm/ustanovka-santehniki/)
-- [Установка сантехники в Воронеже](/np-seo-case/voronezh/ustanovka-santehniki/)
-- [Установка сантехники в Волгограде](/np-seo-case/volgograd/ustanovka-santehniki/)
-- [Установка сантехники в Омске](/np-seo-case/omsk/ustanovka-santehniki/)
-- [Установка сантехники в Москве](/np-seo-case/moskva/ustanovka-santehniki/)
+- [Установка сантехники в Челябинске](/chelyabinsk/ustanovka-santehniki/)
+- [Установка сантехники в Уфе](/ufa/ustanovka-santehniki/)
+- [Установка сантехники в Перми](/perm/ustanovka-santehniki/)
+- [Установка сантехники в Воронеже](/voronezh/ustanovka-santehniki/)
+- [Установка сантехники в Волгограде](/volgograd/ustanovka-santehniki/)
+- [Установка сантехники в Омске](/omsk/ustanovka-santehniki/)
+- [Установка сантехники в Москве](/moskva/ustanovka-santehniki/)
 
 ## Полезные статьи
 
-- [Как подготовить квартиру к клинингу](/np-seo-case/blog/kak-podgotovit-kvartiru-k-kliningu/)
-- [Сроки ремонта ванной комнаты по этапам](/np-seo-case/blog/sroki-remonta-vannoj-komnaty-po-etapam/)
-- [Установка дверей: как избежать перекоса](/np-seo-case/blog/ustanovka-dverej-kak-izbezhat-perekosa/)
+1. ![Клининг квартир](/assets/services/cleaning.webp)
+
+    *01.09.2025*
+
+    [Когда выгоднее делать клининг после ремонта](/blog/kogda-vygodnee-delat-klining-posle-remonta/)
+
+    Категория: Сезонность. Практические советы по теме материала и типовым задачам.
+2. ![Натяжные потолки](/assets/services/ceiling.webp)
+
+    *24.07.2025*
+
+    [Как составить план работ для бригады](/blog/kak-sostavit-plan-rabot-dlya-brigady/)
+
+    Категория: Организация. Практические советы по теме материала и типовым задачам.
+3. ![Сборка мебели](/assets/services/furniture.webp)
+
+    *15.06.2025*
+
+    [Как сравнивать коммерческие предложения по услугам](/blog/kak-sravnivat-kommercheskie-predlozheniya/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

@@ -9,49 +9,57 @@ city_name: "Волгоград"
 city_name_in: "Волгограде"
 service_slug: "ustanovka-santehniki"
 service_name: "Установка сантехники"
+service_image: "plumbery.webp"
 price_min: 2100
 price_max: 7100
 og_variant: "city_service"
 ---
-# Установка сантехники в Волгограде
-
-Услуга доступна в Волгограде. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 2 100 ₽**
-- Верхний диапазон: **до 7 100 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Волгограде
 
-- [Ремонт квартир](/np-seo-case/volgograd/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/volgograd/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/volgograd/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/volgograd/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/volgograd/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/volgograd/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/volgograd/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/volgograd/zamena-okon/)
-- [Клининг квартир](/np-seo-case/volgograd/klining-kvartir/)
-- [Установка дверей](/np-seo-case/volgograd/ustanovka-dverej/)
+- [Ремонт квартир](/volgograd/remont-kvartir/)
+- [Ремонт ванной комнаты](/volgograd/remont-vannoj/)
+- [Укладка плитки](/volgograd/ukladka-plitki/)
+- [Установка сантехники](/volgograd/ustanovka-santehniki/)
+- [Услуги электрика](/volgograd/uslugi-elektrika/)
+- [Сборка мебели](/volgograd/sborka-mebeli/)
+- [Натяжные потолки](/volgograd/natyazhnye-potolki/)
+- [Замена окон](/volgograd/zamena-okon/)
+- [Клининг квартир](/volgograd/klining-kvartir/)
+- [Установка дверей](/volgograd/ustanovka-dverej/)
 
 ## Установка сантехники в других городах
 
-- [Установка сантехники в Омске](/np-seo-case/omsk/ustanovka-santehniki/)
-- [Установка сантехники в Москве](/np-seo-case/moskva/ustanovka-santehniki/)
-- [Установка сантехники в Санкт-Петербурге](/np-seo-case/spb/ustanovka-santehniki/)
-- [Установка сантехники в Казани](/np-seo-case/kazan/ustanovka-santehniki/)
-- [Установка сантехники в Екатеринбурге](/np-seo-case/ekaterinburg/ustanovka-santehniki/)
-- [Установка сантехники в Новосибирске](/np-seo-case/novosibirsk/ustanovka-santehniki/)
-- [Установка сантехники в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/ustanovka-santehniki/)
+- [Установка сантехники в Омске](/omsk/ustanovka-santehniki/)
+- [Установка сантехники в Москве](/moskva/ustanovka-santehniki/)
+- [Установка сантехники в Санкт-Петербурге](/spb/ustanovka-santehniki/)
+- [Установка сантехники в Казани](/kazan/ustanovka-santehniki/)
+- [Установка сантехники в Екатеринбурге](/ekaterinburg/ustanovka-santehniki/)
+- [Установка сантехники в Новосибирске](/novosibirsk/ustanovka-santehniki/)
+- [Установка сантехники в Нижнем Новгороде](/nizhniy-novgorod/ustanovka-santehniki/)
 
 ## Полезные статьи
 
-- [Натяжные потолки: как выбрать материал](/np-seo-case/blog/natyazhnye-potolki-kak-vybrat-material/)
-- [Минимальный набор работ при косметическом ремонте](/np-seo-case/blog/minimalnyj-nabor-rabot-pri-kosmeticheskom-remonte/)
-- [Приемка работ: пошаговая инструкция](/np-seo-case/blog/priemka-rabot-poshagovaya-instrukciya/)
+1. ![Сборка мебели](/assets/services/furniture.webp)
+
+    *28.06.2025*
+
+    [Минимальный набор работ при косметическом ремонте](/blog/minimalnyj-nabor-rabot-pri-kosmeticheskom-remonte/)
+
+    Категория: Ремонт. Практические советы по теме материала и типовым задачам.
+2. ![Услуги электрика](/assets/services/electricity.webp)
+
+    *20.05.2025*
+
+    [Натяжные потолки: как выбрать материал](/blog/natyazhnye-potolki-kak-vybrat-material/)
+
+    Категория: Материалы. Практические советы по теме материала и типовым задачам.
+3. ![Укладка плитки](/assets/services/tile.webp)
+
+    *11.04.2025*
+
+    [Замена окон в зимний период: что учесть](/blog/zamena-okon-v-zimnij-period-chto-uchest/)
+
+    Категория: Сезонность. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

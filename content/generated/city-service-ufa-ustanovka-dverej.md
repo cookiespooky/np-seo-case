@@ -9,49 +9,57 @@ city_name: "Уфа"
 city_name_in: "Уфе"
 service_slug: "ustanovka-dverej"
 service_name: "Установка дверей"
+service_image: "doors.webp"
 price_min: 3100
 price_max: 9600
 og_variant: "city_service"
 ---
-# Установка дверей в Уфе
-
-Услуга доступна в Уфе. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 3 100 ₽**
-- Верхний диапазон: **до 9 600 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Уфе
 
-- [Ремонт квартир](/np-seo-case/ufa/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/ufa/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/ufa/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/ufa/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/ufa/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/ufa/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/ufa/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/ufa/zamena-okon/)
-- [Клининг квартир](/np-seo-case/ufa/klining-kvartir/)
-- [Установка дверей](/np-seo-case/ufa/ustanovka-dverej/)
+- [Ремонт квартир](/ufa/remont-kvartir/)
+- [Ремонт ванной комнаты](/ufa/remont-vannoj/)
+- [Укладка плитки](/ufa/ukladka-plitki/)
+- [Установка сантехники](/ufa/ustanovka-santehniki/)
+- [Услуги электрика](/ufa/uslugi-elektrika/)
+- [Сборка мебели](/ufa/sborka-mebeli/)
+- [Натяжные потолки](/ufa/natyazhnye-potolki/)
+- [Замена окон](/ufa/zamena-okon/)
+- [Клининг квартир](/ufa/klining-kvartir/)
+- [Установка дверей](/ufa/ustanovka-dverej/)
 
 ## Установка дверей в других городах
 
-- [Установка дверей в Перми](/np-seo-case/perm/ustanovka-dverej/)
-- [Установка дверей в Воронеже](/np-seo-case/voronezh/ustanovka-dverej/)
-- [Установка дверей в Волгограде](/np-seo-case/volgograd/ustanovka-dverej/)
-- [Установка дверей в Омске](/np-seo-case/omsk/ustanovka-dverej/)
-- [Установка дверей в Москве](/np-seo-case/moskva/ustanovka-dverej/)
-- [Установка дверей в Санкт-Петербурге](/np-seo-case/spb/ustanovka-dverej/)
-- [Установка дверей в Казани](/np-seo-case/kazan/ustanovka-dverej/)
+- [Установка дверей в Перми](/perm/ustanovka-dverej/)
+- [Установка дверей в Воронеже](/voronezh/ustanovka-dverej/)
+- [Установка дверей в Волгограде](/volgograd/ustanovka-dverej/)
+- [Установка дверей в Омске](/omsk/ustanovka-dverej/)
+- [Установка дверей в Москве](/moskva/ustanovka-dverej/)
+- [Установка дверей в Санкт-Петербурге](/spb/ustanovka-dverej/)
+- [Установка дверей в Казани](/kazan/ustanovka-dverej/)
 
 ## Полезные статьи
 
-- [Как выбрать сервис по отзывам и кейсам](/np-seo-case/blog/kak-vybrat-servis-po-otzyvam-i-kejsam/)
-- [Как не переплатить за срочные работы](/np-seo-case/blog/kak-ne-pereplatit-za-srochnye-raboty/)
-- [5 ошибок при выборе мастера по сантехнике](/np-seo-case/blog/5-oshibok-pri-vybore-mastera-po-santehnike/)
+1. ![Укладка плитки](/assets/services/tile.webp)
+
+    *29.03.2025*
+
+    [Как проверить качество электромонтажных работ](/blog/kak-proverit-kachestvo-elektromontazhnyh-rabot/)
+
+    Категория: Контроль качества. Практические советы по теме материала и типовым задачам.
+2. ![Ремонт квартир](/assets/services/renovation.webp)
+
+    *18.02.2025*
+
+    [5 ошибок при выборе мастера по сантехнике](/blog/5-oshibok-pri-vybore-mastera-po-santehnike/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
+3. ![Установка дверей](/assets/services/doors.webp)
+
+    *27.09.2025*
+
+    [Как не переплатить за срочные работы](/blog/kak-ne-pereplatit-za-srochnye-raboty/)
+
+    Категория: Цены. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

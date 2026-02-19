@@ -9,49 +9,57 @@ city_name: "Краснодар"
 city_name_in: "Краснодаре"
 service_slug: "sborka-mebeli"
 service_name: "Сборка мебели"
+service_image: "furniture.webp"
 price_min: 1500
 price_max: 5500
 og_variant: "city_service"
 ---
-# Сборка мебели в Краснодаре
-
-Услуга доступна в Краснодаре. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 1 500 ₽**
-- Верхний диапазон: **до 5 500 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Краснодаре
 
-- [Ремонт квартир](/np-seo-case/krasnodar/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/krasnodar/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/krasnodar/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/krasnodar/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/krasnodar/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/krasnodar/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/krasnodar/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/krasnodar/zamena-okon/)
-- [Клининг квартир](/np-seo-case/krasnodar/klining-kvartir/)
-- [Установка дверей](/np-seo-case/krasnodar/ustanovka-dverej/)
+- [Ремонт квартир](/krasnodar/remont-kvartir/)
+- [Ремонт ванной комнаты](/krasnodar/remont-vannoj/)
+- [Укладка плитки](/krasnodar/ukladka-plitki/)
+- [Установка сантехники](/krasnodar/ustanovka-santehniki/)
+- [Услуги электрика](/krasnodar/uslugi-elektrika/)
+- [Сборка мебели](/krasnodar/sborka-mebeli/)
+- [Натяжные потолки](/krasnodar/natyazhnye-potolki/)
+- [Замена окон](/krasnodar/zamena-okon/)
+- [Клининг квартир](/krasnodar/klining-kvartir/)
+- [Установка дверей](/krasnodar/ustanovka-dverej/)
 
 ## Сборка мебели в других городах
 
-- [Сборка мебели в Ростове-на-Дону](/np-seo-case/rostov-na-donu/sborka-mebeli/)
-- [Сборка мебели в Самаре](/np-seo-case/samara/sborka-mebeli/)
-- [Сборка мебели в Челябинске](/np-seo-case/chelyabinsk/sborka-mebeli/)
-- [Сборка мебели в Уфе](/np-seo-case/ufa/sborka-mebeli/)
-- [Сборка мебели в Перми](/np-seo-case/perm/sborka-mebeli/)
-- [Сборка мебели в Воронеже](/np-seo-case/voronezh/sborka-mebeli/)
-- [Сборка мебели в Волгограде](/np-seo-case/volgograd/sborka-mebeli/)
+- [Сборка мебели в Ростове-на-Дону](/rostov-na-donu/sborka-mebeli/)
+- [Сборка мебели в Самаре](/samara/sborka-mebeli/)
+- [Сборка мебели в Челябинске](/chelyabinsk/sborka-mebeli/)
+- [Сборка мебели в Уфе](/ufa/sborka-mebeli/)
+- [Сборка мебели в Перми](/perm/sborka-mebeli/)
+- [Сборка мебели в Воронеже](/voronezh/sborka-mebeli/)
+- [Сборка мебели в Волгограде](/volgograd/sborka-mebeli/)
 
 ## Полезные статьи
 
-- [Минимальный набор работ при косметическом ремонте](/np-seo-case/blog/minimalnyj-nabor-rabot-pri-kosmeticheskom-remonte/)
-- [Приемка работ: пошаговая инструкция](/np-seo-case/blog/priemka-rabot-poshagovaya-instrukciya/)
-- [Типовые вопросы по гарантии на работы](/np-seo-case/blog/tipovye-voprosy-po-garantii-na-raboty/)
+1. ![Услуги электрика](/assets/services/electricity.webp)
+
+    *20.05.2025*
+
+    [Натяжные потолки: как выбрать материал](/blog/natyazhnye-potolki-kak-vybrat-material/)
+
+    Категория: Материалы. Практические советы по теме материала и типовым задачам.
+2. ![Укладка плитки](/assets/services/tile.webp)
+
+    *11.04.2025*
+
+    [Замена окон в зимний период: что учесть](/blog/zamena-okon-v-zimnij-period-chto-uchest/)
+
+    Категория: Сезонность. Практические советы по теме материала и типовым задачам.
+3. ![Ремонт ванной комнаты](/assets/services/bathroom.webp)
+
+    *03.03.2025*
+
+    [От чего зависит стоимость укладки плитки](/blog/ot-chego-zavisit-stoimost-ukladki-plitki/)
+
+    Категория: Цены. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

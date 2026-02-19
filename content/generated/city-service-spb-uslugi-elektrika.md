@@ -9,49 +9,57 @@ city_name: "Санкт-Петербург"
 city_name_in: "Санкт-Петербурге"
 service_slug: "uslugi-elektrika"
 service_name: "Услуги электрика"
+service_image: "electricity.webp"
 price_min: 2200
 price_max: 8300
 og_variant: "city_service"
 ---
-# Услуги электрика в Санкт-Петербурге
-
-Услуга доступна в Санкт-Петербурге. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 2 200 ₽**
-- Верхний диапазон: **до 8 300 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Санкт-Петербурге
 
-- [Ремонт квартир](/np-seo-case/spb/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/spb/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/spb/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/spb/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/spb/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/spb/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/spb/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/spb/zamena-okon/)
-- [Клининг квартир](/np-seo-case/spb/klining-kvartir/)
-- [Установка дверей](/np-seo-case/spb/ustanovka-dverej/)
+- [Ремонт квартир](/spb/remont-kvartir/)
+- [Ремонт ванной комнаты](/spb/remont-vannoj/)
+- [Укладка плитки](/spb/ukladka-plitki/)
+- [Установка сантехники](/spb/ustanovka-santehniki/)
+- [Услуги электрика](/spb/uslugi-elektrika/)
+- [Сборка мебели](/spb/sborka-mebeli/)
+- [Натяжные потолки](/spb/natyazhnye-potolki/)
+- [Замена окон](/spb/zamena-okon/)
+- [Клининг квартир](/spb/klining-kvartir/)
+- [Установка дверей](/spb/ustanovka-dverej/)
 
 ## Услуги электрика в других городах
 
-- [Услуги электрика в Казани](/np-seo-case/kazan/uslugi-elektrika/)
-- [Услуги электрика в Екатеринбурге](/np-seo-case/ekaterinburg/uslugi-elektrika/)
-- [Услуги электрика в Новосибирске](/np-seo-case/novosibirsk/uslugi-elektrika/)
-- [Услуги электрика в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/uslugi-elektrika/)
-- [Услуги электрика в Краснодаре](/np-seo-case/krasnodar/uslugi-elektrika/)
-- [Услуги электрика в Ростове-на-Дону](/np-seo-case/rostov-na-donu/uslugi-elektrika/)
-- [Услуги электрика в Самаре](/np-seo-case/samara/uslugi-elektrika/)
+- [Услуги электрика в Казани](/kazan/uslugi-elektrika/)
+- [Услуги электрика в Екатеринбурге](/ekaterinburg/uslugi-elektrika/)
+- [Услуги электрика в Новосибирске](/novosibirsk/uslugi-elektrika/)
+- [Услуги электрика в Нижнем Новгороде](/nizhniy-novgorod/uslugi-elektrika/)
+- [Услуги электрика в Краснодаре](/krasnodar/uslugi-elektrika/)
+- [Услуги электрика в Ростове-на-Дону](/rostov-na-donu/uslugi-elektrika/)
+- [Услуги электрика в Самаре](/samara/uslugi-elektrika/)
 
 ## Полезные статьи
 
-- [5 ошибок при выборе мастера по сантехнике](/np-seo-case/blog/5-oshibok-pri-vybore-mastera-po-santehnike/)
-- [Как проверить качество электромонтажных работ](/np-seo-case/blog/kak-proverit-kachestvo-elektromontazhnyh-rabot/)
-- [Сборка мебели после переезда: чек-лист](/np-seo-case/blog/sborka-mebeli-posle-pereezda-checklist/)
+1. ![Установка дверей](/assets/services/doors.webp)
+
+    *27.09.2025*
+
+    [Как не переплатить за срочные работы](/blog/kak-ne-pereplatit-za-srochnye-raboty/)
+
+    Категория: Цены. Практические советы по теме материала и типовым задачам.
+2. ![Замена окон](/assets/services/windows.webp)
+
+    *19.08.2025*
+
+    [Как выбрать сервис по отзывам и кейсам](/blog/kak-vybrat-servis-po-otzyvam-i-kejsam/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
+3. ![Натяжные потолки](/assets/services/ceiling.webp)
+
+    *11.07.2025*
+
+    [Как рассчитать бюджет на ремонт в регионе](/blog/kak-rasschitat-byudzhet-na-remont-v-regione/)
+
+    Категория: Бюджет. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

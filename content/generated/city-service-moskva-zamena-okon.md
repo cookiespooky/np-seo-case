@@ -9,49 +9,57 @@ city_name: "Москва"
 city_name_in: "Москве"
 service_slug: "zamena-okon"
 service_name: "Замена окон"
+service_image: "windows.webp"
 price_min: 8700
 price_max: 23700
 og_variant: "city_service"
 ---
-# Замена окон в Москве
-
-Услуга доступна в Москве. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 8 700 ₽**
-- Верхний диапазон: **до 23 700 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Москве
 
-- [Ремонт квартир](/np-seo-case/moskva/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/moskva/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/moskva/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/moskva/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/moskva/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/moskva/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/moskva/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/moskva/zamena-okon/)
-- [Клининг квартир](/np-seo-case/moskva/klining-kvartir/)
-- [Установка дверей](/np-seo-case/moskva/ustanovka-dverej/)
+- [Ремонт квартир](/moskva/remont-kvartir/)
+- [Ремонт ванной комнаты](/moskva/remont-vannoj/)
+- [Укладка плитки](/moskva/ukladka-plitki/)
+- [Установка сантехники](/moskva/ustanovka-santehniki/)
+- [Услуги электрика](/moskva/uslugi-elektrika/)
+- [Сборка мебели](/moskva/sborka-mebeli/)
+- [Натяжные потолки](/moskva/natyazhnye-potolki/)
+- [Замена окон](/moskva/zamena-okon/)
+- [Клининг квартир](/moskva/klining-kvartir/)
+- [Установка дверей](/moskva/ustanovka-dverej/)
 
 ## Замена окон в других городах
 
-- [Замена окон в Санкт-Петербурге](/np-seo-case/spb/zamena-okon/)
-- [Замена окон в Казани](/np-seo-case/kazan/zamena-okon/)
-- [Замена окон в Екатеринбурге](/np-seo-case/ekaterinburg/zamena-okon/)
-- [Замена окон в Новосибирске](/np-seo-case/novosibirsk/zamena-okon/)
-- [Замена окон в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/zamena-okon/)
-- [Замена окон в Краснодаре](/np-seo-case/krasnodar/zamena-okon/)
-- [Замена окон в Ростове-на-Дону](/np-seo-case/rostov-na-donu/zamena-okon/)
+- [Замена окон в Санкт-Петербурге](/spb/zamena-okon/)
+- [Замена окон в Казани](/kazan/zamena-okon/)
+- [Замена окон в Екатеринбурге](/ekaterinburg/zamena-okon/)
+- [Замена окон в Новосибирске](/novosibirsk/zamena-okon/)
+- [Замена окон в Нижнем Новгороде](/nizhniy-novgorod/zamena-okon/)
+- [Замена окон в Краснодаре](/krasnodar/zamena-okon/)
+- [Замена окон в Ростове-на-Дону](/rostov-na-donu/zamena-okon/)
 
 ## Полезные статьи
 
-- [Как выбрать сервис по отзывам и кейсам](/np-seo-case/blog/kak-vybrat-servis-po-otzyvam-i-kejsam/)
-- [Как не переплатить за срочные работы](/np-seo-case/blog/kak-ne-pereplatit-za-srochnye-raboty/)
-- [5 ошибок при выборе мастера по сантехнике](/np-seo-case/blog/5-oshibok-pri-vybore-mastera-po-santehnike/)
+1. ![Укладка плитки](/assets/services/tile.webp)
+
+    *29.03.2025*
+
+    [Как проверить качество электромонтажных работ](/blog/kak-proverit-kachestvo-elektromontazhnyh-rabot/)
+
+    Категория: Контроль качества. Практические советы по теме материала и типовым задачам.
+2. ![Ремонт квартир](/assets/services/renovation.webp)
+
+    *18.02.2025*
+
+    [5 ошибок при выборе мастера по сантехнике](/blog/5-oshibok-pri-vybore-mastera-po-santehnike/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
+3. ![Установка дверей](/assets/services/doors.webp)
+
+    *27.09.2025*
+
+    [Как не переплатить за срочные работы](/blog/kak-ne-pereplatit-za-srochnye-raboty/)
+
+    Категория: Цены. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

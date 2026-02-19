@@ -9,49 +9,57 @@ city_name: "Пермь"
 city_name_in: "Перми"
 service_slug: "ustanovka-santehniki"
 service_name: "Установка сантехники"
+service_image: "plumbery.webp"
 price_min: 2100
 price_max: 7300
 og_variant: "city_service"
 ---
-# Установка сантехники в Перми
-
-Услуга доступна в Перми. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 2 100 ₽**
-- Верхний диапазон: **до 7 300 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Перми
 
-- [Ремонт квартир](/np-seo-case/perm/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/perm/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/perm/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/perm/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/perm/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/perm/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/perm/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/perm/zamena-okon/)
-- [Клининг квартир](/np-seo-case/perm/klining-kvartir/)
-- [Установка дверей](/np-seo-case/perm/ustanovka-dverej/)
+- [Ремонт квартир](/perm/remont-kvartir/)
+- [Ремонт ванной комнаты](/perm/remont-vannoj/)
+- [Укладка плитки](/perm/ukladka-plitki/)
+- [Установка сантехники](/perm/ustanovka-santehniki/)
+- [Услуги электрика](/perm/uslugi-elektrika/)
+- [Сборка мебели](/perm/sborka-mebeli/)
+- [Натяжные потолки](/perm/natyazhnye-potolki/)
+- [Замена окон](/perm/zamena-okon/)
+- [Клининг квартир](/perm/klining-kvartir/)
+- [Установка дверей](/perm/ustanovka-dverej/)
 
 ## Установка сантехники в других городах
 
-- [Установка сантехники в Воронеже](/np-seo-case/voronezh/ustanovka-santehniki/)
-- [Установка сантехники в Волгограде](/np-seo-case/volgograd/ustanovka-santehniki/)
-- [Установка сантехники в Омске](/np-seo-case/omsk/ustanovka-santehniki/)
-- [Установка сантехники в Москве](/np-seo-case/moskva/ustanovka-santehniki/)
-- [Установка сантехники в Санкт-Петербурге](/np-seo-case/spb/ustanovka-santehniki/)
-- [Установка сантехники в Казани](/np-seo-case/kazan/ustanovka-santehniki/)
-- [Установка сантехники в Екатеринбурге](/np-seo-case/ekaterinburg/ustanovka-santehniki/)
+- [Установка сантехники в Воронеже](/voronezh/ustanovka-santehniki/)
+- [Установка сантехники в Волгограде](/volgograd/ustanovka-santehniki/)
+- [Установка сантехники в Омске](/omsk/ustanovka-santehniki/)
+- [Установка сантехники в Москве](/moskva/ustanovka-santehniki/)
+- [Установка сантехники в Санкт-Петербурге](/spb/ustanovka-santehniki/)
+- [Установка сантехники в Казани](/kazan/ustanovka-santehniki/)
+- [Установка сантехники в Екатеринбурге](/ekaterinburg/ustanovka-santehniki/)
 
 ## Полезные статьи
 
-- [Сроки ремонта ванной комнаты по этапам](/np-seo-case/blog/sroki-remonta-vannoj-komnaty-po-etapam/)
-- [Установка дверей: как избежать перекоса](/np-seo-case/blog/ustanovka-dverej-kak-izbezhat-perekosa/)
-- [Как рассчитать бюджет на ремонт в регионе](/np-seo-case/blog/kak-rasschitat-byudzhet-na-remont-v-regione/)
+1. ![Натяжные потолки](/assets/services/ceiling.webp)
+
+    *24.07.2025*
+
+    [Как составить план работ для бригады](/blog/kak-sostavit-plan-rabot-dlya-brigady/)
+
+    Категория: Организация. Практические советы по теме материала и типовым задачам.
+2. ![Сборка мебели](/assets/services/furniture.webp)
+
+    *15.06.2025*
+
+    [Как сравнивать коммерческие предложения по услугам](/blog/kak-sravnivat-kommercheskie-predlozheniya/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
+3. ![Установка сантехники](/assets/services/plumbery.webp)
+
+    *07.05.2025*
+
+    [Сборка мебели после переезда: чек-лист](/blog/sborka-mebeli-posle-pereezda-checklist/)
+
+    Категория: Переезд. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

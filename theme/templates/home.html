@@ -1,3 +1,23 @@
 <article class="page-content home-content">
+  <section class="notice">
+    <p><strong>Демонстрационный SEO-кейс</strong></p>
+    <p>~200 страниц: 10 услуг × 15 городов + блог.<br>Статическая сборка без CMS и серверов.<br>Развёрнут на GitHub Pages.</p>
+    <p><a href="{{ .BaseURL }}/about-project/">Подробнее о структуре проекта →</a></p>
+  </section>
+
+  <section class="hero">
+    <div class="hero__text">
+      <h1>Бытовые услуги для дома в городах России</h1>
+      <p class="lead">Каталог бытовых и ремонтных услуг в крупнейших городах России. Страницы структурированы по модели «услуга × город» и охватывают ключевые направления домашнего сервиса.</p>
+      <p class="hero__actions">
+        <a class="btn" href="{{ .BaseURL }}/services/">Услуги</a>
+        <a class="btn btn--ghost" href="{{ .BaseURL }}/cities/">Города</a>
+      </p>
+    </div>
+    <figure class="hero__media">
+      <img src="{{ .AssetsBase }}/hero.webp" alt="Каталог бытовых услуг по городам России" width="1200" height="675" loading="eager" decoding="async">
+    </figure>
+  </section>
+
   {{ .Body }}
 </article>

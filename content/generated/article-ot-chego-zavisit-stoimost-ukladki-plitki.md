@@ -11,13 +11,16 @@ city_name: "Казань"
 city_name_in: "Казани"
 service_slug: "remont-vannoj"
 service_name: "Ремонт ванной комнаты"
-service_slug_alt: "sborka-mebeli"
-service_name_alt: "Сборка мебели"
+service_image: "bathroom.webp"
+service_slug_alt: "ukladka-plitki"
+service_name_alt: "Укладка плитки"
 date_modified: "2026-02-19"
 ---
 # От чего зависит стоимость укладки плитки
 
-Категория: **Цены**. Дата публикации: **2025-03-03**.
+![Ремонт ванной комнаты](/assets/services/bathroom.webp)
+
+Категория: **Цены**. Дата публикации: **03.03.2025**.
 
 При планировании работ важно заранее определить объем задач, последовательность этапов
 и критерии контроля результата. В реальных проектах на итоговый бюджет влияют
@@ -29,7 +32,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Ремонт ванной комнаты в Казани](/np-seo-case/kazan/remont-vannoj/)
-- [Сборка мебели в Казани](/np-seo-case/kazan/sborka-mebeli/)
-- [Ремонт ванной комнаты](/np-seo-case/services/remont-vannoj/)
-- [Услуги в Казани](/np-seo-case/cities/kazan/)
+- [Ремонт ванной комнаты в Казани](/kazan/remont-vannoj/)
+- [Укладка плитки в Казани](/kazan/ukladka-plitki/)
+- [Ремонт ванной комнаты](/services/remont-vannoj/)
+- [Услуги в Казани](/cities/kazan/)

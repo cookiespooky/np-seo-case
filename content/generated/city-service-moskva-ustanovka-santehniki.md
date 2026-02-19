@@ -9,49 +9,57 @@ city_name: "Москва"
 city_name_in: "Москве"
 service_slug: "ustanovka-santehniki"
 service_name: "Установка сантехники"
+service_image: "plumbery.webp"
 price_min: 2800
 price_max: 9700
 og_variant: "city_service"
 ---
-# Установка сантехники в Москве
-
-Услуга доступна в Москве. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 2 800 ₽**
-- Верхний диапазон: **до 9 700 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Москве
 
-- [Ремонт квартир](/np-seo-case/moskva/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/moskva/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/moskva/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/moskva/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/moskva/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/moskva/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/moskva/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/moskva/zamena-okon/)
-- [Клининг квартир](/np-seo-case/moskva/klining-kvartir/)
-- [Установка дверей](/np-seo-case/moskva/ustanovka-dverej/)
+- [Ремонт квартир](/moskva/remont-kvartir/)
+- [Ремонт ванной комнаты](/moskva/remont-vannoj/)
+- [Укладка плитки](/moskva/ukladka-plitki/)
+- [Установка сантехники](/moskva/ustanovka-santehniki/)
+- [Услуги электрика](/moskva/uslugi-elektrika/)
+- [Сборка мебели](/moskva/sborka-mebeli/)
+- [Натяжные потолки](/moskva/natyazhnye-potolki/)
+- [Замена окон](/moskva/zamena-okon/)
+- [Клининг квартир](/moskva/klining-kvartir/)
+- [Установка дверей](/moskva/ustanovka-dverej/)
 
 ## Установка сантехники в других городах
 
-- [Установка сантехники в Санкт-Петербурге](/np-seo-case/spb/ustanovka-santehniki/)
-- [Установка сантехники в Казани](/np-seo-case/kazan/ustanovka-santehniki/)
-- [Установка сантехники в Екатеринбурге](/np-seo-case/ekaterinburg/ustanovka-santehniki/)
-- [Установка сантехники в Новосибирске](/np-seo-case/novosibirsk/ustanovka-santehniki/)
-- [Установка сантехники в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/ustanovka-santehniki/)
-- [Установка сантехники в Краснодаре](/np-seo-case/krasnodar/ustanovka-santehniki/)
-- [Установка сантехники в Ростове-на-Дону](/np-seo-case/rostov-na-donu/ustanovka-santehniki/)
+- [Установка сантехники в Санкт-Петербурге](/spb/ustanovka-santehniki/)
+- [Установка сантехники в Казани](/kazan/ustanovka-santehniki/)
+- [Установка сантехники в Екатеринбурге](/ekaterinburg/ustanovka-santehniki/)
+- [Установка сантехники в Новосибирске](/novosibirsk/ustanovka-santehniki/)
+- [Установка сантехники в Нижнем Новгороде](/nizhniy-novgorod/ustanovka-santehniki/)
+- [Установка сантехники в Краснодаре](/krasnodar/ustanovka-santehniki/)
+- [Установка сантехники в Ростове-на-Дону](/rostov-na-donu/ustanovka-santehniki/)
 
 ## Полезные статьи
 
-- [Как выбрать сервис по отзывам и кейсам](/np-seo-case/blog/kak-vybrat-servis-po-otzyvam-i-kejsam/)
-- [Как не переплатить за срочные работы](/np-seo-case/blog/kak-ne-pereplatit-za-srochnye-raboty/)
-- [5 ошибок при выборе мастера по сантехнике](/np-seo-case/blog/5-oshibok-pri-vybore-mastera-po-santehnike/)
+1. ![Укладка плитки](/assets/services/tile.webp)
+
+    *29.03.2025*
+
+    [Как проверить качество электромонтажных работ](/blog/kak-proverit-kachestvo-elektromontazhnyh-rabot/)
+
+    Категория: Контроль качества. Практические советы по теме материала и типовым задачам.
+2. ![Ремонт квартир](/assets/services/renovation.webp)
+
+    *18.02.2025*
+
+    [5 ошибок при выборе мастера по сантехнике](/blog/5-oshibok-pri-vybore-mastera-po-santehnike/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
+3. ![Установка дверей](/assets/services/doors.webp)
+
+    *27.09.2025*
+
+    [Как не переплатить за срочные работы](/blog/kak-ne-pereplatit-za-srochnye-raboty/)
+
+    Категория: Цены. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

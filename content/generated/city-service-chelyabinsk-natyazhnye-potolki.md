@@ -9,49 +9,57 @@ city_name: "Челябинск"
 city_name_in: "Челябинске"
 service_slug: "natyazhnye-potolki"
 service_name: "Натяжные потолки"
+service_image: "ceiling.webp"
 price_min: 900
 price_max: 2500
 og_variant: "city_service"
 ---
-# Натяжные потолки в Челябинске
-
-Услуга доступна в Челябинске. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 900 ₽**
-- Верхний диапазон: **до 2 500 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Челябинске
 
-- [Ремонт квартир](/np-seo-case/chelyabinsk/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/chelyabinsk/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/chelyabinsk/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/chelyabinsk/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/chelyabinsk/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/chelyabinsk/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/chelyabinsk/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/chelyabinsk/zamena-okon/)
-- [Клининг квартир](/np-seo-case/chelyabinsk/klining-kvartir/)
-- [Установка дверей](/np-seo-case/chelyabinsk/ustanovka-dverej/)
+- [Ремонт квартир](/chelyabinsk/remont-kvartir/)
+- [Ремонт ванной комнаты](/chelyabinsk/remont-vannoj/)
+- [Укладка плитки](/chelyabinsk/ukladka-plitki/)
+- [Установка сантехники](/chelyabinsk/ustanovka-santehniki/)
+- [Услуги электрика](/chelyabinsk/uslugi-elektrika/)
+- [Сборка мебели](/chelyabinsk/sborka-mebeli/)
+- [Натяжные потолки](/chelyabinsk/natyazhnye-potolki/)
+- [Замена окон](/chelyabinsk/zamena-okon/)
+- [Клининг квартир](/chelyabinsk/klining-kvartir/)
+- [Установка дверей](/chelyabinsk/ustanovka-dverej/)
 
 ## Натяжные потолки в других городах
 
-- [Натяжные потолки в Уфе](/np-seo-case/ufa/natyazhnye-potolki/)
-- [Натяжные потолки в Перми](/np-seo-case/perm/natyazhnye-potolki/)
-- [Натяжные потолки в Воронеже](/np-seo-case/voronezh/natyazhnye-potolki/)
-- [Натяжные потолки в Волгограде](/np-seo-case/volgograd/natyazhnye-potolki/)
-- [Натяжные потолки в Омске](/np-seo-case/omsk/natyazhnye-potolki/)
-- [Натяжные потолки в Москве](/np-seo-case/moskva/natyazhnye-potolki/)
-- [Натяжные потолки в Санкт-Петербурге](/np-seo-case/spb/natyazhnye-potolki/)
+- [Натяжные потолки в Уфе](/ufa/natyazhnye-potolki/)
+- [Натяжные потолки в Перми](/perm/natyazhnye-potolki/)
+- [Натяжные потолки в Воронеже](/voronezh/natyazhnye-potolki/)
+- [Натяжные потолки в Волгограде](/volgograd/natyazhnye-potolki/)
+- [Натяжные потолки в Омске](/omsk/natyazhnye-potolki/)
+- [Натяжные потолки в Москве](/moskva/natyazhnye-potolki/)
+- [Натяжные потолки в Санкт-Петербурге](/spb/natyazhnye-potolki/)
 
 ## Полезные статьи
 
-- [Как работает модель «услуга × город» в каталоге](/np-seo-case/blog/kak-rabotaet-model-usluga-gorod-v-kataloge/)
-- [От чего зависит стоимость укладки плитки](/np-seo-case/blog/ot-chego-zavisit-stoimost-ukladki-plitki/)
-- [Замена окон в зимний период: что учесть](/np-seo-case/blog/zamena-okon-v-zimnij-period-chto-uchest/)
+1. ![Ремонт квартир](/assets/services/renovation.webp)
+
+    *05.02.2025*
+
+    [Как оценить смету перед ремонтом квартиры](/blog/kak-ocenit-smetu-pered-remontom-kvartiry/)
+
+    Категория: Смета и бюджет. Практические советы по теме материала и типовым задачам.
+2. ![Клининг квартир](/assets/services/cleaning.webp)
+
+    *14.09.2025*
+
+    [Типовые вопросы по гарантии на работы](/blog/tipovye-voprosy-po-garantii-na-raboty/)
+
+    Категория: Гарантии. Практические советы по теме материала и типовым задачам.
+3. ![Замена окон](/assets/services/windows.webp)
+
+    *06.08.2025*
+
+    [Приемка работ: пошаговая инструкция](/blog/priemka-rabot-poshagovaya-instrukciya/)
+
+    Категория: Контроль качества. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

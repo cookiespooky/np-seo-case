@@ -9,49 +9,57 @@ city_name: "Новосибирск"
 city_name_in: "Новосибирске"
 service_slug: "ukladka-plitki"
 service_name: "Укладка плитки"
+service_image: "tile.webp"
 price_min: 1700
 price_max: 4500
 og_variant: "city_service"
 ---
-# Укладка плитки в Новосибирске
-
-Услуга доступна в Новосибирске. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 1 700 ₽**
-- Верхний диапазон: **до 4 500 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Новосибирске
 
-- [Ремонт квартир](/np-seo-case/novosibirsk/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/novosibirsk/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/novosibirsk/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/novosibirsk/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/novosibirsk/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/novosibirsk/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/novosibirsk/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/novosibirsk/zamena-okon/)
-- [Клининг квартир](/np-seo-case/novosibirsk/klining-kvartir/)
-- [Установка дверей](/np-seo-case/novosibirsk/ustanovka-dverej/)
+- [Ремонт квартир](/novosibirsk/remont-kvartir/)
+- [Ремонт ванной комнаты](/novosibirsk/remont-vannoj/)
+- [Укладка плитки](/novosibirsk/ukladka-plitki/)
+- [Установка сантехники](/novosibirsk/ustanovka-santehniki/)
+- [Услуги электрика](/novosibirsk/uslugi-elektrika/)
+- [Сборка мебели](/novosibirsk/sborka-mebeli/)
+- [Натяжные потолки](/novosibirsk/natyazhnye-potolki/)
+- [Замена окон](/novosibirsk/zamena-okon/)
+- [Клининг квартир](/novosibirsk/klining-kvartir/)
+- [Установка дверей](/novosibirsk/ustanovka-dverej/)
 
 ## Укладка плитки в других городах
 
-- [Укладка плитки в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/ukladka-plitki/)
-- [Укладка плитки в Краснодаре](/np-seo-case/krasnodar/ukladka-plitki/)
-- [Укладка плитки в Ростове-на-Дону](/np-seo-case/rostov-na-donu/ukladka-plitki/)
-- [Укладка плитки в Самаре](/np-seo-case/samara/ukladka-plitki/)
-- [Укладка плитки в Челябинске](/np-seo-case/chelyabinsk/ukladka-plitki/)
-- [Укладка плитки в Уфе](/np-seo-case/ufa/ukladka-plitki/)
-- [Укладка плитки в Перми](/np-seo-case/perm/ukladka-plitki/)
+- [Укладка плитки в Нижнем Новгороде](/nizhniy-novgorod/ukladka-plitki/)
+- [Укладка плитки в Краснодаре](/krasnodar/ukladka-plitki/)
+- [Укладка плитки в Ростове-на-Дону](/rostov-na-donu/ukladka-plitki/)
+- [Укладка плитки в Самаре](/samara/ukladka-plitki/)
+- [Укладка плитки в Челябинске](/chelyabinsk/ukladka-plitki/)
+- [Укладка плитки в Уфе](/ufa/ukladka-plitki/)
+- [Укладка плитки в Перми](/perm/ukladka-plitki/)
 
 ## Полезные статьи
 
-- [Приемка работ: пошаговая инструкция](/np-seo-case/blog/priemka-rabot-poshagovaya-instrukciya/)
-- [Типовые вопросы по гарантии на работы](/np-seo-case/blog/tipovye-voprosy-po-garantii-na-raboty/)
-- [Как оценить смету перед ремонтом квартиры](/np-seo-case/blog/kak-ocenit-smetu-pered-remontom-kvartiry/)
+1. ![Укладка плитки](/assets/services/tile.webp)
+
+    *11.04.2025*
+
+    [Замена окон в зимний период: что учесть](/blog/zamena-okon-v-zimnij-period-chto-uchest/)
+
+    Категория: Сезонность. Практические советы по теме материала и типовым задачам.
+2. ![Ремонт ванной комнаты](/assets/services/bathroom.webp)
+
+    *03.03.2025*
+
+    [От чего зависит стоимость укладки плитки](/blog/ot-chego-zavisit-stoimost-ukladki-plitki/)
+
+    Категория: Цены. Практические советы по теме материала и типовым задачам.
+3. ![Установка дверей](/assets/services/doors.webp)
+
+    *10.10.2025*
+
+    [Как работает модель «услуга × город» в каталоге](/blog/kak-rabotaet-model-usluga-gorod-v-kataloge/)
+
+    Категория: SEO. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

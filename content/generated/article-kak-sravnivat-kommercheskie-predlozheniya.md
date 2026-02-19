@@ -6,18 +6,21 @@ description: "Практический материал: как сравнива
 date: "2025-06-15"
 page_kind: "article"
 og_variant: "article"
-city_slug: "chelyabinsk"
-city_name: "Челябинск"
-city_name_in: "Челябинске"
-service_slug: "zamena-okon"
-service_name: "Замена окон"
-service_slug_alt: "remont-vannoj"
-service_name_alt: "Ремонт ванной комнаты"
+city_slug: "ufa"
+city_name: "Уфа"
+city_name_in: "Уфе"
+service_slug: "sborka-mebeli"
+service_name: "Сборка мебели"
+service_image: "furniture.webp"
+service_slug_alt: "natyazhnye-potolki"
+service_name_alt: "Натяжные потолки"
 date_modified: "2026-02-19"
 ---
 # Как сравнивать коммерческие предложения по услугам
 
-Категория: **Выбор подрядчика**. Дата публикации: **2025-06-15**.
+![Сборка мебели](/assets/services/furniture.webp)
+
+Категория: **Выбор подрядчика**. Дата публикации: **15.06.2025**.
 
 При планировании работ важно заранее определить объем задач, последовательность этапов
 и критерии контроля результата. В реальных проектах на итоговый бюджет влияют
@@ -29,7 +32,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Замена окон в Челябинске](/np-seo-case/chelyabinsk/zamena-okon/)
-- [Ремонт ванной комнаты в Челябинске](/np-seo-case/chelyabinsk/remont-vannoj/)
-- [Замена окон](/np-seo-case/services/zamena-okon/)
-- [Услуги в Челябинске](/np-seo-case/cities/chelyabinsk/)
+- [Сборка мебели в Уфе](/ufa/sborka-mebeli/)
+- [Натяжные потолки в Уфе](/ufa/natyazhnye-potolki/)
+- [Сборка мебели](/services/sborka-mebeli/)
+- [Услуги в Уфе](/cities/ufa/)

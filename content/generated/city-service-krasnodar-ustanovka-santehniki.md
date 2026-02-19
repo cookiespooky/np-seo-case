@@ -9,49 +9,57 @@ city_name: "Краснодар"
 city_name_in: "Краснодаре"
 service_slug: "ustanovka-santehniki"
 service_name: "Установка сантехники"
+service_image: "plumbery.webp"
 price_min: 2300
 price_max: 8000
 og_variant: "city_service"
 ---
-# Установка сантехники в Краснодаре
-
-Услуга доступна в Краснодаре. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 2 300 ₽**
-- Верхний диапазон: **до 8 000 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Краснодаре
 
-- [Ремонт квартир](/np-seo-case/krasnodar/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/krasnodar/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/krasnodar/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/krasnodar/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/krasnodar/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/krasnodar/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/krasnodar/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/krasnodar/zamena-okon/)
-- [Клининг квартир](/np-seo-case/krasnodar/klining-kvartir/)
-- [Установка дверей](/np-seo-case/krasnodar/ustanovka-dverej/)
+- [Ремонт квартир](/krasnodar/remont-kvartir/)
+- [Ремонт ванной комнаты](/krasnodar/remont-vannoj/)
+- [Укладка плитки](/krasnodar/ukladka-plitki/)
+- [Установка сантехники](/krasnodar/ustanovka-santehniki/)
+- [Услуги электрика](/krasnodar/uslugi-elektrika/)
+- [Сборка мебели](/krasnodar/sborka-mebeli/)
+- [Натяжные потолки](/krasnodar/natyazhnye-potolki/)
+- [Замена окон](/krasnodar/zamena-okon/)
+- [Клининг квартир](/krasnodar/klining-kvartir/)
+- [Установка дверей](/krasnodar/ustanovka-dverej/)
 
 ## Установка сантехники в других городах
 
-- [Установка сантехники в Ростове-на-Дону](/np-seo-case/rostov-na-donu/ustanovka-santehniki/)
-- [Установка сантехники в Самаре](/np-seo-case/samara/ustanovka-santehniki/)
-- [Установка сантехники в Челябинске](/np-seo-case/chelyabinsk/ustanovka-santehniki/)
-- [Установка сантехники в Уфе](/np-seo-case/ufa/ustanovka-santehniki/)
-- [Установка сантехники в Перми](/np-seo-case/perm/ustanovka-santehniki/)
-- [Установка сантехники в Воронеже](/np-seo-case/voronezh/ustanovka-santehniki/)
-- [Установка сантехники в Волгограде](/np-seo-case/volgograd/ustanovka-santehniki/)
+- [Установка сантехники в Ростове-на-Дону](/rostov-na-donu/ustanovka-santehniki/)
+- [Установка сантехники в Самаре](/samara/ustanovka-santehniki/)
+- [Установка сантехники в Челябинске](/chelyabinsk/ustanovka-santehniki/)
+- [Установка сантехники в Уфе](/ufa/ustanovka-santehniki/)
+- [Установка сантехники в Перми](/perm/ustanovka-santehniki/)
+- [Установка сантехники в Воронеже](/voronezh/ustanovka-santehniki/)
+- [Установка сантехники в Волгограде](/volgograd/ustanovka-santehniki/)
 
 ## Полезные статьи
 
-- [5 ошибок при выборе мастера по сантехнике](/np-seo-case/blog/5-oshibok-pri-vybore-mastera-po-santehnike/)
-- [Как проверить качество электромонтажных работ](/np-seo-case/blog/kak-proverit-kachestvo-elektromontazhnyh-rabot/)
-- [Сборка мебели после переезда: чек-лист](/np-seo-case/blog/sborka-mebeli-posle-pereezda-checklist/)
+1. ![Установка дверей](/assets/services/doors.webp)
+
+    *27.09.2025*
+
+    [Как не переплатить за срочные работы](/blog/kak-ne-pereplatit-za-srochnye-raboty/)
+
+    Категория: Цены. Практические советы по теме материала и типовым задачам.
+2. ![Замена окон](/assets/services/windows.webp)
+
+    *19.08.2025*
+
+    [Как выбрать сервис по отзывам и кейсам](/blog/kak-vybrat-servis-po-otzyvam-i-kejsam/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
+3. ![Натяжные потолки](/assets/services/ceiling.webp)
+
+    *11.07.2025*
+
+    [Как рассчитать бюджет на ремонт в регионе](/blog/kak-rasschitat-byudzhet-na-remont-v-regione/)
+
+    Категория: Бюджет. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

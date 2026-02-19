@@ -9,49 +9,57 @@ city_name: "Самара"
 city_name_in: "Самаре"
 service_slug: "zamena-okon"
 service_name: "Замена окон"
+service_image: "windows.webp"
 price_min: 6800
 price_max: 18500
 og_variant: "city_service"
 ---
-# Замена окон в Самаре
-
-Услуга доступна в Самаре. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 6 800 ₽**
-- Верхний диапазон: **до 18 500 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Самаре
 
-- [Ремонт квартир](/np-seo-case/samara/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/samara/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/samara/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/samara/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/samara/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/samara/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/samara/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/samara/zamena-okon/)
-- [Клининг квартир](/np-seo-case/samara/klining-kvartir/)
-- [Установка дверей](/np-seo-case/samara/ustanovka-dverej/)
+- [Ремонт квартир](/samara/remont-kvartir/)
+- [Ремонт ванной комнаты](/samara/remont-vannoj/)
+- [Укладка плитки](/samara/ukladka-plitki/)
+- [Установка сантехники](/samara/ustanovka-santehniki/)
+- [Услуги электрика](/samara/uslugi-elektrika/)
+- [Сборка мебели](/samara/sborka-mebeli/)
+- [Натяжные потолки](/samara/natyazhnye-potolki/)
+- [Замена окон](/samara/zamena-okon/)
+- [Клининг квартир](/samara/klining-kvartir/)
+- [Установка дверей](/samara/ustanovka-dverej/)
 
 ## Замена окон в других городах
 
-- [Замена окон в Челябинске](/np-seo-case/chelyabinsk/zamena-okon/)
-- [Замена окон в Уфе](/np-seo-case/ufa/zamena-okon/)
-- [Замена окон в Перми](/np-seo-case/perm/zamena-okon/)
-- [Замена окон в Воронеже](/np-seo-case/voronezh/zamena-okon/)
-- [Замена окон в Волгограде](/np-seo-case/volgograd/zamena-okon/)
-- [Замена окон в Омске](/np-seo-case/omsk/zamena-okon/)
-- [Замена окон в Москве](/np-seo-case/moskva/zamena-okon/)
+- [Замена окон в Челябинске](/chelyabinsk/zamena-okon/)
+- [Замена окон в Уфе](/ufa/zamena-okon/)
+- [Замена окон в Перми](/perm/zamena-okon/)
+- [Замена окон в Воронеже](/voronezh/zamena-okon/)
+- [Замена окон в Волгограде](/volgograd/zamena-okon/)
+- [Замена окон в Омске](/omsk/zamena-okon/)
+- [Замена окон в Москве](/moskva/zamena-okon/)
 
 ## Полезные статьи
 
-- [Как подготовить квартиру к клинингу](/np-seo-case/blog/kak-podgotovit-kvartiru-k-kliningu/)
-- [Сроки ремонта ванной комнаты по этапам](/np-seo-case/blog/sroki-remonta-vannoj-komnaty-po-etapam/)
-- [Установка дверей: как избежать перекоса](/np-seo-case/blog/ustanovka-dverej-kak-izbezhat-perekosa/)
+1. ![Клининг квартир](/assets/services/cleaning.webp)
+
+    *01.09.2025*
+
+    [Когда выгоднее делать клининг после ремонта](/blog/kogda-vygodnee-delat-klining-posle-remonta/)
+
+    Категория: Сезонность. Практические советы по теме материала и типовым задачам.
+2. ![Натяжные потолки](/assets/services/ceiling.webp)
+
+    *24.07.2025*
+
+    [Как составить план работ для бригады](/blog/kak-sostavit-plan-rabot-dlya-brigady/)
+
+    Категория: Организация. Практические советы по теме материала и типовым задачам.
+3. ![Сборка мебели](/assets/services/furniture.webp)
+
+    *15.06.2025*
+
+    [Как сравнивать коммерческие предложения по услугам](/blog/kak-sravnivat-kommercheskie-predlozheniya/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

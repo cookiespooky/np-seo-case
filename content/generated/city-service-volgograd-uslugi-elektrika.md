@@ -9,49 +9,57 @@ city_name: "Волгоград"
 city_name_in: "Волгограде"
 service_slug: "uslugi-elektrika"
 service_name: "Услуги электрика"
+service_image: "electricity.webp"
 price_min: 1700
 price_max: 6400
 og_variant: "city_service"
 ---
-# Услуги электрика в Волгограде
-
-Услуга доступна в Волгограде. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 1 700 ₽**
-- Верхний диапазон: **до 6 400 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Волгограде
 
-- [Ремонт квартир](/np-seo-case/volgograd/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/volgograd/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/volgograd/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/volgograd/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/volgograd/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/volgograd/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/volgograd/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/volgograd/zamena-okon/)
-- [Клининг квартир](/np-seo-case/volgograd/klining-kvartir/)
-- [Установка дверей](/np-seo-case/volgograd/ustanovka-dverej/)
+- [Ремонт квартир](/volgograd/remont-kvartir/)
+- [Ремонт ванной комнаты](/volgograd/remont-vannoj/)
+- [Укладка плитки](/volgograd/ukladka-plitki/)
+- [Установка сантехники](/volgograd/ustanovka-santehniki/)
+- [Услуги электрика](/volgograd/uslugi-elektrika/)
+- [Сборка мебели](/volgograd/sborka-mebeli/)
+- [Натяжные потолки](/volgograd/natyazhnye-potolki/)
+- [Замена окон](/volgograd/zamena-okon/)
+- [Клининг квартир](/volgograd/klining-kvartir/)
+- [Установка дверей](/volgograd/ustanovka-dverej/)
 
 ## Услуги электрика в других городах
 
-- [Услуги электрика в Омске](/np-seo-case/omsk/uslugi-elektrika/)
-- [Услуги электрика в Москве](/np-seo-case/moskva/uslugi-elektrika/)
-- [Услуги электрика в Санкт-Петербурге](/np-seo-case/spb/uslugi-elektrika/)
-- [Услуги электрика в Казани](/np-seo-case/kazan/uslugi-elektrika/)
-- [Услуги электрика в Екатеринбурге](/np-seo-case/ekaterinburg/uslugi-elektrika/)
-- [Услуги электрика в Новосибирске](/np-seo-case/novosibirsk/uslugi-elektrika/)
-- [Услуги электрика в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/uslugi-elektrika/)
+- [Услуги электрика в Омске](/omsk/uslugi-elektrika/)
+- [Услуги электрика в Москве](/moskva/uslugi-elektrika/)
+- [Услуги электрика в Санкт-Петербурге](/spb/uslugi-elektrika/)
+- [Услуги электрика в Казани](/kazan/uslugi-elektrika/)
+- [Услуги электрика в Екатеринбурге](/ekaterinburg/uslugi-elektrika/)
+- [Услуги электрика в Новосибирске](/novosibirsk/uslugi-elektrika/)
+- [Услуги электрика в Нижнем Новгороде](/nizhniy-novgorod/uslugi-elektrika/)
 
 ## Полезные статьи
 
-- [Как составить план работ для бригады](/np-seo-case/blog/kak-sostavit-plan-rabot-dlya-brigady/)
-- [Когда выгоднее делать клининг после ремонта](/np-seo-case/blog/kogda-vygodnee-delat-klining-posle-remonta/)
-- [Как работает модель «услуга × город» в каталоге](/np-seo-case/blog/kak-rabotaet-model-usluga-gorod-v-kataloge/)
+1. ![Установка сантехники](/assets/services/plumbery.webp)
+
+    *24.04.2025*
+
+    [Сроки ремонта ванной комнаты по этапам](/blog/sroki-remonta-vannoj-komnaty-po-etapam/)
+
+    Категория: Сроки. Практические советы по теме материала и типовым задачам.
+2. ![Ремонт ванной комнаты](/assets/services/bathroom.webp)
+
+    *16.03.2025*
+
+    [Как подготовить квартиру к клинингу](/blog/kak-podgotovit-kvartiru-k-kliningu/)
+
+    Категория: Подготовка. Практические советы по теме материала и типовым задачам.
+3. ![Ремонт квартир](/assets/services/renovation.webp)
+
+    *05.02.2025*
+
+    [Как оценить смету перед ремонтом квартиры](/blog/kak-ocenit-smetu-pered-remontom-kvartiry/)
+
+    Категория: Смета и бюджет. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

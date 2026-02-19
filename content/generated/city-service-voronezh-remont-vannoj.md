@@ -9,49 +9,57 @@ city_name: "Воронеж"
 city_name_in: "Воронеже"
 service_slug: "remont-vannoj"
 service_name: "Ремонт ванной комнаты"
+service_image: "bathroom.webp"
 price_min: 6500
 price_max: 16300
 og_variant: "city_service"
 ---
-# Ремонт ванной комнаты в Воронеже
-
-Услуга доступна в Воронеже. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 6 500 ₽**
-- Верхний диапазон: **до 16 300 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Воронеже
 
-- [Ремонт квартир](/np-seo-case/voronezh/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/voronezh/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/voronezh/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/voronezh/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/voronezh/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/voronezh/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/voronezh/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/voronezh/zamena-okon/)
-- [Клининг квартир](/np-seo-case/voronezh/klining-kvartir/)
-- [Установка дверей](/np-seo-case/voronezh/ustanovka-dverej/)
+- [Ремонт квартир](/voronezh/remont-kvartir/)
+- [Ремонт ванной комнаты](/voronezh/remont-vannoj/)
+- [Укладка плитки](/voronezh/ukladka-plitki/)
+- [Установка сантехники](/voronezh/ustanovka-santehniki/)
+- [Услуги электрика](/voronezh/uslugi-elektrika/)
+- [Сборка мебели](/voronezh/sborka-mebeli/)
+- [Натяжные потолки](/voronezh/natyazhnye-potolki/)
+- [Замена окон](/voronezh/zamena-okon/)
+- [Клининг квартир](/voronezh/klining-kvartir/)
+- [Установка дверей](/voronezh/ustanovka-dverej/)
 
 ## Ремонт ванной комнаты в других городах
 
-- [Ремонт ванной комнаты в Волгограде](/np-seo-case/volgograd/remont-vannoj/)
-- [Ремонт ванной комнаты в Омске](/np-seo-case/omsk/remont-vannoj/)
-- [Ремонт ванной комнаты в Москве](/np-seo-case/moskva/remont-vannoj/)
-- [Ремонт ванной комнаты в Санкт-Петербурге](/np-seo-case/spb/remont-vannoj/)
-- [Ремонт ванной комнаты в Казани](/np-seo-case/kazan/remont-vannoj/)
-- [Ремонт ванной комнаты в Екатеринбурге](/np-seo-case/ekaterinburg/remont-vannoj/)
-- [Ремонт ванной комнаты в Новосибирске](/np-seo-case/novosibirsk/remont-vannoj/)
+- [Ремонт ванной комнаты в Волгограде](/volgograd/remont-vannoj/)
+- [Ремонт ванной комнаты в Омске](/omsk/remont-vannoj/)
+- [Ремонт ванной комнаты в Москве](/moskva/remont-vannoj/)
+- [Ремонт ванной комнаты в Санкт-Петербурге](/spb/remont-vannoj/)
+- [Ремонт ванной комнаты в Казани](/kazan/remont-vannoj/)
+- [Ремонт ванной комнаты в Екатеринбурге](/ekaterinburg/remont-vannoj/)
+- [Ремонт ванной комнаты в Новосибирске](/novosibirsk/remont-vannoj/)
 
 ## Полезные статьи
 
-- [Типовые вопросы по гарантии на работы](/np-seo-case/blog/tipovye-voprosy-po-garantii-na-raboty/)
-- [Как оценить смету перед ремонтом квартиры](/np-seo-case/blog/kak-ocenit-smetu-pered-remontom-kvartiry/)
-- [Как подготовить квартиру к клинингу](/np-seo-case/blog/kak-podgotovit-kvartiru-k-kliningu/)
+1. ![Ремонт ванной комнаты](/assets/services/bathroom.webp)
+
+    *03.03.2025*
+
+    [От чего зависит стоимость укладки плитки](/blog/ot-chego-zavisit-stoimost-ukladki-plitki/)
+
+    Категория: Цены. Практические советы по теме материала и типовым задачам.
+2. ![Установка дверей](/assets/services/doors.webp)
+
+    *10.10.2025*
+
+    [Как работает модель «услуга × город» в каталоге](/blog/kak-rabotaet-model-usluga-gorod-v-kataloge/)
+
+    Категория: SEO. Практические советы по теме материала и типовым задачам.
+3. ![Клининг квартир](/assets/services/cleaning.webp)
+
+    *01.09.2025*
+
+    [Когда выгоднее делать клининг после ремонта](/blog/kogda-vygodnee-delat-klining-posle-remonta/)
+
+    Категория: Сезонность. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

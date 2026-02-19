@@ -9,49 +9,57 @@ city_name: "Пермь"
 city_name_in: "Перми"
 service_slug: "remont-kvartir"
 service_name: "Ремонт квартир"
+service_image: "renovation.webp"
 price_min: 5300
 price_max: 13900
 og_variant: "city_service"
 ---
-# Ремонт квартир в Перми
-
-Услуга доступна в Перми. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 5 300 ₽**
-- Верхний диапазон: **до 13 900 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Перми
 
-- [Ремонт квартир](/np-seo-case/perm/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/perm/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/perm/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/perm/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/perm/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/perm/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/perm/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/perm/zamena-okon/)
-- [Клининг квартир](/np-seo-case/perm/klining-kvartir/)
-- [Установка дверей](/np-seo-case/perm/ustanovka-dverej/)
+- [Ремонт квартир](/perm/remont-kvartir/)
+- [Ремонт ванной комнаты](/perm/remont-vannoj/)
+- [Укладка плитки](/perm/ukladka-plitki/)
+- [Установка сантехники](/perm/ustanovka-santehniki/)
+- [Услуги электрика](/perm/uslugi-elektrika/)
+- [Сборка мебели](/perm/sborka-mebeli/)
+- [Натяжные потолки](/perm/natyazhnye-potolki/)
+- [Замена окон](/perm/zamena-okon/)
+- [Клининг квартир](/perm/klining-kvartir/)
+- [Установка дверей](/perm/ustanovka-dverej/)
 
 ## Ремонт квартир в других городах
 
-- [Ремонт квартир в Воронеже](/np-seo-case/voronezh/remont-kvartir/)
-- [Ремонт квартир в Волгограде](/np-seo-case/volgograd/remont-kvartir/)
-- [Ремонт квартир в Омске](/np-seo-case/omsk/remont-kvartir/)
-- [Ремонт квартир в Москве](/np-seo-case/moskva/remont-kvartir/)
-- [Ремонт квартир в Санкт-Петербурге](/np-seo-case/spb/remont-kvartir/)
-- [Ремонт квартир в Казани](/np-seo-case/kazan/remont-kvartir/)
-- [Ремонт квартир в Екатеринбурге](/np-seo-case/ekaterinburg/remont-kvartir/)
+- [Ремонт квартир в Воронеже](/voronezh/remont-kvartir/)
+- [Ремонт квартир в Волгограде](/volgograd/remont-kvartir/)
+- [Ремонт квартир в Омске](/omsk/remont-kvartir/)
+- [Ремонт квартир в Москве](/moskva/remont-kvartir/)
+- [Ремонт квартир в Санкт-Петербурге](/spb/remont-kvartir/)
+- [Ремонт квартир в Казани](/kazan/remont-kvartir/)
+- [Ремонт квартир в Екатеринбурге](/ekaterinburg/remont-kvartir/)
 
 ## Полезные статьи
 
-- [Минимальный набор работ при косметическом ремонте](/np-seo-case/blog/minimalnyj-nabor-rabot-pri-kosmeticheskom-remonte/)
-- [Приемка работ: пошаговая инструкция](/np-seo-case/blog/priemka-rabot-poshagovaya-instrukciya/)
-- [Типовые вопросы по гарантии на работы](/np-seo-case/blog/tipovye-voprosy-po-garantii-na-raboty/)
+1. ![Услуги электрика](/assets/services/electricity.webp)
+
+    *20.05.2025*
+
+    [Натяжные потолки: как выбрать материал](/blog/natyazhnye-potolki-kak-vybrat-material/)
+
+    Категория: Материалы. Практические советы по теме материала и типовым задачам.
+2. ![Укладка плитки](/assets/services/tile.webp)
+
+    *11.04.2025*
+
+    [Замена окон в зимний период: что учесть](/blog/zamena-okon-v-zimnij-period-chto-uchest/)
+
+    Категория: Сезонность. Практические советы по теме материала и типовым задачам.
+3. ![Ремонт ванной комнаты](/assets/services/bathroom.webp)
+
+    *03.03.2025*
+
+    [От чего зависит стоимость укладки плитки](/blog/ot-chego-zavisit-stoimost-ukladki-plitki/)
+
+    Категория: Цены. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

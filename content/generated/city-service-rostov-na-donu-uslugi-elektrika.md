@@ -9,49 +9,57 @@ city_name: "Ростов-на-Дону"
 city_name_in: "Ростове-на-Дону"
 service_slug: "uslugi-elektrika"
 service_name: "Услуги электрика"
+service_image: "electricity.webp"
 price_min: 1800
 price_max: 6900
 og_variant: "city_service"
 ---
-# Услуги электрика в Ростове-на-Дону
-
-Услуга доступна в Ростове-на-Дону. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 1 800 ₽**
-- Верхний диапазон: **до 6 900 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Ростове-на-Дону
 
-- [Ремонт квартир](/np-seo-case/rostov-na-donu/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/rostov-na-donu/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/rostov-na-donu/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/rostov-na-donu/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/rostov-na-donu/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/rostov-na-donu/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/rostov-na-donu/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/rostov-na-donu/zamena-okon/)
-- [Клининг квартир](/np-seo-case/rostov-na-donu/klining-kvartir/)
-- [Установка дверей](/np-seo-case/rostov-na-donu/ustanovka-dverej/)
+- [Ремонт квартир](/rostov-na-donu/remont-kvartir/)
+- [Ремонт ванной комнаты](/rostov-na-donu/remont-vannoj/)
+- [Укладка плитки](/rostov-na-donu/ukladka-plitki/)
+- [Установка сантехники](/rostov-na-donu/ustanovka-santehniki/)
+- [Услуги электрика](/rostov-na-donu/uslugi-elektrika/)
+- [Сборка мебели](/rostov-na-donu/sborka-mebeli/)
+- [Натяжные потолки](/rostov-na-donu/natyazhnye-potolki/)
+- [Замена окон](/rostov-na-donu/zamena-okon/)
+- [Клининг квартир](/rostov-na-donu/klining-kvartir/)
+- [Установка дверей](/rostov-na-donu/ustanovka-dverej/)
 
 ## Услуги электрика в других городах
 
-- [Услуги электрика в Самаре](/np-seo-case/samara/uslugi-elektrika/)
-- [Услуги электрика в Челябинске](/np-seo-case/chelyabinsk/uslugi-elektrika/)
-- [Услуги электрика в Уфе](/np-seo-case/ufa/uslugi-elektrika/)
-- [Услуги электрика в Перми](/np-seo-case/perm/uslugi-elektrika/)
-- [Услуги электрика в Воронеже](/np-seo-case/voronezh/uslugi-elektrika/)
-- [Услуги электрика в Волгограде](/np-seo-case/volgograd/uslugi-elektrika/)
-- [Услуги электрика в Омске](/np-seo-case/omsk/uslugi-elektrika/)
+- [Услуги электрика в Самаре](/samara/uslugi-elektrika/)
+- [Услуги электрика в Челябинске](/chelyabinsk/uslugi-elektrika/)
+- [Услуги электрика в Уфе](/ufa/uslugi-elektrika/)
+- [Услуги электрика в Перми](/perm/uslugi-elektrika/)
+- [Услуги электрика в Воронеже](/voronezh/uslugi-elektrika/)
+- [Услуги электрика в Волгограде](/volgograd/uslugi-elektrika/)
+- [Услуги электрика в Омске](/omsk/uslugi-elektrika/)
 
 ## Полезные статьи
 
-- [Сборка мебели после переезда: чек-лист](/np-seo-case/blog/sborka-mebeli-posle-pereezda-checklist/)
-- [Как сравнивать коммерческие предложения по услугам](/np-seo-case/blog/kak-sravnivat-kommercheskie-predlozheniya/)
-- [Как составить план работ для бригады](/np-seo-case/blog/kak-sostavit-plan-rabot-dlya-brigady/)
+1. ![Натяжные потолки](/assets/services/ceiling.webp)
+
+    *11.07.2025*
+
+    [Как рассчитать бюджет на ремонт в регионе](/blog/kak-rasschitat-byudzhet-na-remont-v-regione/)
+
+    Категория: Бюджет. Практические советы по теме материала и типовым задачам.
+2. ![Услуги электрика](/assets/services/electricity.webp)
+
+    *02.06.2025*
+
+    [Установка дверей: как избежать перекоса](/blog/ustanovka-dverej-kak-izbezhat-perekosa/)
+
+    Категория: Монтаж. Практические советы по теме материала и типовым задачам.
+3. ![Установка сантехники](/assets/services/plumbery.webp)
+
+    *24.04.2025*
+
+    [Сроки ремонта ванной комнаты по этапам](/blog/sroki-remonta-vannoj-komnaty-po-etapam/)
+
+    Категория: Сроки. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

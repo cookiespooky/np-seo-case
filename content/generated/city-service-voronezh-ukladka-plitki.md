@@ -9,49 +9,57 @@ city_name: "Воронеж"
 city_name_in: "Воронеже"
 service_slug: "ukladka-plitki"
 service_name: "Укладка плитки"
+service_image: "tile.webp"
 price_min: 1500
 price_max: 4000
 og_variant: "city_service"
 ---
-# Укладка плитки в Воронеже
-
-Услуга доступна в Воронеже. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 1 500 ₽**
-- Верхний диапазон: **до 4 000 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Воронеже
 
-- [Ремонт квартир](/np-seo-case/voronezh/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/voronezh/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/voronezh/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/voronezh/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/voronezh/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/voronezh/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/voronezh/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/voronezh/zamena-okon/)
-- [Клининг квартир](/np-seo-case/voronezh/klining-kvartir/)
-- [Установка дверей](/np-seo-case/voronezh/ustanovka-dverej/)
+- [Ремонт квартир](/voronezh/remont-kvartir/)
+- [Ремонт ванной комнаты](/voronezh/remont-vannoj/)
+- [Укладка плитки](/voronezh/ukladka-plitki/)
+- [Установка сантехники](/voronezh/ustanovka-santehniki/)
+- [Услуги электрика](/voronezh/uslugi-elektrika/)
+- [Сборка мебели](/voronezh/sborka-mebeli/)
+- [Натяжные потолки](/voronezh/natyazhnye-potolki/)
+- [Замена окон](/voronezh/zamena-okon/)
+- [Клининг квартир](/voronezh/klining-kvartir/)
+- [Установка дверей](/voronezh/ustanovka-dverej/)
 
 ## Укладка плитки в других городах
 
-- [Укладка плитки в Волгограде](/np-seo-case/volgograd/ukladka-plitki/)
-- [Укладка плитки в Омске](/np-seo-case/omsk/ukladka-plitki/)
-- [Укладка плитки в Москве](/np-seo-case/moskva/ukladka-plitki/)
-- [Укладка плитки в Санкт-Петербурге](/np-seo-case/spb/ukladka-plitki/)
-- [Укладка плитки в Казани](/np-seo-case/kazan/ukladka-plitki/)
-- [Укладка плитки в Екатеринбурге](/np-seo-case/ekaterinburg/ukladka-plitki/)
-- [Укладка плитки в Новосибирске](/np-seo-case/novosibirsk/ukladka-plitki/)
+- [Укладка плитки в Волгограде](/volgograd/ukladka-plitki/)
+- [Укладка плитки в Омске](/omsk/ukladka-plitki/)
+- [Укладка плитки в Москве](/moskva/ukladka-plitki/)
+- [Укладка плитки в Санкт-Петербурге](/spb/ukladka-plitki/)
+- [Укладка плитки в Казани](/kazan/ukladka-plitki/)
+- [Укладка плитки в Екатеринбурге](/ekaterinburg/ukladka-plitki/)
+- [Укладка плитки в Новосибирске](/novosibirsk/ukladka-plitki/)
 
 ## Полезные статьи
 
-- [От чего зависит стоимость укладки плитки](/np-seo-case/blog/ot-chego-zavisit-stoimost-ukladki-plitki/)
-- [Замена окон в зимний период: что учесть](/np-seo-case/blog/zamena-okon-v-zimnij-period-chto-uchest/)
-- [Натяжные потолки: как выбрать материал](/np-seo-case/blog/natyazhnye-potolki-kak-vybrat-material/)
+1. ![Клининг квартир](/assets/services/cleaning.webp)
+
+    *14.09.2025*
+
+    [Типовые вопросы по гарантии на работы](/blog/tipovye-voprosy-po-garantii-na-raboty/)
+
+    Категория: Гарантии. Практические советы по теме материала и типовым задачам.
+2. ![Замена окон](/assets/services/windows.webp)
+
+    *06.08.2025*
+
+    [Приемка работ: пошаговая инструкция](/blog/priemka-rabot-poshagovaya-instrukciya/)
+
+    Категория: Контроль качества. Практические советы по теме материала и типовым задачам.
+3. ![Сборка мебели](/assets/services/furniture.webp)
+
+    *28.06.2025*
+
+    [Минимальный набор работ при косметическом ремонте](/blog/minimalnyj-nabor-rabot-pri-kosmeticheskom-remonte/)
+
+    Категория: Ремонт. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

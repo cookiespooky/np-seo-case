@@ -9,49 +9,57 @@ city_name: "Нижний Новгород"
 city_name_in: "Нижнем Новгороде"
 service_slug: "uslugi-elektrika"
 service_name: "Услуги электрика"
+service_image: "electricity.webp"
 price_min: 1900
 price_max: 7000
 og_variant: "city_service"
 ---
-# Услуги электрика в Нижнем Новгороде
-
-Услуга доступна в Нижнем Новгороде. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 1 900 ₽**
-- Верхний диапазон: **до 7 000 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Нижнем Новгороде
 
-- [Ремонт квартир](/np-seo-case/nizhniy-novgorod/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/nizhniy-novgorod/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/nizhniy-novgorod/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/nizhniy-novgorod/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/nizhniy-novgorod/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/nizhniy-novgorod/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/nizhniy-novgorod/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/nizhniy-novgorod/zamena-okon/)
-- [Клининг квартир](/np-seo-case/nizhniy-novgorod/klining-kvartir/)
-- [Установка дверей](/np-seo-case/nizhniy-novgorod/ustanovka-dverej/)
+- [Ремонт квартир](/nizhniy-novgorod/remont-kvartir/)
+- [Ремонт ванной комнаты](/nizhniy-novgorod/remont-vannoj/)
+- [Укладка плитки](/nizhniy-novgorod/ukladka-plitki/)
+- [Установка сантехники](/nizhniy-novgorod/ustanovka-santehniki/)
+- [Услуги электрика](/nizhniy-novgorod/uslugi-elektrika/)
+- [Сборка мебели](/nizhniy-novgorod/sborka-mebeli/)
+- [Натяжные потолки](/nizhniy-novgorod/natyazhnye-potolki/)
+- [Замена окон](/nizhniy-novgorod/zamena-okon/)
+- [Клининг квартир](/nizhniy-novgorod/klining-kvartir/)
+- [Установка дверей](/nizhniy-novgorod/ustanovka-dverej/)
 
 ## Услуги электрика в других городах
 
-- [Услуги электрика в Краснодаре](/np-seo-case/krasnodar/uslugi-elektrika/)
-- [Услуги электрика в Ростове-на-Дону](/np-seo-case/rostov-na-donu/uslugi-elektrika/)
-- [Услуги электрика в Самаре](/np-seo-case/samara/uslugi-elektrika/)
-- [Услуги электрика в Челябинске](/np-seo-case/chelyabinsk/uslugi-elektrika/)
-- [Услуги электрика в Уфе](/np-seo-case/ufa/uslugi-elektrika/)
-- [Услуги электрика в Перми](/np-seo-case/perm/uslugi-elektrika/)
-- [Услуги электрика в Воронеже](/np-seo-case/voronezh/uslugi-elektrika/)
+- [Услуги электрика в Краснодаре](/krasnodar/uslugi-elektrika/)
+- [Услуги электрика в Ростове-на-Дону](/rostov-na-donu/uslugi-elektrika/)
+- [Услуги электрика в Самаре](/samara/uslugi-elektrika/)
+- [Услуги электрика в Челябинске](/chelyabinsk/uslugi-elektrika/)
+- [Услуги электрика в Уфе](/ufa/uslugi-elektrika/)
+- [Услуги электрика в Перми](/perm/uslugi-elektrika/)
+- [Услуги электрика в Воронеже](/voronezh/uslugi-elektrika/)
 
 ## Полезные статьи
 
-- [Замена окон в зимний период: что учесть](/np-seo-case/blog/zamena-okon-v-zimnij-period-chto-uchest/)
-- [Натяжные потолки: как выбрать материал](/np-seo-case/blog/natyazhnye-potolki-kak-vybrat-material/)
-- [Минимальный набор работ при косметическом ремонте](/np-seo-case/blog/minimalnyj-nabor-rabot-pri-kosmeticheskom-remonte/)
+1. ![Замена окон](/assets/services/windows.webp)
+
+    *06.08.2025*
+
+    [Приемка работ: пошаговая инструкция](/blog/priemka-rabot-poshagovaya-instrukciya/)
+
+    Категория: Контроль качества. Практические советы по теме материала и типовым задачам.
+2. ![Сборка мебели](/assets/services/furniture.webp)
+
+    *28.06.2025*
+
+    [Минимальный набор работ при косметическом ремонте](/blog/minimalnyj-nabor-rabot-pri-kosmeticheskom-remonte/)
+
+    Категория: Ремонт. Практические советы по теме материала и типовым задачам.
+3. ![Услуги электрика](/assets/services/electricity.webp)
+
+    *20.05.2025*
+
+    [Натяжные потолки: как выбрать материал](/blog/natyazhnye-potolki-kak-vybrat-material/)
+
+    Категория: Материалы. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

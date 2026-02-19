@@ -9,49 +9,57 @@ city_name: "Самара"
 city_name_in: "Самаре"
 service_slug: "ustanovka-dverej"
 service_name: "Установка дверей"
+service_image: "doors.webp"
 price_min: 3200
 price_max: 9800
 og_variant: "city_service"
 ---
-# Установка дверей в Самаре
-
-Услуга доступна в Самаре. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 3 200 ₽**
-- Верхний диапазон: **до 9 800 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Самаре
 
-- [Ремонт квартир](/np-seo-case/samara/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/samara/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/samara/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/samara/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/samara/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/samara/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/samara/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/samara/zamena-okon/)
-- [Клининг квартир](/np-seo-case/samara/klining-kvartir/)
-- [Установка дверей](/np-seo-case/samara/ustanovka-dverej/)
+- [Ремонт квартир](/samara/remont-kvartir/)
+- [Ремонт ванной комнаты](/samara/remont-vannoj/)
+- [Укладка плитки](/samara/ukladka-plitki/)
+- [Установка сантехники](/samara/ustanovka-santehniki/)
+- [Услуги электрика](/samara/uslugi-elektrika/)
+- [Сборка мебели](/samara/sborka-mebeli/)
+- [Натяжные потолки](/samara/natyazhnye-potolki/)
+- [Замена окон](/samara/zamena-okon/)
+- [Клининг квартир](/samara/klining-kvartir/)
+- [Установка дверей](/samara/ustanovka-dverej/)
 
 ## Установка дверей в других городах
 
-- [Установка дверей в Челябинске](/np-seo-case/chelyabinsk/ustanovka-dverej/)
-- [Установка дверей в Уфе](/np-seo-case/ufa/ustanovka-dverej/)
-- [Установка дверей в Перми](/np-seo-case/perm/ustanovka-dverej/)
-- [Установка дверей в Воронеже](/np-seo-case/voronezh/ustanovka-dverej/)
-- [Установка дверей в Волгограде](/np-seo-case/volgograd/ustanovka-dverej/)
-- [Установка дверей в Омске](/np-seo-case/omsk/ustanovka-dverej/)
-- [Установка дверей в Москве](/np-seo-case/moskva/ustanovka-dverej/)
+- [Установка дверей в Челябинске](/chelyabinsk/ustanovka-dverej/)
+- [Установка дверей в Уфе](/ufa/ustanovka-dverej/)
+- [Установка дверей в Перми](/perm/ustanovka-dverej/)
+- [Установка дверей в Воронеже](/voronezh/ustanovka-dverej/)
+- [Установка дверей в Волгограде](/volgograd/ustanovka-dverej/)
+- [Установка дверей в Омске](/omsk/ustanovka-dverej/)
+- [Установка дверей в Москве](/moskva/ustanovka-dverej/)
 
 ## Полезные статьи
 
-- [Как составить план работ для бригады](/np-seo-case/blog/kak-sostavit-plan-rabot-dlya-brigady/)
-- [Когда выгоднее делать клининг после ремонта](/np-seo-case/blog/kogda-vygodnee-delat-klining-posle-remonta/)
-- [Как работает модель «услуга × город» в каталоге](/np-seo-case/blog/kak-rabotaet-model-usluga-gorod-v-kataloge/)
+1. ![Установка сантехники](/assets/services/plumbery.webp)
+
+    *24.04.2025*
+
+    [Сроки ремонта ванной комнаты по этапам](/blog/sroki-remonta-vannoj-komnaty-po-etapam/)
+
+    Категория: Сроки. Практические советы по теме материала и типовым задачам.
+2. ![Ремонт ванной комнаты](/assets/services/bathroom.webp)
+
+    *16.03.2025*
+
+    [Как подготовить квартиру к клинингу](/blog/kak-podgotovit-kvartiru-k-kliningu/)
+
+    Категория: Подготовка. Практические советы по теме материала и типовым задачам.
+3. ![Ремонт квартир](/assets/services/renovation.webp)
+
+    *05.02.2025*
+
+    [Как оценить смету перед ремонтом квартиры](/blog/kak-ocenit-smetu-pered-remontom-kvartiry/)
+
+    Категория: Смета и бюджет. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

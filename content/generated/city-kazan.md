@@ -22,13 +22,13 @@ og_variant: "default"
 
 ## Все услуги в Казани
 
-- [Ремонт квартир в Казани](/np-seo-case/kazan/remont-kvartir/)
-- [Ремонт ванной комнаты в Казани](/np-seo-case/kazan/remont-vannoj/)
-- [Укладка плитки в Казани](/np-seo-case/kazan/ukladka-plitki/)
-- [Установка сантехники в Казани](/np-seo-case/kazan/ustanovka-santehniki/)
-- [Услуги электрика в Казани](/np-seo-case/kazan/uslugi-elektrika/)
-- [Сборка мебели в Казани](/np-seo-case/kazan/sborka-mebeli/)
-- [Натяжные потолки в Казани](/np-seo-case/kazan/natyazhnye-potolki/)
-- [Замена окон в Казани](/np-seo-case/kazan/zamena-okon/)
-- [Клининг квартир в Казани](/np-seo-case/kazan/klining-kvartir/)
-- [Установка дверей в Казани](/np-seo-case/kazan/ustanovka-dverej/)
+- [Ремонт квартир в Казани](/kazan/remont-kvartir/)
+- [Ремонт ванной комнаты в Казани](/kazan/remont-vannoj/)
+- [Укладка плитки в Казани](/kazan/ukladka-plitki/)
+- [Установка сантехники в Казани](/kazan/ustanovka-santehniki/)
+- [Услуги электрика в Казани](/kazan/uslugi-elektrika/)
+- [Сборка мебели в Казани](/kazan/sborka-mebeli/)
+- [Натяжные потолки в Казани](/kazan/natyazhnye-potolki/)
+- [Замена окон в Казани](/kazan/zamena-okon/)
+- [Клининг квартир в Казани](/kazan/klining-kvartir/)
+- [Установка дверей в Казани](/kazan/ustanovka-dverej/)

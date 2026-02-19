@@ -9,49 +9,57 @@ city_name: "Екатеринбург"
 city_name_in: "Екатеринбурге"
 service_slug: "natyazhnye-potolki"
 service_name: "Натяжные потолки"
+service_image: "ceiling.webp"
 price_min: 1000
 price_max: 2900
 og_variant: "city_service"
 ---
-# Натяжные потолки в Екатеринбурге
-
-Услуга доступна в Екатеринбурге. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 1 000 ₽**
-- Верхний диапазон: **до 2 900 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Екатеринбурге
 
-- [Ремонт квартир](/np-seo-case/ekaterinburg/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/ekaterinburg/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/ekaterinburg/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/ekaterinburg/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/ekaterinburg/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/ekaterinburg/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/ekaterinburg/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/ekaterinburg/zamena-okon/)
-- [Клининг квартир](/np-seo-case/ekaterinburg/klining-kvartir/)
-- [Установка дверей](/np-seo-case/ekaterinburg/ustanovka-dverej/)
+- [Ремонт квартир](/ekaterinburg/remont-kvartir/)
+- [Ремонт ванной комнаты](/ekaterinburg/remont-vannoj/)
+- [Укладка плитки](/ekaterinburg/ukladka-plitki/)
+- [Установка сантехники](/ekaterinburg/ustanovka-santehniki/)
+- [Услуги электрика](/ekaterinburg/uslugi-elektrika/)
+- [Сборка мебели](/ekaterinburg/sborka-mebeli/)
+- [Натяжные потолки](/ekaterinburg/natyazhnye-potolki/)
+- [Замена окон](/ekaterinburg/zamena-okon/)
+- [Клининг квартир](/ekaterinburg/klining-kvartir/)
+- [Установка дверей](/ekaterinburg/ustanovka-dverej/)
 
 ## Натяжные потолки в других городах
 
-- [Натяжные потолки в Новосибирске](/np-seo-case/novosibirsk/natyazhnye-potolki/)
-- [Натяжные потолки в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/natyazhnye-potolki/)
-- [Натяжные потолки в Краснодаре](/np-seo-case/krasnodar/natyazhnye-potolki/)
-- [Натяжные потолки в Ростове-на-Дону](/np-seo-case/rostov-na-donu/natyazhnye-potolki/)
-- [Натяжные потолки в Самаре](/np-seo-case/samara/natyazhnye-potolki/)
-- [Натяжные потолки в Челябинске](/np-seo-case/chelyabinsk/natyazhnye-potolki/)
-- [Натяжные потолки в Уфе](/np-seo-case/ufa/natyazhnye-potolki/)
+- [Натяжные потолки в Новосибирске](/novosibirsk/natyazhnye-potolki/)
+- [Натяжные потолки в Нижнем Новгороде](/nizhniy-novgorod/natyazhnye-potolki/)
+- [Натяжные потолки в Краснодаре](/krasnodar/natyazhnye-potolki/)
+- [Натяжные потолки в Ростове-на-Дону](/rostov-na-donu/natyazhnye-potolki/)
+- [Натяжные потолки в Самаре](/samara/natyazhnye-potolki/)
+- [Натяжные потолки в Челябинске](/chelyabinsk/natyazhnye-potolki/)
+- [Натяжные потолки в Уфе](/ufa/natyazhnye-potolki/)
 
 ## Полезные статьи
 
-- [Как составить план работ для бригады](/np-seo-case/blog/kak-sostavit-plan-rabot-dlya-brigady/)
-- [Когда выгоднее делать клининг после ремонта](/np-seo-case/blog/kogda-vygodnee-delat-klining-posle-remonta/)
-- [Как работает модель «услуга × город» в каталоге](/np-seo-case/blog/kak-rabotaet-model-usluga-gorod-v-kataloge/)
+1. ![Установка сантехники](/assets/services/plumbery.webp)
+
+    *24.04.2025*
+
+    [Сроки ремонта ванной комнаты по этапам](/blog/sroki-remonta-vannoj-komnaty-po-etapam/)
+
+    Категория: Сроки. Практические советы по теме материала и типовым задачам.
+2. ![Ремонт ванной комнаты](/assets/services/bathroom.webp)
+
+    *16.03.2025*
+
+    [Как подготовить квартиру к клинингу](/blog/kak-podgotovit-kvartiru-k-kliningu/)
+
+    Категория: Подготовка. Практические советы по теме материала и типовым задачам.
+3. ![Ремонт квартир](/assets/services/renovation.webp)
+
+    *05.02.2025*
+
+    [Как оценить смету перед ремонтом квартиры](/blog/kak-ocenit-smetu-pered-remontom-kvartiry/)
+
+    Категория: Смета и бюджет. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

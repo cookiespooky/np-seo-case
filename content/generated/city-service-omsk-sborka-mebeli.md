@@ -9,49 +9,57 @@ city_name: "Омск"
 city_name_in: "Омске"
 service_slug: "sborka-mebeli"
 service_name: "Сборка мебели"
+service_image: "furniture.webp"
 price_min: 1300
 price_max: 4800
 og_variant: "city_service"
 ---
-# Сборка мебели в Омске
-
-Услуга доступна в Омске. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 1 300 ₽**
-- Верхний диапазон: **до 4 800 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Омске
 
-- [Ремонт квартир](/np-seo-case/omsk/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/omsk/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/omsk/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/omsk/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/omsk/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/omsk/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/omsk/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/omsk/zamena-okon/)
-- [Клининг квартир](/np-seo-case/omsk/klining-kvartir/)
-- [Установка дверей](/np-seo-case/omsk/ustanovka-dverej/)
+- [Ремонт квартир](/omsk/remont-kvartir/)
+- [Ремонт ванной комнаты](/omsk/remont-vannoj/)
+- [Укладка плитки](/omsk/ukladka-plitki/)
+- [Установка сантехники](/omsk/ustanovka-santehniki/)
+- [Услуги электрика](/omsk/uslugi-elektrika/)
+- [Сборка мебели](/omsk/sborka-mebeli/)
+- [Натяжные потолки](/omsk/natyazhnye-potolki/)
+- [Замена окон](/omsk/zamena-okon/)
+- [Клининг квартир](/omsk/klining-kvartir/)
+- [Установка дверей](/omsk/ustanovka-dverej/)
 
 ## Сборка мебели в других городах
 
-- [Сборка мебели в Москве](/np-seo-case/moskva/sborka-mebeli/)
-- [Сборка мебели в Санкт-Петербурге](/np-seo-case/spb/sborka-mebeli/)
-- [Сборка мебели в Казани](/np-seo-case/kazan/sborka-mebeli/)
-- [Сборка мебели в Екатеринбурге](/np-seo-case/ekaterinburg/sborka-mebeli/)
-- [Сборка мебели в Новосибирске](/np-seo-case/novosibirsk/sborka-mebeli/)
-- [Сборка мебели в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/sborka-mebeli/)
-- [Сборка мебели в Краснодаре](/np-seo-case/krasnodar/sborka-mebeli/)
+- [Сборка мебели в Москве](/moskva/sborka-mebeli/)
+- [Сборка мебели в Санкт-Петербурге](/spb/sborka-mebeli/)
+- [Сборка мебели в Казани](/kazan/sborka-mebeli/)
+- [Сборка мебели в Екатеринбурге](/ekaterinburg/sborka-mebeli/)
+- [Сборка мебели в Новосибирске](/novosibirsk/sborka-mebeli/)
+- [Сборка мебели в Нижнем Новгороде](/nizhniy-novgorod/sborka-mebeli/)
+- [Сборка мебели в Краснодаре](/krasnodar/sborka-mebeli/)
 
 ## Полезные статьи
 
-- [Как работает модель «услуга × город» в каталоге](/np-seo-case/blog/kak-rabotaet-model-usluga-gorod-v-kataloge/)
-- [От чего зависит стоимость укладки плитки](/np-seo-case/blog/ot-chego-zavisit-stoimost-ukladki-plitki/)
-- [Замена окон в зимний период: что учесть](/np-seo-case/blog/zamena-okon-v-zimnij-period-chto-uchest/)
+1. ![Ремонт квартир](/assets/services/renovation.webp)
+
+    *05.02.2025*
+
+    [Как оценить смету перед ремонтом квартиры](/blog/kak-ocenit-smetu-pered-remontom-kvartiry/)
+
+    Категория: Смета и бюджет. Практические советы по теме материала и типовым задачам.
+2. ![Клининг квартир](/assets/services/cleaning.webp)
+
+    *14.09.2025*
+
+    [Типовые вопросы по гарантии на работы](/blog/tipovye-voprosy-po-garantii-na-raboty/)
+
+    Категория: Гарантии. Практические советы по теме материала и типовым задачам.
+3. ![Замена окон](/assets/services/windows.webp)
+
+    *06.08.2025*
+
+    [Приемка работ: пошаговая инструкция](/blog/priemka-rabot-poshagovaya-instrukciya/)
+
+    Категория: Контроль качества. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

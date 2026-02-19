@@ -22,13 +22,13 @@ og_variant: "default"
 
 ## Все услуги в Новосибирске
 
-- [Ремонт квартир в Новосибирске](/np-seo-case/novosibirsk/remont-kvartir/)
-- [Ремонт ванной комнаты в Новосибирске](/np-seo-case/novosibirsk/remont-vannoj/)
-- [Укладка плитки в Новосибирске](/np-seo-case/novosibirsk/ukladka-plitki/)
-- [Установка сантехники в Новосибирске](/np-seo-case/novosibirsk/ustanovka-santehniki/)
-- [Услуги электрика в Новосибирске](/np-seo-case/novosibirsk/uslugi-elektrika/)
-- [Сборка мебели в Новосибирске](/np-seo-case/novosibirsk/sborka-mebeli/)
-- [Натяжные потолки в Новосибирске](/np-seo-case/novosibirsk/natyazhnye-potolki/)
-- [Замена окон в Новосибирске](/np-seo-case/novosibirsk/zamena-okon/)
-- [Клининг квартир в Новосибирске](/np-seo-case/novosibirsk/klining-kvartir/)
-- [Установка дверей в Новосибирске](/np-seo-case/novosibirsk/ustanovka-dverej/)
+- [Ремонт квартир в Новосибирске](/novosibirsk/remont-kvartir/)
+- [Ремонт ванной комнаты в Новосибирске](/novosibirsk/remont-vannoj/)
+- [Укладка плитки в Новосибирске](/novosibirsk/ukladka-plitki/)
+- [Установка сантехники в Новосибирске](/novosibirsk/ustanovka-santehniki/)
+- [Услуги электрика в Новосибирске](/novosibirsk/uslugi-elektrika/)
+- [Сборка мебели в Новосибирске](/novosibirsk/sborka-mebeli/)
+- [Натяжные потолки в Новосибирске](/novosibirsk/natyazhnye-potolki/)
+- [Замена окон в Новосибирске](/novosibirsk/zamena-okon/)
+- [Клининг квартир в Новосибирске](/novosibirsk/klining-kvartir/)
+- [Установка дверей в Новосибирске](/novosibirsk/ustanovka-dverej/)

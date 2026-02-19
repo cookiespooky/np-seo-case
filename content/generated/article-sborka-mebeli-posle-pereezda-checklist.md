@@ -6,18 +6,21 @@ description: "Практический материал: сборка мебел
 date: "2025-05-07"
 page_kind: "article"
 og_variant: "article"
-city_slug: "voronezh"
-city_name: "Воронеж"
-city_name_in: "Воронеже"
-service_slug: "natyazhnye-potolki"
-service_name: "Натяжные потолки"
-service_slug_alt: "remont-kvartir"
-service_name_alt: "Ремонт квартир"
+city_slug: "rostov-na-donu"
+city_name: "Ростов-на-Дону"
+city_name_in: "Ростове-на-Дону"
+service_slug: "ustanovka-santehniki"
+service_name: "Установка сантехники"
+service_image: "plumbery.webp"
+service_slug_alt: "uslugi-elektrika"
+service_name_alt: "Услуги электрика"
 date_modified: "2026-02-19"
 ---
 # Сборка мебели после переезда: чек-лист
 
-Категория: **Переезд**. Дата публикации: **2025-05-07**.
+![Установка сантехники](/assets/services/plumbery.webp)
+
+Категория: **Переезд**. Дата публикации: **07.05.2025**.
 
 При планировании работ важно заранее определить объем задач, последовательность этапов
 и критерии контроля результата. В реальных проектах на итоговый бюджет влияют
@@ -29,7 +32,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Натяжные потолки в Воронеже](/np-seo-case/voronezh/natyazhnye-potolki/)
-- [Ремонт квартир в Воронеже](/np-seo-case/voronezh/remont-kvartir/)
-- [Натяжные потолки](/np-seo-case/services/natyazhnye-potolki/)
-- [Услуги в Воронеже](/np-seo-case/cities/voronezh/)
+- [Установка сантехники в Ростове-на-Дону](/rostov-na-donu/ustanovka-santehniki/)
+- [Услуги электрика в Ростове-на-Дону](/rostov-na-donu/uslugi-elektrika/)
+- [Установка сантехники](/services/ustanovka-santehniki/)
+- [Услуги в Ростове-на-Дону](/cities/rostov-na-donu/)

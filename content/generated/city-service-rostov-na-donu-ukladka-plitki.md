@@ -9,49 +9,57 @@ city_name: "Ростов-на-Дону"
 city_name_in: "Ростове-на-Дону"
 service_slug: "ukladka-plitki"
 service_name: "Укладка плитки"
+service_image: "tile.webp"
 price_min: 1600
 price_max: 4300
 og_variant: "city_service"
 ---
-# Укладка плитки в Ростове-на-Дону
-
-Услуга доступна в Ростове-на-Дону. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 1 600 ₽**
-- Верхний диапазон: **до 4 300 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Ростове-на-Дону
 
-- [Ремонт квартир](/np-seo-case/rostov-na-donu/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/rostov-na-donu/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/rostov-na-donu/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/rostov-na-donu/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/rostov-na-donu/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/rostov-na-donu/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/rostov-na-donu/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/rostov-na-donu/zamena-okon/)
-- [Клининг квартир](/np-seo-case/rostov-na-donu/klining-kvartir/)
-- [Установка дверей](/np-seo-case/rostov-na-donu/ustanovka-dverej/)
+- [Ремонт квартир](/rostov-na-donu/remont-kvartir/)
+- [Ремонт ванной комнаты](/rostov-na-donu/remont-vannoj/)
+- [Укладка плитки](/rostov-na-donu/ukladka-plitki/)
+- [Установка сантехники](/rostov-na-donu/ustanovka-santehniki/)
+- [Услуги электрика](/rostov-na-donu/uslugi-elektrika/)
+- [Сборка мебели](/rostov-na-donu/sborka-mebeli/)
+- [Натяжные потолки](/rostov-na-donu/natyazhnye-potolki/)
+- [Замена окон](/rostov-na-donu/zamena-okon/)
+- [Клининг квартир](/rostov-na-donu/klining-kvartir/)
+- [Установка дверей](/rostov-na-donu/ustanovka-dverej/)
 
 ## Укладка плитки в других городах
 
-- [Укладка плитки в Самаре](/np-seo-case/samara/ukladka-plitki/)
-- [Укладка плитки в Челябинске](/np-seo-case/chelyabinsk/ukladka-plitki/)
-- [Укладка плитки в Уфе](/np-seo-case/ufa/ukladka-plitki/)
-- [Укладка плитки в Перми](/np-seo-case/perm/ukladka-plitki/)
-- [Укладка плитки в Воронеже](/np-seo-case/voronezh/ukladka-plitki/)
-- [Укладка плитки в Волгограде](/np-seo-case/volgograd/ukladka-plitki/)
-- [Укладка плитки в Омске](/np-seo-case/omsk/ukladka-plitki/)
+- [Укладка плитки в Самаре](/samara/ukladka-plitki/)
+- [Укладка плитки в Челябинске](/chelyabinsk/ukladka-plitki/)
+- [Укладка плитки в Уфе](/ufa/ukladka-plitki/)
+- [Укладка плитки в Перми](/perm/ukladka-plitki/)
+- [Укладка плитки в Воронеже](/voronezh/ukladka-plitki/)
+- [Укладка плитки в Волгограде](/volgograd/ukladka-plitki/)
+- [Укладка плитки в Омске](/omsk/ukladka-plitki/)
 
 ## Полезные статьи
 
-- [Типовые вопросы по гарантии на работы](/np-seo-case/blog/tipovye-voprosy-po-garantii-na-raboty/)
-- [Как оценить смету перед ремонтом квартиры](/np-seo-case/blog/kak-ocenit-smetu-pered-remontom-kvartiry/)
-- [Как подготовить квартиру к клинингу](/np-seo-case/blog/kak-podgotovit-kvartiru-k-kliningu/)
+1. ![Ремонт ванной комнаты](/assets/services/bathroom.webp)
+
+    *03.03.2025*
+
+    [От чего зависит стоимость укладки плитки](/blog/ot-chego-zavisit-stoimost-ukladki-plitki/)
+
+    Категория: Цены. Практические советы по теме материала и типовым задачам.
+2. ![Установка дверей](/assets/services/doors.webp)
+
+    *10.10.2025*
+
+    [Как работает модель «услуга × город» в каталоге](/blog/kak-rabotaet-model-usluga-gorod-v-kataloge/)
+
+    Категория: SEO. Практические советы по теме материала и типовым задачам.
+3. ![Клининг квартир](/assets/services/cleaning.webp)
+
+    *01.09.2025*
+
+    [Когда выгоднее делать клининг после ремонта](/blog/kogda-vygodnee-delat-klining-posle-remonta/)
+
+    Категория: Сезонность. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

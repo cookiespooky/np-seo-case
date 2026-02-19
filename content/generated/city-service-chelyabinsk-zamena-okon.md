@@ -9,49 +9,57 @@ city_name: "Челябинск"
 city_name_in: "Челябинске"
 service_slug: "zamena-okon"
 service_name: "Замена окон"
+service_image: "windows.webp"
 price_min: 6600
 price_max: 17900
 og_variant: "city_service"
 ---
-# Замена окон в Челябинске
-
-Услуга доступна в Челябинске. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 6 600 ₽**
-- Верхний диапазон: **до 17 900 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Челябинске
 
-- [Ремонт квартир](/np-seo-case/chelyabinsk/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/chelyabinsk/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/chelyabinsk/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/chelyabinsk/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/chelyabinsk/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/chelyabinsk/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/chelyabinsk/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/chelyabinsk/zamena-okon/)
-- [Клининг квартир](/np-seo-case/chelyabinsk/klining-kvartir/)
-- [Установка дверей](/np-seo-case/chelyabinsk/ustanovka-dverej/)
+- [Ремонт квартир](/chelyabinsk/remont-kvartir/)
+- [Ремонт ванной комнаты](/chelyabinsk/remont-vannoj/)
+- [Укладка плитки](/chelyabinsk/ukladka-plitki/)
+- [Установка сантехники](/chelyabinsk/ustanovka-santehniki/)
+- [Услуги электрика](/chelyabinsk/uslugi-elektrika/)
+- [Сборка мебели](/chelyabinsk/sborka-mebeli/)
+- [Натяжные потолки](/chelyabinsk/natyazhnye-potolki/)
+- [Замена окон](/chelyabinsk/zamena-okon/)
+- [Клининг квартир](/chelyabinsk/klining-kvartir/)
+- [Установка дверей](/chelyabinsk/ustanovka-dverej/)
 
 ## Замена окон в других городах
 
-- [Замена окон в Уфе](/np-seo-case/ufa/zamena-okon/)
-- [Замена окон в Перми](/np-seo-case/perm/zamena-okon/)
-- [Замена окон в Воронеже](/np-seo-case/voronezh/zamena-okon/)
-- [Замена окон в Волгограде](/np-seo-case/volgograd/zamena-okon/)
-- [Замена окон в Омске](/np-seo-case/omsk/zamena-okon/)
-- [Замена окон в Москве](/np-seo-case/moskva/zamena-okon/)
-- [Замена окон в Санкт-Петербурге](/np-seo-case/spb/zamena-okon/)
+- [Замена окон в Уфе](/ufa/zamena-okon/)
+- [Замена окон в Перми](/perm/zamena-okon/)
+- [Замена окон в Воронеже](/voronezh/zamena-okon/)
+- [Замена окон в Волгограде](/volgograd/zamena-okon/)
+- [Замена окон в Омске](/omsk/zamena-okon/)
+- [Замена окон в Москве](/moskva/zamena-okon/)
+- [Замена окон в Санкт-Петербурге](/spb/zamena-okon/)
 
 ## Полезные статьи
 
-- [Как проверить качество электромонтажных работ](/np-seo-case/blog/kak-proverit-kachestvo-elektromontazhnyh-rabot/)
-- [Сборка мебели после переезда: чек-лист](/np-seo-case/blog/sborka-mebeli-posle-pereezda-checklist/)
-- [Как сравнивать коммерческие предложения по услугам](/np-seo-case/blog/kak-sravnivat-kommercheskie-predlozheniya/)
+1. ![Замена окон](/assets/services/windows.webp)
+
+    *19.08.2025*
+
+    [Как выбрать сервис по отзывам и кейсам](/blog/kak-vybrat-servis-po-otzyvam-i-kejsam/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
+2. ![Натяжные потолки](/assets/services/ceiling.webp)
+
+    *11.07.2025*
+
+    [Как рассчитать бюджет на ремонт в регионе](/blog/kak-rasschitat-byudzhet-na-remont-v-regione/)
+
+    Категория: Бюджет. Практические советы по теме материала и типовым задачам.
+3. ![Услуги электрика](/assets/services/electricity.webp)
+
+    *02.06.2025*
+
+    [Установка дверей: как избежать перекоса](/blog/ustanovka-dverej-kak-izbezhat-perekosa/)
+
+    Категория: Монтаж. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

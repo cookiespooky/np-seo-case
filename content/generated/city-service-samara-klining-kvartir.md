@@ -9,49 +9,57 @@ city_name: "Самара"
 city_name_in: "Самаре"
 service_slug: "klining-kvartir"
 service_name: "Клининг квартир"
+service_image: "cleaning.webp"
 price_min: 2600
 price_max: 8400
 og_variant: "city_service"
 ---
-# Клининг квартир в Самаре
-
-Услуга доступна в Самаре. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 2 600 ₽**
-- Верхний диапазон: **до 8 400 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Самаре
 
-- [Ремонт квартир](/np-seo-case/samara/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/samara/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/samara/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/samara/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/samara/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/samara/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/samara/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/samara/zamena-okon/)
-- [Клининг квартир](/np-seo-case/samara/klining-kvartir/)
-- [Установка дверей](/np-seo-case/samara/ustanovka-dverej/)
+- [Ремонт квартир](/samara/remont-kvartir/)
+- [Ремонт ванной комнаты](/samara/remont-vannoj/)
+- [Укладка плитки](/samara/ukladka-plitki/)
+- [Установка сантехники](/samara/ustanovka-santehniki/)
+- [Услуги электрика](/samara/uslugi-elektrika/)
+- [Сборка мебели](/samara/sborka-mebeli/)
+- [Натяжные потолки](/samara/natyazhnye-potolki/)
+- [Замена окон](/samara/zamena-okon/)
+- [Клининг квартир](/samara/klining-kvartir/)
+- [Установка дверей](/samara/ustanovka-dverej/)
 
 ## Клининг квартир в других городах
 
-- [Клининг квартир в Челябинске](/np-seo-case/chelyabinsk/klining-kvartir/)
-- [Клининг квартир в Уфе](/np-seo-case/ufa/klining-kvartir/)
-- [Клининг квартир в Перми](/np-seo-case/perm/klining-kvartir/)
-- [Клининг квартир в Воронеже](/np-seo-case/voronezh/klining-kvartir/)
-- [Клининг квартир в Волгограде](/np-seo-case/volgograd/klining-kvartir/)
-- [Клининг квартир в Омске](/np-seo-case/omsk/klining-kvartir/)
-- [Клининг квартир в Москве](/np-seo-case/moskva/klining-kvartir/)
+- [Клининг квартир в Челябинске](/chelyabinsk/klining-kvartir/)
+- [Клининг квартир в Уфе](/ufa/klining-kvartir/)
+- [Клининг квартир в Перми](/perm/klining-kvartir/)
+- [Клининг квартир в Воронеже](/voronezh/klining-kvartir/)
+- [Клининг квартир в Волгограде](/volgograd/klining-kvartir/)
+- [Клининг квартир в Омске](/omsk/klining-kvartir/)
+- [Клининг квартир в Москве](/moskva/klining-kvartir/)
 
 ## Полезные статьи
 
-- [Натяжные потолки: как выбрать материал](/np-seo-case/blog/natyazhnye-potolki-kak-vybrat-material/)
-- [Минимальный набор работ при косметическом ремонте](/np-seo-case/blog/minimalnyj-nabor-rabot-pri-kosmeticheskom-remonte/)
-- [Приемка работ: пошаговая инструкция](/np-seo-case/blog/priemka-rabot-poshagovaya-instrukciya/)
+1. ![Сборка мебели](/assets/services/furniture.webp)
+
+    *28.06.2025*
+
+    [Минимальный набор работ при косметическом ремонте](/blog/minimalnyj-nabor-rabot-pri-kosmeticheskom-remonte/)
+
+    Категория: Ремонт. Практические советы по теме материала и типовым задачам.
+2. ![Услуги электрика](/assets/services/electricity.webp)
+
+    *20.05.2025*
+
+    [Натяжные потолки: как выбрать материал](/blog/natyazhnye-potolki-kak-vybrat-material/)
+
+    Категория: Материалы. Практические советы по теме материала и типовым задачам.
+3. ![Укладка плитки](/assets/services/tile.webp)
+
+    *11.04.2025*
+
+    [Замена окон в зимний период: что учесть](/blog/zamena-okon-v-zimnij-period-chto-uchest/)
+
+    Категория: Сезонность. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

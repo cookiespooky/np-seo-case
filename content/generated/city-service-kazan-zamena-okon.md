@@ -9,49 +9,57 @@ city_name: "Казань"
 city_name_in: "Казани"
 service_slug: "zamena-okon"
 service_name: "Замена окон"
+service_image: "windows.webp"
 price_min: 7300
 price_max: 20000
 og_variant: "city_service"
 ---
-# Замена окон в Казани
-
-Услуга доступна в Казани. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 7 300 ₽**
-- Верхний диапазон: **до 20 000 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Казани
 
-- [Ремонт квартир](/np-seo-case/kazan/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/kazan/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/kazan/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/kazan/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/kazan/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/kazan/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/kazan/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/kazan/zamena-okon/)
-- [Клининг квартир](/np-seo-case/kazan/klining-kvartir/)
-- [Установка дверей](/np-seo-case/kazan/ustanovka-dverej/)
+- [Ремонт квартир](/kazan/remont-kvartir/)
+- [Ремонт ванной комнаты](/kazan/remont-vannoj/)
+- [Укладка плитки](/kazan/ukladka-plitki/)
+- [Установка сантехники](/kazan/ustanovka-santehniki/)
+- [Услуги электрика](/kazan/uslugi-elektrika/)
+- [Сборка мебели](/kazan/sborka-mebeli/)
+- [Натяжные потолки](/kazan/natyazhnye-potolki/)
+- [Замена окон](/kazan/zamena-okon/)
+- [Клининг квартир](/kazan/klining-kvartir/)
+- [Установка дверей](/kazan/ustanovka-dverej/)
 
 ## Замена окон в других городах
 
-- [Замена окон в Екатеринбурге](/np-seo-case/ekaterinburg/zamena-okon/)
-- [Замена окон в Новосибирске](/np-seo-case/novosibirsk/zamena-okon/)
-- [Замена окон в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/zamena-okon/)
-- [Замена окон в Краснодаре](/np-seo-case/krasnodar/zamena-okon/)
-- [Замена окон в Ростове-на-Дону](/np-seo-case/rostov-na-donu/zamena-okon/)
-- [Замена окон в Самаре](/np-seo-case/samara/zamena-okon/)
-- [Замена окон в Челябинске](/np-seo-case/chelyabinsk/zamena-okon/)
+- [Замена окон в Екатеринбурге](/ekaterinburg/zamena-okon/)
+- [Замена окон в Новосибирске](/novosibirsk/zamena-okon/)
+- [Замена окон в Нижнем Новгороде](/nizhniy-novgorod/zamena-okon/)
+- [Замена окон в Краснодаре](/krasnodar/zamena-okon/)
+- [Замена окон в Ростове-на-Дону](/rostov-na-donu/zamena-okon/)
+- [Замена окон в Самаре](/samara/zamena-okon/)
+- [Замена окон в Челябинске](/chelyabinsk/zamena-okon/)
 
 ## Полезные статьи
 
-- [Типовые вопросы по гарантии на работы](/np-seo-case/blog/tipovye-voprosy-po-garantii-na-raboty/)
-- [Как оценить смету перед ремонтом квартиры](/np-seo-case/blog/kak-ocenit-smetu-pered-remontom-kvartiry/)
-- [Как подготовить квартиру к клинингу](/np-seo-case/blog/kak-podgotovit-kvartiru-k-kliningu/)
+1. ![Ремонт ванной комнаты](/assets/services/bathroom.webp)
+
+    *03.03.2025*
+
+    [От чего зависит стоимость укладки плитки](/blog/ot-chego-zavisit-stoimost-ukladki-plitki/)
+
+    Категория: Цены. Практические советы по теме материала и типовым задачам.
+2. ![Установка дверей](/assets/services/doors.webp)
+
+    *10.10.2025*
+
+    [Как работает модель «услуга × город» в каталоге](/blog/kak-rabotaet-model-usluga-gorod-v-kataloge/)
+
+    Категория: SEO. Практические советы по теме материала и типовым задачам.
+3. ![Клининг квартир](/assets/services/cleaning.webp)
+
+    *01.09.2025*
+
+    [Когда выгоднее делать клининг после ремонта](/blog/kogda-vygodnee-delat-klining-posle-remonta/)
+
+    Категория: Сезонность. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

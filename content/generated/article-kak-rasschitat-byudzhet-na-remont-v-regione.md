@@ -6,18 +6,21 @@ description: "Практический материал: как рассчита
 date: "2025-07-11"
 page_kind: "article"
 og_variant: "article"
-city_slug: "rostov-na-donu"
-city_name: "Ростов-на-Дону"
-city_name_in: "Ростове-на-Дону"
-service_slug: "remont-vannoj"
-service_name: "Ремонт ванной комнаты"
-service_slug_alt: "sborka-mebeli"
-service_name_alt: "Сборка мебели"
+city_slug: "voronezh"
+city_name: "Воронеж"
+city_name_in: "Воронеже"
+service_slug: "natyazhnye-potolki"
+service_name: "Натяжные потолки"
+service_image: "ceiling.webp"
+service_slug_alt: "zamena-okon"
+service_name_alt: "Замена окон"
 date_modified: "2026-02-19"
 ---
 # Как рассчитать бюджет на ремонт в регионе
 
-Категория: **Бюджет**. Дата публикации: **2025-07-11**.
+![Натяжные потолки](/assets/services/ceiling.webp)
+
+Категория: **Бюджет**. Дата публикации: **11.07.2025**.
 
 При планировании работ важно заранее определить объем задач, последовательность этапов
 и критерии контроля результата. В реальных проектах на итоговый бюджет влияют
@@ -29,7 +32,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Ремонт ванной комнаты в Ростове-на-Дону](/np-seo-case/rostov-na-donu/remont-vannoj/)
-- [Сборка мебели в Ростове-на-Дону](/np-seo-case/rostov-na-donu/sborka-mebeli/)
-- [Ремонт ванной комнаты](/np-seo-case/services/remont-vannoj/)
-- [Услуги в Ростове-на-Дону](/np-seo-case/cities/rostov-na-donu/)
+- [Натяжные потолки в Воронеже](/voronezh/natyazhnye-potolki/)
+- [Замена окон в Воронеже](/voronezh/zamena-okon/)
+- [Натяжные потолки](/services/natyazhnye-potolki/)
+- [Услуги в Воронеже](/cities/voronezh/)

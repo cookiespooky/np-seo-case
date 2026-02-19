@@ -6,18 +6,21 @@ description: "Практический материал: как составит
 date: "2025-07-24"
 page_kind: "article"
 og_variant: "article"
-city_slug: "krasnodar"
-city_name: "Краснодар"
-city_name_in: "Краснодаре"
-service_slug: "klining-kvartir"
-service_name: "Клининг квартир"
-service_slug_alt: "ukladka-plitki"
-service_name_alt: "Укладка плитки"
+city_slug: "volgograd"
+city_name: "Волгоград"
+city_name_in: "Волгограде"
+service_slug: "natyazhnye-potolki"
+service_name: "Натяжные потолки"
+service_image: "ceiling.webp"
+service_slug_alt: "zamena-okon"
+service_name_alt: "Замена окон"
 date_modified: "2026-02-19"
 ---
 # Как составить план работ для бригады
 
-Категория: **Организация**. Дата публикации: **2025-07-24**.
+![Натяжные потолки](/assets/services/ceiling.webp)
+
+Категория: **Организация**. Дата публикации: **24.07.2025**.
 
 При планировании работ важно заранее определить объем задач, последовательность этапов
 и критерии контроля результата. В реальных проектах на итоговый бюджет влияют
@@ -29,7 +32,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Клининг квартир в Краснодаре](/np-seo-case/krasnodar/klining-kvartir/)
-- [Укладка плитки в Краснодаре](/np-seo-case/krasnodar/ukladka-plitki/)
-- [Клининг квартир](/np-seo-case/services/klining-kvartir/)
-- [Услуги в Краснодаре](/np-seo-case/cities/krasnodar/)
+- [Натяжные потолки в Волгограде](/volgograd/natyazhnye-potolki/)
+- [Замена окон в Волгограде](/volgograd/zamena-okon/)
+- [Натяжные потолки](/services/natyazhnye-potolki/)
+- [Услуги в Волгограде](/cities/volgograd/)

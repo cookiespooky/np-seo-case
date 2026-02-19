@@ -6,18 +6,21 @@ description: "Практический материал: когда выгодн
 date: "2025-09-01"
 page_kind: "article"
 og_variant: "article"
-city_slug: "ekaterinburg"
-city_name: "Екатеринбург"
-city_name_in: "Екатеринбурге"
-service_slug: "ustanovka-dverej"
-service_name: "Установка дверей"
-service_slug_alt: "ustanovka-santehniki"
-service_name_alt: "Установка сантехники"
+city_slug: "spb"
+city_name: "Санкт-Петербург"
+city_name_in: "Санкт-Петербурге"
+service_slug: "klining-kvartir"
+service_name: "Клининг квартир"
+service_image: "cleaning.webp"
+service_slug_alt: "ustanovka-dverej"
+service_name_alt: "Установка дверей"
 date_modified: "2026-02-19"
 ---
 # Когда выгоднее делать клининг после ремонта
 
-Категория: **Сезонность**. Дата публикации: **2025-09-01**.
+![Клининг квартир](/assets/services/cleaning.webp)
+
+Категория: **Сезонность**. Дата публикации: **01.09.2025**.
 
 При планировании работ важно заранее определить объем задач, последовательность этапов
 и критерии контроля результата. В реальных проектах на итоговый бюджет влияют
@@ -29,7 +32,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Установка дверей в Екатеринбурге](/np-seo-case/ekaterinburg/ustanovka-dverej/)
-- [Установка сантехники в Екатеринбурге](/np-seo-case/ekaterinburg/ustanovka-santehniki/)
-- [Установка дверей](/np-seo-case/services/ustanovka-dverej/)
-- [Услуги в Екатеринбурге](/np-seo-case/cities/ekaterinburg/)
+- [Клининг квартир в Санкт-Петербурге](/spb/klining-kvartir/)
+- [Установка дверей в Санкт-Петербурге](/spb/ustanovka-dverej/)
+- [Клининг квартир](/services/klining-kvartir/)
+- [Услуги в Санкт-Петербурге](/cities/spb/)

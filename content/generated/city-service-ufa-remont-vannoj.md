@@ -9,49 +9,57 @@ city_name: "Уфа"
 city_name_in: "Уфе"
 service_slug: "remont-vannoj"
 service_name: "Ремонт ванной комнаты"
+service_image: "bathroom.webp"
 price_min: 6700
 price_max: 16900
 og_variant: "city_service"
 ---
-# Ремонт ванной комнаты в Уфе
-
-Услуга доступна в Уфе. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 6 700 ₽**
-- Верхний диапазон: **до 16 900 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Уфе
 
-- [Ремонт квартир](/np-seo-case/ufa/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/ufa/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/ufa/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/ufa/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/ufa/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/ufa/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/ufa/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/ufa/zamena-okon/)
-- [Клининг квартир](/np-seo-case/ufa/klining-kvartir/)
-- [Установка дверей](/np-seo-case/ufa/ustanovka-dverej/)
+- [Ремонт квартир](/ufa/remont-kvartir/)
+- [Ремонт ванной комнаты](/ufa/remont-vannoj/)
+- [Укладка плитки](/ufa/ukladka-plitki/)
+- [Установка сантехники](/ufa/ustanovka-santehniki/)
+- [Услуги электрика](/ufa/uslugi-elektrika/)
+- [Сборка мебели](/ufa/sborka-mebeli/)
+- [Натяжные потолки](/ufa/natyazhnye-potolki/)
+- [Замена окон](/ufa/zamena-okon/)
+- [Клининг квартир](/ufa/klining-kvartir/)
+- [Установка дверей](/ufa/ustanovka-dverej/)
 
 ## Ремонт ванной комнаты в других городах
 
-- [Ремонт ванной комнаты в Перми](/np-seo-case/perm/remont-vannoj/)
-- [Ремонт ванной комнаты в Воронеже](/np-seo-case/voronezh/remont-vannoj/)
-- [Ремонт ванной комнаты в Волгограде](/np-seo-case/volgograd/remont-vannoj/)
-- [Ремонт ванной комнаты в Омске](/np-seo-case/omsk/remont-vannoj/)
-- [Ремонт ванной комнаты в Москве](/np-seo-case/moskva/remont-vannoj/)
-- [Ремонт ванной комнаты в Санкт-Петербурге](/np-seo-case/spb/remont-vannoj/)
-- [Ремонт ванной комнаты в Казани](/np-seo-case/kazan/remont-vannoj/)
+- [Ремонт ванной комнаты в Перми](/perm/remont-vannoj/)
+- [Ремонт ванной комнаты в Воронеже](/voronezh/remont-vannoj/)
+- [Ремонт ванной комнаты в Волгограде](/volgograd/remont-vannoj/)
+- [Ремонт ванной комнаты в Омске](/omsk/remont-vannoj/)
+- [Ремонт ванной комнаты в Москве](/moskva/remont-vannoj/)
+- [Ремонт ванной комнаты в Санкт-Петербурге](/spb/remont-vannoj/)
+- [Ремонт ванной комнаты в Казани](/kazan/remont-vannoj/)
 
 ## Полезные статьи
 
-- [Как выбрать сервис по отзывам и кейсам](/np-seo-case/blog/kak-vybrat-servis-po-otzyvam-i-kejsam/)
-- [Как не переплатить за срочные работы](/np-seo-case/blog/kak-ne-pereplatit-za-srochnye-raboty/)
-- [5 ошибок при выборе мастера по сантехнике](/np-seo-case/blog/5-oshibok-pri-vybore-mastera-po-santehnike/)
+1. ![Укладка плитки](/assets/services/tile.webp)
+
+    *29.03.2025*
+
+    [Как проверить качество электромонтажных работ](/blog/kak-proverit-kachestvo-elektromontazhnyh-rabot/)
+
+    Категория: Контроль качества. Практические советы по теме материала и типовым задачам.
+2. ![Ремонт квартир](/assets/services/renovation.webp)
+
+    *18.02.2025*
+
+    [5 ошибок при выборе мастера по сантехнике](/blog/5-oshibok-pri-vybore-mastera-po-santehnike/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
+3. ![Установка дверей](/assets/services/doors.webp)
+
+    *27.09.2025*
+
+    [Как не переплатить за срочные работы](/blog/kak-ne-pereplatit-za-srochnye-raboty/)
+
+    Категория: Цены. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

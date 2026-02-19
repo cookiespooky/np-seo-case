@@ -9,49 +9,57 @@ city_name: "Казань"
 city_name_in: "Казани"
 service_slug: "ukladka-plitki"
 service_name: "Укладка плитки"
+service_image: "tile.webp"
 price_min: 1700
 price_max: 4500
 og_variant: "city_service"
 ---
-# Укладка плитки в Казани
-
-Услуга доступна в Казани. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 1 700 ₽**
-- Верхний диапазон: **до 4 500 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Казани
 
-- [Ремонт квартир](/np-seo-case/kazan/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/kazan/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/kazan/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/kazan/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/kazan/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/kazan/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/kazan/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/kazan/zamena-okon/)
-- [Клининг квартир](/np-seo-case/kazan/klining-kvartir/)
-- [Установка дверей](/np-seo-case/kazan/ustanovka-dverej/)
+- [Ремонт квартир](/kazan/remont-kvartir/)
+- [Ремонт ванной комнаты](/kazan/remont-vannoj/)
+- [Укладка плитки](/kazan/ukladka-plitki/)
+- [Установка сантехники](/kazan/ustanovka-santehniki/)
+- [Услуги электрика](/kazan/uslugi-elektrika/)
+- [Сборка мебели](/kazan/sborka-mebeli/)
+- [Натяжные потолки](/kazan/natyazhnye-potolki/)
+- [Замена окон](/kazan/zamena-okon/)
+- [Клининг квартир](/kazan/klining-kvartir/)
+- [Установка дверей](/kazan/ustanovka-dverej/)
 
 ## Укладка плитки в других городах
 
-- [Укладка плитки в Екатеринбурге](/np-seo-case/ekaterinburg/ukladka-plitki/)
-- [Укладка плитки в Новосибирске](/np-seo-case/novosibirsk/ukladka-plitki/)
-- [Укладка плитки в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/ukladka-plitki/)
-- [Укладка плитки в Краснодаре](/np-seo-case/krasnodar/ukladka-plitki/)
-- [Укладка плитки в Ростове-на-Дону](/np-seo-case/rostov-na-donu/ukladka-plitki/)
-- [Укладка плитки в Самаре](/np-seo-case/samara/ukladka-plitki/)
-- [Укладка плитки в Челябинске](/np-seo-case/chelyabinsk/ukladka-plitki/)
+- [Укладка плитки в Екатеринбурге](/ekaterinburg/ukladka-plitki/)
+- [Укладка плитки в Новосибирске](/novosibirsk/ukladka-plitki/)
+- [Укладка плитки в Нижнем Новгороде](/nizhniy-novgorod/ukladka-plitki/)
+- [Укладка плитки в Краснодаре](/krasnodar/ukladka-plitki/)
+- [Укладка плитки в Ростове-на-Дону](/rostov-na-donu/ukladka-plitki/)
+- [Укладка плитки в Самаре](/samara/ukladka-plitki/)
+- [Укладка плитки в Челябинске](/chelyabinsk/ukladka-plitki/)
 
 ## Полезные статьи
 
-- [Как рассчитать бюджет на ремонт в регионе](/np-seo-case/blog/kak-rasschitat-byudzhet-na-remont-v-regione/)
-- [Как выбрать сервис по отзывам и кейсам](/np-seo-case/blog/kak-vybrat-servis-po-otzyvam-i-kejsam/)
-- [Как не переплатить за срочные работы](/np-seo-case/blog/kak-ne-pereplatit-za-srochnye-raboty/)
+1. ![Установка сантехники](/assets/services/plumbery.webp)
+
+    *07.05.2025*
+
+    [Сборка мебели после переезда: чек-лист](/blog/sborka-mebeli-posle-pereezda-checklist/)
+
+    Категория: Переезд. Практические советы по теме материала и типовым задачам.
+2. ![Укладка плитки](/assets/services/tile.webp)
+
+    *29.03.2025*
+
+    [Как проверить качество электромонтажных работ](/blog/kak-proverit-kachestvo-elektromontazhnyh-rabot/)
+
+    Категория: Контроль качества. Практические советы по теме материала и типовым задачам.
+3. ![Ремонт квартир](/assets/services/renovation.webp)
+
+    *18.02.2025*
+
+    [5 ошибок при выборе мастера по сантехнике](/blog/5-oshibok-pri-vybore-mastera-po-santehnike/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

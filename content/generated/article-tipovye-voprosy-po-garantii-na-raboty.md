@@ -9,15 +9,18 @@ og_variant: "article"
 city_slug: "kazan"
 city_name: "Казань"
 city_name_in: "Казани"
-service_slug: "natyazhnye-potolki"
-service_name: "Натяжные потолки"
-service_slug_alt: "remont-kvartir"
-service_name_alt: "Ремонт квартир"
+service_slug: "klining-kvartir"
+service_name: "Клининг квартир"
+service_image: "cleaning.webp"
+service_slug_alt: "ustanovka-dverej"
+service_name_alt: "Установка дверей"
 date_modified: "2026-02-19"
 ---
 # Типовые вопросы по гарантии на работы
 
-Категория: **Гарантии**. Дата публикации: **2025-09-14**.
+![Клининг квартир](/assets/services/cleaning.webp)
+
+Категория: **Гарантии**. Дата публикации: **14.09.2025**.
 
 При планировании работ важно заранее определить объем задач, последовательность этапов
 и критерии контроля результата. В реальных проектах на итоговый бюджет влияют
@@ -29,7 +32,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Натяжные потолки в Казани](/np-seo-case/kazan/natyazhnye-potolki/)
-- [Ремонт квартир в Казани](/np-seo-case/kazan/remont-kvartir/)
-- [Натяжные потолки](/np-seo-case/services/natyazhnye-potolki/)
-- [Услуги в Казани](/np-seo-case/cities/kazan/)
+- [Клининг квартир в Казани](/kazan/klining-kvartir/)
+- [Установка дверей в Казани](/kazan/ustanovka-dverej/)
+- [Клининг квартир](/services/klining-kvartir/)
+- [Услуги в Казани](/cities/kazan/)

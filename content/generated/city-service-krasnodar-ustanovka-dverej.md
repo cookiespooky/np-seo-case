@@ -9,49 +9,57 @@ city_name: "Краснодар"
 city_name_in: "Краснодаре"
 service_slug: "ustanovka-dverej"
 service_name: "Установка дверей"
+service_image: "doors.webp"
 price_min: 3400
 price_max: 10300
 og_variant: "city_service"
 ---
-# Установка дверей в Краснодаре
-
-Услуга доступна в Краснодаре. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 3 400 ₽**
-- Верхний диапазон: **до 10 300 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Краснодаре
 
-- [Ремонт квартир](/np-seo-case/krasnodar/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/krasnodar/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/krasnodar/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/krasnodar/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/krasnodar/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/krasnodar/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/krasnodar/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/krasnodar/zamena-okon/)
-- [Клининг квартир](/np-seo-case/krasnodar/klining-kvartir/)
-- [Установка дверей](/np-seo-case/krasnodar/ustanovka-dverej/)
+- [Ремонт квартир](/krasnodar/remont-kvartir/)
+- [Ремонт ванной комнаты](/krasnodar/remont-vannoj/)
+- [Укладка плитки](/krasnodar/ukladka-plitki/)
+- [Установка сантехники](/krasnodar/ustanovka-santehniki/)
+- [Услуги электрика](/krasnodar/uslugi-elektrika/)
+- [Сборка мебели](/krasnodar/sborka-mebeli/)
+- [Натяжные потолки](/krasnodar/natyazhnye-potolki/)
+- [Замена окон](/krasnodar/zamena-okon/)
+- [Клининг квартир](/krasnodar/klining-kvartir/)
+- [Установка дверей](/krasnodar/ustanovka-dverej/)
 
 ## Установка дверей в других городах
 
-- [Установка дверей в Ростове-на-Дону](/np-seo-case/rostov-na-donu/ustanovka-dverej/)
-- [Установка дверей в Самаре](/np-seo-case/samara/ustanovka-dverej/)
-- [Установка дверей в Челябинске](/np-seo-case/chelyabinsk/ustanovka-dverej/)
-- [Установка дверей в Уфе](/np-seo-case/ufa/ustanovka-dverej/)
-- [Установка дверей в Перми](/np-seo-case/perm/ustanovka-dverej/)
-- [Установка дверей в Воронеже](/np-seo-case/voronezh/ustanovka-dverej/)
-- [Установка дверей в Волгограде](/np-seo-case/volgograd/ustanovka-dverej/)
+- [Установка дверей в Ростове-на-Дону](/rostov-na-donu/ustanovka-dverej/)
+- [Установка дверей в Самаре](/samara/ustanovka-dverej/)
+- [Установка дверей в Челябинске](/chelyabinsk/ustanovka-dverej/)
+- [Установка дверей в Уфе](/ufa/ustanovka-dverej/)
+- [Установка дверей в Перми](/perm/ustanovka-dverej/)
+- [Установка дверей в Воронеже](/voronezh/ustanovka-dverej/)
+- [Установка дверей в Волгограде](/volgograd/ustanovka-dverej/)
 
 ## Полезные статьи
 
-- [Минимальный набор работ при косметическом ремонте](/np-seo-case/blog/minimalnyj-nabor-rabot-pri-kosmeticheskom-remonte/)
-- [Приемка работ: пошаговая инструкция](/np-seo-case/blog/priemka-rabot-poshagovaya-instrukciya/)
-- [Типовые вопросы по гарантии на работы](/np-seo-case/blog/tipovye-voprosy-po-garantii-na-raboty/)
+1. ![Услуги электрика](/assets/services/electricity.webp)
+
+    *20.05.2025*
+
+    [Натяжные потолки: как выбрать материал](/blog/natyazhnye-potolki-kak-vybrat-material/)
+
+    Категория: Материалы. Практические советы по теме материала и типовым задачам.
+2. ![Укладка плитки](/assets/services/tile.webp)
+
+    *11.04.2025*
+
+    [Замена окон в зимний период: что учесть](/blog/zamena-okon-v-zimnij-period-chto-uchest/)
+
+    Категория: Сезонность. Практические советы по теме материала и типовым задачам.
+3. ![Ремонт ванной комнаты](/assets/services/bathroom.webp)
+
+    *03.03.2025*
+
+    [От чего зависит стоимость укладки плитки](/blog/ot-chego-zavisit-stoimost-ukladki-plitki/)
+
+    Категория: Цены. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

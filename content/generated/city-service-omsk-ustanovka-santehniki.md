@@ -9,49 +9,57 @@ city_name: "Омск"
 city_name_in: "Омске"
 service_slug: "ustanovka-santehniki"
 service_name: "Установка сантехники"
+service_image: "plumbery.webp"
 price_min: 2000
 price_max: 7100
 og_variant: "city_service"
 ---
-# Установка сантехники в Омске
-
-Услуга доступна в Омске. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 2 000 ₽**
-- Верхний диапазон: **до 7 100 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Омске
 
-- [Ремонт квартир](/np-seo-case/omsk/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/omsk/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/omsk/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/omsk/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/omsk/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/omsk/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/omsk/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/omsk/zamena-okon/)
-- [Клининг квартир](/np-seo-case/omsk/klining-kvartir/)
-- [Установка дверей](/np-seo-case/omsk/ustanovka-dverej/)
+- [Ремонт квартир](/omsk/remont-kvartir/)
+- [Ремонт ванной комнаты](/omsk/remont-vannoj/)
+- [Укладка плитки](/omsk/ukladka-plitki/)
+- [Установка сантехники](/omsk/ustanovka-santehniki/)
+- [Услуги электрика](/omsk/uslugi-elektrika/)
+- [Сборка мебели](/omsk/sborka-mebeli/)
+- [Натяжные потолки](/omsk/natyazhnye-potolki/)
+- [Замена окон](/omsk/zamena-okon/)
+- [Клининг квартир](/omsk/klining-kvartir/)
+- [Установка дверей](/omsk/ustanovka-dverej/)
 
 ## Установка сантехники в других городах
 
-- [Установка сантехники в Москве](/np-seo-case/moskva/ustanovka-santehniki/)
-- [Установка сантехники в Санкт-Петербурге](/np-seo-case/spb/ustanovka-santehniki/)
-- [Установка сантехники в Казани](/np-seo-case/kazan/ustanovka-santehniki/)
-- [Установка сантехники в Екатеринбурге](/np-seo-case/ekaterinburg/ustanovka-santehniki/)
-- [Установка сантехники в Новосибирске](/np-seo-case/novosibirsk/ustanovka-santehniki/)
-- [Установка сантехники в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/ustanovka-santehniki/)
-- [Установка сантехники в Краснодаре](/np-seo-case/krasnodar/ustanovka-santehniki/)
+- [Установка сантехники в Москве](/moskva/ustanovka-santehniki/)
+- [Установка сантехники в Санкт-Петербурге](/spb/ustanovka-santehniki/)
+- [Установка сантехники в Казани](/kazan/ustanovka-santehniki/)
+- [Установка сантехники в Екатеринбурге](/ekaterinburg/ustanovka-santehniki/)
+- [Установка сантехники в Новосибирске](/novosibirsk/ustanovka-santehniki/)
+- [Установка сантехники в Нижнем Новгороде](/nizhniy-novgorod/ustanovka-santehniki/)
+- [Установка сантехники в Краснодаре](/krasnodar/ustanovka-santehniki/)
 
 ## Полезные статьи
 
-- [Установка дверей: как избежать перекоса](/np-seo-case/blog/ustanovka-dverej-kak-izbezhat-perekosa/)
-- [Как рассчитать бюджет на ремонт в регионе](/np-seo-case/blog/kak-rasschitat-byudzhet-na-remont-v-regione/)
-- [Как выбрать сервис по отзывам и кейсам](/np-seo-case/blog/kak-vybrat-servis-po-otzyvam-i-kejsam/)
+1. ![Сборка мебели](/assets/services/furniture.webp)
+
+    *15.06.2025*
+
+    [Как сравнивать коммерческие предложения по услугам](/blog/kak-sravnivat-kommercheskie-predlozheniya/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
+2. ![Установка сантехники](/assets/services/plumbery.webp)
+
+    *07.05.2025*
+
+    [Сборка мебели после переезда: чек-лист](/blog/sborka-mebeli-posle-pereezda-checklist/)
+
+    Категория: Переезд. Практические советы по теме материала и типовым задачам.
+3. ![Укладка плитки](/assets/services/tile.webp)
+
+    *29.03.2025*
+
+    [Как проверить качество электромонтажных работ](/blog/kak-proverit-kachestvo-elektromontazhnyh-rabot/)
+
+    Категория: Контроль качества. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

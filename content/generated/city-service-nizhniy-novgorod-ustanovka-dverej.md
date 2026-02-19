@@ -9,49 +9,57 @@ city_name: "Нижний Новгород"
 city_name_in: "Нижнем Новгороде"
 service_slug: "ustanovka-dverej"
 service_name: "Установка дверей"
+service_image: "doors.webp"
 price_min: 3300
 price_max: 10100
 og_variant: "city_service"
 ---
-# Установка дверей в Нижнем Новгороде
-
-Услуга доступна в Нижнем Новгороде. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 3 300 ₽**
-- Верхний диапазон: **до 10 100 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Нижнем Новгороде
 
-- [Ремонт квартир](/np-seo-case/nizhniy-novgorod/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/nizhniy-novgorod/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/nizhniy-novgorod/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/nizhniy-novgorod/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/nizhniy-novgorod/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/nizhniy-novgorod/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/nizhniy-novgorod/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/nizhniy-novgorod/zamena-okon/)
-- [Клининг квартир](/np-seo-case/nizhniy-novgorod/klining-kvartir/)
-- [Установка дверей](/np-seo-case/nizhniy-novgorod/ustanovka-dverej/)
+- [Ремонт квартир](/nizhniy-novgorod/remont-kvartir/)
+- [Ремонт ванной комнаты](/nizhniy-novgorod/remont-vannoj/)
+- [Укладка плитки](/nizhniy-novgorod/ukladka-plitki/)
+- [Установка сантехники](/nizhniy-novgorod/ustanovka-santehniki/)
+- [Услуги электрика](/nizhniy-novgorod/uslugi-elektrika/)
+- [Сборка мебели](/nizhniy-novgorod/sborka-mebeli/)
+- [Натяжные потолки](/nizhniy-novgorod/natyazhnye-potolki/)
+- [Замена окон](/nizhniy-novgorod/zamena-okon/)
+- [Клининг квартир](/nizhniy-novgorod/klining-kvartir/)
+- [Установка дверей](/nizhniy-novgorod/ustanovka-dverej/)
 
 ## Установка дверей в других городах
 
-- [Установка дверей в Краснодаре](/np-seo-case/krasnodar/ustanovka-dverej/)
-- [Установка дверей в Ростове-на-Дону](/np-seo-case/rostov-na-donu/ustanovka-dverej/)
-- [Установка дверей в Самаре](/np-seo-case/samara/ustanovka-dverej/)
-- [Установка дверей в Челябинске](/np-seo-case/chelyabinsk/ustanovka-dverej/)
-- [Установка дверей в Уфе](/np-seo-case/ufa/ustanovka-dverej/)
-- [Установка дверей в Перми](/np-seo-case/perm/ustanovka-dverej/)
-- [Установка дверей в Воронеже](/np-seo-case/voronezh/ustanovka-dverej/)
+- [Установка дверей в Краснодаре](/krasnodar/ustanovka-dverej/)
+- [Установка дверей в Ростове-на-Дону](/rostov-na-donu/ustanovka-dverej/)
+- [Установка дверей в Самаре](/samara/ustanovka-dverej/)
+- [Установка дверей в Челябинске](/chelyabinsk/ustanovka-dverej/)
+- [Установка дверей в Уфе](/ufa/ustanovka-dverej/)
+- [Установка дверей в Перми](/perm/ustanovka-dverej/)
+- [Установка дверей в Воронеже](/voronezh/ustanovka-dverej/)
 
 ## Полезные статьи
 
-- [Как сравнивать коммерческие предложения по услугам](/np-seo-case/blog/kak-sravnivat-kommercheskie-predlozheniya/)
-- [Как составить план работ для бригады](/np-seo-case/blog/kak-sostavit-plan-rabot-dlya-brigady/)
-- [Когда выгоднее делать клининг после ремонта](/np-seo-case/blog/kogda-vygodnee-delat-klining-posle-remonta/)
+1. ![Услуги электрика](/assets/services/electricity.webp)
+
+    *02.06.2025*
+
+    [Установка дверей: как избежать перекоса](/blog/ustanovka-dverej-kak-izbezhat-perekosa/)
+
+    Категория: Монтаж. Практические советы по теме материала и типовым задачам.
+2. ![Установка сантехники](/assets/services/plumbery.webp)
+
+    *24.04.2025*
+
+    [Сроки ремонта ванной комнаты по этапам](/blog/sroki-remonta-vannoj-komnaty-po-etapam/)
+
+    Категория: Сроки. Практические советы по теме материала и типовым задачам.
+3. ![Ремонт ванной комнаты](/assets/services/bathroom.webp)
+
+    *16.03.2025*
+
+    [Как подготовить квартиру к клинингу](/blog/kak-podgotovit-kvartiru-k-kliningu/)
+
+    Категория: Подготовка. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

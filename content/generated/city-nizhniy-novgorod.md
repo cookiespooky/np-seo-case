@@ -22,13 +22,13 @@ og_variant: "default"
 
 ## Все услуги в Нижнем Новгороде
 
-- [Ремонт квартир в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/remont-kvartir/)
-- [Ремонт ванной комнаты в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/remont-vannoj/)
-- [Укладка плитки в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/ukladka-plitki/)
-- [Установка сантехники в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/ustanovka-santehniki/)
-- [Услуги электрика в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/uslugi-elektrika/)
-- [Сборка мебели в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/sborka-mebeli/)
-- [Натяжные потолки в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/natyazhnye-potolki/)
-- [Замена окон в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/zamena-okon/)
-- [Клининг квартир в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/klining-kvartir/)
-- [Установка дверей в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/ustanovka-dverej/)
+- [Ремонт квартир в Нижнем Новгороде](/nizhniy-novgorod/remont-kvartir/)
+- [Ремонт ванной комнаты в Нижнем Новгороде](/nizhniy-novgorod/remont-vannoj/)
+- [Укладка плитки в Нижнем Новгороде](/nizhniy-novgorod/ukladka-plitki/)
+- [Установка сантехники в Нижнем Новгороде](/nizhniy-novgorod/ustanovka-santehniki/)
+- [Услуги электрика в Нижнем Новгороде](/nizhniy-novgorod/uslugi-elektrika/)
+- [Сборка мебели в Нижнем Новгороде](/nizhniy-novgorod/sborka-mebeli/)
+- [Натяжные потолки в Нижнем Новгороде](/nizhniy-novgorod/natyazhnye-potolki/)
+- [Замена окон в Нижнем Новгороде](/nizhniy-novgorod/zamena-okon/)
+- [Клининг квартир в Нижнем Новгороде](/nizhniy-novgorod/klining-kvartir/)
+- [Установка дверей в Нижнем Новгороде](/nizhniy-novgorod/ustanovka-dverej/)

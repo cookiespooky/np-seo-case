@@ -6,18 +6,21 @@ description: "Практический материал: приемка рабо
 date: "2025-08-06"
 page_kind: "article"
 og_variant: "article"
-city_slug: "nizhniy-novgorod"
-city_name: "Нижний Новгород"
-city_name_in: "Нижнем Новгороде"
-service_slug: "sborka-mebeli"
-service_name: "Сборка мебели"
-service_slug_alt: "ustanovka-dverej"
-service_name_alt: "Установка дверей"
+city_slug: "omsk"
+city_name: "Омск"
+city_name_in: "Омске"
+service_slug: "zamena-okon"
+service_name: "Замена окон"
+service_image: "windows.webp"
+service_slug_alt: "klining-kvartir"
+service_name_alt: "Клининг квартир"
 date_modified: "2026-02-19"
 ---
 # Приемка работ: пошаговая инструкция
 
-Категория: **Контроль качества**. Дата публикации: **2025-08-06**.
+![Замена окон](/assets/services/windows.webp)
+
+Категория: **Контроль качества**. Дата публикации: **06.08.2025**.
 
 При планировании работ важно заранее определить объем задач, последовательность этапов
 и критерии контроля результата. В реальных проектах на итоговый бюджет влияют
@@ -29,7 +32,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Сборка мебели в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/sborka-mebeli/)
-- [Установка дверей в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/ustanovka-dverej/)
-- [Сборка мебели](/np-seo-case/services/sborka-mebeli/)
-- [Услуги в Нижнем Новгороде](/np-seo-case/cities/nizhniy-novgorod/)
+- [Замена окон в Омске](/omsk/zamena-okon/)
+- [Клининг квартир в Омске](/omsk/klining-kvartir/)
+- [Замена окон](/services/zamena-okon/)
+- [Услуги в Омске](/cities/omsk/)

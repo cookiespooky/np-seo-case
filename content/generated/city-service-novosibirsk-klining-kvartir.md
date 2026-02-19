@@ -9,49 +9,57 @@ city_name: "Новосибирск"
 city_name_in: "Новосибирске"
 service_slug: "klining-kvartir"
 service_name: "Клининг квартир"
+service_image: "cleaning.webp"
 price_min: 2800
 price_max: 8900
 og_variant: "city_service"
 ---
-# Клининг квартир в Новосибирске
-
-Услуга доступна в Новосибирске. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 2 800 ₽**
-- Верхний диапазон: **до 8 900 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Новосибирске
 
-- [Ремонт квартир](/np-seo-case/novosibirsk/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/novosibirsk/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/novosibirsk/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/novosibirsk/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/novosibirsk/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/novosibirsk/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/novosibirsk/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/novosibirsk/zamena-okon/)
-- [Клининг квартир](/np-seo-case/novosibirsk/klining-kvartir/)
-- [Установка дверей](/np-seo-case/novosibirsk/ustanovka-dverej/)
+- [Ремонт квартир](/novosibirsk/remont-kvartir/)
+- [Ремонт ванной комнаты](/novosibirsk/remont-vannoj/)
+- [Укладка плитки](/novosibirsk/ukladka-plitki/)
+- [Установка сантехники](/novosibirsk/ustanovka-santehniki/)
+- [Услуги электрика](/novosibirsk/uslugi-elektrika/)
+- [Сборка мебели](/novosibirsk/sborka-mebeli/)
+- [Натяжные потолки](/novosibirsk/natyazhnye-potolki/)
+- [Замена окон](/novosibirsk/zamena-okon/)
+- [Клининг квартир](/novosibirsk/klining-kvartir/)
+- [Установка дверей](/novosibirsk/ustanovka-dverej/)
 
 ## Клининг квартир в других городах
 
-- [Клининг квартир в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/klining-kvartir/)
-- [Клининг квартир в Краснодаре](/np-seo-case/krasnodar/klining-kvartir/)
-- [Клининг квартир в Ростове-на-Дону](/np-seo-case/rostov-na-donu/klining-kvartir/)
-- [Клининг квартир в Самаре](/np-seo-case/samara/klining-kvartir/)
-- [Клининг квартир в Челябинске](/np-seo-case/chelyabinsk/klining-kvartir/)
-- [Клининг квартир в Уфе](/np-seo-case/ufa/klining-kvartir/)
-- [Клининг квартир в Перми](/np-seo-case/perm/klining-kvartir/)
+- [Клининг квартир в Нижнем Новгороде](/nizhniy-novgorod/klining-kvartir/)
+- [Клининг квартир в Краснодаре](/krasnodar/klining-kvartir/)
+- [Клининг квартир в Ростове-на-Дону](/rostov-na-donu/klining-kvartir/)
+- [Клининг квартир в Самаре](/samara/klining-kvartir/)
+- [Клининг квартир в Челябинске](/chelyabinsk/klining-kvartir/)
+- [Клининг квартир в Уфе](/ufa/klining-kvartir/)
+- [Клининг квартир в Перми](/perm/klining-kvartir/)
 
 ## Полезные статьи
 
-- [Как проверить качество электромонтажных работ](/np-seo-case/blog/kak-proverit-kachestvo-elektromontazhnyh-rabot/)
-- [Сборка мебели после переезда: чек-лист](/np-seo-case/blog/sborka-mebeli-posle-pereezda-checklist/)
-- [Как сравнивать коммерческие предложения по услугам](/np-seo-case/blog/kak-sravnivat-kommercheskie-predlozheniya/)
+1. ![Замена окон](/assets/services/windows.webp)
+
+    *19.08.2025*
+
+    [Как выбрать сервис по отзывам и кейсам](/blog/kak-vybrat-servis-po-otzyvam-i-kejsam/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
+2. ![Натяжные потолки](/assets/services/ceiling.webp)
+
+    *11.07.2025*
+
+    [Как рассчитать бюджет на ремонт в регионе](/blog/kak-rasschitat-byudzhet-na-remont-v-regione/)
+
+    Категория: Бюджет. Практические советы по теме материала и типовым задачам.
+3. ![Услуги электрика](/assets/services/electricity.webp)
+
+    *02.06.2025*
+
+    [Установка дверей: как избежать перекоса](/blog/ustanovka-dverej-kak-izbezhat-perekosa/)
+
+    Категория: Монтаж. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

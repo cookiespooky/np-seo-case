@@ -9,49 +9,57 @@ city_name: "Воронеж"
 city_name_in: "Воронеже"
 service_slug: "remont-kvartir"
 service_name: "Ремонт квартир"
+service_image: "renovation.webp"
 price_min: 5200
 price_max: 13800
 og_variant: "city_service"
 ---
-# Ремонт квартир в Воронеже
-
-Услуга доступна в Воронеже. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 5 200 ₽**
-- Верхний диапазон: **до 13 800 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Воронеже
 
-- [Ремонт квартир](/np-seo-case/voronezh/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/voronezh/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/voronezh/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/voronezh/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/voronezh/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/voronezh/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/voronezh/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/voronezh/zamena-okon/)
-- [Клининг квартир](/np-seo-case/voronezh/klining-kvartir/)
-- [Установка дверей](/np-seo-case/voronezh/ustanovka-dverej/)
+- [Ремонт квартир](/voronezh/remont-kvartir/)
+- [Ремонт ванной комнаты](/voronezh/remont-vannoj/)
+- [Укладка плитки](/voronezh/ukladka-plitki/)
+- [Установка сантехники](/voronezh/ustanovka-santehniki/)
+- [Услуги электрика](/voronezh/uslugi-elektrika/)
+- [Сборка мебели](/voronezh/sborka-mebeli/)
+- [Натяжные потолки](/voronezh/natyazhnye-potolki/)
+- [Замена окон](/voronezh/zamena-okon/)
+- [Клининг квартир](/voronezh/klining-kvartir/)
+- [Установка дверей](/voronezh/ustanovka-dverej/)
 
 ## Ремонт квартир в других городах
 
-- [Ремонт квартир в Волгограде](/np-seo-case/volgograd/remont-kvartir/)
-- [Ремонт квартир в Омске](/np-seo-case/omsk/remont-kvartir/)
-- [Ремонт квартир в Москве](/np-seo-case/moskva/remont-kvartir/)
-- [Ремонт квартир в Санкт-Петербурге](/np-seo-case/spb/remont-kvartir/)
-- [Ремонт квартир в Казани](/np-seo-case/kazan/remont-kvartir/)
-- [Ремонт квартир в Екатеринбурге](/np-seo-case/ekaterinburg/remont-kvartir/)
-- [Ремонт квартир в Новосибирске](/np-seo-case/novosibirsk/remont-kvartir/)
+- [Ремонт квартир в Волгограде](/volgograd/remont-kvartir/)
+- [Ремонт квартир в Омске](/omsk/remont-kvartir/)
+- [Ремонт квартир в Москве](/moskva/remont-kvartir/)
+- [Ремонт квартир в Санкт-Петербурге](/spb/remont-kvartir/)
+- [Ремонт квартир в Казани](/kazan/remont-kvartir/)
+- [Ремонт квартир в Екатеринбурге](/ekaterinburg/remont-kvartir/)
+- [Ремонт квартир в Новосибирске](/novosibirsk/remont-kvartir/)
 
 ## Полезные статьи
 
-- [Как рассчитать бюджет на ремонт в регионе](/np-seo-case/blog/kak-rasschitat-byudzhet-na-remont-v-regione/)
-- [Как выбрать сервис по отзывам и кейсам](/np-seo-case/blog/kak-vybrat-servis-po-otzyvam-i-kejsam/)
-- [Как не переплатить за срочные работы](/np-seo-case/blog/kak-ne-pereplatit-za-srochnye-raboty/)
+1. ![Установка сантехники](/assets/services/plumbery.webp)
+
+    *07.05.2025*
+
+    [Сборка мебели после переезда: чек-лист](/blog/sborka-mebeli-posle-pereezda-checklist/)
+
+    Категория: Переезд. Практические советы по теме материала и типовым задачам.
+2. ![Укладка плитки](/assets/services/tile.webp)
+
+    *29.03.2025*
+
+    [Как проверить качество электромонтажных работ](/blog/kak-proverit-kachestvo-elektromontazhnyh-rabot/)
+
+    Категория: Контроль качества. Практические советы по теме материала и типовым задачам.
+3. ![Ремонт квартир](/assets/services/renovation.webp)
+
+    *18.02.2025*
+
+    [5 ошибок при выборе мастера по сантехнике](/blog/5-oshibok-pri-vybore-mastera-po-santehnike/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

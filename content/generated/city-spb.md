@@ -22,13 +22,13 @@ og_variant: "default"
 
 ## Все услуги в Санкт-Петербурге
 
-- [Ремонт квартир в Санкт-Петербурге](/np-seo-case/spb/remont-kvartir/)
-- [Ремонт ванной комнаты в Санкт-Петербурге](/np-seo-case/spb/remont-vannoj/)
-- [Укладка плитки в Санкт-Петербурге](/np-seo-case/spb/ukladka-plitki/)
-- [Установка сантехники в Санкт-Петербурге](/np-seo-case/spb/ustanovka-santehniki/)
-- [Услуги электрика в Санкт-Петербурге](/np-seo-case/spb/uslugi-elektrika/)
-- [Сборка мебели в Санкт-Петербурге](/np-seo-case/spb/sborka-mebeli/)
-- [Натяжные потолки в Санкт-Петербурге](/np-seo-case/spb/natyazhnye-potolki/)
-- [Замена окон в Санкт-Петербурге](/np-seo-case/spb/zamena-okon/)
-- [Клининг квартир в Санкт-Петербурге](/np-seo-case/spb/klining-kvartir/)
-- [Установка дверей в Санкт-Петербурге](/np-seo-case/spb/ustanovka-dverej/)
+- [Ремонт квартир в Санкт-Петербурге](/spb/remont-kvartir/)
+- [Ремонт ванной комнаты в Санкт-Петербурге](/spb/remont-vannoj/)
+- [Укладка плитки в Санкт-Петербурге](/spb/ukladka-plitki/)
+- [Установка сантехники в Санкт-Петербурге](/spb/ustanovka-santehniki/)
+- [Услуги электрика в Санкт-Петербурге](/spb/uslugi-elektrika/)
+- [Сборка мебели в Санкт-Петербурге](/spb/sborka-mebeli/)
+- [Натяжные потолки в Санкт-Петербурге](/spb/natyazhnye-potolki/)
+- [Замена окон в Санкт-Петербурге](/spb/zamena-okon/)
+- [Клининг квартир в Санкт-Петербурге](/spb/klining-kvartir/)
+- [Установка дверей в Санкт-Петербурге](/spb/ustanovka-dverej/)

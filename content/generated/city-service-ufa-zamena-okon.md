@@ -9,49 +9,57 @@ city_name: "Уфа"
 city_name_in: "Уфе"
 service_slug: "zamena-okon"
 service_name: "Замена окон"
+service_image: "windows.webp"
 price_min: 6700
 price_max: 18100
 og_variant: "city_service"
 ---
-# Замена окон в Уфе
-
-Услуга доступна в Уфе. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 6 700 ₽**
-- Верхний диапазон: **до 18 100 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Уфе
 
-- [Ремонт квартир](/np-seo-case/ufa/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/ufa/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/ufa/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/ufa/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/ufa/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/ufa/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/ufa/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/ufa/zamena-okon/)
-- [Клининг квартир](/np-seo-case/ufa/klining-kvartir/)
-- [Установка дверей](/np-seo-case/ufa/ustanovka-dverej/)
+- [Ремонт квартир](/ufa/remont-kvartir/)
+- [Ремонт ванной комнаты](/ufa/remont-vannoj/)
+- [Укладка плитки](/ufa/ukladka-plitki/)
+- [Установка сантехники](/ufa/ustanovka-santehniki/)
+- [Услуги электрика](/ufa/uslugi-elektrika/)
+- [Сборка мебели](/ufa/sborka-mebeli/)
+- [Натяжные потолки](/ufa/natyazhnye-potolki/)
+- [Замена окон](/ufa/zamena-okon/)
+- [Клининг квартир](/ufa/klining-kvartir/)
+- [Установка дверей](/ufa/ustanovka-dverej/)
 
 ## Замена окон в других городах
 
-- [Замена окон в Перми](/np-seo-case/perm/zamena-okon/)
-- [Замена окон в Воронеже](/np-seo-case/voronezh/zamena-okon/)
-- [Замена окон в Волгограде](/np-seo-case/volgograd/zamena-okon/)
-- [Замена окон в Омске](/np-seo-case/omsk/zamena-okon/)
-- [Замена окон в Москве](/np-seo-case/moskva/zamena-okon/)
-- [Замена окон в Санкт-Петербурге](/np-seo-case/spb/zamena-okon/)
-- [Замена окон в Казани](/np-seo-case/kazan/zamena-okon/)
+- [Замена окон в Перми](/perm/zamena-okon/)
+- [Замена окон в Воронеже](/voronezh/zamena-okon/)
+- [Замена окон в Волгограде](/volgograd/zamena-okon/)
+- [Замена окон в Омске](/omsk/zamena-okon/)
+- [Замена окон в Москве](/moskva/zamena-okon/)
+- [Замена окон в Санкт-Петербурге](/spb/zamena-okon/)
+- [Замена окон в Казани](/kazan/zamena-okon/)
 
 ## Полезные статьи
 
-- [Замена окон в зимний период: что учесть](/np-seo-case/blog/zamena-okon-v-zimnij-period-chto-uchest/)
-- [Натяжные потолки: как выбрать материал](/np-seo-case/blog/natyazhnye-potolki-kak-vybrat-material/)
-- [Минимальный набор работ при косметическом ремонте](/np-seo-case/blog/minimalnyj-nabor-rabot-pri-kosmeticheskom-remonte/)
+1. ![Замена окон](/assets/services/windows.webp)
+
+    *06.08.2025*
+
+    [Приемка работ: пошаговая инструкция](/blog/priemka-rabot-poshagovaya-instrukciya/)
+
+    Категория: Контроль качества. Практические советы по теме материала и типовым задачам.
+2. ![Сборка мебели](/assets/services/furniture.webp)
+
+    *28.06.2025*
+
+    [Минимальный набор работ при косметическом ремонте](/blog/minimalnyj-nabor-rabot-pri-kosmeticheskom-remonte/)
+
+    Категория: Ремонт. Практические советы по теме материала и типовым задачам.
+3. ![Услуги электрика](/assets/services/electricity.webp)
+
+    *20.05.2025*
+
+    [Натяжные потолки: как выбрать материал](/blog/natyazhnye-potolki-kak-vybrat-material/)
+
+    Категория: Материалы. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

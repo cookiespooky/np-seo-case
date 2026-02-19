@@ -6,18 +6,21 @@ description: "Практический материал: как проверит
 date: "2025-03-29"
 page_kind: "article"
 og_variant: "article"
-city_slug: "moskva"
-city_name: "Москва"
-city_name_in: "Москве"
-service_slug: "sborka-mebeli"
-service_name: "Сборка мебели"
-service_slug_alt: "ustanovka-dverej"
-service_name_alt: "Установка дверей"
+city_slug: "novosibirsk"
+city_name: "Новосибирск"
+city_name_in: "Новосибирске"
+service_slug: "ukladka-plitki"
+service_name: "Укладка плитки"
+service_image: "tile.webp"
+service_slug_alt: "ustanovka-santehniki"
+service_name_alt: "Установка сантехники"
 date_modified: "2026-02-19"
 ---
 # Как проверить качество электромонтажных работ
 
-Категория: **Контроль качества**. Дата публикации: **2025-03-29**.
+![Укладка плитки](/assets/services/tile.webp)
+
+Категория: **Контроль качества**. Дата публикации: **29.03.2025**.
 
 При планировании работ важно заранее определить объем задач, последовательность этапов
 и критерии контроля результата. В реальных проектах на итоговый бюджет влияют
@@ -29,7 +32,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Сборка мебели в Москве](/np-seo-case/moskva/sborka-mebeli/)
-- [Установка дверей в Москве](/np-seo-case/moskva/ustanovka-dverej/)
-- [Сборка мебели](/np-seo-case/services/sborka-mebeli/)
-- [Услуги в Москве](/np-seo-case/cities/moskva/)
+- [Укладка плитки в Новосибирске](/novosibirsk/ukladka-plitki/)
+- [Установка сантехники в Новосибирске](/novosibirsk/ustanovka-santehniki/)
+- [Укладка плитки](/services/ukladka-plitki/)
+- [Услуги в Новосибирске](/cities/novosibirsk/)

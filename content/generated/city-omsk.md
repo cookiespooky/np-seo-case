@@ -22,13 +22,13 @@ og_variant: "default"
 
 ## Все услуги в Омске
 
-- [Ремонт квартир в Омске](/np-seo-case/omsk/remont-kvartir/)
-- [Ремонт ванной комнаты в Омске](/np-seo-case/omsk/remont-vannoj/)
-- [Укладка плитки в Омске](/np-seo-case/omsk/ukladka-plitki/)
-- [Установка сантехники в Омске](/np-seo-case/omsk/ustanovka-santehniki/)
-- [Услуги электрика в Омске](/np-seo-case/omsk/uslugi-elektrika/)
-- [Сборка мебели в Омске](/np-seo-case/omsk/sborka-mebeli/)
-- [Натяжные потолки в Омске](/np-seo-case/omsk/natyazhnye-potolki/)
-- [Замена окон в Омске](/np-seo-case/omsk/zamena-okon/)
-- [Клининг квартир в Омске](/np-seo-case/omsk/klining-kvartir/)
-- [Установка дверей в Омске](/np-seo-case/omsk/ustanovka-dverej/)
+- [Ремонт квартир в Омске](/omsk/remont-kvartir/)
+- [Ремонт ванной комнаты в Омске](/omsk/remont-vannoj/)
+- [Укладка плитки в Омске](/omsk/ukladka-plitki/)
+- [Установка сантехники в Омске](/omsk/ustanovka-santehniki/)
+- [Услуги электрика в Омске](/omsk/uslugi-elektrika/)
+- [Сборка мебели в Омске](/omsk/sborka-mebeli/)
+- [Натяжные потолки в Омске](/omsk/natyazhnye-potolki/)
+- [Замена окон в Омске](/omsk/zamena-okon/)
+- [Клининг квартир в Омске](/omsk/klining-kvartir/)
+- [Установка дверей в Омске](/omsk/ustanovka-dverej/)

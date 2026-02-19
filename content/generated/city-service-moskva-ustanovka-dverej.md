@@ -9,49 +9,57 @@ city_name: "Москва"
 city_name_in: "Москве"
 service_slug: "ustanovka-dverej"
 service_name: "Установка дверей"
+service_image: "doors.webp"
 price_min: 4100
 price_max: 12500
 og_variant: "city_service"
 ---
-# Установка дверей в Москве
-
-Услуга доступна в Москве. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 4 100 ₽**
-- Верхний диапазон: **до 12 500 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Москве
 
-- [Ремонт квартир](/np-seo-case/moskva/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/moskva/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/moskva/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/moskva/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/moskva/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/moskva/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/moskva/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/moskva/zamena-okon/)
-- [Клининг квартир](/np-seo-case/moskva/klining-kvartir/)
-- [Установка дверей](/np-seo-case/moskva/ustanovka-dverej/)
+- [Ремонт квартир](/moskva/remont-kvartir/)
+- [Ремонт ванной комнаты](/moskva/remont-vannoj/)
+- [Укладка плитки](/moskva/ukladka-plitki/)
+- [Установка сантехники](/moskva/ustanovka-santehniki/)
+- [Услуги электрика](/moskva/uslugi-elektrika/)
+- [Сборка мебели](/moskva/sborka-mebeli/)
+- [Натяжные потолки](/moskva/natyazhnye-potolki/)
+- [Замена окон](/moskva/zamena-okon/)
+- [Клининг квартир](/moskva/klining-kvartir/)
+- [Установка дверей](/moskva/ustanovka-dverej/)
 
 ## Установка дверей в других городах
 
-- [Установка дверей в Санкт-Петербурге](/np-seo-case/spb/ustanovka-dverej/)
-- [Установка дверей в Казани](/np-seo-case/kazan/ustanovka-dverej/)
-- [Установка дверей в Екатеринбурге](/np-seo-case/ekaterinburg/ustanovka-dverej/)
-- [Установка дверей в Новосибирске](/np-seo-case/novosibirsk/ustanovka-dverej/)
-- [Установка дверей в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/ustanovka-dverej/)
-- [Установка дверей в Краснодаре](/np-seo-case/krasnodar/ustanovka-dverej/)
-- [Установка дверей в Ростове-на-Дону](/np-seo-case/rostov-na-donu/ustanovka-dverej/)
+- [Установка дверей в Санкт-Петербурге](/spb/ustanovka-dverej/)
+- [Установка дверей в Казани](/kazan/ustanovka-dverej/)
+- [Установка дверей в Екатеринбурге](/ekaterinburg/ustanovka-dverej/)
+- [Установка дверей в Новосибирске](/novosibirsk/ustanovka-dverej/)
+- [Установка дверей в Нижнем Новгороде](/nizhniy-novgorod/ustanovka-dverej/)
+- [Установка дверей в Краснодаре](/krasnodar/ustanovka-dverej/)
+- [Установка дверей в Ростове-на-Дону](/rostov-na-donu/ustanovka-dverej/)
 
 ## Полезные статьи
 
-- [Замена окон в зимний период: что учесть](/np-seo-case/blog/zamena-okon-v-zimnij-period-chto-uchest/)
-- [Натяжные потолки: как выбрать материал](/np-seo-case/blog/natyazhnye-potolki-kak-vybrat-material/)
-- [Минимальный набор работ при косметическом ремонте](/np-seo-case/blog/minimalnyj-nabor-rabot-pri-kosmeticheskom-remonte/)
+1. ![Замена окон](/assets/services/windows.webp)
+
+    *06.08.2025*
+
+    [Приемка работ: пошаговая инструкция](/blog/priemka-rabot-poshagovaya-instrukciya/)
+
+    Категория: Контроль качества. Практические советы по теме материала и типовым задачам.
+2. ![Сборка мебели](/assets/services/furniture.webp)
+
+    *28.06.2025*
+
+    [Минимальный набор работ при косметическом ремонте](/blog/minimalnyj-nabor-rabot-pri-kosmeticheskom-remonte/)
+
+    Категория: Ремонт. Практические советы по теме материала и типовым задачам.
+3. ![Услуги электрика](/assets/services/electricity.webp)
+
+    *20.05.2025*
+
+    [Натяжные потолки: как выбрать материал](/blog/natyazhnye-potolki-kak-vybrat-material/)
+
+    Категория: Материалы. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

@@ -9,49 +9,57 @@ city_name: "Челябинск"
 city_name_in: "Челябинске"
 service_slug: "remont-kvartir"
 service_name: "Ремонт квартир"
+service_image: "renovation.webp"
 price_min: 5300
 price_max: 14100
 og_variant: "city_service"
 ---
-# Ремонт квартир в Челябинске
-
-Услуга доступна в Челябинске. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 5 300 ₽**
-- Верхний диапазон: **до 14 100 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Челябинске
 
-- [Ремонт квартир](/np-seo-case/chelyabinsk/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/chelyabinsk/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/chelyabinsk/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/chelyabinsk/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/chelyabinsk/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/chelyabinsk/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/chelyabinsk/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/chelyabinsk/zamena-okon/)
-- [Клининг квартир](/np-seo-case/chelyabinsk/klining-kvartir/)
-- [Установка дверей](/np-seo-case/chelyabinsk/ustanovka-dverej/)
+- [Ремонт квартир](/chelyabinsk/remont-kvartir/)
+- [Ремонт ванной комнаты](/chelyabinsk/remont-vannoj/)
+- [Укладка плитки](/chelyabinsk/ukladka-plitki/)
+- [Установка сантехники](/chelyabinsk/ustanovka-santehniki/)
+- [Услуги электрика](/chelyabinsk/uslugi-elektrika/)
+- [Сборка мебели](/chelyabinsk/sborka-mebeli/)
+- [Натяжные потолки](/chelyabinsk/natyazhnye-potolki/)
+- [Замена окон](/chelyabinsk/zamena-okon/)
+- [Клининг квартир](/chelyabinsk/klining-kvartir/)
+- [Установка дверей](/chelyabinsk/ustanovka-dverej/)
 
 ## Ремонт квартир в других городах
 
-- [Ремонт квартир в Уфе](/np-seo-case/ufa/remont-kvartir/)
-- [Ремонт квартир в Перми](/np-seo-case/perm/remont-kvartir/)
-- [Ремонт квартир в Воронеже](/np-seo-case/voronezh/remont-kvartir/)
-- [Ремонт квартир в Волгограде](/np-seo-case/volgograd/remont-kvartir/)
-- [Ремонт квартир в Омске](/np-seo-case/omsk/remont-kvartir/)
-- [Ремонт квартир в Москве](/np-seo-case/moskva/remont-kvartir/)
-- [Ремонт квартир в Санкт-Петербурге](/np-seo-case/spb/remont-kvartir/)
+- [Ремонт квартир в Уфе](/ufa/remont-kvartir/)
+- [Ремонт квартир в Перми](/perm/remont-kvartir/)
+- [Ремонт квартир в Воронеже](/voronezh/remont-kvartir/)
+- [Ремонт квартир в Волгограде](/volgograd/remont-kvartir/)
+- [Ремонт квартир в Омске](/omsk/remont-kvartir/)
+- [Ремонт квартир в Москве](/moskva/remont-kvartir/)
+- [Ремонт квартир в Санкт-Петербурге](/spb/remont-kvartir/)
 
 ## Полезные статьи
 
-- [Установка дверей: как избежать перекоса](/np-seo-case/blog/ustanovka-dverej-kak-izbezhat-perekosa/)
-- [Как рассчитать бюджет на ремонт в регионе](/np-seo-case/blog/kak-rasschitat-byudzhet-na-remont-v-regione/)
-- [Как выбрать сервис по отзывам и кейсам](/np-seo-case/blog/kak-vybrat-servis-po-otzyvam-i-kejsam/)
+1. ![Сборка мебели](/assets/services/furniture.webp)
+
+    *15.06.2025*
+
+    [Как сравнивать коммерческие предложения по услугам](/blog/kak-sravnivat-kommercheskie-predlozheniya/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
+2. ![Установка сантехники](/assets/services/plumbery.webp)
+
+    *07.05.2025*
+
+    [Сборка мебели после переезда: чек-лист](/blog/sborka-mebeli-posle-pereezda-checklist/)
+
+    Категория: Переезд. Практические советы по теме материала и типовым задачам.
+3. ![Укладка плитки](/assets/services/tile.webp)
+
+    *29.03.2025*
+
+    [Как проверить качество электромонтажных работ](/blog/kak-proverit-kachestvo-elektromontazhnyh-rabot/)
+
+    Категория: Контроль качества. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

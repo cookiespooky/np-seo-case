@@ -9,49 +9,57 @@ city_name: "Новосибирск"
 city_name_in: "Новосибирске"
 service_slug: "zamena-okon"
 service_name: "Замена окон"
+service_image: "windows.webp"
 price_min: 7200
 price_max: 19600
 og_variant: "city_service"
 ---
-# Замена окон в Новосибирске
-
-Услуга доступна в Новосибирске. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 7 200 ₽**
-- Верхний диапазон: **до 19 600 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Новосибирске
 
-- [Ремонт квартир](/np-seo-case/novosibirsk/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/novosibirsk/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/novosibirsk/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/novosibirsk/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/novosibirsk/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/novosibirsk/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/novosibirsk/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/novosibirsk/zamena-okon/)
-- [Клининг квартир](/np-seo-case/novosibirsk/klining-kvartir/)
-- [Установка дверей](/np-seo-case/novosibirsk/ustanovka-dverej/)
+- [Ремонт квартир](/novosibirsk/remont-kvartir/)
+- [Ремонт ванной комнаты](/novosibirsk/remont-vannoj/)
+- [Укладка плитки](/novosibirsk/ukladka-plitki/)
+- [Установка сантехники](/novosibirsk/ustanovka-santehniki/)
+- [Услуги электрика](/novosibirsk/uslugi-elektrika/)
+- [Сборка мебели](/novosibirsk/sborka-mebeli/)
+- [Натяжные потолки](/novosibirsk/natyazhnye-potolki/)
+- [Замена окон](/novosibirsk/zamena-okon/)
+- [Клининг квартир](/novosibirsk/klining-kvartir/)
+- [Установка дверей](/novosibirsk/ustanovka-dverej/)
 
 ## Замена окон в других городах
 
-- [Замена окон в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/zamena-okon/)
-- [Замена окон в Краснодаре](/np-seo-case/krasnodar/zamena-okon/)
-- [Замена окон в Ростове-на-Дону](/np-seo-case/rostov-na-donu/zamena-okon/)
-- [Замена окон в Самаре](/np-seo-case/samara/zamena-okon/)
-- [Замена окон в Челябинске](/np-seo-case/chelyabinsk/zamena-okon/)
-- [Замена окон в Уфе](/np-seo-case/ufa/zamena-okon/)
-- [Замена окон в Перми](/np-seo-case/perm/zamena-okon/)
+- [Замена окон в Нижнем Новгороде](/nizhniy-novgorod/zamena-okon/)
+- [Замена окон в Краснодаре](/krasnodar/zamena-okon/)
+- [Замена окон в Ростове-на-Дону](/rostov-na-donu/zamena-okon/)
+- [Замена окон в Самаре](/samara/zamena-okon/)
+- [Замена окон в Челябинске](/chelyabinsk/zamena-okon/)
+- [Замена окон в Уфе](/ufa/zamena-okon/)
+- [Замена окон в Перми](/perm/zamena-okon/)
 
 ## Полезные статьи
 
-- [Как работает модель «услуга × город» в каталоге](/np-seo-case/blog/kak-rabotaet-model-usluga-gorod-v-kataloge/)
-- [От чего зависит стоимость укладки плитки](/np-seo-case/blog/ot-chego-zavisit-stoimost-ukladki-plitki/)
-- [Замена окон в зимний период: что учесть](/np-seo-case/blog/zamena-okon-v-zimnij-period-chto-uchest/)
+1. ![Ремонт квартир](/assets/services/renovation.webp)
+
+    *05.02.2025*
+
+    [Как оценить смету перед ремонтом квартиры](/blog/kak-ocenit-smetu-pered-remontom-kvartiry/)
+
+    Категория: Смета и бюджет. Практические советы по теме материала и типовым задачам.
+2. ![Клининг квартир](/assets/services/cleaning.webp)
+
+    *14.09.2025*
+
+    [Типовые вопросы по гарантии на работы](/blog/tipovye-voprosy-po-garantii-na-raboty/)
+
+    Категория: Гарантии. Практические советы по теме материала и типовым задачам.
+3. ![Замена окон](/assets/services/windows.webp)
+
+    *06.08.2025*
+
+    [Приемка работ: пошаговая инструкция](/blog/priemka-rabot-poshagovaya-instrukciya/)
+
+    Категория: Контроль качества. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

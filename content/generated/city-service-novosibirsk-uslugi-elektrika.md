@@ -9,49 +9,57 @@ city_name: "Новосибирск"
 city_name_in: "Новосибирске"
 service_slug: "uslugi-elektrika"
 service_name: "Услуги электрика"
+service_image: "electricity.webp"
 price_min: 1900
 price_max: 7200
 og_variant: "city_service"
 ---
-# Услуги электрика в Новосибирске
-
-Услуга доступна в Новосибирске. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 1 900 ₽**
-- Верхний диапазон: **до 7 200 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Новосибирске
 
-- [Ремонт квартир](/np-seo-case/novosibirsk/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/novosibirsk/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/novosibirsk/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/novosibirsk/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/novosibirsk/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/novosibirsk/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/novosibirsk/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/novosibirsk/zamena-okon/)
-- [Клининг квартир](/np-seo-case/novosibirsk/klining-kvartir/)
-- [Установка дверей](/np-seo-case/novosibirsk/ustanovka-dverej/)
+- [Ремонт квартир](/novosibirsk/remont-kvartir/)
+- [Ремонт ванной комнаты](/novosibirsk/remont-vannoj/)
+- [Укладка плитки](/novosibirsk/ukladka-plitki/)
+- [Установка сантехники](/novosibirsk/ustanovka-santehniki/)
+- [Услуги электрика](/novosibirsk/uslugi-elektrika/)
+- [Сборка мебели](/novosibirsk/sborka-mebeli/)
+- [Натяжные потолки](/novosibirsk/natyazhnye-potolki/)
+- [Замена окон](/novosibirsk/zamena-okon/)
+- [Клининг квартир](/novosibirsk/klining-kvartir/)
+- [Установка дверей](/novosibirsk/ustanovka-dverej/)
 
 ## Услуги электрика в других городах
 
-- [Услуги электрика в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/uslugi-elektrika/)
-- [Услуги электрика в Краснодаре](/np-seo-case/krasnodar/uslugi-elektrika/)
-- [Услуги электрика в Ростове-на-Дону](/np-seo-case/rostov-na-donu/uslugi-elektrika/)
-- [Услуги электрика в Самаре](/np-seo-case/samara/uslugi-elektrika/)
-- [Услуги электрика в Челябинске](/np-seo-case/chelyabinsk/uslugi-elektrika/)
-- [Услуги электрика в Уфе](/np-seo-case/ufa/uslugi-elektrika/)
-- [Услуги электрика в Перми](/np-seo-case/perm/uslugi-elektrika/)
+- [Услуги электрика в Нижнем Новгороде](/nizhniy-novgorod/uslugi-elektrika/)
+- [Услуги электрика в Краснодаре](/krasnodar/uslugi-elektrika/)
+- [Услуги электрика в Ростове-на-Дону](/rostov-na-donu/uslugi-elektrika/)
+- [Услуги электрика в Самаре](/samara/uslugi-elektrika/)
+- [Услуги электрика в Челябинске](/chelyabinsk/uslugi-elektrika/)
+- [Услуги электрика в Уфе](/ufa/uslugi-elektrika/)
+- [Услуги электрика в Перми](/perm/uslugi-elektrika/)
 
 ## Полезные статьи
 
-- [Как проверить качество электромонтажных работ](/np-seo-case/blog/kak-proverit-kachestvo-elektromontazhnyh-rabot/)
-- [Сборка мебели после переезда: чек-лист](/np-seo-case/blog/sborka-mebeli-posle-pereezda-checklist/)
-- [Как сравнивать коммерческие предложения по услугам](/np-seo-case/blog/kak-sravnivat-kommercheskie-predlozheniya/)
+1. ![Замена окон](/assets/services/windows.webp)
+
+    *19.08.2025*
+
+    [Как выбрать сервис по отзывам и кейсам](/blog/kak-vybrat-servis-po-otzyvam-i-kejsam/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
+2. ![Натяжные потолки](/assets/services/ceiling.webp)
+
+    *11.07.2025*
+
+    [Как рассчитать бюджет на ремонт в регионе](/blog/kak-rasschitat-byudzhet-na-remont-v-regione/)
+
+    Категория: Бюджет. Практические советы по теме материала и типовым задачам.
+3. ![Услуги электрика](/assets/services/electricity.webp)
+
+    *02.06.2025*
+
+    [Установка дверей: как избежать перекоса](/blog/ustanovka-dverej-kak-izbezhat-perekosa/)
+
+    Категория: Монтаж. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

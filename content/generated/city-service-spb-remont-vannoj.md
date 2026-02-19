@@ -9,49 +9,57 @@ city_name: "Санкт-Петербург"
 city_name_in: "Санкт-Петербурге"
 service_slug: "remont-vannoj"
 service_name: "Ремонт ванной комнаты"
+service_image: "bathroom.webp"
 price_min: 8300
 price_max: 21000
 og_variant: "city_service"
 ---
-# Ремонт ванной комнаты в Санкт-Петербурге
-
-Услуга доступна в Санкт-Петербурге. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 8 300 ₽**
-- Верхний диапазон: **до 21 000 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Санкт-Петербурге
 
-- [Ремонт квартир](/np-seo-case/spb/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/spb/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/spb/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/spb/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/spb/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/spb/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/spb/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/spb/zamena-okon/)
-- [Клининг квартир](/np-seo-case/spb/klining-kvartir/)
-- [Установка дверей](/np-seo-case/spb/ustanovka-dverej/)
+- [Ремонт квартир](/spb/remont-kvartir/)
+- [Ремонт ванной комнаты](/spb/remont-vannoj/)
+- [Укладка плитки](/spb/ukladka-plitki/)
+- [Установка сантехники](/spb/ustanovka-santehniki/)
+- [Услуги электрика](/spb/uslugi-elektrika/)
+- [Сборка мебели](/spb/sborka-mebeli/)
+- [Натяжные потолки](/spb/natyazhnye-potolki/)
+- [Замена окон](/spb/zamena-okon/)
+- [Клининг квартир](/spb/klining-kvartir/)
+- [Установка дверей](/spb/ustanovka-dverej/)
 
 ## Ремонт ванной комнаты в других городах
 
-- [Ремонт ванной комнаты в Казани](/np-seo-case/kazan/remont-vannoj/)
-- [Ремонт ванной комнаты в Екатеринбурге](/np-seo-case/ekaterinburg/remont-vannoj/)
-- [Ремонт ванной комнаты в Новосибирске](/np-seo-case/novosibirsk/remont-vannoj/)
-- [Ремонт ванной комнаты в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/remont-vannoj/)
-- [Ремонт ванной комнаты в Краснодаре](/np-seo-case/krasnodar/remont-vannoj/)
-- [Ремонт ванной комнаты в Ростове-на-Дону](/np-seo-case/rostov-na-donu/remont-vannoj/)
-- [Ремонт ванной комнаты в Самаре](/np-seo-case/samara/remont-vannoj/)
+- [Ремонт ванной комнаты в Казани](/kazan/remont-vannoj/)
+- [Ремонт ванной комнаты в Екатеринбурге](/ekaterinburg/remont-vannoj/)
+- [Ремонт ванной комнаты в Новосибирске](/novosibirsk/remont-vannoj/)
+- [Ремонт ванной комнаты в Нижнем Новгороде](/nizhniy-novgorod/remont-vannoj/)
+- [Ремонт ванной комнаты в Краснодаре](/krasnodar/remont-vannoj/)
+- [Ремонт ванной комнаты в Ростове-на-Дону](/rostov-na-donu/remont-vannoj/)
+- [Ремонт ванной комнаты в Самаре](/samara/remont-vannoj/)
 
 ## Полезные статьи
 
-- [Сроки ремонта ванной комнаты по этапам](/np-seo-case/blog/sroki-remonta-vannoj-komnaty-po-etapam/)
-- [Установка дверей: как избежать перекоса](/np-seo-case/blog/ustanovka-dverej-kak-izbezhat-perekosa/)
-- [Как рассчитать бюджет на ремонт в регионе](/np-seo-case/blog/kak-rasschitat-byudzhet-na-remont-v-regione/)
+1. ![Натяжные потолки](/assets/services/ceiling.webp)
+
+    *24.07.2025*
+
+    [Как составить план работ для бригады](/blog/kak-sostavit-plan-rabot-dlya-brigady/)
+
+    Категория: Организация. Практические советы по теме материала и типовым задачам.
+2. ![Сборка мебели](/assets/services/furniture.webp)
+
+    *15.06.2025*
+
+    [Как сравнивать коммерческие предложения по услугам](/blog/kak-sravnivat-kommercheskie-predlozheniya/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
+3. ![Установка сантехники](/assets/services/plumbery.webp)
+
+    *07.05.2025*
+
+    [Сборка мебели после переезда: чек-лист](/blog/sborka-mebeli-posle-pereezda-checklist/)
+
+    Категория: Переезд. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

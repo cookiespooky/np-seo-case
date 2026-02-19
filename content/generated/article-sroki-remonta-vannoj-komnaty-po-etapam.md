@@ -6,18 +6,21 @@ description: "Практический материал: сроки ремонт
 date: "2025-04-24"
 page_kind: "article"
 og_variant: "article"
-city_slug: "volgograd"
-city_name: "Волгоград"
-city_name_in: "Волгограде"
-service_slug: "ustanovka-dverej"
-service_name: "Установка дверей"
-service_slug_alt: "ustanovka-santehniki"
-service_name_alt: "Установка сантехники"
+city_slug: "krasnodar"
+city_name: "Краснодар"
+city_name_in: "Краснодаре"
+service_slug: "ustanovka-santehniki"
+service_name: "Установка сантехники"
+service_image: "plumbery.webp"
+service_slug_alt: "uslugi-elektrika"
+service_name_alt: "Услуги электрика"
 date_modified: "2026-02-19"
 ---
 # Сроки ремонта ванной комнаты по этапам
 
-Категория: **Сроки**. Дата публикации: **2025-04-24**.
+![Установка сантехники](/assets/services/plumbery.webp)
+
+Категория: **Сроки**. Дата публикации: **24.04.2025**.
 
 При планировании работ важно заранее определить объем задач, последовательность этапов
 и критерии контроля результата. В реальных проектах на итоговый бюджет влияют
@@ -29,7 +32,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Установка дверей в Волгограде](/np-seo-case/volgograd/ustanovka-dverej/)
-- [Установка сантехники в Волгограде](/np-seo-case/volgograd/ustanovka-santehniki/)
-- [Установка дверей](/np-seo-case/services/ustanovka-dverej/)
-- [Услуги в Волгограде](/np-seo-case/cities/volgograd/)
+- [Установка сантехники в Краснодаре](/krasnodar/ustanovka-santehniki/)
+- [Услуги электрика в Краснодаре](/krasnodar/uslugi-elektrika/)
+- [Установка сантехники](/services/ustanovka-santehniki/)
+- [Услуги в Краснодаре](/cities/krasnodar/)

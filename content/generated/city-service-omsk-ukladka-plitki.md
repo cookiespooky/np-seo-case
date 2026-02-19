@@ -9,49 +9,57 @@ city_name: "Омск"
 city_name_in: "Омске"
 service_slug: "ukladka-plitki"
 service_name: "Укладка плитки"
+service_image: "tile.webp"
 price_min: 1500
 price_max: 3900
 og_variant: "city_service"
 ---
-# Укладка плитки в Омске
-
-Услуга доступна в Омске. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 1 500 ₽**
-- Верхний диапазон: **до 3 900 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Омске
 
-- [Ремонт квартир](/np-seo-case/omsk/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/omsk/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/omsk/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/omsk/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/omsk/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/omsk/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/omsk/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/omsk/zamena-okon/)
-- [Клининг квартир](/np-seo-case/omsk/klining-kvartir/)
-- [Установка дверей](/np-seo-case/omsk/ustanovka-dverej/)
+- [Ремонт квартир](/omsk/remont-kvartir/)
+- [Ремонт ванной комнаты](/omsk/remont-vannoj/)
+- [Укладка плитки](/omsk/ukladka-plitki/)
+- [Установка сантехники](/omsk/ustanovka-santehniki/)
+- [Услуги электрика](/omsk/uslugi-elektrika/)
+- [Сборка мебели](/omsk/sborka-mebeli/)
+- [Натяжные потолки](/omsk/natyazhnye-potolki/)
+- [Замена окон](/omsk/zamena-okon/)
+- [Клининг квартир](/omsk/klining-kvartir/)
+- [Установка дверей](/omsk/ustanovka-dverej/)
 
 ## Укладка плитки в других городах
 
-- [Укладка плитки в Москве](/np-seo-case/moskva/ukladka-plitki/)
-- [Укладка плитки в Санкт-Петербурге](/np-seo-case/spb/ukladka-plitki/)
-- [Укладка плитки в Казани](/np-seo-case/kazan/ukladka-plitki/)
-- [Укладка плитки в Екатеринбурге](/np-seo-case/ekaterinburg/ukladka-plitki/)
-- [Укладка плитки в Новосибирске](/np-seo-case/novosibirsk/ukladka-plitki/)
-- [Укладка плитки в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/ukladka-plitki/)
-- [Укладка плитки в Краснодаре](/np-seo-case/krasnodar/ukladka-plitki/)
+- [Укладка плитки в Москве](/moskva/ukladka-plitki/)
+- [Укладка плитки в Санкт-Петербурге](/spb/ukladka-plitki/)
+- [Укладка плитки в Казани](/kazan/ukladka-plitki/)
+- [Укладка плитки в Екатеринбурге](/ekaterinburg/ukladka-plitki/)
+- [Укладка плитки в Новосибирске](/novosibirsk/ukladka-plitki/)
+- [Укладка плитки в Нижнем Новгороде](/nizhniy-novgorod/ukladka-plitki/)
+- [Укладка плитки в Краснодаре](/krasnodar/ukladka-plitki/)
 
 ## Полезные статьи
 
-- [Как проверить качество электромонтажных работ](/np-seo-case/blog/kak-proverit-kachestvo-elektromontazhnyh-rabot/)
-- [Сборка мебели после переезда: чек-лист](/np-seo-case/blog/sborka-mebeli-posle-pereezda-checklist/)
-- [Как сравнивать коммерческие предложения по услугам](/np-seo-case/blog/kak-sravnivat-kommercheskie-predlozheniya/)
+1. ![Замена окон](/assets/services/windows.webp)
+
+    *19.08.2025*
+
+    [Как выбрать сервис по отзывам и кейсам](/blog/kak-vybrat-servis-po-otzyvam-i-kejsam/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
+2. ![Натяжные потолки](/assets/services/ceiling.webp)
+
+    *11.07.2025*
+
+    [Как рассчитать бюджет на ремонт в регионе](/blog/kak-rasschitat-byudzhet-na-remont-v-regione/)
+
+    Категория: Бюджет. Практические советы по теме материала и типовым задачам.
+3. ![Услуги электрика](/assets/services/electricity.webp)
+
+    *02.06.2025*
+
+    [Установка дверей: как избежать перекоса](/blog/ustanovka-dverej-kak-izbezhat-perekosa/)
+
+    Категория: Монтаж. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

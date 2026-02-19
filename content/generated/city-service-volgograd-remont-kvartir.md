@@ -9,49 +9,57 @@ city_name: "Волгоград"
 city_name_in: "Волгограде"
 service_slug: "remont-kvartir"
 service_name: "Ремонт квартир"
+service_image: "renovation.webp"
 price_min: 5200
 price_max: 13600
 og_variant: "city_service"
 ---
-# Ремонт квартир в Волгограде
-
-Услуга доступна в Волгограде. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 5 200 ₽**
-- Верхний диапазон: **до 13 600 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Волгограде
 
-- [Ремонт квартир](/np-seo-case/volgograd/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/volgograd/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/volgograd/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/volgograd/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/volgograd/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/volgograd/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/volgograd/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/volgograd/zamena-okon/)
-- [Клининг квартир](/np-seo-case/volgograd/klining-kvartir/)
-- [Установка дверей](/np-seo-case/volgograd/ustanovka-dverej/)
+- [Ремонт квартир](/volgograd/remont-kvartir/)
+- [Ремонт ванной комнаты](/volgograd/remont-vannoj/)
+- [Укладка плитки](/volgograd/ukladka-plitki/)
+- [Установка сантехники](/volgograd/ustanovka-santehniki/)
+- [Услуги электрика](/volgograd/uslugi-elektrika/)
+- [Сборка мебели](/volgograd/sborka-mebeli/)
+- [Натяжные потолки](/volgograd/natyazhnye-potolki/)
+- [Замена окон](/volgograd/zamena-okon/)
+- [Клининг квартир](/volgograd/klining-kvartir/)
+- [Установка дверей](/volgograd/ustanovka-dverej/)
 
 ## Ремонт квартир в других городах
 
-- [Ремонт квартир в Омске](/np-seo-case/omsk/remont-kvartir/)
-- [Ремонт квартир в Москве](/np-seo-case/moskva/remont-kvartir/)
-- [Ремонт квартир в Санкт-Петербурге](/np-seo-case/spb/remont-kvartir/)
-- [Ремонт квартир в Казани](/np-seo-case/kazan/remont-kvartir/)
-- [Ремонт квартир в Екатеринбурге](/np-seo-case/ekaterinburg/remont-kvartir/)
-- [Ремонт квартир в Новосибирске](/np-seo-case/novosibirsk/remont-kvartir/)
-- [Ремонт квартир в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/remont-kvartir/)
+- [Ремонт квартир в Омске](/omsk/remont-kvartir/)
+- [Ремонт квартир в Москве](/moskva/remont-kvartir/)
+- [Ремонт квартир в Санкт-Петербурге](/spb/remont-kvartir/)
+- [Ремонт квартир в Казани](/kazan/remont-kvartir/)
+- [Ремонт квартир в Екатеринбурге](/ekaterinburg/remont-kvartir/)
+- [Ремонт квартир в Новосибирске](/novosibirsk/remont-kvartir/)
+- [Ремонт квартир в Нижнем Новгороде](/nizhniy-novgorod/remont-kvartir/)
 
 ## Полезные статьи
 
-- [Как составить план работ для бригады](/np-seo-case/blog/kak-sostavit-plan-rabot-dlya-brigady/)
-- [Когда выгоднее делать клининг после ремонта](/np-seo-case/blog/kogda-vygodnee-delat-klining-posle-remonta/)
-- [Как работает модель «услуга × город» в каталоге](/np-seo-case/blog/kak-rabotaet-model-usluga-gorod-v-kataloge/)
+1. ![Установка сантехники](/assets/services/plumbery.webp)
+
+    *24.04.2025*
+
+    [Сроки ремонта ванной комнаты по этапам](/blog/sroki-remonta-vannoj-komnaty-po-etapam/)
+
+    Категория: Сроки. Практические советы по теме материала и типовым задачам.
+2. ![Ремонт ванной комнаты](/assets/services/bathroom.webp)
+
+    *16.03.2025*
+
+    [Как подготовить квартиру к клинингу](/blog/kak-podgotovit-kvartiru-k-kliningu/)
+
+    Категория: Подготовка. Практические советы по теме материала и типовым задачам.
+3. ![Ремонт квартир](/assets/services/renovation.webp)
+
+    *05.02.2025*
+
+    [Как оценить смету перед ремонтом квартиры](/blog/kak-ocenit-smetu-pered-remontom-kvartiry/)
+
+    Категория: Смета и бюджет. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

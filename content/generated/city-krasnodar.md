@@ -22,13 +22,13 @@ og_variant: "default"
 
 ## Все услуги в Краснодаре
 
-- [Ремонт квартир в Краснодаре](/np-seo-case/krasnodar/remont-kvartir/)
-- [Ремонт ванной комнаты в Краснодаре](/np-seo-case/krasnodar/remont-vannoj/)
-- [Укладка плитки в Краснодаре](/np-seo-case/krasnodar/ukladka-plitki/)
-- [Установка сантехники в Краснодаре](/np-seo-case/krasnodar/ustanovka-santehniki/)
-- [Услуги электрика в Краснодаре](/np-seo-case/krasnodar/uslugi-elektrika/)
-- [Сборка мебели в Краснодаре](/np-seo-case/krasnodar/sborka-mebeli/)
-- [Натяжные потолки в Краснодаре](/np-seo-case/krasnodar/natyazhnye-potolki/)
-- [Замена окон в Краснодаре](/np-seo-case/krasnodar/zamena-okon/)
-- [Клининг квартир в Краснодаре](/np-seo-case/krasnodar/klining-kvartir/)
-- [Установка дверей в Краснодаре](/np-seo-case/krasnodar/ustanovka-dverej/)
+- [Ремонт квартир в Краснодаре](/krasnodar/remont-kvartir/)
+- [Ремонт ванной комнаты в Краснодаре](/krasnodar/remont-vannoj/)
+- [Укладка плитки в Краснодаре](/krasnodar/ukladka-plitki/)
+- [Установка сантехники в Краснодаре](/krasnodar/ustanovka-santehniki/)
+- [Услуги электрика в Краснодаре](/krasnodar/uslugi-elektrika/)
+- [Сборка мебели в Краснодаре](/krasnodar/sborka-mebeli/)
+- [Натяжные потолки в Краснодаре](/krasnodar/natyazhnye-potolki/)
+- [Замена окон в Краснодаре](/krasnodar/zamena-okon/)
+- [Клининг квартир в Краснодаре](/krasnodar/klining-kvartir/)
+- [Установка дверей в Краснодаре](/krasnodar/ustanovka-dverej/)

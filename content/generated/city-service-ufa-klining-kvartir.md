@@ -9,49 +9,57 @@ city_name: "Уфа"
 city_name_in: "Уфе"
 service_slug: "klining-kvartir"
 service_name: "Клининг квартир"
+service_image: "cleaning.webp"
 price_min: 2500
 price_max: 8200
 og_variant: "city_service"
 ---
-# Клининг квартир в Уфе
-
-Услуга доступна в Уфе. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 2 500 ₽**
-- Верхний диапазон: **до 8 200 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Уфе
 
-- [Ремонт квартир](/np-seo-case/ufa/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/ufa/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/ufa/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/ufa/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/ufa/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/ufa/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/ufa/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/ufa/zamena-okon/)
-- [Клининг квартир](/np-seo-case/ufa/klining-kvartir/)
-- [Установка дверей](/np-seo-case/ufa/ustanovka-dverej/)
+- [Ремонт квартир](/ufa/remont-kvartir/)
+- [Ремонт ванной комнаты](/ufa/remont-vannoj/)
+- [Укладка плитки](/ufa/ukladka-plitki/)
+- [Установка сантехники](/ufa/ustanovka-santehniki/)
+- [Услуги электрика](/ufa/uslugi-elektrika/)
+- [Сборка мебели](/ufa/sborka-mebeli/)
+- [Натяжные потолки](/ufa/natyazhnye-potolki/)
+- [Замена окон](/ufa/zamena-okon/)
+- [Клининг квартир](/ufa/klining-kvartir/)
+- [Установка дверей](/ufa/ustanovka-dverej/)
 
 ## Клининг квартир в других городах
 
-- [Клининг квартир в Перми](/np-seo-case/perm/klining-kvartir/)
-- [Клининг квартир в Воронеже](/np-seo-case/voronezh/klining-kvartir/)
-- [Клининг квартир в Волгограде](/np-seo-case/volgograd/klining-kvartir/)
-- [Клининг квартир в Омске](/np-seo-case/omsk/klining-kvartir/)
-- [Клининг квартир в Москве](/np-seo-case/moskva/klining-kvartir/)
-- [Клининг квартир в Санкт-Петербурге](/np-seo-case/spb/klining-kvartir/)
-- [Клининг квартир в Казани](/np-seo-case/kazan/klining-kvartir/)
+- [Клининг квартир в Перми](/perm/klining-kvartir/)
+- [Клининг квартир в Воронеже](/voronezh/klining-kvartir/)
+- [Клининг квартир в Волгограде](/volgograd/klining-kvartir/)
+- [Клининг квартир в Омске](/omsk/klining-kvartir/)
+- [Клининг квартир в Москве](/moskva/klining-kvartir/)
+- [Клининг квартир в Санкт-Петербурге](/spb/klining-kvartir/)
+- [Клининг квартир в Казани](/kazan/klining-kvartir/)
 
 ## Полезные статьи
 
-- [Как сравнивать коммерческие предложения по услугам](/np-seo-case/blog/kak-sravnivat-kommercheskie-predlozheniya/)
-- [Как составить план работ для бригады](/np-seo-case/blog/kak-sostavit-plan-rabot-dlya-brigady/)
-- [Когда выгоднее делать клининг после ремонта](/np-seo-case/blog/kogda-vygodnee-delat-klining-posle-remonta/)
+1. ![Услуги электрика](/assets/services/electricity.webp)
+
+    *02.06.2025*
+
+    [Установка дверей: как избежать перекоса](/blog/ustanovka-dverej-kak-izbezhat-perekosa/)
+
+    Категория: Монтаж. Практические советы по теме материала и типовым задачам.
+2. ![Установка сантехники](/assets/services/plumbery.webp)
+
+    *24.04.2025*
+
+    [Сроки ремонта ванной комнаты по этапам](/blog/sroki-remonta-vannoj-komnaty-po-etapam/)
+
+    Категория: Сроки. Практические советы по теме материала и типовым задачам.
+3. ![Ремонт ванной комнаты](/assets/services/bathroom.webp)
+
+    *16.03.2025*
+
+    [Как подготовить квартиру к клинингу](/blog/kak-podgotovit-kvartiru-k-kliningu/)
+
+    Категория: Подготовка. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

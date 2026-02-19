@@ -40,6 +40,10 @@ function articleDate(index) {
   return d.toISOString().slice(0, 10);
 }
 
+function dateRu(isoDate) {
+  return new Intl.DateTimeFormat("ru-RU").format(new Date(`${isoDate}T00:00:00Z`));
+}
+
 function fm(obj) {
   const lines = ["---"];
   for (const [k, v] of Object.entries(obj)) {
@@ -67,11 +71,11 @@ function writePage(name, frontmatter, body) {
   fs.writeFileSync(path.join(generatedDir, name), `${fm(frontmatter)}${body.trim()}\n`, "utf8");
 }
 
-function pickArticles(seed, count) {
+function pickArticles(seed, count, pool = articles) {
   const out = [];
-  let idx = seed % articles.length;
+  let idx = seed % pool.length;
   while (out.length < count) {
-    const item = articles[idx % articles.length];
+    const item = pool[idx % pool.length];
     if (!out.includes(item)) out.push(item);
     idx += 3;
   }
@@ -180,9 +184,35 @@ const topQuickLinks = [
   ["perm", "ukladka-plitki"]
 ];
 
-const latestArticles = [...articles]
-  .map((a, i) => ({ ...a, date: articleDate(i) }))
-  .sort((a, b) => (a.date < b.date ? 1 : -1));
+const serviceImageBySlug = {
+  "remont-kvartir": "renovation.webp",
+  "remont-vannoj": "bathroom.webp",
+  "ukladka-plitki": "tile.webp",
+  "ustanovka-santehniki": "plumbery.webp",
+  "uslugi-elektrika": "electricity.webp",
+  "sborka-mebeli": "furniture.webp",
+  "natyazhnye-potolki": "ceiling.webp",
+  "zamena-okon": "windows.webp",
+  "klining-kvartir": "cleaning.webp",
+  "ustanovka-dverej": "doors.webp"
+};
+
+const articlesEnriched = articles.map((article, index) => {
+  const service = services[Math.floor(index / 2) % services.length];
+  const city = cities[index % cities.length];
+  return {
+    ...article,
+    date: articleDate(index),
+    dateRu: dateRu(articleDate(index)),
+    service,
+    serviceImage: serviceImageBySlug[service.slug] || "renovation.webp",
+    city
+  };
+});
+
+const articlesWithDates = [...articlesEnriched].sort((a, b) => (a.date < b.date ? 1 : -1));
+const articleSnippet = (article) =>
+  `Категория: ${article.category}. Практические советы по теме материала и типовым задачам.`;
 
 writePage(
   "home.md",
@@ -196,24 +226,6 @@ writePage(
     page_kind: "home"
   },
   `
-> **Демонстрационный SEO-кейс**
->
-> ~200 страниц: 10 услуг × 15 городов + блог.
-> Статическая сборка без CMS и серверов.
-> Развёрнут на GitHub Pages.
->
-> [Подробнее о структуре проекта →](${route("about-project")})
-
-# Бытовые услуги для дома в городах России
-
-![Каталог бытовых услуг по городам России](${assetPath("assets/hero.webp")})
-
-Каталог бытовых и ремонтных услуг в крупнейших городах России.
-Страницы структурированы по модели «услуга × город»
-и охватывают ключевые направления домашнего сервиса.
-
-[Услуги](${route("services")}) [Города](${route("cities")})
-
 ## Популярные услуги
 
 ${services.map((service) => `- [${service.name}](${route(`services/${service.slug}`)})`).join("\n")}
@@ -234,9 +246,18 @@ ${topQuickLinks
 
 ## Последние статьи
 
-${latestArticles
+${articlesWithDates
   .slice(0, 6)
-  .map((article) => `- [${article.title}](${route(`blog/${article.slug}`)}) — ${article.date}`)
+  .map(
+    (article, idx) =>
+      `${idx + 1}. ![${article.service.name}](${assetPath(`assets/services/${article.serviceImage}`)})\n` +
+      `\n` +
+      `    *${article.dateRu}*\n` +
+      `\n` +
+      `    [${article.title}](${route(`blog/${article.slug}`)})\n` +
+      `\n` +
+      `    ${articleSnippet(article)}`
+  )
   .join("\n")}
 
 [Все статьи →](${route("blog")})
@@ -347,13 +368,10 @@ services.forEach((service, serviceIndex) => {
       page_kind: "service",
       service_slug: service.slug,
       service_name: service.name,
+      service_image: serviceImageBySlug[service.slug],
       og_variant: "default"
     },
     `
-# ${service.name}
-
-Раздел содержит базовую информацию по услуге и ссылки на все города каталога.
-
 ## ${service.name} по городам
 
 ${cities.map((city) => `- [${service.name} в ${cityIn(city)}](${route(`${city.slug}/${service.slug}`)})`).join("\n")}
@@ -411,7 +429,7 @@ cities.forEach((city, cIndex) => {
 
     const cityLinks = [];
     for (let i = 1; i <= 7; i += 1) cityLinks.push(cities[(cIndex + i) % cities.length]);
-    const pickedArticles = pickArticles(cIndex + sIndex * 5, 3);
+    const pickedArticles = pickArticles(cIndex + sIndex * 5, 3, articlesWithDates);
     const faq = faqFor(city, service, min, max, cIndex + sIndex);
 
     writePage(
@@ -427,22 +445,12 @@ cities.forEach((city, cIndex) => {
         city_name_in: cityIn(city),
         service_slug: service.slug,
         service_name: service.name,
+        service_image: serviceImageBySlug[service.slug],
         price_min: min,
         price_max: max,
         og_variant: "city_service"
       },
       `
-# ${service.name} в ${cityIn(city)}
-
-Услуга доступна в ${cityIn(city)}. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от ${min.toLocaleString("ru-RU")} ₽**
-- Верхний диапазон: **до ${max.toLocaleString("ru-RU")} ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в ${cityIn(city)}
 
 ${services.map((s) => `- [${s.name}](${route(`${city.slug}/${s.slug}`)})`).join("\n")}
@@ -453,7 +461,18 @@ ${cityLinks.map((c) => `- [${service.name} в ${cityIn(c)}](${route(`${c.slug}/$
 
 ## Полезные статьи
 
-${pickedArticles.map((article) => `- [${article.title}](${route(`blog/${article.slug}`)})`).join("\n")}
+${pickedArticles
+  .map(
+    (article, idx) =>
+      `${idx + 1}. ![${article.service.name}](${assetPath(`assets/services/${article.serviceImage}`)})\n` +
+      `\n` +
+      `    *${article.dateRu}*\n` +
+      `\n` +
+      `    [${article.title}](${route(`blog/${article.slug}`)})\n` +
+      `\n` +
+      `    ${articleSnippet(article)}`
+  )
+  .join("\n")}
 
 ## FAQ
 
@@ -462,13 +481,6 @@ ${faq.map((item) => `### ${item.q}\n\n${item.a}`).join("\n\n")}
     );
   });
 });
-
-const articlesWithDates = articles
-  .map((article, index) => ({ ...article, date: articleDate(index) }))
-  .sort((a, b) => (a.date < b.date ? 1 : -1));
-
-const articleSnippet = (article) =>
-  `Категория: ${article.category}. Практические советы по теме материала и типовым задачам.`;
 
 writePage(
   "blog-index.md",
@@ -487,7 +499,16 @@ writePage(
 
 ${articlesWithDates
   .slice(0, 10)
-  .map((article, idx) => `${idx + 1}. [${article.title}](${route(`blog/${article.slug}`)}) — ${article.date}. ${articleSnippet(article)}`)
+  .map(
+    (article, idx) =>
+      `${idx + 1}. ![${article.service.name}](${assetPath(`assets/services/${article.serviceImage}`)})\n` +
+      `\n` +
+      `    *${article.dateRu}*\n` +
+      `\n` +
+      `    [${article.title}](${route(`blog/${article.slug}`)})\n` +
+      `\n` +
+      `    ${articleSnippet(article)}`
+  )
   .join("\n")}
 
 [1](${route("blog")}) · [2](${route("blog/page/2")}) · [→](${route("blog/page/2")})
@@ -509,7 +530,16 @@ writePage(
 
 ${articlesWithDates
   .slice(10, 20)
-  .map((article, idx) => `${idx + 11}. [${article.title}](${route(`blog/${article.slug}`)}) — ${article.date}. ${articleSnippet(article)}`)
+  .map(
+    (article, idx) =>
+      `${idx + 11}. ![${article.service.name}](${assetPath(`assets/services/${article.serviceImage}`)})\n` +
+      `\n` +
+      `    *${article.dateRu}*\n` +
+      `\n` +
+      `    [${article.title}](${route(`blog/${article.slug}`)})\n` +
+      `\n` +
+      `    ${articleSnippet(article)}`
+  )
   .join("\n")}
 
 [←](${route("blog")}) · [1](${route("blog")}) · [2](${route("blog/page/2")})
@@ -517,9 +547,9 @@ ${articlesWithDates
 );
 
 articlesWithDates.forEach((article, idx) => {
-  const city = cities[idx % cities.length];
-  const service = services[(idx * 3) % services.length];
-  const service2 = services[(idx * 3 + 4) % services.length];
+  const city = article.city;
+  const service = article.service;
+  const service2 = services[(services.findIndex((s) => s.slug === service.slug) + 1) % services.length];
 
   writePage(
     `article-${article.slug}.md`,
@@ -536,6 +566,7 @@ articlesWithDates.forEach((article, idx) => {
       city_name_in: cityIn(city),
       service_slug: service.slug,
       service_name: service.name,
+      service_image: article.serviceImage,
       service_slug_alt: service2.slug,
       service_name_alt: service2.name,
       date_modified: nowIso
@@ -543,7 +574,9 @@ articlesWithDates.forEach((article, idx) => {
     `
 # ${article.title}
 
-Категория: **${article.category}**. Дата публикации: **${article.date}**.
+![${service.name}](${assetPath(`assets/services/${article.serviceImage}`)})
+
+Категория: **${article.category}**. Дата публикации: **${article.dateRu}**.
 
 При планировании работ важно заранее определить объем задач, последовательность этапов
 и критерии контроля результата. В реальных проектах на итоговый бюджет влияют

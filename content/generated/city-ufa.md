@@ -22,13 +22,13 @@ og_variant: "default"
 
 ## Все услуги в Уфе
 
-- [Ремонт квартир в Уфе](/np-seo-case/ufa/remont-kvartir/)
-- [Ремонт ванной комнаты в Уфе](/np-seo-case/ufa/remont-vannoj/)
-- [Укладка плитки в Уфе](/np-seo-case/ufa/ukladka-plitki/)
-- [Установка сантехники в Уфе](/np-seo-case/ufa/ustanovka-santehniki/)
-- [Услуги электрика в Уфе](/np-seo-case/ufa/uslugi-elektrika/)
-- [Сборка мебели в Уфе](/np-seo-case/ufa/sborka-mebeli/)
-- [Натяжные потолки в Уфе](/np-seo-case/ufa/natyazhnye-potolki/)
-- [Замена окон в Уфе](/np-seo-case/ufa/zamena-okon/)
-- [Клининг квартир в Уфе](/np-seo-case/ufa/klining-kvartir/)
-- [Установка дверей в Уфе](/np-seo-case/ufa/ustanovka-dverej/)
+- [Ремонт квартир в Уфе](/ufa/remont-kvartir/)
+- [Ремонт ванной комнаты в Уфе](/ufa/remont-vannoj/)
+- [Укладка плитки в Уфе](/ufa/ukladka-plitki/)
+- [Установка сантехники в Уфе](/ufa/ustanovka-santehniki/)
+- [Услуги электрика в Уфе](/ufa/uslugi-elektrika/)
+- [Сборка мебели в Уфе](/ufa/sborka-mebeli/)
+- [Натяжные потолки в Уфе](/ufa/natyazhnye-potolki/)
+- [Замена окон в Уфе](/ufa/zamena-okon/)
+- [Клининг квартир в Уфе](/ufa/klining-kvartir/)
+- [Установка дверей в Уфе](/ufa/ustanovka-dverej/)

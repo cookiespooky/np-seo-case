@@ -9,49 +9,57 @@ city_name: "Санкт-Петербург"
 city_name_in: "Санкт-Петербурге"
 service_slug: "remont-kvartir"
 service_name: "Ремонт квартир"
+service_image: "renovation.webp"
 price_min: 6700
 price_max: 17700
 og_variant: "city_service"
 ---
-# Ремонт квартир в Санкт-Петербурге
-
-Услуга доступна в Санкт-Петербурге. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 6 700 ₽**
-- Верхний диапазон: **до 17 700 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Санкт-Петербурге
 
-- [Ремонт квартир](/np-seo-case/spb/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/spb/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/spb/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/spb/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/spb/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/spb/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/spb/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/spb/zamena-okon/)
-- [Клининг квартир](/np-seo-case/spb/klining-kvartir/)
-- [Установка дверей](/np-seo-case/spb/ustanovka-dverej/)
+- [Ремонт квартир](/spb/remont-kvartir/)
+- [Ремонт ванной комнаты](/spb/remont-vannoj/)
+- [Укладка плитки](/spb/ukladka-plitki/)
+- [Установка сантехники](/spb/ustanovka-santehniki/)
+- [Услуги электрика](/spb/uslugi-elektrika/)
+- [Сборка мебели](/spb/sborka-mebeli/)
+- [Натяжные потолки](/spb/natyazhnye-potolki/)
+- [Замена окон](/spb/zamena-okon/)
+- [Клининг квартир](/spb/klining-kvartir/)
+- [Установка дверей](/spb/ustanovka-dverej/)
 
 ## Ремонт квартир в других городах
 
-- [Ремонт квартир в Казани](/np-seo-case/kazan/remont-kvartir/)
-- [Ремонт квартир в Екатеринбурге](/np-seo-case/ekaterinburg/remont-kvartir/)
-- [Ремонт квартир в Новосибирске](/np-seo-case/novosibirsk/remont-kvartir/)
-- [Ремонт квартир в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/remont-kvartir/)
-- [Ремонт квартир в Краснодаре](/np-seo-case/krasnodar/remont-kvartir/)
-- [Ремонт квартир в Ростове-на-Дону](/np-seo-case/rostov-na-donu/remont-kvartir/)
-- [Ремонт квартир в Самаре](/np-seo-case/samara/remont-kvartir/)
+- [Ремонт квартир в Казани](/kazan/remont-kvartir/)
+- [Ремонт квартир в Екатеринбурге](/ekaterinburg/remont-kvartir/)
+- [Ремонт квартир в Новосибирске](/novosibirsk/remont-kvartir/)
+- [Ремонт квартир в Нижнем Новгороде](/nizhniy-novgorod/remont-kvartir/)
+- [Ремонт квартир в Краснодаре](/krasnodar/remont-kvartir/)
+- [Ремонт квартир в Ростове-на-Дону](/rostov-na-donu/remont-kvartir/)
+- [Ремонт квартир в Самаре](/samara/remont-kvartir/)
 
 ## Полезные статьи
 
-- [5 ошибок при выборе мастера по сантехнике](/np-seo-case/blog/5-oshibok-pri-vybore-mastera-po-santehnike/)
-- [Как проверить качество электромонтажных работ](/np-seo-case/blog/kak-proverit-kachestvo-elektromontazhnyh-rabot/)
-- [Сборка мебели после переезда: чек-лист](/np-seo-case/blog/sborka-mebeli-posle-pereezda-checklist/)
+1. ![Установка дверей](/assets/services/doors.webp)
+
+    *27.09.2025*
+
+    [Как не переплатить за срочные работы](/blog/kak-ne-pereplatit-za-srochnye-raboty/)
+
+    Категория: Цены. Практические советы по теме материала и типовым задачам.
+2. ![Замена окон](/assets/services/windows.webp)
+
+    *19.08.2025*
+
+    [Как выбрать сервис по отзывам и кейсам](/blog/kak-vybrat-servis-po-otzyvam-i-kejsam/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
+3. ![Натяжные потолки](/assets/services/ceiling.webp)
+
+    *11.07.2025*
+
+    [Как рассчитать бюджет на ремонт в регионе](/blog/kak-rasschitat-byudzhet-na-remont-v-regione/)
+
+    Категория: Бюджет. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

@@ -6,36 +6,33 @@ description: "Страница услуги «Натяжные потолки»:
 page_kind: "service"
 service_slug: "natyazhnye-potolki"
 service_name: "Натяжные потолки"
+service_image: "ceiling.webp"
 og_variant: "default"
 ---
-# Натяжные потолки
-
-Раздел содержит базовую информацию по услуге и ссылки на все города каталога.
-
 ## Натяжные потолки по городам
 
-- [Натяжные потолки в Москве](/np-seo-case/moskva/natyazhnye-potolki/)
-- [Натяжные потолки в Санкт-Петербурге](/np-seo-case/spb/natyazhnye-potolki/)
-- [Натяжные потолки в Казани](/np-seo-case/kazan/natyazhnye-potolki/)
-- [Натяжные потолки в Екатеринбурге](/np-seo-case/ekaterinburg/natyazhnye-potolki/)
-- [Натяжные потолки в Новосибирске](/np-seo-case/novosibirsk/natyazhnye-potolki/)
-- [Натяжные потолки в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/natyazhnye-potolki/)
-- [Натяжные потолки в Краснодаре](/np-seo-case/krasnodar/natyazhnye-potolki/)
-- [Натяжные потолки в Ростове-на-Дону](/np-seo-case/rostov-na-donu/natyazhnye-potolki/)
-- [Натяжные потолки в Самаре](/np-seo-case/samara/natyazhnye-potolki/)
-- [Натяжные потолки в Челябинске](/np-seo-case/chelyabinsk/natyazhnye-potolki/)
-- [Натяжные потолки в Уфе](/np-seo-case/ufa/natyazhnye-potolki/)
-- [Натяжные потолки в Перми](/np-seo-case/perm/natyazhnye-potolki/)
-- [Натяжные потолки в Воронеже](/np-seo-case/voronezh/natyazhnye-potolki/)
-- [Натяжные потолки в Волгограде](/np-seo-case/volgograd/natyazhnye-potolki/)
-- [Натяжные потолки в Омске](/np-seo-case/omsk/natyazhnye-potolki/)
+- [Натяжные потолки в Москве](/moskva/natyazhnye-potolki/)
+- [Натяжные потолки в Санкт-Петербурге](/spb/natyazhnye-potolki/)
+- [Натяжные потолки в Казани](/kazan/natyazhnye-potolki/)
+- [Натяжные потолки в Екатеринбурге](/ekaterinburg/natyazhnye-potolki/)
+- [Натяжные потолки в Новосибирске](/novosibirsk/natyazhnye-potolki/)
+- [Натяжные потолки в Нижнем Новгороде](/nizhniy-novgorod/natyazhnye-potolki/)
+- [Натяжные потолки в Краснодаре](/krasnodar/natyazhnye-potolki/)
+- [Натяжные потолки в Ростове-на-Дону](/rostov-na-donu/natyazhnye-potolki/)
+- [Натяжные потолки в Самаре](/samara/natyazhnye-potolki/)
+- [Натяжные потолки в Челябинске](/chelyabinsk/natyazhnye-potolki/)
+- [Натяжные потолки в Уфе](/ufa/natyazhnye-potolki/)
+- [Натяжные потолки в Перми](/perm/natyazhnye-potolki/)
+- [Натяжные потолки в Воронеже](/voronezh/natyazhnye-potolki/)
+- [Натяжные потолки в Волгограде](/volgograd/natyazhnye-potolki/)
+- [Натяжные потолки в Омске](/omsk/natyazhnye-potolki/)
 
 ## Полезные статьи по теме
 
-- [Как рассчитать бюджет на ремонт в регионе](/np-seo-case/blog/kak-rasschitat-byudzhet-na-remont-v-regione/)
-- [Как выбрать сервис по отзывам и кейсам](/np-seo-case/blog/kak-vybrat-servis-po-otzyvam-i-kejsam/)
-- [Как не переплатить за срочные работы](/np-seo-case/blog/kak-ne-pereplatit-za-srochnye-raboty/)
-- [5 ошибок при выборе мастера по сантехнике](/np-seo-case/blog/5-oshibok-pri-vybore-mastera-po-santehnike/)
+- [Как рассчитать бюджет на ремонт в регионе](/blog/kak-rasschitat-byudzhet-na-remont-v-regione/)
+- [Как выбрать сервис по отзывам и кейсам](/blog/kak-vybrat-servis-po-otzyvam-i-kejsam/)
+- [Как не переплатить за срочные работы](/blog/kak-ne-pereplatit-za-srochnye-raboty/)
+- [5 ошибок при выборе мастера по сантехнике](/blog/5-oshibok-pri-vybore-mastera-po-santehnike/)
 
 ## Коротко о стоимости
 

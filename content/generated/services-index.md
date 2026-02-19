@@ -10,13 +10,13 @@ page_kind: "services_list"
 
 Ниже перечислены доступные направления услуг. На каждой странице услуги есть переходы по всем городам каталога.
 
-- [Ремонт квартир](/np-seo-case/services/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/services/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/services/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/services/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/services/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/services/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/services/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/services/zamena-okon/)
-- [Клининг квартир](/np-seo-case/services/klining-kvartir/)
-- [Установка дверей](/np-seo-case/services/ustanovka-dverej/)
+- [Ремонт квартир](/services/remont-kvartir/)
+- [Ремонт ванной комнаты](/services/remont-vannoj/)
+- [Укладка плитки](/services/ukladka-plitki/)
+- [Установка сантехники](/services/ustanovka-santehniki/)
+- [Услуги электрика](/services/uslugi-elektrika/)
+- [Сборка мебели](/services/sborka-mebeli/)
+- [Натяжные потолки](/services/natyazhnye-potolki/)
+- [Замена окон](/services/zamena-okon/)
+- [Клининг квартир](/services/klining-kvartir/)
+- [Установка дверей](/services/ustanovka-dverej/)

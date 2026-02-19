@@ -9,49 +9,57 @@ city_name: "Екатеринбург"
 city_name_in: "Екатеринбурге"
 service_slug: "ustanovka-santehniki"
 service_name: "Установка сантехники"
+service_image: "plumbery.webp"
 price_min: 2400
 price_max: 8400
 og_variant: "city_service"
 ---
-# Установка сантехники в Екатеринбурге
-
-Услуга доступна в Екатеринбурге. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 2 400 ₽**
-- Верхний диапазон: **до 8 400 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Екатеринбурге
 
-- [Ремонт квартир](/np-seo-case/ekaterinburg/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/ekaterinburg/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/ekaterinburg/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/ekaterinburg/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/ekaterinburg/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/ekaterinburg/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/ekaterinburg/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/ekaterinburg/zamena-okon/)
-- [Клининг квартир](/np-seo-case/ekaterinburg/klining-kvartir/)
-- [Установка дверей](/np-seo-case/ekaterinburg/ustanovka-dverej/)
+- [Ремонт квартир](/ekaterinburg/remont-kvartir/)
+- [Ремонт ванной комнаты](/ekaterinburg/remont-vannoj/)
+- [Укладка плитки](/ekaterinburg/ukladka-plitki/)
+- [Установка сантехники](/ekaterinburg/ustanovka-santehniki/)
+- [Услуги электрика](/ekaterinburg/uslugi-elektrika/)
+- [Сборка мебели](/ekaterinburg/sborka-mebeli/)
+- [Натяжные потолки](/ekaterinburg/natyazhnye-potolki/)
+- [Замена окон](/ekaterinburg/zamena-okon/)
+- [Клининг квартир](/ekaterinburg/klining-kvartir/)
+- [Установка дверей](/ekaterinburg/ustanovka-dverej/)
 
 ## Установка сантехники в других городах
 
-- [Установка сантехники в Новосибирске](/np-seo-case/novosibirsk/ustanovka-santehniki/)
-- [Установка сантехники в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/ustanovka-santehniki/)
-- [Установка сантехники в Краснодаре](/np-seo-case/krasnodar/ustanovka-santehniki/)
-- [Установка сантехники в Ростове-на-Дону](/np-seo-case/rostov-na-donu/ustanovka-santehniki/)
-- [Установка сантехники в Самаре](/np-seo-case/samara/ustanovka-santehniki/)
-- [Установка сантехники в Челябинске](/np-seo-case/chelyabinsk/ustanovka-santehniki/)
-- [Установка сантехники в Уфе](/np-seo-case/ufa/ustanovka-santehniki/)
+- [Установка сантехники в Новосибирске](/novosibirsk/ustanovka-santehniki/)
+- [Установка сантехники в Нижнем Новгороде](/nizhniy-novgorod/ustanovka-santehniki/)
+- [Установка сантехники в Краснодаре](/krasnodar/ustanovka-santehniki/)
+- [Установка сантехники в Ростове-на-Дону](/rostov-na-donu/ustanovka-santehniki/)
+- [Установка сантехники в Самаре](/samara/ustanovka-santehniki/)
+- [Установка сантехники в Челябинске](/chelyabinsk/ustanovka-santehniki/)
+- [Установка сантехники в Уфе](/ufa/ustanovka-santehniki/)
 
 ## Полезные статьи
 
-- [Как не переплатить за срочные работы](/np-seo-case/blog/kak-ne-pereplatit-za-srochnye-raboty/)
-- [5 ошибок при выборе мастера по сантехнике](/np-seo-case/blog/5-oshibok-pri-vybore-mastera-po-santehnike/)
-- [Как проверить качество электромонтажных работ](/np-seo-case/blog/kak-proverit-kachestvo-elektromontazhnyh-rabot/)
+1. ![Ремонт квартир](/assets/services/renovation.webp)
+
+    *18.02.2025*
+
+    [5 ошибок при выборе мастера по сантехнике](/blog/5-oshibok-pri-vybore-mastera-po-santehnike/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
+2. ![Установка дверей](/assets/services/doors.webp)
+
+    *27.09.2025*
+
+    [Как не переплатить за срочные работы](/blog/kak-ne-pereplatit-za-srochnye-raboty/)
+
+    Категория: Цены. Практические советы по теме материала и типовым задачам.
+3. ![Замена окон](/assets/services/windows.webp)
+
+    *19.08.2025*
+
+    [Как выбрать сервис по отзывам и кейсам](/blog/kak-vybrat-servis-po-otzyvam-i-kejsam/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

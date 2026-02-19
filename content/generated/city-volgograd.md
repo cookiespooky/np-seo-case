@@ -22,13 +22,13 @@ og_variant: "default"
 
 ## Все услуги в Волгограде
 
-- [Ремонт квартир в Волгограде](/np-seo-case/volgograd/remont-kvartir/)
-- [Ремонт ванной комнаты в Волгограде](/np-seo-case/volgograd/remont-vannoj/)
-- [Укладка плитки в Волгограде](/np-seo-case/volgograd/ukladka-plitki/)
-- [Установка сантехники в Волгограде](/np-seo-case/volgograd/ustanovka-santehniki/)
-- [Услуги электрика в Волгограде](/np-seo-case/volgograd/uslugi-elektrika/)
-- [Сборка мебели в Волгограде](/np-seo-case/volgograd/sborka-mebeli/)
-- [Натяжные потолки в Волгограде](/np-seo-case/volgograd/natyazhnye-potolki/)
-- [Замена окон в Волгограде](/np-seo-case/volgograd/zamena-okon/)
-- [Клининг квартир в Волгограде](/np-seo-case/volgograd/klining-kvartir/)
-- [Установка дверей в Волгограде](/np-seo-case/volgograd/ustanovka-dverej/)
+- [Ремонт квартир в Волгограде](/volgograd/remont-kvartir/)
+- [Ремонт ванной комнаты в Волгограде](/volgograd/remont-vannoj/)
+- [Укладка плитки в Волгограде](/volgograd/ukladka-plitki/)
+- [Установка сантехники в Волгограде](/volgograd/ustanovka-santehniki/)
+- [Услуги электрика в Волгограде](/volgograd/uslugi-elektrika/)
+- [Сборка мебели в Волгограде](/volgograd/sborka-mebeli/)
+- [Натяжные потолки в Волгограде](/volgograd/natyazhnye-potolki/)
+- [Замена окон в Волгограде](/volgograd/zamena-okon/)
+- [Клининг квартир в Волгограде](/volgograd/klining-kvartir/)
+- [Установка дверей в Волгограде](/volgograd/ustanovka-dverej/)

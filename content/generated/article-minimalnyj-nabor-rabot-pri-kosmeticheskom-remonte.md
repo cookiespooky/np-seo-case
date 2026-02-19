@@ -6,18 +6,21 @@ description: "Практический материал: минимальный 
 date: "2025-06-28"
 page_kind: "article"
 og_variant: "article"
-city_slug: "samara"
-city_name: "Самара"
-city_name_in: "Самаре"
-service_slug: "uslugi-elektrika"
-service_name: "Услуги электрика"
-service_slug_alt: "klining-kvartir"
-service_name_alt: "Клининг квартир"
+city_slug: "perm"
+city_name: "Пермь"
+city_name_in: "Перми"
+service_slug: "sborka-mebeli"
+service_name: "Сборка мебели"
+service_image: "furniture.webp"
+service_slug_alt: "natyazhnye-potolki"
+service_name_alt: "Натяжные потолки"
 date_modified: "2026-02-19"
 ---
 # Минимальный набор работ при косметическом ремонте
 
-Категория: **Ремонт**. Дата публикации: **2025-06-28**.
+![Сборка мебели](/assets/services/furniture.webp)
+
+Категория: **Ремонт**. Дата публикации: **28.06.2025**.
 
 При планировании работ важно заранее определить объем задач, последовательность этапов
 и критерии контроля результата. В реальных проектах на итоговый бюджет влияют
@@ -29,7 +32,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Услуги электрика в Самаре](/np-seo-case/samara/uslugi-elektrika/)
-- [Клининг квартир в Самаре](/np-seo-case/samara/klining-kvartir/)
-- [Услуги электрика](/np-seo-case/services/uslugi-elektrika/)
-- [Услуги в Самаре](/np-seo-case/cities/samara/)
+- [Сборка мебели в Перми](/perm/sborka-mebeli/)
+- [Натяжные потолки в Перми](/perm/natyazhnye-potolki/)
+- [Сборка мебели](/services/sborka-mebeli/)
+- [Услуги в Перми](/cities/perm/)

@@ -22,13 +22,13 @@ og_variant: "default"
 
 ## Все услуги в Самаре
 
-- [Ремонт квартир в Самаре](/np-seo-case/samara/remont-kvartir/)
-- [Ремонт ванной комнаты в Самаре](/np-seo-case/samara/remont-vannoj/)
-- [Укладка плитки в Самаре](/np-seo-case/samara/ukladka-plitki/)
-- [Установка сантехники в Самаре](/np-seo-case/samara/ustanovka-santehniki/)
-- [Услуги электрика в Самаре](/np-seo-case/samara/uslugi-elektrika/)
-- [Сборка мебели в Самаре](/np-seo-case/samara/sborka-mebeli/)
-- [Натяжные потолки в Самаре](/np-seo-case/samara/natyazhnye-potolki/)
-- [Замена окон в Самаре](/np-seo-case/samara/zamena-okon/)
-- [Клининг квартир в Самаре](/np-seo-case/samara/klining-kvartir/)
-- [Установка дверей в Самаре](/np-seo-case/samara/ustanovka-dverej/)
+- [Ремонт квартир в Самаре](/samara/remont-kvartir/)
+- [Ремонт ванной комнаты в Самаре](/samara/remont-vannoj/)
+- [Укладка плитки в Самаре](/samara/ukladka-plitki/)
+- [Установка сантехники в Самаре](/samara/ustanovka-santehniki/)
+- [Услуги электрика в Самаре](/samara/uslugi-elektrika/)
+- [Сборка мебели в Самаре](/samara/sborka-mebeli/)
+- [Натяжные потолки в Самаре](/samara/natyazhnye-potolki/)
+- [Замена окон в Самаре](/samara/zamena-okon/)
+- [Клининг квартир в Самаре](/samara/klining-kvartir/)
+- [Установка дверей в Самаре](/samara/ustanovka-dverej/)

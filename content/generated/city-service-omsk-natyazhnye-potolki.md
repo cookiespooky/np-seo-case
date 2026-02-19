@@ -9,49 +9,57 @@ city_name: "Омск"
 city_name_in: "Омске"
 service_slug: "natyazhnye-potolki"
 service_name: "Натяжные потолки"
+service_image: "ceiling.webp"
 price_min: 800
 price_max: 2400
 og_variant: "city_service"
 ---
-# Натяжные потолки в Омске
-
-Услуга доступна в Омске. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 800 ₽**
-- Верхний диапазон: **до 2 400 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Омске
 
-- [Ремонт квартир](/np-seo-case/omsk/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/omsk/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/omsk/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/omsk/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/omsk/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/omsk/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/omsk/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/omsk/zamena-okon/)
-- [Клининг квартир](/np-seo-case/omsk/klining-kvartir/)
-- [Установка дверей](/np-seo-case/omsk/ustanovka-dverej/)
+- [Ремонт квартир](/omsk/remont-kvartir/)
+- [Ремонт ванной комнаты](/omsk/remont-vannoj/)
+- [Укладка плитки](/omsk/ukladka-plitki/)
+- [Установка сантехники](/omsk/ustanovka-santehniki/)
+- [Услуги электрика](/omsk/uslugi-elektrika/)
+- [Сборка мебели](/omsk/sborka-mebeli/)
+- [Натяжные потолки](/omsk/natyazhnye-potolki/)
+- [Замена окон](/omsk/zamena-okon/)
+- [Клининг квартир](/omsk/klining-kvartir/)
+- [Установка дверей](/omsk/ustanovka-dverej/)
 
 ## Натяжные потолки в других городах
 
-- [Натяжные потолки в Москве](/np-seo-case/moskva/natyazhnye-potolki/)
-- [Натяжные потолки в Санкт-Петербурге](/np-seo-case/spb/natyazhnye-potolki/)
-- [Натяжные потолки в Казани](/np-seo-case/kazan/natyazhnye-potolki/)
-- [Натяжные потолки в Екатеринбурге](/np-seo-case/ekaterinburg/natyazhnye-potolki/)
-- [Натяжные потолки в Новосибирске](/np-seo-case/novosibirsk/natyazhnye-potolki/)
-- [Натяжные потолки в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/natyazhnye-potolki/)
-- [Натяжные потолки в Краснодаре](/np-seo-case/krasnodar/natyazhnye-potolki/)
+- [Натяжные потолки в Москве](/moskva/natyazhnye-potolki/)
+- [Натяжные потолки в Санкт-Петербурге](/spb/natyazhnye-potolki/)
+- [Натяжные потолки в Казани](/kazan/natyazhnye-potolki/)
+- [Натяжные потолки в Екатеринбурге](/ekaterinburg/natyazhnye-potolki/)
+- [Натяжные потолки в Новосибирске](/novosibirsk/natyazhnye-potolki/)
+- [Натяжные потолки в Нижнем Новгороде](/nizhniy-novgorod/natyazhnye-potolki/)
+- [Натяжные потолки в Краснодаре](/krasnodar/natyazhnye-potolki/)
 
 ## Полезные статьи
 
-- [Как проверить качество электромонтажных работ](/np-seo-case/blog/kak-proverit-kachestvo-elektromontazhnyh-rabot/)
-- [Сборка мебели после переезда: чек-лист](/np-seo-case/blog/sborka-mebeli-posle-pereezda-checklist/)
-- [Как сравнивать коммерческие предложения по услугам](/np-seo-case/blog/kak-sravnivat-kommercheskie-predlozheniya/)
+1. ![Замена окон](/assets/services/windows.webp)
+
+    *19.08.2025*
+
+    [Как выбрать сервис по отзывам и кейсам](/blog/kak-vybrat-servis-po-otzyvam-i-kejsam/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
+2. ![Натяжные потолки](/assets/services/ceiling.webp)
+
+    *11.07.2025*
+
+    [Как рассчитать бюджет на ремонт в регионе](/blog/kak-rasschitat-byudzhet-na-remont-v-regione/)
+
+    Категория: Бюджет. Практические советы по теме материала и типовым задачам.
+3. ![Услуги электрика](/assets/services/electricity.webp)
+
+    *02.06.2025*
+
+    [Установка дверей: как избежать перекоса](/blog/ustanovka-dverej-kak-izbezhat-perekosa/)
+
+    Категория: Монтаж. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

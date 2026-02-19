@@ -6,18 +6,21 @@ description: "Практический материал: как подготов
 date: "2025-03-16"
 page_kind: "article"
 og_variant: "article"
-city_slug: "spb"
-city_name: "Санкт-Петербург"
-city_name_in: "Санкт-Петербурге"
-service_slug: "klining-kvartir"
-service_name: "Клининг квартир"
+city_slug: "ekaterinburg"
+city_name: "Екатеринбург"
+city_name_in: "Екатеринбурге"
+service_slug: "remont-vannoj"
+service_name: "Ремонт ванной комнаты"
+service_image: "bathroom.webp"
 service_slug_alt: "ukladka-plitki"
 service_name_alt: "Укладка плитки"
 date_modified: "2026-02-19"
 ---
 # Как подготовить квартиру к клинингу
 
-Категория: **Подготовка**. Дата публикации: **2025-03-16**.
+![Ремонт ванной комнаты](/assets/services/bathroom.webp)
+
+Категория: **Подготовка**. Дата публикации: **16.03.2025**.
 
 При планировании работ важно заранее определить объем задач, последовательность этапов
 и критерии контроля результата. В реальных проектах на итоговый бюджет влияют
@@ -29,7 +32,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Клининг квартир в Санкт-Петербурге](/np-seo-case/spb/klining-kvartir/)
-- [Укладка плитки в Санкт-Петербурге](/np-seo-case/spb/ukladka-plitki/)
-- [Клининг квартир](/np-seo-case/services/klining-kvartir/)
-- [Услуги в Санкт-Петербурге](/np-seo-case/cities/spb/)
+- [Ремонт ванной комнаты в Екатеринбурге](/ekaterinburg/remont-vannoj/)
+- [Укладка плитки в Екатеринбурге](/ekaterinburg/ukladka-plitki/)
+- [Ремонт ванной комнаты](/services/remont-vannoj/)
+- [Услуги в Екатеринбурге](/cities/ekaterinburg/)

@@ -9,49 +9,57 @@ city_name: "Новосибирск"
 city_name_in: "Новосибирске"
 service_slug: "sborka-mebeli"
 service_name: "Сборка мебели"
+service_image: "furniture.webp"
 price_min: 1500
 price_max: 5500
 og_variant: "city_service"
 ---
-# Сборка мебели в Новосибирске
-
-Услуга доступна в Новосибирске. Страница содержит ориентировочную стоимость,
-структуру работ и базовые ответы на частые вопросы.
-
-## Ориентировочные цены
-
-- Минимальный диапазон: **от 1 500 ₽**
-- Верхний диапазон: **до 5 500 ₽**
-- Актуализация стоимости выполняется после оценки объема работ.
-
 ## Другие услуги в Новосибирске
 
-- [Ремонт квартир](/np-seo-case/novosibirsk/remont-kvartir/)
-- [Ремонт ванной комнаты](/np-seo-case/novosibirsk/remont-vannoj/)
-- [Укладка плитки](/np-seo-case/novosibirsk/ukladka-plitki/)
-- [Установка сантехники](/np-seo-case/novosibirsk/ustanovka-santehniki/)
-- [Услуги электрика](/np-seo-case/novosibirsk/uslugi-elektrika/)
-- [Сборка мебели](/np-seo-case/novosibirsk/sborka-mebeli/)
-- [Натяжные потолки](/np-seo-case/novosibirsk/natyazhnye-potolki/)
-- [Замена окон](/np-seo-case/novosibirsk/zamena-okon/)
-- [Клининг квартир](/np-seo-case/novosibirsk/klining-kvartir/)
-- [Установка дверей](/np-seo-case/novosibirsk/ustanovka-dverej/)
+- [Ремонт квартир](/novosibirsk/remont-kvartir/)
+- [Ремонт ванной комнаты](/novosibirsk/remont-vannoj/)
+- [Укладка плитки](/novosibirsk/ukladka-plitki/)
+- [Установка сантехники](/novosibirsk/ustanovka-santehniki/)
+- [Услуги электрика](/novosibirsk/uslugi-elektrika/)
+- [Сборка мебели](/novosibirsk/sborka-mebeli/)
+- [Натяжные потолки](/novosibirsk/natyazhnye-potolki/)
+- [Замена окон](/novosibirsk/zamena-okon/)
+- [Клининг квартир](/novosibirsk/klining-kvartir/)
+- [Установка дверей](/novosibirsk/ustanovka-dverej/)
 
 ## Сборка мебели в других городах
 
-- [Сборка мебели в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/sborka-mebeli/)
-- [Сборка мебели в Краснодаре](/np-seo-case/krasnodar/sborka-mebeli/)
-- [Сборка мебели в Ростове-на-Дону](/np-seo-case/rostov-na-donu/sborka-mebeli/)
-- [Сборка мебели в Самаре](/np-seo-case/samara/sborka-mebeli/)
-- [Сборка мебели в Челябинске](/np-seo-case/chelyabinsk/sborka-mebeli/)
-- [Сборка мебели в Уфе](/np-seo-case/ufa/sborka-mebeli/)
-- [Сборка мебели в Перми](/np-seo-case/perm/sborka-mebeli/)
+- [Сборка мебели в Нижнем Новгороде](/nizhniy-novgorod/sborka-mebeli/)
+- [Сборка мебели в Краснодаре](/krasnodar/sborka-mebeli/)
+- [Сборка мебели в Ростове-на-Дону](/rostov-na-donu/sborka-mebeli/)
+- [Сборка мебели в Самаре](/samara/sborka-mebeli/)
+- [Сборка мебели в Челябинске](/chelyabinsk/sborka-mebeli/)
+- [Сборка мебели в Уфе](/ufa/sborka-mebeli/)
+- [Сборка мебели в Перми](/perm/sborka-mebeli/)
 
 ## Полезные статьи
 
-- [Установка дверей: как избежать перекоса](/np-seo-case/blog/ustanovka-dverej-kak-izbezhat-perekosa/)
-- [Как рассчитать бюджет на ремонт в регионе](/np-seo-case/blog/kak-rasschitat-byudzhet-na-remont-v-regione/)
-- [Как выбрать сервис по отзывам и кейсам](/np-seo-case/blog/kak-vybrat-servis-po-otzyvam-i-kejsam/)
+1. ![Сборка мебели](/assets/services/furniture.webp)
+
+    *15.06.2025*
+
+    [Как сравнивать коммерческие предложения по услугам](/blog/kak-sravnivat-kommercheskie-predlozheniya/)
+
+    Категория: Выбор подрядчика. Практические советы по теме материала и типовым задачам.
+2. ![Установка сантехники](/assets/services/plumbery.webp)
+
+    *07.05.2025*
+
+    [Сборка мебели после переезда: чек-лист](/blog/sborka-mebeli-posle-pereezda-checklist/)
+
+    Категория: Переезд. Практические советы по теме материала и типовым задачам.
+3. ![Укладка плитки](/assets/services/tile.webp)
+
+    *29.03.2025*
+
+    [Как проверить качество электромонтажных работ](/blog/kak-proverit-kachestvo-elektromontazhnyh-rabot/)
+
+    Категория: Контроль качества. Практические советы по теме материала и типовым задачам.
 
 ## FAQ
 

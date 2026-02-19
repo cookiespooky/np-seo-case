@@ -6,18 +6,21 @@ description: "Практический материал: натяжные пот
 date: "2025-05-20"
 page_kind: "article"
 og_variant: "article"
-city_slug: "perm"
-city_name: "Пермь"
-city_name_in: "Перми"
-service_slug: "ustanovka-santehniki"
-service_name: "Установка сантехники"
-service_slug_alt: "zamena-okon"
-service_name_alt: "Замена окон"
+city_slug: "samara"
+city_name: "Самара"
+city_name_in: "Самаре"
+service_slug: "uslugi-elektrika"
+service_name: "Услуги электрика"
+service_image: "electricity.webp"
+service_slug_alt: "sborka-mebeli"
+service_name_alt: "Сборка мебели"
 date_modified: "2026-02-19"
 ---
 # Натяжные потолки: как выбрать материал
 
-Категория: **Материалы**. Дата публикации: **2025-05-20**.
+![Услуги электрика](/assets/services/electricity.webp)
+
+Категория: **Материалы**. Дата публикации: **20.05.2025**.
 
 При планировании работ важно заранее определить объем задач, последовательность этапов
 и критерии контроля результата. В реальных проектах на итоговый бюджет влияют
@@ -29,7 +32,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Установка сантехники в Перми](/np-seo-case/perm/ustanovka-santehniki/)
-- [Замена окон в Перми](/np-seo-case/perm/zamena-okon/)
-- [Установка сантехники](/np-seo-case/services/ustanovka-santehniki/)
-- [Услуги в Перми](/np-seo-case/cities/perm/)
+- [Услуги электрика в Самаре](/samara/uslugi-elektrika/)
+- [Сборка мебели в Самаре](/samara/sborka-mebeli/)
+- [Услуги электрика](/services/uslugi-elektrika/)
+- [Услуги в Самаре](/cities/samara/)

@@ -22,13 +22,13 @@ og_variant: "default"
 
 ## Все услуги в Челябинске
 
-- [Ремонт квартир в Челябинске](/np-seo-case/chelyabinsk/remont-kvartir/)
-- [Ремонт ванной комнаты в Челябинске](/np-seo-case/chelyabinsk/remont-vannoj/)
-- [Укладка плитки в Челябинске](/np-seo-case/chelyabinsk/ukladka-plitki/)
-- [Установка сантехники в Челябинске](/np-seo-case/chelyabinsk/ustanovka-santehniki/)
-- [Услуги электрика в Челябинске](/np-seo-case/chelyabinsk/uslugi-elektrika/)
-- [Сборка мебели в Челябинске](/np-seo-case/chelyabinsk/sborka-mebeli/)
-- [Натяжные потолки в Челябинске](/np-seo-case/chelyabinsk/natyazhnye-potolki/)
-- [Замена окон в Челябинске](/np-seo-case/chelyabinsk/zamena-okon/)
-- [Клининг квартир в Челябинске](/np-seo-case/chelyabinsk/klining-kvartir/)
-- [Установка дверей в Челябинске](/np-seo-case/chelyabinsk/ustanovka-dverej/)
+- [Ремонт квартир в Челябинске](/chelyabinsk/remont-kvartir/)
+- [Ремонт ванной комнаты в Челябинске](/chelyabinsk/remont-vannoj/)
+- [Укладка плитки в Челябинске](/chelyabinsk/ukladka-plitki/)
+- [Установка сантехники в Челябинске](/chelyabinsk/ustanovka-santehniki/)
+- [Услуги электрика в Челябинске](/chelyabinsk/uslugi-elektrika/)
+- [Сборка мебели в Челябинске](/chelyabinsk/sborka-mebeli/)
+- [Натяжные потолки в Челябинске](/chelyabinsk/natyazhnye-potolki/)
+- [Замена окон в Челябинске](/chelyabinsk/zamena-okon/)
+- [Клининг квартир в Челябинске](/chelyabinsk/klining-kvartir/)
+- [Установка дверей в Челябинске](/chelyabinsk/ustanovka-dverej/)
