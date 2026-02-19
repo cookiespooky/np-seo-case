@@ -117,19 +117,15 @@ small { color: var(--muted); }
   .content-wrap { padding-top: 18px; }
 }
 
-/* Home: service/city/link sections as simple grid cards */
+/* Home: keep lists compact for lower layout cost */
 .page-home .page-content > ul {
-  list-style: none;
-  padding: 0;
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-  gap: 10px;
+  columns: 2;
+  column-gap: 24px;
 }
 
 .page-home .page-content > ul li {
-  border: 1px solid var(--line);
-  padding: 10px 12px;
-  border-radius: 6px;
+  break-inside: avoid;
+  margin-bottom: 6px;
 }
 
 /* Service and city pages: avoid long vertical lists */
@@ -168,8 +164,11 @@ small { color: var(--muted); }
 
 @media (max-width: 620px) {
   .page-service .page-content > ul,
-  .page-city .page-content > ul,
-  .page-home .page-content > ul {
+  .page-city .page-content > ul {
     grid-template-columns: 1fr;
+  }
+
+  .page-home .page-content > ul {
+    columns: 1;
   }
 }
