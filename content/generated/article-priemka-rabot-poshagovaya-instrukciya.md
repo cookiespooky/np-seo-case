@@ -8,6 +8,7 @@ page_kind: "article"
 og_variant: "article"
 city_slug: "nizhniy-novgorod"
 city_name: "Нижний Новгород"
+city_name_in: "Нижнем Новгороде"
 service_slug: "sborka-mebeli"
 service_name: "Сборка мебели"
 service_slug_alt: "ustanovka-dverej"
@@ -28,7 +29,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Сборка мебели в Нижний Новгород](/np-seo-case/nizhniy-novgorod/sborka-mebeli/)
-- [Установка дверей в Нижний Новгород](/np-seo-case/nizhniy-novgorod/ustanovka-dverej/)
+- [Сборка мебели в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/sborka-mebeli/)
+- [Установка дверей в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/ustanovka-dverej/)
 - [Сборка мебели](/np-seo-case/services/sborka-mebeli/)
-- [Услуги в Нижний Новгород](/np-seo-case/cities/nizhniy-novgorod/)
+- [Услуги в Нижнем Новгороде](/np-seo-case/cities/nizhniy-novgorod/)

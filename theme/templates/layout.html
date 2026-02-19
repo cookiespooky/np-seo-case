@@ -6,6 +6,8 @@
   {{- $kind := printf "%v" (index .FM "page_kind") -}}
   {{- $citySlug := printf "%v" (index .FM "city_slug") -}}
   {{- $cityName := printf "%v" (index .FM "city_name") -}}
+  {{- $cityNameIn := printf "%v" (index .FM "city_name_in") -}}
+  {{- if eq $cityNameIn "<nil>" }}{{- $cityNameIn = $cityName -}}{{- end -}}
   {{- $serviceSlug := printf "%v" (index .FM "service_slug") -}}
   {{- $serviceName := printf "%v" (index .FM "service_name") -}}
   {{- $priceMin := printf "%v" (index .FM "price_min") -}}
@@ -67,7 +69,7 @@
       },
       {
         "@type": "Service",
-        "name": "{{ $serviceName }} в {{ $cityName }}",
+        "name": "{{ $serviceName }} в {{ $cityNameIn }}",
         "provider": {
           "@type": "LocalBusiness",
           "name": "ГородСервис",
@@ -86,7 +88,7 @@
         "mainEntity": [
           {
             "@type": "Question",
-            "name": "Сколько стоит {{ $serviceName }} в {{ $cityName }}?",
+        "name": "Сколько стоит {{ $serviceName }} в {{ $cityNameIn }}?",
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "Ориентировочный диапазон по каталогу: от {{ $priceMin }} до {{ $priceMax }} ₽."
@@ -94,7 +96,7 @@
           },
           {
             "@type": "Question",
-            "name": "Какие сроки выполнения работ в {{ $cityName }}?",
+            "name": "Какие сроки выполнения работ в {{ $cityNameIn }}?",
             "acceptedAnswer": {
               "@type": "Answer",
               "text": "Сроки уточняются после оценки объема и условий выполнения работ."

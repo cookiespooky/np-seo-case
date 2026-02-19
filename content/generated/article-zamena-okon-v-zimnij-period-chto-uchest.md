@@ -8,6 +8,7 @@ page_kind: "article"
 og_variant: "article"
 city_slug: "omsk"
 city_name: "Омск"
+city_name_in: "Омске"
 service_slug: "ukladka-plitki"
 service_name: "Укладка плитки"
 service_slug_alt: "natyazhnye-potolki"
@@ -28,7 +29,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Укладка плитки в Омск](/np-seo-case/omsk/ukladka-plitki/)
-- [Натяжные потолки в Омск](/np-seo-case/omsk/natyazhnye-potolki/)
+- [Укладка плитки в Омске](/np-seo-case/omsk/ukladka-plitki/)
+- [Натяжные потолки в Омске](/np-seo-case/omsk/natyazhnye-potolki/)
 - [Укладка плитки](/np-seo-case/services/ukladka-plitki/)
-- [Услуги в Омск](/np-seo-case/cities/omsk/)
+- [Услуги в Омске](/np-seo-case/cities/omsk/)

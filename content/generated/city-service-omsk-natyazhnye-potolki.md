@@ -1,20 +1,21 @@
 ---
 type: "page"
 slug: "omsk/natyazhnye-potolki"
-title: "Натяжные потолки в Омск — цены и услуги"
-description: "Натяжные потолки в Омск: ориентировочные цены, состав работ и ответы на частые вопросы."
+title: "Натяжные потолки в Омске — цены и услуги"
+description: "Натяжные потолки в Омске: ориентировочные цены, состав работ и ответы на частые вопросы."
 page_kind: "city_service"
 city_slug: "omsk"
 city_name: "Омск"
+city_name_in: "Омске"
 service_slug: "natyazhnye-potolki"
 service_name: "Натяжные потолки"
 price_min: 800
 price_max: 2400
 og_variant: "city_service"
 ---
-# Натяжные потолки в Омск
+# Натяжные потолки в Омске
 
-Услуга доступна в Омск. Страница содержит ориентировочную стоимость,
+Услуга доступна в Омске. Страница содержит ориентировочную стоимость,
 структуру работ и базовые ответы на частые вопросы.
 
 ## Ориентировочные цены
@@ -23,7 +24,7 @@ og_variant: "city_service"
 - Верхний диапазон: **до 2 400 ₽**
 - Актуализация стоимости выполняется после оценки объема работ.
 
-## Другие услуги в Омск
+## Другие услуги в Омске
 
 - [Ремонт квартир](/np-seo-case/omsk/remont-kvartir/)
 - [Ремонт ванной комнаты](/np-seo-case/omsk/remont-vannoj/)
@@ -38,13 +39,13 @@ og_variant: "city_service"
 
 ## Натяжные потолки в других городах
 
-- [Натяжные потолки в Москва](/np-seo-case/moskva/natyazhnye-potolki/)
-- [Натяжные потолки в Санкт-Петербург](/np-seo-case/spb/natyazhnye-potolki/)
-- [Натяжные потолки в Казань](/np-seo-case/kazan/natyazhnye-potolki/)
-- [Натяжные потолки в Екатеринбург](/np-seo-case/ekaterinburg/natyazhnye-potolki/)
-- [Натяжные потолки в Новосибирск](/np-seo-case/novosibirsk/natyazhnye-potolki/)
-- [Натяжные потолки в Нижний Новгород](/np-seo-case/nizhniy-novgorod/natyazhnye-potolki/)
-- [Натяжные потолки в Краснодар](/np-seo-case/krasnodar/natyazhnye-potolki/)
+- [Натяжные потолки в Москве](/np-seo-case/moskva/natyazhnye-potolki/)
+- [Натяжные потолки в Санкт-Петербурге](/np-seo-case/spb/natyazhnye-potolki/)
+- [Натяжные потолки в Казани](/np-seo-case/kazan/natyazhnye-potolki/)
+- [Натяжные потолки в Екатеринбурге](/np-seo-case/ekaterinburg/natyazhnye-potolki/)
+- [Натяжные потолки в Новосибирске](/np-seo-case/novosibirsk/natyazhnye-potolki/)
+- [Натяжные потолки в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/natyazhnye-potolki/)
+- [Натяжные потолки в Краснодаре](/np-seo-case/krasnodar/natyazhnye-potolki/)
 
 ## Полезные статьи
 
@@ -54,11 +55,11 @@ og_variant: "city_service"
 
 ## FAQ
 
-### Сколько стоит натяжные потолки в Омск?
+### Сколько стоит натяжные потолки в Омске?
 
 Ориентировочный диапазон по каталогу: от 800 до 2 400 ₽. Цена обычно зависит от площади, состояния помещения и объема подготовительных операций.
 
-### Какие сроки выполнения работ в Омск?
+### Какие сроки выполнения работ в Омске?
 
 Сроки рассчитываются после уточнения объема и условий доступа. Для типовых заказов план работ согласовывается на старте.
 

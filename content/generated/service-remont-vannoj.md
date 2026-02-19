@@ -14,21 +14,21 @@ og_variant: "default"
 
 ## Ремонт ванной комнаты по городам
 
-- [Ремонт ванной комнаты в Москва](/np-seo-case/moskva/remont-vannoj/)
-- [Ремонт ванной комнаты в Санкт-Петербург](/np-seo-case/spb/remont-vannoj/)
-- [Ремонт ванной комнаты в Казань](/np-seo-case/kazan/remont-vannoj/)
-- [Ремонт ванной комнаты в Екатеринбург](/np-seo-case/ekaterinburg/remont-vannoj/)
-- [Ремонт ванной комнаты в Новосибирск](/np-seo-case/novosibirsk/remont-vannoj/)
-- [Ремонт ванной комнаты в Нижний Новгород](/np-seo-case/nizhniy-novgorod/remont-vannoj/)
-- [Ремонт ванной комнаты в Краснодар](/np-seo-case/krasnodar/remont-vannoj/)
-- [Ремонт ванной комнаты в Ростов-на-Дону](/np-seo-case/rostov-na-donu/remont-vannoj/)
-- [Ремонт ванной комнаты в Самара](/np-seo-case/samara/remont-vannoj/)
-- [Ремонт ванной комнаты в Челябинск](/np-seo-case/chelyabinsk/remont-vannoj/)
-- [Ремонт ванной комнаты в Уфа](/np-seo-case/ufa/remont-vannoj/)
-- [Ремонт ванной комнаты в Пермь](/np-seo-case/perm/remont-vannoj/)
-- [Ремонт ванной комнаты в Воронеж](/np-seo-case/voronezh/remont-vannoj/)
-- [Ремонт ванной комнаты в Волгоград](/np-seo-case/volgograd/remont-vannoj/)
-- [Ремонт ванной комнаты в Омск](/np-seo-case/omsk/remont-vannoj/)
+- [Ремонт ванной комнаты в Москве](/np-seo-case/moskva/remont-vannoj/)
+- [Ремонт ванной комнаты в Санкт-Петербурге](/np-seo-case/spb/remont-vannoj/)
+- [Ремонт ванной комнаты в Казани](/np-seo-case/kazan/remont-vannoj/)
+- [Ремонт ванной комнаты в Екатеринбурге](/np-seo-case/ekaterinburg/remont-vannoj/)
+- [Ремонт ванной комнаты в Новосибирске](/np-seo-case/novosibirsk/remont-vannoj/)
+- [Ремонт ванной комнаты в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/remont-vannoj/)
+- [Ремонт ванной комнаты в Краснодаре](/np-seo-case/krasnodar/remont-vannoj/)
+- [Ремонт ванной комнаты в Ростове-на-Дону](/np-seo-case/rostov-na-donu/remont-vannoj/)
+- [Ремонт ванной комнаты в Самаре](/np-seo-case/samara/remont-vannoj/)
+- [Ремонт ванной комнаты в Челябинске](/np-seo-case/chelyabinsk/remont-vannoj/)
+- [Ремонт ванной комнаты в Уфе](/np-seo-case/ufa/remont-vannoj/)
+- [Ремонт ванной комнаты в Перми](/np-seo-case/perm/remont-vannoj/)
+- [Ремонт ванной комнаты в Воронеже](/np-seo-case/voronezh/remont-vannoj/)
+- [Ремонт ванной комнаты в Волгограде](/np-seo-case/volgograd/remont-vannoj/)
+- [Ремонт ванной комнаты в Омске](/np-seo-case/omsk/remont-vannoj/)
 
 ## Коротко о стоимости
 

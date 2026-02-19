@@ -16,6 +16,10 @@ function readJson(file) {
   return JSON.parse(fs.readFileSync(path.join(dataDir, file), "utf8"));
 }
 
+function cityIn(city) {
+  return city.nameIn || city.name;
+}
+
 function route(p) {
   const normalized = p.replace(/^\/+/, "").replace(/\/+$/, "");
   return `${site.basePath}${normalized}/`.replace(/\/+/g, "/");
@@ -76,11 +80,11 @@ function faqFor(city, service, min, max, variant) {
 
   return [
     {
-      q: `Сколько стоит ${service.name.toLowerCase()} в ${city.name}?`,
+      q: `Сколько стоит ${service.name.toLowerCase()} в ${cityIn(city)}?`,
       a: `Ориентировочный диапазон по каталогу: от ${min.toLocaleString("ru-RU")} до ${max.toLocaleString("ru-RU")} ₽. ${extra}`
     },
     {
-      q: `Какие сроки выполнения работ в ${city.name}?`,
+      q: `Какие сроки выполнения работ в ${cityIn(city)}?`,
       a: `Сроки рассчитываются после уточнения объема и условий доступа. Для типовых заказов план работ согласовывается на старте.`
     },
     {
@@ -164,7 +168,7 @@ ${topQuickLinks
   .map(([citySlug, serviceSlug]) => {
     const city = cities.find((c) => c.slug === citySlug);
     const service = services.find((s) => s.slug === serviceSlug);
-    return `- [${service.name} в ${city.name}](${route(`${citySlug}/${serviceSlug}`)})`;
+    return `- [${service.name} в ${cityIn(city)}](${route(`${citySlug}/${serviceSlug}`)})`;
   })
   .join("\n")}
 
@@ -291,7 +295,7 @@ services.forEach((service) => {
 
 ## ${service.name} по городам
 
-${cities.map((city) => `- [${service.name} в ${city.name}](${route(`${city.slug}/${service.slug}`)})`).join("\n")}
+${cities.map((city) => `- [${service.name} в ${cityIn(city)}](${route(`${city.slug}/${service.slug}`)})`).join("\n")}
 
 ## Коротко о стоимости
 
@@ -307,20 +311,21 @@ cities.forEach((city) => {
     {
       type: "page",
       slug: `cities/${city.slug}`,
-      title: `Услуги в ${city.name} — каталог`,
-      description: `Каталог бытовых и ремонтных услуг в ${city.name}.`,
+      title: `Услуги в ${cityIn(city)} — каталог`,
+      description: `Каталог бытовых и ремонтных услуг в ${cityIn(city)}.`,
       page_kind: "city",
       city_slug: city.slug,
       city_name: city.name,
+      city_name_in: cityIn(city),
       og_variant: "default"
     },
     `
-# Услуги в ${city.name}
+# Услуги в ${cityIn(city)}
 
 ${city.region ? `Регион: ${city.region}.` : ""}
 На странице представлены все услуги, доступные для города.
 
-${services.map((service) => `- [${service.name} в ${city.name}](${route(`${city.slug}/${service.slug}`)})`).join("\n")}
+${services.map((service) => `- [${service.name} в ${cityIn(city)}](${route(`${city.slug}/${service.slug}`)})`).join("\n")}
 `
   );
 });
@@ -340,11 +345,12 @@ cities.forEach((city, cIndex) => {
       {
         type: "page",
         slug: `${city.slug}/${service.slug}`,
-        title: `${service.name} в ${city.name} — цены и услуги`,
-        description: `${service.name} в ${city.name}: ориентировочные цены, состав работ и ответы на частые вопросы.`,
+        title: `${service.name} в ${cityIn(city)} — цены и услуги`,
+        description: `${service.name} в ${cityIn(city)}: ориентировочные цены, состав работ и ответы на частые вопросы.`,
         page_kind: "city_service",
         city_slug: city.slug,
         city_name: city.name,
+        city_name_in: cityIn(city),
         service_slug: service.slug,
         service_name: service.name,
         price_min: min,
@@ -352,9 +358,9 @@ cities.forEach((city, cIndex) => {
         og_variant: "city_service"
       },
       `
-# ${service.name} в ${city.name}
+# ${service.name} в ${cityIn(city)}
 
-Услуга доступна в ${city.name}. Страница содержит ориентировочную стоимость,
+Услуга доступна в ${cityIn(city)}. Страница содержит ориентировочную стоимость,
 структуру работ и базовые ответы на частые вопросы.
 
 ## Ориентировочные цены
@@ -363,13 +369,13 @@ cities.forEach((city, cIndex) => {
 - Верхний диапазон: **до ${max.toLocaleString("ru-RU")} ₽**
 - Актуализация стоимости выполняется после оценки объема работ.
 
-## Другие услуги в ${city.name}
+## Другие услуги в ${cityIn(city)}
 
 ${services.map((s) => `- [${s.name}](${route(`${city.slug}/${s.slug}`)})`).join("\n")}
 
 ## ${service.name} в других городах
 
-${cityLinks.map((c) => `- [${service.name} в ${c.name}](${route(`${c.slug}/${service.slug}`)})`).join("\n")}
+${cityLinks.map((c) => `- [${service.name} в ${cityIn(c)}](${route(`${c.slug}/${service.slug}`)})`).join("\n")}
 
 ## Полезные статьи
 
@@ -444,6 +450,7 @@ articlesWithDates.forEach((article, idx) => {
       og_variant: "article",
       city_slug: city.slug,
       city_name: city.name,
+      city_name_in: cityIn(city),
       service_slug: service.slug,
       service_name: service.name,
       service_slug_alt: service2.slug,
@@ -465,10 +472,10 @@ articlesWithDates.forEach((article, idx) => {
 
 Связанные разделы каталога:
 
-- [${service.name} в ${city.name}](${route(`${city.slug}/${service.slug}`)})
-- [${service2.name} в ${city.name}](${route(`${city.slug}/${service2.slug}`)})
+- [${service.name} в ${cityIn(city)}](${route(`${city.slug}/${service.slug}`)})
+- [${service2.name} в ${cityIn(city)}](${route(`${city.slug}/${service2.slug}`)})
 - [${service.name}](${route(`services/${service.slug}`)})
-- [Услуги в ${city.name}](${route(`cities/${city.slug}`)})
+- [Услуги в ${cityIn(city)}](${route(`cities/${city.slug}`)})
 `
   );
 });

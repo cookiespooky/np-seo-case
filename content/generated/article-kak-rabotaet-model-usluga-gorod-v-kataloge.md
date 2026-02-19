@@ -8,6 +8,7 @@ page_kind: "article"
 og_variant: "article"
 city_slug: "moskva"
 city_name: "Москва"
+city_name_in: "Москве"
 service_slug: "remont-kvartir"
 service_name: "Ремонт квартир"
 service_slug_alt: "uslugi-elektrika"
@@ -28,7 +29,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Ремонт квартир в Москва](/np-seo-case/moskva/remont-kvartir/)
-- [Услуги электрика в Москва](/np-seo-case/moskva/uslugi-elektrika/)
+- [Ремонт квартир в Москве](/np-seo-case/moskva/remont-kvartir/)
+- [Услуги электрика в Москве](/np-seo-case/moskva/uslugi-elektrika/)
 - [Ремонт квартир](/np-seo-case/services/remont-kvartir/)
-- [Услуги в Москва](/np-seo-case/cities/moskva/)
+- [Услуги в Москве](/np-seo-case/cities/moskva/)

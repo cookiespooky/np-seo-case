@@ -1,20 +1,21 @@
 ---
 type: "page"
 slug: "novosibirsk/natyazhnye-potolki"
-title: "Натяжные потолки в Новосибирск — цены и услуги"
-description: "Натяжные потолки в Новосибирск: ориентировочные цены, состав работ и ответы на частые вопросы."
+title: "Натяжные потолки в Новосибирске — цены и услуги"
+description: "Натяжные потолки в Новосибирске: ориентировочные цены, состав работ и ответы на частые вопросы."
 page_kind: "city_service"
 city_slug: "novosibirsk"
 city_name: "Новосибирск"
+city_name_in: "Новосибирске"
 service_slug: "natyazhnye-potolki"
 service_name: "Натяжные потолки"
 price_min: 1000
 price_max: 2800
 og_variant: "city_service"
 ---
-# Натяжные потолки в Новосибирск
+# Натяжные потолки в Новосибирске
 
-Услуга доступна в Новосибирск. Страница содержит ориентировочную стоимость,
+Услуга доступна в Новосибирске. Страница содержит ориентировочную стоимость,
 структуру работ и базовые ответы на частые вопросы.
 
 ## Ориентировочные цены
@@ -23,7 +24,7 @@ og_variant: "city_service"
 - Верхний диапазон: **до 2 800 ₽**
 - Актуализация стоимости выполняется после оценки объема работ.
 
-## Другие услуги в Новосибирск
+## Другие услуги в Новосибирске
 
 - [Ремонт квартир](/np-seo-case/novosibirsk/remont-kvartir/)
 - [Ремонт ванной комнаты](/np-seo-case/novosibirsk/remont-vannoj/)
@@ -38,13 +39,13 @@ og_variant: "city_service"
 
 ## Натяжные потолки в других городах
 
-- [Натяжные потолки в Нижний Новгород](/np-seo-case/nizhniy-novgorod/natyazhnye-potolki/)
-- [Натяжные потолки в Краснодар](/np-seo-case/krasnodar/natyazhnye-potolki/)
-- [Натяжные потолки в Ростов-на-Дону](/np-seo-case/rostov-na-donu/natyazhnye-potolki/)
-- [Натяжные потолки в Самара](/np-seo-case/samara/natyazhnye-potolki/)
-- [Натяжные потолки в Челябинск](/np-seo-case/chelyabinsk/natyazhnye-potolki/)
-- [Натяжные потолки в Уфа](/np-seo-case/ufa/natyazhnye-potolki/)
-- [Натяжные потолки в Пермь](/np-seo-case/perm/natyazhnye-potolki/)
+- [Натяжные потолки в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/natyazhnye-potolki/)
+- [Натяжные потолки в Краснодаре](/np-seo-case/krasnodar/natyazhnye-potolki/)
+- [Натяжные потолки в Ростове-на-Дону](/np-seo-case/rostov-na-donu/natyazhnye-potolki/)
+- [Натяжные потолки в Самаре](/np-seo-case/samara/natyazhnye-potolki/)
+- [Натяжные потолки в Челябинске](/np-seo-case/chelyabinsk/natyazhnye-potolki/)
+- [Натяжные потолки в Уфе](/np-seo-case/ufa/natyazhnye-potolki/)
+- [Натяжные потолки в Перми](/np-seo-case/perm/natyazhnye-potolki/)
 
 ## Полезные статьи
 
@@ -54,11 +55,11 @@ og_variant: "city_service"
 
 ## FAQ
 
-### Сколько стоит натяжные потолки в Новосибирск?
+### Сколько стоит натяжные потолки в Новосибирске?
 
 Ориентировочный диапазон по каталогу: от 1 000 до 2 800 ₽. Цена обычно зависит от площади, состояния помещения и объема подготовительных операций.
 
-### Какие сроки выполнения работ в Новосибирск?
+### Какие сроки выполнения работ в Новосибирске?
 
 Сроки рассчитываются после уточнения объема и условий доступа. Для типовых заказов план работ согласовывается на старте.
 

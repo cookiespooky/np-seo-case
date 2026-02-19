@@ -14,21 +14,21 @@ og_variant: "default"
 
 ## Сборка мебели по городам
 
-- [Сборка мебели в Москва](/np-seo-case/moskva/sborka-mebeli/)
-- [Сборка мебели в Санкт-Петербург](/np-seo-case/spb/sborka-mebeli/)
-- [Сборка мебели в Казань](/np-seo-case/kazan/sborka-mebeli/)
-- [Сборка мебели в Екатеринбург](/np-seo-case/ekaterinburg/sborka-mebeli/)
-- [Сборка мебели в Новосибирск](/np-seo-case/novosibirsk/sborka-mebeli/)
-- [Сборка мебели в Нижний Новгород](/np-seo-case/nizhniy-novgorod/sborka-mebeli/)
-- [Сборка мебели в Краснодар](/np-seo-case/krasnodar/sborka-mebeli/)
-- [Сборка мебели в Ростов-на-Дону](/np-seo-case/rostov-na-donu/sborka-mebeli/)
-- [Сборка мебели в Самара](/np-seo-case/samara/sborka-mebeli/)
-- [Сборка мебели в Челябинск](/np-seo-case/chelyabinsk/sborka-mebeli/)
-- [Сборка мебели в Уфа](/np-seo-case/ufa/sborka-mebeli/)
-- [Сборка мебели в Пермь](/np-seo-case/perm/sborka-mebeli/)
-- [Сборка мебели в Воронеж](/np-seo-case/voronezh/sborka-mebeli/)
-- [Сборка мебели в Волгоград](/np-seo-case/volgograd/sborka-mebeli/)
-- [Сборка мебели в Омск](/np-seo-case/omsk/sborka-mebeli/)
+- [Сборка мебели в Москве](/np-seo-case/moskva/sborka-mebeli/)
+- [Сборка мебели в Санкт-Петербурге](/np-seo-case/spb/sborka-mebeli/)
+- [Сборка мебели в Казани](/np-seo-case/kazan/sborka-mebeli/)
+- [Сборка мебели в Екатеринбурге](/np-seo-case/ekaterinburg/sborka-mebeli/)
+- [Сборка мебели в Новосибирске](/np-seo-case/novosibirsk/sborka-mebeli/)
+- [Сборка мебели в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/sborka-mebeli/)
+- [Сборка мебели в Краснодаре](/np-seo-case/krasnodar/sborka-mebeli/)
+- [Сборка мебели в Ростове-на-Дону](/np-seo-case/rostov-na-donu/sborka-mebeli/)
+- [Сборка мебели в Самаре](/np-seo-case/samara/sborka-mebeli/)
+- [Сборка мебели в Челябинске](/np-seo-case/chelyabinsk/sborka-mebeli/)
+- [Сборка мебели в Уфе](/np-seo-case/ufa/sborka-mebeli/)
+- [Сборка мебели в Перми](/np-seo-case/perm/sborka-mebeli/)
+- [Сборка мебели в Воронеже](/np-seo-case/voronezh/sborka-mebeli/)
+- [Сборка мебели в Волгограде](/np-seo-case/volgograd/sborka-mebeli/)
+- [Сборка мебели в Омске](/np-seo-case/omsk/sborka-mebeli/)
 
 ## Коротко о стоимости
 

@@ -8,6 +8,7 @@ page_kind: "article"
 og_variant: "article"
 city_slug: "krasnodar"
 city_name: "Краснодар"
+city_name_in: "Краснодаре"
 service_slug: "klining-kvartir"
 service_name: "Клининг квартир"
 service_slug_alt: "ukladka-plitki"
@@ -28,7 +29,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Клининг квартир в Краснодар](/np-seo-case/krasnodar/klining-kvartir/)
-- [Укладка плитки в Краснодар](/np-seo-case/krasnodar/ukladka-plitki/)
+- [Клининг квартир в Краснодаре](/np-seo-case/krasnodar/klining-kvartir/)
+- [Укладка плитки в Краснодаре](/np-seo-case/krasnodar/ukladka-plitki/)
 - [Клининг квартир](/np-seo-case/services/klining-kvartir/)
-- [Услуги в Краснодар](/np-seo-case/cities/krasnodar/)
+- [Услуги в Краснодаре](/np-seo-case/cities/krasnodar/)

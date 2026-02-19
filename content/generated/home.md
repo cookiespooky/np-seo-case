@@ -53,22 +53,22 @@ page_kind: "home"
 
 ## Услуга в городе
 
-- [Ремонт квартир в Москва](/np-seo-case/moskva/remont-kvartir/)
-- [Ремонт ванной комнаты в Москва](/np-seo-case/moskva/remont-vannoj/)
-- [Услуги электрика в Москва](/np-seo-case/moskva/uslugi-elektrika/)
-- [Замена окон в Москва](/np-seo-case/moskva/zamena-okon/)
-- [Ремонт квартир в Санкт-Петербург](/np-seo-case/spb/remont-kvartir/)
-- [Укладка плитки в Санкт-Петербург](/np-seo-case/spb/ukladka-plitki/)
-- [Установка сантехники в Санкт-Петербург](/np-seo-case/spb/ustanovka-santehniki/)
-- [Натяжные потолки в Санкт-Петербург](/np-seo-case/spb/natyazhnye-potolki/)
-- [Ремонт квартир в Казань](/np-seo-case/kazan/remont-kvartir/)
-- [Клининг квартир в Казань](/np-seo-case/kazan/klining-kvartir/)
-- [Услуги электрика в Екатеринбург](/np-seo-case/ekaterinburg/uslugi-elektrika/)
-- [Установка дверей в Новосибирск](/np-seo-case/novosibirsk/ustanovka-dverej/)
-- [Сборка мебели в Краснодар](/np-seo-case/krasnodar/sborka-mebeli/)
-- [Замена окон в Самара](/np-seo-case/samara/zamena-okon/)
-- [Ремонт ванной комнаты в Уфа](/np-seo-case/ufa/remont-vannoj/)
-- [Укладка плитки в Пермь](/np-seo-case/perm/ukladka-plitki/)
+- [Ремонт квартир в Москве](/np-seo-case/moskva/remont-kvartir/)
+- [Ремонт ванной комнаты в Москве](/np-seo-case/moskva/remont-vannoj/)
+- [Услуги электрика в Москве](/np-seo-case/moskva/uslugi-elektrika/)
+- [Замена окон в Москве](/np-seo-case/moskva/zamena-okon/)
+- [Ремонт квартир в Санкт-Петербурге](/np-seo-case/spb/remont-kvartir/)
+- [Укладка плитки в Санкт-Петербурге](/np-seo-case/spb/ukladka-plitki/)
+- [Установка сантехники в Санкт-Петербурге](/np-seo-case/spb/ustanovka-santehniki/)
+- [Натяжные потолки в Санкт-Петербурге](/np-seo-case/spb/natyazhnye-potolki/)
+- [Ремонт квартир в Казани](/np-seo-case/kazan/remont-kvartir/)
+- [Клининг квартир в Казани](/np-seo-case/kazan/klining-kvartir/)
+- [Услуги электрика в Екатеринбурге](/np-seo-case/ekaterinburg/uslugi-elektrika/)
+- [Установка дверей в Новосибирске](/np-seo-case/novosibirsk/ustanovka-dverej/)
+- [Сборка мебели в Краснодаре](/np-seo-case/krasnodar/sborka-mebeli/)
+- [Замена окон в Самаре](/np-seo-case/samara/zamena-okon/)
+- [Ремонт ванной комнаты в Уфе](/np-seo-case/ufa/remont-vannoj/)
+- [Укладка плитки в Перми](/np-seo-case/perm/ukladka-plitki/)
 
 ## Последние статьи
 

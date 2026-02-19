@@ -8,6 +8,7 @@ page_kind: "article"
 og_variant: "article"
 city_slug: "kazan"
 city_name: "Казань"
+city_name_in: "Казани"
 service_slug: "remont-vannoj"
 service_name: "Ремонт ванной комнаты"
 service_slug_alt: "sborka-mebeli"
@@ -28,7 +29,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Ремонт ванной комнаты в Казань](/np-seo-case/kazan/remont-vannoj/)
-- [Сборка мебели в Казань](/np-seo-case/kazan/sborka-mebeli/)
+- [Ремонт ванной комнаты в Казани](/np-seo-case/kazan/remont-vannoj/)
+- [Сборка мебели в Казани](/np-seo-case/kazan/sborka-mebeli/)
 - [Ремонт ванной комнаты](/np-seo-case/services/remont-vannoj/)
-- [Услуги в Казань](/np-seo-case/cities/kazan/)
+- [Услуги в Казани](/np-seo-case/cities/kazan/)

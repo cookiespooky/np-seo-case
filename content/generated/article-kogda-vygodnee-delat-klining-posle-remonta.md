@@ -8,6 +8,7 @@ page_kind: "article"
 og_variant: "article"
 city_slug: "ekaterinburg"
 city_name: "Екатеринбург"
+city_name_in: "Екатеринбурге"
 service_slug: "ustanovka-dverej"
 service_name: "Установка дверей"
 service_slug_alt: "ustanovka-santehniki"
@@ -28,7 +29,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Установка дверей в Екатеринбург](/np-seo-case/ekaterinburg/ustanovka-dverej/)
-- [Установка сантехники в Екатеринбург](/np-seo-case/ekaterinburg/ustanovka-santehniki/)
+- [Установка дверей в Екатеринбурге](/np-seo-case/ekaterinburg/ustanovka-dverej/)
+- [Установка сантехники в Екатеринбурге](/np-seo-case/ekaterinburg/ustanovka-santehniki/)
 - [Установка дверей](/np-seo-case/services/ustanovka-dverej/)
-- [Услуги в Екатеринбург](/np-seo-case/cities/ekaterinburg/)
+- [Услуги в Екатеринбурге](/np-seo-case/cities/ekaterinburg/)

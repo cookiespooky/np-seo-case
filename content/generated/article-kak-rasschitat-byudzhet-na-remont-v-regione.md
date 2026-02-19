@@ -8,6 +8,7 @@ page_kind: "article"
 og_variant: "article"
 city_slug: "rostov-na-donu"
 city_name: "Ростов-на-Дону"
+city_name_in: "Ростове-на-Дону"
 service_slug: "remont-vannoj"
 service_name: "Ремонт ванной комнаты"
 service_slug_alt: "sborka-mebeli"
@@ -28,7 +29,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Ремонт ванной комнаты в Ростов-на-Дону](/np-seo-case/rostov-na-donu/remont-vannoj/)
-- [Сборка мебели в Ростов-на-Дону](/np-seo-case/rostov-na-donu/sborka-mebeli/)
+- [Ремонт ванной комнаты в Ростове-на-Дону](/np-seo-case/rostov-na-donu/remont-vannoj/)
+- [Сборка мебели в Ростове-на-Дону](/np-seo-case/rostov-na-donu/sborka-mebeli/)
 - [Ремонт ванной комнаты](/np-seo-case/services/remont-vannoj/)
-- [Услуги в Ростов-на-Дону](/np-seo-case/cities/rostov-na-donu/)
+- [Услуги в Ростове-на-Дону](/np-seo-case/cities/rostov-na-donu/)

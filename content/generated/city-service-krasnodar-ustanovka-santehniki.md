@@ -1,20 +1,21 @@
 ---
 type: "page"
 slug: "krasnodar/ustanovka-santehniki"
-title: "Установка сантехники в Краснодар — цены и услуги"
-description: "Установка сантехники в Краснодар: ориентировочные цены, состав работ и ответы на частые вопросы."
+title: "Установка сантехники в Краснодаре — цены и услуги"
+description: "Установка сантехники в Краснодаре: ориентировочные цены, состав работ и ответы на частые вопросы."
 page_kind: "city_service"
 city_slug: "krasnodar"
 city_name: "Краснодар"
+city_name_in: "Краснодаре"
 service_slug: "ustanovka-santehniki"
 service_name: "Установка сантехники"
 price_min: 2300
 price_max: 8000
 og_variant: "city_service"
 ---
-# Установка сантехники в Краснодар
+# Установка сантехники в Краснодаре
 
-Услуга доступна в Краснодар. Страница содержит ориентировочную стоимость,
+Услуга доступна в Краснодаре. Страница содержит ориентировочную стоимость,
 структуру работ и базовые ответы на частые вопросы.
 
 ## Ориентировочные цены
@@ -23,7 +24,7 @@ og_variant: "city_service"
 - Верхний диапазон: **до 8 000 ₽**
 - Актуализация стоимости выполняется после оценки объема работ.
 
-## Другие услуги в Краснодар
+## Другие услуги в Краснодаре
 
 - [Ремонт квартир](/np-seo-case/krasnodar/remont-kvartir/)
 - [Ремонт ванной комнаты](/np-seo-case/krasnodar/remont-vannoj/)
@@ -38,13 +39,13 @@ og_variant: "city_service"
 
 ## Установка сантехники в других городах
 
-- [Установка сантехники в Ростов-на-Дону](/np-seo-case/rostov-na-donu/ustanovka-santehniki/)
-- [Установка сантехники в Самара](/np-seo-case/samara/ustanovka-santehniki/)
-- [Установка сантехники в Челябинск](/np-seo-case/chelyabinsk/ustanovka-santehniki/)
-- [Установка сантехники в Уфа](/np-seo-case/ufa/ustanovka-santehniki/)
-- [Установка сантехники в Пермь](/np-seo-case/perm/ustanovka-santehniki/)
-- [Установка сантехники в Воронеж](/np-seo-case/voronezh/ustanovka-santehniki/)
-- [Установка сантехники в Волгоград](/np-seo-case/volgograd/ustanovka-santehniki/)
+- [Установка сантехники в Ростове-на-Дону](/np-seo-case/rostov-na-donu/ustanovka-santehniki/)
+- [Установка сантехники в Самаре](/np-seo-case/samara/ustanovka-santehniki/)
+- [Установка сантехники в Челябинске](/np-seo-case/chelyabinsk/ustanovka-santehniki/)
+- [Установка сантехники в Уфе](/np-seo-case/ufa/ustanovka-santehniki/)
+- [Установка сантехники в Перми](/np-seo-case/perm/ustanovka-santehniki/)
+- [Установка сантехники в Воронеже](/np-seo-case/voronezh/ustanovka-santehniki/)
+- [Установка сантехники в Волгограде](/np-seo-case/volgograd/ustanovka-santehniki/)
 
 ## Полезные статьи
 
@@ -54,11 +55,11 @@ og_variant: "city_service"
 
 ## FAQ
 
-### Сколько стоит установка сантехники в Краснодар?
+### Сколько стоит установка сантехники в Краснодаре?
 
 Ориентировочный диапазон по каталогу: от 2 300 до 8 000 ₽. На итог влияют доступность объекта, сложность узлов и требуемые сроки выполнения.
 
-### Какие сроки выполнения работ в Краснодар?
+### Какие сроки выполнения работ в Краснодаре?
 
 Сроки рассчитываются после уточнения объема и условий доступа. Для типовых заказов план работ согласовывается на старте.
 

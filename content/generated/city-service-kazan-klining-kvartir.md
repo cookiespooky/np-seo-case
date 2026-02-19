@@ -1,20 +1,21 @@
 ---
 type: "page"
 slug: "kazan/klining-kvartir"
-title: "Клининг квартир в Казань — цены и услуги"
-description: "Клининг квартир в Казань: ориентировочные цены, состав работ и ответы на частые вопросы."
+title: "Клининг квартир в Казани — цены и услуги"
+description: "Клининг квартир в Казани: ориентировочные цены, состав работ и ответы на частые вопросы."
 page_kind: "city_service"
 city_slug: "kazan"
 city_name: "Казань"
+city_name_in: "Казани"
 service_slug: "klining-kvartir"
 service_name: "Клининг квартир"
 price_min: 2800
 price_max: 9100
 og_variant: "city_service"
 ---
-# Клининг квартир в Казань
+# Клининг квартир в Казани
 
-Услуга доступна в Казань. Страница содержит ориентировочную стоимость,
+Услуга доступна в Казани. Страница содержит ориентировочную стоимость,
 структуру работ и базовые ответы на частые вопросы.
 
 ## Ориентировочные цены
@@ -23,7 +24,7 @@ og_variant: "city_service"
 - Верхний диапазон: **до 9 100 ₽**
 - Актуализация стоимости выполняется после оценки объема работ.
 
-## Другие услуги в Казань
+## Другие услуги в Казани
 
 - [Ремонт квартир](/np-seo-case/kazan/remont-kvartir/)
 - [Ремонт ванной комнаты](/np-seo-case/kazan/remont-vannoj/)
@@ -38,13 +39,13 @@ og_variant: "city_service"
 
 ## Клининг квартир в других городах
 
-- [Клининг квартир в Екатеринбург](/np-seo-case/ekaterinburg/klining-kvartir/)
-- [Клининг квартир в Новосибирск](/np-seo-case/novosibirsk/klining-kvartir/)
-- [Клининг квартир в Нижний Новгород](/np-seo-case/nizhniy-novgorod/klining-kvartir/)
-- [Клининг квартир в Краснодар](/np-seo-case/krasnodar/klining-kvartir/)
-- [Клининг квартир в Ростов-на-Дону](/np-seo-case/rostov-na-donu/klining-kvartir/)
-- [Клининг квартир в Самара](/np-seo-case/samara/klining-kvartir/)
-- [Клининг квартир в Челябинск](/np-seo-case/chelyabinsk/klining-kvartir/)
+- [Клининг квартир в Екатеринбурге](/np-seo-case/ekaterinburg/klining-kvartir/)
+- [Клининг квартир в Новосибирске](/np-seo-case/novosibirsk/klining-kvartir/)
+- [Клининг квартир в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/klining-kvartir/)
+- [Клининг квартир в Краснодаре](/np-seo-case/krasnodar/klining-kvartir/)
+- [Клининг квартир в Ростове-на-Дону](/np-seo-case/rostov-na-donu/klining-kvartir/)
+- [Клининг квартир в Самаре](/np-seo-case/samara/klining-kvartir/)
+- [Клининг квартир в Челябинске](/np-seo-case/chelyabinsk/klining-kvartir/)
 
 ## Полезные статьи
 
@@ -54,11 +55,11 @@ og_variant: "city_service"
 
 ## FAQ
 
-### Сколько стоит клининг квартир в Казань?
+### Сколько стоит клининг квартир в Казани?
 
 Ориентировочный диапазон по каталогу: от 2 800 до 9 100 ₽. Цена обычно зависит от площади, состояния помещения и объема подготовительных операций.
 
-### Какие сроки выполнения работ в Казань?
+### Какие сроки выполнения работ в Казани?
 
 Сроки рассчитываются после уточнения объема и условий доступа. Для типовых заказов план работ согласовывается на старте.
 

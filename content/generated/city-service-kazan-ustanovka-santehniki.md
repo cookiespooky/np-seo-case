@@ -1,20 +1,21 @@
 ---
 type: "page"
 slug: "kazan/ustanovka-santehniki"
-title: "Установка сантехники в Казань — цены и услуги"
-description: "Установка сантехники в Казань: ориентировочные цены, состав работ и ответы на частые вопросы."
+title: "Установка сантехники в Казани — цены и услуги"
+description: "Установка сантехники в Казани: ориентировочные цены, состав работ и ответы на частые вопросы."
 page_kind: "city_service"
 city_slug: "kazan"
 city_name: "Казань"
+city_name_in: "Казани"
 service_slug: "ustanovka-santehniki"
 service_name: "Установка сантехники"
 price_min: 2400
 price_max: 8200
 og_variant: "city_service"
 ---
-# Установка сантехники в Казань
+# Установка сантехники в Казани
 
-Услуга доступна в Казань. Страница содержит ориентировочную стоимость,
+Услуга доступна в Казани. Страница содержит ориентировочную стоимость,
 структуру работ и базовые ответы на частые вопросы.
 
 ## Ориентировочные цены
@@ -23,7 +24,7 @@ og_variant: "city_service"
 - Верхний диапазон: **до 8 200 ₽**
 - Актуализация стоимости выполняется после оценки объема работ.
 
-## Другие услуги в Казань
+## Другие услуги в Казани
 
 - [Ремонт квартир](/np-seo-case/kazan/remont-kvartir/)
 - [Ремонт ванной комнаты](/np-seo-case/kazan/remont-vannoj/)
@@ -38,13 +39,13 @@ og_variant: "city_service"
 
 ## Установка сантехники в других городах
 
-- [Установка сантехники в Екатеринбург](/np-seo-case/ekaterinburg/ustanovka-santehniki/)
-- [Установка сантехники в Новосибирск](/np-seo-case/novosibirsk/ustanovka-santehniki/)
-- [Установка сантехники в Нижний Новгород](/np-seo-case/nizhniy-novgorod/ustanovka-santehniki/)
-- [Установка сантехники в Краснодар](/np-seo-case/krasnodar/ustanovka-santehniki/)
-- [Установка сантехники в Ростов-на-Дону](/np-seo-case/rostov-na-donu/ustanovka-santehniki/)
-- [Установка сантехники в Самара](/np-seo-case/samara/ustanovka-santehniki/)
-- [Установка сантехники в Челябинск](/np-seo-case/chelyabinsk/ustanovka-santehniki/)
+- [Установка сантехники в Екатеринбурге](/np-seo-case/ekaterinburg/ustanovka-santehniki/)
+- [Установка сантехники в Новосибирске](/np-seo-case/novosibirsk/ustanovka-santehniki/)
+- [Установка сантехники в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/ustanovka-santehniki/)
+- [Установка сантехники в Краснодаре](/np-seo-case/krasnodar/ustanovka-santehniki/)
+- [Установка сантехники в Ростове-на-Дону](/np-seo-case/rostov-na-donu/ustanovka-santehniki/)
+- [Установка сантехники в Самаре](/np-seo-case/samara/ustanovka-santehniki/)
+- [Установка сантехники в Челябинске](/np-seo-case/chelyabinsk/ustanovka-santehniki/)
 
 ## Полезные статьи
 
@@ -54,11 +55,11 @@ og_variant: "city_service"
 
 ## FAQ
 
-### Сколько стоит установка сантехники в Казань?
+### Сколько стоит установка сантехники в Казани?
 
 Ориентировочный диапазон по каталогу: от 2 400 до 8 200 ₽. На итог влияют доступность объекта, сложность узлов и требуемые сроки выполнения.
 
-### Какие сроки выполнения работ в Казань?
+### Какие сроки выполнения работ в Казани?
 
 Сроки рассчитываются после уточнения объема и условий доступа. Для типовых заказов план работ согласовывается на старте.
 

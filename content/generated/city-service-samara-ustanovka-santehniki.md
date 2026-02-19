@@ -1,20 +1,21 @@
 ---
 type: "page"
 slug: "samara/ustanovka-santehniki"
-title: "Установка сантехники в Самара — цены и услуги"
-description: "Установка сантехники в Самара: ориентировочные цены, состав работ и ответы на частые вопросы."
+title: "Установка сантехники в Самаре — цены и услуги"
+description: "Установка сантехники в Самаре: ориентировочные цены, состав работ и ответы на частые вопросы."
 page_kind: "city_service"
 city_slug: "samara"
 city_name: "Самара"
+city_name_in: "Самаре"
 service_slug: "ustanovka-santehniki"
 service_name: "Установка сантехники"
 price_min: 2200
 price_max: 7600
 og_variant: "city_service"
 ---
-# Установка сантехники в Самара
+# Установка сантехники в Самаре
 
-Услуга доступна в Самара. Страница содержит ориентировочную стоимость,
+Услуга доступна в Самаре. Страница содержит ориентировочную стоимость,
 структуру работ и базовые ответы на частые вопросы.
 
 ## Ориентировочные цены
@@ -23,7 +24,7 @@ og_variant: "city_service"
 - Верхний диапазон: **до 7 600 ₽**
 - Актуализация стоимости выполняется после оценки объема работ.
 
-## Другие услуги в Самара
+## Другие услуги в Самаре
 
 - [Ремонт квартир](/np-seo-case/samara/remont-kvartir/)
 - [Ремонт ванной комнаты](/np-seo-case/samara/remont-vannoj/)
@@ -38,13 +39,13 @@ og_variant: "city_service"
 
 ## Установка сантехники в других городах
 
-- [Установка сантехники в Челябинск](/np-seo-case/chelyabinsk/ustanovka-santehniki/)
-- [Установка сантехники в Уфа](/np-seo-case/ufa/ustanovka-santehniki/)
-- [Установка сантехники в Пермь](/np-seo-case/perm/ustanovka-santehniki/)
-- [Установка сантехники в Воронеж](/np-seo-case/voronezh/ustanovka-santehniki/)
-- [Установка сантехники в Волгоград](/np-seo-case/volgograd/ustanovka-santehniki/)
-- [Установка сантехники в Омск](/np-seo-case/omsk/ustanovka-santehniki/)
-- [Установка сантехники в Москва](/np-seo-case/moskva/ustanovka-santehniki/)
+- [Установка сантехники в Челябинске](/np-seo-case/chelyabinsk/ustanovka-santehniki/)
+- [Установка сантехники в Уфе](/np-seo-case/ufa/ustanovka-santehniki/)
+- [Установка сантехники в Перми](/np-seo-case/perm/ustanovka-santehniki/)
+- [Установка сантехники в Воронеже](/np-seo-case/voronezh/ustanovka-santehniki/)
+- [Установка сантехники в Волгограде](/np-seo-case/volgograd/ustanovka-santehniki/)
+- [Установка сантехники в Омске](/np-seo-case/omsk/ustanovka-santehniki/)
+- [Установка сантехники в Москве](/np-seo-case/moskva/ustanovka-santehniki/)
 
 ## Полезные статьи
 
@@ -54,11 +55,11 @@ og_variant: "city_service"
 
 ## FAQ
 
-### Сколько стоит установка сантехники в Самара?
+### Сколько стоит установка сантехники в Самаре?
 
 Ориентировочный диапазон по каталогу: от 2 200 до 7 600 ₽. На итог влияют доступность объекта, сложность узлов и требуемые сроки выполнения.
 
-### Какие сроки выполнения работ в Самара?
+### Какие сроки выполнения работ в Самаре?
 
 Сроки рассчитываются после уточнения объема и условий доступа. Для типовых заказов план работ согласовывается на старте.
 

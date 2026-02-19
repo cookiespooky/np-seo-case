@@ -1,20 +1,21 @@
 ---
 type: "page"
 slug: "ekaterinburg/ustanovka-santehniki"
-title: "Установка сантехники в Екатеринбург — цены и услуги"
-description: "Установка сантехники в Екатеринбург: ориентировочные цены, состав работ и ответы на частые вопросы."
+title: "Установка сантехники в Екатеринбурге — цены и услуги"
+description: "Установка сантехники в Екатеринбурге: ориентировочные цены, состав работ и ответы на частые вопросы."
 page_kind: "city_service"
 city_slug: "ekaterinburg"
 city_name: "Екатеринбург"
+city_name_in: "Екатеринбурге"
 service_slug: "ustanovka-santehniki"
 service_name: "Установка сантехники"
 price_min: 2400
 price_max: 8400
 og_variant: "city_service"
 ---
-# Установка сантехники в Екатеринбург
+# Установка сантехники в Екатеринбурге
 
-Услуга доступна в Екатеринбург. Страница содержит ориентировочную стоимость,
+Услуга доступна в Екатеринбурге. Страница содержит ориентировочную стоимость,
 структуру работ и базовые ответы на частые вопросы.
 
 ## Ориентировочные цены
@@ -23,7 +24,7 @@ og_variant: "city_service"
 - Верхний диапазон: **до 8 400 ₽**
 - Актуализация стоимости выполняется после оценки объема работ.
 
-## Другие услуги в Екатеринбург
+## Другие услуги в Екатеринбурге
 
 - [Ремонт квартир](/np-seo-case/ekaterinburg/remont-kvartir/)
 - [Ремонт ванной комнаты](/np-seo-case/ekaterinburg/remont-vannoj/)
@@ -38,13 +39,13 @@ og_variant: "city_service"
 
 ## Установка сантехники в других городах
 
-- [Установка сантехники в Новосибирск](/np-seo-case/novosibirsk/ustanovka-santehniki/)
-- [Установка сантехники в Нижний Новгород](/np-seo-case/nizhniy-novgorod/ustanovka-santehniki/)
-- [Установка сантехники в Краснодар](/np-seo-case/krasnodar/ustanovka-santehniki/)
-- [Установка сантехники в Ростов-на-Дону](/np-seo-case/rostov-na-donu/ustanovka-santehniki/)
-- [Установка сантехники в Самара](/np-seo-case/samara/ustanovka-santehniki/)
-- [Установка сантехники в Челябинск](/np-seo-case/chelyabinsk/ustanovka-santehniki/)
-- [Установка сантехники в Уфа](/np-seo-case/ufa/ustanovka-santehniki/)
+- [Установка сантехники в Новосибирске](/np-seo-case/novosibirsk/ustanovka-santehniki/)
+- [Установка сантехники в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/ustanovka-santehniki/)
+- [Установка сантехники в Краснодаре](/np-seo-case/krasnodar/ustanovka-santehniki/)
+- [Установка сантехники в Ростове-на-Дону](/np-seo-case/rostov-na-donu/ustanovka-santehniki/)
+- [Установка сантехники в Самаре](/np-seo-case/samara/ustanovka-santehniki/)
+- [Установка сантехники в Челябинске](/np-seo-case/chelyabinsk/ustanovka-santehniki/)
+- [Установка сантехники в Уфе](/np-seo-case/ufa/ustanovka-santehniki/)
 
 ## Полезные статьи
 
@@ -54,11 +55,11 @@ og_variant: "city_service"
 
 ## FAQ
 
-### Сколько стоит установка сантехники в Екатеринбург?
+### Сколько стоит установка сантехники в Екатеринбурге?
 
 Ориентировочный диапазон по каталогу: от 2 400 до 8 400 ₽. Цена обычно зависит от площади, состояния помещения и объема подготовительных операций.
 
-### Какие сроки выполнения работ в Екатеринбург?
+### Какие сроки выполнения работ в Екатеринбурге?
 
 Сроки рассчитываются после уточнения объема и условий доступа. Для типовых заказов план работ согласовывается на старте.
 

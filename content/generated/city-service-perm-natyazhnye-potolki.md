@@ -1,20 +1,21 @@
 ---
 type: "page"
 slug: "perm/natyazhnye-potolki"
-title: "Натяжные потолки в Пермь — цены и услуги"
-description: "Натяжные потолки в Пермь: ориентировочные цены, состав работ и ответы на частые вопросы."
+title: "Натяжные потолки в Перми — цены и услуги"
+description: "Натяжные потолки в Перми: ориентировочные цены, состав работ и ответы на частые вопросы."
 page_kind: "city_service"
 city_slug: "perm"
 city_name: "Пермь"
+city_name_in: "Перми"
 service_slug: "natyazhnye-potolki"
 service_name: "Натяжные потолки"
 price_min: 900
 price_max: 2500
 og_variant: "city_service"
 ---
-# Натяжные потолки в Пермь
+# Натяжные потолки в Перми
 
-Услуга доступна в Пермь. Страница содержит ориентировочную стоимость,
+Услуга доступна в Перми. Страница содержит ориентировочную стоимость,
 структуру работ и базовые ответы на частые вопросы.
 
 ## Ориентировочные цены
@@ -23,7 +24,7 @@ og_variant: "city_service"
 - Верхний диапазон: **до 2 500 ₽**
 - Актуализация стоимости выполняется после оценки объема работ.
 
-## Другие услуги в Пермь
+## Другие услуги в Перми
 
 - [Ремонт квартир](/np-seo-case/perm/remont-kvartir/)
 - [Ремонт ванной комнаты](/np-seo-case/perm/remont-vannoj/)
@@ -38,13 +39,13 @@ og_variant: "city_service"
 
 ## Натяжные потолки в других городах
 
-- [Натяжные потолки в Воронеж](/np-seo-case/voronezh/natyazhnye-potolki/)
-- [Натяжные потолки в Волгоград](/np-seo-case/volgograd/natyazhnye-potolki/)
-- [Натяжные потолки в Омск](/np-seo-case/omsk/natyazhnye-potolki/)
-- [Натяжные потолки в Москва](/np-seo-case/moskva/natyazhnye-potolki/)
-- [Натяжные потолки в Санкт-Петербург](/np-seo-case/spb/natyazhnye-potolki/)
-- [Натяжные потолки в Казань](/np-seo-case/kazan/natyazhnye-potolki/)
-- [Натяжные потолки в Екатеринбург](/np-seo-case/ekaterinburg/natyazhnye-potolki/)
+- [Натяжные потолки в Воронеже](/np-seo-case/voronezh/natyazhnye-potolki/)
+- [Натяжные потолки в Волгограде](/np-seo-case/volgograd/natyazhnye-potolki/)
+- [Натяжные потолки в Омске](/np-seo-case/omsk/natyazhnye-potolki/)
+- [Натяжные потолки в Москве](/np-seo-case/moskva/natyazhnye-potolki/)
+- [Натяжные потолки в Санкт-Петербурге](/np-seo-case/spb/natyazhnye-potolki/)
+- [Натяжные потолки в Казани](/np-seo-case/kazan/natyazhnye-potolki/)
+- [Натяжные потолки в Екатеринбурге](/np-seo-case/ekaterinburg/natyazhnye-potolki/)
 
 ## Полезные статьи
 
@@ -54,11 +55,11 @@ og_variant: "city_service"
 
 ## FAQ
 
-### Сколько стоит натяжные потолки в Пермь?
+### Сколько стоит натяжные потолки в Перми?
 
 Ориентировочный диапазон по каталогу: от 900 до 2 500 ₽. На итог влияют доступность объекта, сложность узлов и требуемые сроки выполнения.
 
-### Какие сроки выполнения работ в Пермь?
+### Какие сроки выполнения работ в Перми?
 
 Сроки рассчитываются после уточнения объема и условий доступа. Для типовых заказов план работ согласовывается на старте.
 

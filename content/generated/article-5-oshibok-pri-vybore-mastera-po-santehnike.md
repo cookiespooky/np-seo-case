@@ -8,6 +8,7 @@ page_kind: "article"
 og_variant: "article"
 city_slug: "ekaterinburg"
 city_name: "Екатеринбург"
+city_name_in: "Екатеринбурге"
 service_slug: "uslugi-elektrika"
 service_name: "Услуги электрика"
 service_slug_alt: "klining-kvartir"
@@ -28,7 +29,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Услуги электрика в Екатеринбург](/np-seo-case/ekaterinburg/uslugi-elektrika/)
-- [Клининг квартир в Екатеринбург](/np-seo-case/ekaterinburg/klining-kvartir/)
+- [Услуги электрика в Екатеринбурге](/np-seo-case/ekaterinburg/uslugi-elektrika/)
+- [Клининг квартир в Екатеринбурге](/np-seo-case/ekaterinburg/klining-kvartir/)
 - [Услуги электрика](/np-seo-case/services/uslugi-elektrika/)
-- [Услуги в Екатеринбург](/np-seo-case/cities/ekaterinburg/)
+- [Услуги в Екатеринбурге](/np-seo-case/cities/ekaterinburg/)

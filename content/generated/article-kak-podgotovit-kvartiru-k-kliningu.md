@@ -8,6 +8,7 @@ page_kind: "article"
 og_variant: "article"
 city_slug: "spb"
 city_name: "Санкт-Петербург"
+city_name_in: "Санкт-Петербурге"
 service_slug: "klining-kvartir"
 service_name: "Клининг квартир"
 service_slug_alt: "ukladka-plitki"
@@ -28,7 +29,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Клининг квартир в Санкт-Петербург](/np-seo-case/spb/klining-kvartir/)
-- [Укладка плитки в Санкт-Петербург](/np-seo-case/spb/ukladka-plitki/)
+- [Клининг квартир в Санкт-Петербурге](/np-seo-case/spb/klining-kvartir/)
+- [Укладка плитки в Санкт-Петербурге](/np-seo-case/spb/ukladka-plitki/)
 - [Клининг квартир](/np-seo-case/services/klining-kvartir/)
-- [Услуги в Санкт-Петербург](/np-seo-case/cities/spb/)
+- [Услуги в Санкт-Петербурге](/np-seo-case/cities/spb/)

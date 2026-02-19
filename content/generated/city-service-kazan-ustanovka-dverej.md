@@ -1,20 +1,21 @@
 ---
 type: "page"
 slug: "kazan/ustanovka-dverej"
-title: "Установка дверей в Казань — цены и услуги"
-description: "Установка дверей в Казань: ориентировочные цены, состав работ и ответы на частые вопросы."
+title: "Установка дверей в Казани — цены и услуги"
+description: "Установка дверей в Казани: ориентировочные цены, состав работ и ответы на частые вопросы."
 page_kind: "city_service"
 city_slug: "kazan"
 city_name: "Казань"
+city_name_in: "Казани"
 service_slug: "ustanovka-dverej"
 service_name: "Установка дверей"
 price_min: 3500
 price_max: 10600
 og_variant: "city_service"
 ---
-# Установка дверей в Казань
+# Установка дверей в Казани
 
-Услуга доступна в Казань. Страница содержит ориентировочную стоимость,
+Услуга доступна в Казани. Страница содержит ориентировочную стоимость,
 структуру работ и базовые ответы на частые вопросы.
 
 ## Ориентировочные цены
@@ -23,7 +24,7 @@ og_variant: "city_service"
 - Верхний диапазон: **до 10 600 ₽**
 - Актуализация стоимости выполняется после оценки объема работ.
 
-## Другие услуги в Казань
+## Другие услуги в Казани
 
 - [Ремонт квартир](/np-seo-case/kazan/remont-kvartir/)
 - [Ремонт ванной комнаты](/np-seo-case/kazan/remont-vannoj/)
@@ -38,13 +39,13 @@ og_variant: "city_service"
 
 ## Установка дверей в других городах
 
-- [Установка дверей в Екатеринбург](/np-seo-case/ekaterinburg/ustanovka-dverej/)
-- [Установка дверей в Новосибирск](/np-seo-case/novosibirsk/ustanovka-dverej/)
-- [Установка дверей в Нижний Новгород](/np-seo-case/nizhniy-novgorod/ustanovka-dverej/)
-- [Установка дверей в Краснодар](/np-seo-case/krasnodar/ustanovka-dverej/)
-- [Установка дверей в Ростов-на-Дону](/np-seo-case/rostov-na-donu/ustanovka-dverej/)
-- [Установка дверей в Самара](/np-seo-case/samara/ustanovka-dverej/)
-- [Установка дверей в Челябинск](/np-seo-case/chelyabinsk/ustanovka-dverej/)
+- [Установка дверей в Екатеринбурге](/np-seo-case/ekaterinburg/ustanovka-dverej/)
+- [Установка дверей в Новосибирске](/np-seo-case/novosibirsk/ustanovka-dverej/)
+- [Установка дверей в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/ustanovka-dverej/)
+- [Установка дверей в Краснодаре](/np-seo-case/krasnodar/ustanovka-dverej/)
+- [Установка дверей в Ростове-на-Дону](/np-seo-case/rostov-na-donu/ustanovka-dverej/)
+- [Установка дверей в Самаре](/np-seo-case/samara/ustanovka-dverej/)
+- [Установка дверей в Челябинске](/np-seo-case/chelyabinsk/ustanovka-dverej/)
 
 ## Полезные статьи
 
@@ -54,11 +55,11 @@ og_variant: "city_service"
 
 ## FAQ
 
-### Сколько стоит установка дверей в Казань?
+### Сколько стоит установка дверей в Казани?
 
 Ориентировочный диапазон по каталогу: от 3 500 до 10 600 ₽. На итог влияют доступность объекта, сложность узлов и требуемые сроки выполнения.
 
-### Какие сроки выполнения работ в Казань?
+### Какие сроки выполнения работ в Казани?
 
 Сроки рассчитываются после уточнения объема и условий доступа. Для типовых заказов план работ согласовывается на старте.
 

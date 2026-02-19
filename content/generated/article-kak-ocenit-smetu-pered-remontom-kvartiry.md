@@ -8,6 +8,7 @@ page_kind: "article"
 og_variant: "article"
 city_slug: "novosibirsk"
 city_name: "Новосибирск"
+city_name_in: "Новосибирске"
 service_slug: "zamena-okon"
 service_name: "Замена окон"
 service_slug_alt: "remont-vannoj"
@@ -28,7 +29,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Замена окон в Новосибирск](/np-seo-case/novosibirsk/zamena-okon/)
-- [Ремонт ванной комнаты в Новосибирск](/np-seo-case/novosibirsk/remont-vannoj/)
+- [Замена окон в Новосибирске](/np-seo-case/novosibirsk/zamena-okon/)
+- [Ремонт ванной комнаты в Новосибирске](/np-seo-case/novosibirsk/remont-vannoj/)
 - [Замена окон](/np-seo-case/services/zamena-okon/)
-- [Услуги в Новосибирск](/np-seo-case/cities/novosibirsk/)
+- [Услуги в Новосибирске](/np-seo-case/cities/novosibirsk/)

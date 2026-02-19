@@ -14,21 +14,21 @@ og_variant: "default"
 
 ## Установка сантехники по городам
 
-- [Установка сантехники в Москва](/np-seo-case/moskva/ustanovka-santehniki/)
-- [Установка сантехники в Санкт-Петербург](/np-seo-case/spb/ustanovka-santehniki/)
-- [Установка сантехники в Казань](/np-seo-case/kazan/ustanovka-santehniki/)
-- [Установка сантехники в Екатеринбург](/np-seo-case/ekaterinburg/ustanovka-santehniki/)
-- [Установка сантехники в Новосибирск](/np-seo-case/novosibirsk/ustanovka-santehniki/)
-- [Установка сантехники в Нижний Новгород](/np-seo-case/nizhniy-novgorod/ustanovka-santehniki/)
-- [Установка сантехники в Краснодар](/np-seo-case/krasnodar/ustanovka-santehniki/)
-- [Установка сантехники в Ростов-на-Дону](/np-seo-case/rostov-na-donu/ustanovka-santehniki/)
-- [Установка сантехники в Самара](/np-seo-case/samara/ustanovka-santehniki/)
-- [Установка сантехники в Челябинск](/np-seo-case/chelyabinsk/ustanovka-santehniki/)
-- [Установка сантехники в Уфа](/np-seo-case/ufa/ustanovka-santehniki/)
-- [Установка сантехники в Пермь](/np-seo-case/perm/ustanovka-santehniki/)
-- [Установка сантехники в Воронеж](/np-seo-case/voronezh/ustanovka-santehniki/)
-- [Установка сантехники в Волгоград](/np-seo-case/volgograd/ustanovka-santehniki/)
-- [Установка сантехники в Омск](/np-seo-case/omsk/ustanovka-santehniki/)
+- [Установка сантехники в Москве](/np-seo-case/moskva/ustanovka-santehniki/)
+- [Установка сантехники в Санкт-Петербурге](/np-seo-case/spb/ustanovka-santehniki/)
+- [Установка сантехники в Казани](/np-seo-case/kazan/ustanovka-santehniki/)
+- [Установка сантехники в Екатеринбурге](/np-seo-case/ekaterinburg/ustanovka-santehniki/)
+- [Установка сантехники в Новосибирске](/np-seo-case/novosibirsk/ustanovka-santehniki/)
+- [Установка сантехники в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/ustanovka-santehniki/)
+- [Установка сантехники в Краснодаре](/np-seo-case/krasnodar/ustanovka-santehniki/)
+- [Установка сантехники в Ростове-на-Дону](/np-seo-case/rostov-na-donu/ustanovka-santehniki/)
+- [Установка сантехники в Самаре](/np-seo-case/samara/ustanovka-santehniki/)
+- [Установка сантехники в Челябинске](/np-seo-case/chelyabinsk/ustanovka-santehniki/)
+- [Установка сантехники в Уфе](/np-seo-case/ufa/ustanovka-santehniki/)
+- [Установка сантехники в Перми](/np-seo-case/perm/ustanovka-santehniki/)
+- [Установка сантехники в Воронеже](/np-seo-case/voronezh/ustanovka-santehniki/)
+- [Установка сантехники в Волгограде](/np-seo-case/volgograd/ustanovka-santehniki/)
+- [Установка сантехники в Омске](/np-seo-case/omsk/ustanovka-santehniki/)
 
 ## Коротко о стоимости
 

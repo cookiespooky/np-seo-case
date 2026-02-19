@@ -8,6 +8,7 @@ page_kind: "article"
 og_variant: "article"
 city_slug: "volgograd"
 city_name: "Волгоград"
+city_name_in: "Волгограде"
 service_slug: "ustanovka-dverej"
 service_name: "Установка дверей"
 service_slug_alt: "ustanovka-santehniki"
@@ -28,7 +29,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Установка дверей в Волгоград](/np-seo-case/volgograd/ustanovka-dverej/)
-- [Установка сантехники в Волгоград](/np-seo-case/volgograd/ustanovka-santehniki/)
+- [Установка дверей в Волгограде](/np-seo-case/volgograd/ustanovka-dverej/)
+- [Установка сантехники в Волгограде](/np-seo-case/volgograd/ustanovka-santehniki/)
 - [Установка дверей](/np-seo-case/services/ustanovka-dverej/)
-- [Услуги в Волгоград](/np-seo-case/cities/volgograd/)
+- [Услуги в Волгограде](/np-seo-case/cities/volgograd/)

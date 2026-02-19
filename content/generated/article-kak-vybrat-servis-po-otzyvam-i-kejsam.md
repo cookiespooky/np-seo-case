@@ -8,6 +8,7 @@ page_kind: "article"
 og_variant: "article"
 city_slug: "novosibirsk"
 city_name: "Новосибирск"
+city_name_in: "Новосибирске"
 service_slug: "ukladka-plitki"
 service_name: "Укладка плитки"
 service_slug_alt: "natyazhnye-potolki"
@@ -28,7 +29,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Укладка плитки в Новосибирск](/np-seo-case/novosibirsk/ukladka-plitki/)
-- [Натяжные потолки в Новосибирск](/np-seo-case/novosibirsk/natyazhnye-potolki/)
+- [Укладка плитки в Новосибирске](/np-seo-case/novosibirsk/ukladka-plitki/)
+- [Натяжные потолки в Новосибирске](/np-seo-case/novosibirsk/natyazhnye-potolki/)
 - [Укладка плитки](/np-seo-case/services/ukladka-plitki/)
-- [Услуги в Новосибирск](/np-seo-case/cities/novosibirsk/)
+- [Услуги в Новосибирске](/np-seo-case/cities/novosibirsk/)

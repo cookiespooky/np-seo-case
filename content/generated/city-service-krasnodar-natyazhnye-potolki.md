@@ -1,20 +1,21 @@
 ---
 type: "page"
 slug: "krasnodar/natyazhnye-potolki"
-title: "Натяжные потолки в Краснодар — цены и услуги"
-description: "Натяжные потолки в Краснодар: ориентировочные цены, состав работ и ответы на частые вопросы."
+title: "Натяжные потолки в Краснодаре — цены и услуги"
+description: "Натяжные потолки в Краснодаре: ориентировочные цены, состав работ и ответы на частые вопросы."
 page_kind: "city_service"
 city_slug: "krasnodar"
 city_name: "Краснодар"
+city_name_in: "Краснодаре"
 service_slug: "natyazhnye-potolki"
 service_name: "Натяжные потолки"
 price_min: 900
 price_max: 2700
 og_variant: "city_service"
 ---
-# Натяжные потолки в Краснодар
+# Натяжные потолки в Краснодаре
 
-Услуга доступна в Краснодар. Страница содержит ориентировочную стоимость,
+Услуга доступна в Краснодаре. Страница содержит ориентировочную стоимость,
 структуру работ и базовые ответы на частые вопросы.
 
 ## Ориентировочные цены
@@ -23,7 +24,7 @@ og_variant: "city_service"
 - Верхний диапазон: **до 2 700 ₽**
 - Актуализация стоимости выполняется после оценки объема работ.
 
-## Другие услуги в Краснодар
+## Другие услуги в Краснодаре
 
 - [Ремонт квартир](/np-seo-case/krasnodar/remont-kvartir/)
 - [Ремонт ванной комнаты](/np-seo-case/krasnodar/remont-vannoj/)
@@ -38,13 +39,13 @@ og_variant: "city_service"
 
 ## Натяжные потолки в других городах
 
-- [Натяжные потолки в Ростов-на-Дону](/np-seo-case/rostov-na-donu/natyazhnye-potolki/)
-- [Натяжные потолки в Самара](/np-seo-case/samara/natyazhnye-potolki/)
-- [Натяжные потолки в Челябинск](/np-seo-case/chelyabinsk/natyazhnye-potolki/)
-- [Натяжные потолки в Уфа](/np-seo-case/ufa/natyazhnye-potolki/)
-- [Натяжные потолки в Пермь](/np-seo-case/perm/natyazhnye-potolki/)
-- [Натяжные потолки в Воронеж](/np-seo-case/voronezh/natyazhnye-potolki/)
-- [Натяжные потолки в Волгоград](/np-seo-case/volgograd/natyazhnye-potolki/)
+- [Натяжные потолки в Ростове-на-Дону](/np-seo-case/rostov-na-donu/natyazhnye-potolki/)
+- [Натяжные потолки в Самаре](/np-seo-case/samara/natyazhnye-potolki/)
+- [Натяжные потолки в Челябинске](/np-seo-case/chelyabinsk/natyazhnye-potolki/)
+- [Натяжные потолки в Уфе](/np-seo-case/ufa/natyazhnye-potolki/)
+- [Натяжные потолки в Перми](/np-seo-case/perm/natyazhnye-potolki/)
+- [Натяжные потолки в Воронеже](/np-seo-case/voronezh/natyazhnye-potolki/)
+- [Натяжные потолки в Волгограде](/np-seo-case/volgograd/natyazhnye-potolki/)
 
 ## Полезные статьи
 
@@ -54,11 +55,11 @@ og_variant: "city_service"
 
 ## FAQ
 
-### Сколько стоит натяжные потолки в Краснодар?
+### Сколько стоит натяжные потолки в Краснодаре?
 
 Ориентировочный диапазон по каталогу: от 900 до 2 700 ₽. Цена обычно зависит от площади, состояния помещения и объема подготовительных операций.
 
-### Какие сроки выполнения работ в Краснодар?
+### Какие сроки выполнения работ в Краснодаре?
 
 Сроки рассчитываются после уточнения объема и условий доступа. Для типовых заказов план работ согласовывается на старте.
 

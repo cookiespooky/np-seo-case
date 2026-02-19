@@ -1,20 +1,21 @@
 ---
 type: "page"
 slug: "ufa/natyazhnye-potolki"
-title: "Натяжные потолки в Уфа — цены и услуги"
-description: "Натяжные потолки в Уфа: ориентировочные цены, состав работ и ответы на частые вопросы."
+title: "Натяжные потолки в Уфе — цены и услуги"
+description: "Натяжные потолки в Уфе: ориентировочные цены, состав работ и ответы на частые вопросы."
 page_kind: "city_service"
 city_slug: "ufa"
 city_name: "Уфа"
+city_name_in: "Уфе"
 service_slug: "natyazhnye-potolki"
 service_name: "Натяжные потолки"
 price_min: 900
 price_max: 2500
 og_variant: "city_service"
 ---
-# Натяжные потолки в Уфа
+# Натяжные потолки в Уфе
 
-Услуга доступна в Уфа. Страница содержит ориентировочную стоимость,
+Услуга доступна в Уфе. Страница содержит ориентировочную стоимость,
 структуру работ и базовые ответы на частые вопросы.
 
 ## Ориентировочные цены
@@ -23,7 +24,7 @@ og_variant: "city_service"
 - Верхний диапазон: **до 2 500 ₽**
 - Актуализация стоимости выполняется после оценки объема работ.
 
-## Другие услуги в Уфа
+## Другие услуги в Уфе
 
 - [Ремонт квартир](/np-seo-case/ufa/remont-kvartir/)
 - [Ремонт ванной комнаты](/np-seo-case/ufa/remont-vannoj/)
@@ -38,13 +39,13 @@ og_variant: "city_service"
 
 ## Натяжные потолки в других городах
 
-- [Натяжные потолки в Пермь](/np-seo-case/perm/natyazhnye-potolki/)
-- [Натяжные потолки в Воронеж](/np-seo-case/voronezh/natyazhnye-potolki/)
-- [Натяжные потолки в Волгоград](/np-seo-case/volgograd/natyazhnye-potolki/)
-- [Натяжные потолки в Омск](/np-seo-case/omsk/natyazhnye-potolki/)
-- [Натяжные потолки в Москва](/np-seo-case/moskva/natyazhnye-potolki/)
-- [Натяжные потолки в Санкт-Петербург](/np-seo-case/spb/natyazhnye-potolki/)
-- [Натяжные потолки в Казань](/np-seo-case/kazan/natyazhnye-potolki/)
+- [Натяжные потолки в Перми](/np-seo-case/perm/natyazhnye-potolki/)
+- [Натяжные потолки в Воронеже](/np-seo-case/voronezh/natyazhnye-potolki/)
+- [Натяжные потолки в Волгограде](/np-seo-case/volgograd/natyazhnye-potolki/)
+- [Натяжные потолки в Омске](/np-seo-case/omsk/natyazhnye-potolki/)
+- [Натяжные потолки в Москве](/np-seo-case/moskva/natyazhnye-potolki/)
+- [Натяжные потолки в Санкт-Петербурге](/np-seo-case/spb/natyazhnye-potolki/)
+- [Натяжные потолки в Казани](/np-seo-case/kazan/natyazhnye-potolki/)
 
 ## Полезные статьи
 
@@ -54,11 +55,11 @@ og_variant: "city_service"
 
 ## FAQ
 
-### Сколько стоит натяжные потолки в Уфа?
+### Сколько стоит натяжные потолки в Уфе?
 
 Ориентировочный диапазон по каталогу: от 900 до 2 500 ₽. Цена обычно зависит от площади, состояния помещения и объема подготовительных операций.
 
-### Какие сроки выполнения работ в Уфа?
+### Какие сроки выполнения работ в Уфе?
 
 Сроки рассчитываются после уточнения объема и условий доступа. Для типовых заказов план работ согласовывается на старте.
 

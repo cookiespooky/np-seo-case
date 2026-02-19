@@ -14,21 +14,21 @@ og_variant: "default"
 
 ## Замена окон по городам
 
-- [Замена окон в Москва](/np-seo-case/moskva/zamena-okon/)
-- [Замена окон в Санкт-Петербург](/np-seo-case/spb/zamena-okon/)
-- [Замена окон в Казань](/np-seo-case/kazan/zamena-okon/)
-- [Замена окон в Екатеринбург](/np-seo-case/ekaterinburg/zamena-okon/)
-- [Замена окон в Новосибирск](/np-seo-case/novosibirsk/zamena-okon/)
-- [Замена окон в Нижний Новгород](/np-seo-case/nizhniy-novgorod/zamena-okon/)
-- [Замена окон в Краснодар](/np-seo-case/krasnodar/zamena-okon/)
-- [Замена окон в Ростов-на-Дону](/np-seo-case/rostov-na-donu/zamena-okon/)
-- [Замена окон в Самара](/np-seo-case/samara/zamena-okon/)
-- [Замена окон в Челябинск](/np-seo-case/chelyabinsk/zamena-okon/)
-- [Замена окон в Уфа](/np-seo-case/ufa/zamena-okon/)
-- [Замена окон в Пермь](/np-seo-case/perm/zamena-okon/)
-- [Замена окон в Воронеж](/np-seo-case/voronezh/zamena-okon/)
-- [Замена окон в Волгоград](/np-seo-case/volgograd/zamena-okon/)
-- [Замена окон в Омск](/np-seo-case/omsk/zamena-okon/)
+- [Замена окон в Москве](/np-seo-case/moskva/zamena-okon/)
+- [Замена окон в Санкт-Петербурге](/np-seo-case/spb/zamena-okon/)
+- [Замена окон в Казани](/np-seo-case/kazan/zamena-okon/)
+- [Замена окон в Екатеринбурге](/np-seo-case/ekaterinburg/zamena-okon/)
+- [Замена окон в Новосибирске](/np-seo-case/novosibirsk/zamena-okon/)
+- [Замена окон в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/zamena-okon/)
+- [Замена окон в Краснодаре](/np-seo-case/krasnodar/zamena-okon/)
+- [Замена окон в Ростове-на-Дону](/np-seo-case/rostov-na-donu/zamena-okon/)
+- [Замена окон в Самаре](/np-seo-case/samara/zamena-okon/)
+- [Замена окон в Челябинске](/np-seo-case/chelyabinsk/zamena-okon/)
+- [Замена окон в Уфе](/np-seo-case/ufa/zamena-okon/)
+- [Замена окон в Перми](/np-seo-case/perm/zamena-okon/)
+- [Замена окон в Воронеже](/np-seo-case/voronezh/zamena-okon/)
+- [Замена окон в Волгограде](/np-seo-case/volgograd/zamena-okon/)
+- [Замена окон в Омске](/np-seo-case/omsk/zamena-okon/)
 
 ## Коротко о стоимости
 

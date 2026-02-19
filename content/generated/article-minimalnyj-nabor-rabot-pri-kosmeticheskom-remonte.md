@@ -8,6 +8,7 @@ page_kind: "article"
 og_variant: "article"
 city_slug: "samara"
 city_name: "Самара"
+city_name_in: "Самаре"
 service_slug: "uslugi-elektrika"
 service_name: "Услуги электрика"
 service_slug_alt: "klining-kvartir"
@@ -28,7 +29,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Услуги электрика в Самара](/np-seo-case/samara/uslugi-elektrika/)
-- [Клининг квартир в Самара](/np-seo-case/samara/klining-kvartir/)
+- [Услуги электрика в Самаре](/np-seo-case/samara/uslugi-elektrika/)
+- [Клининг квартир в Самаре](/np-seo-case/samara/klining-kvartir/)
 - [Услуги электрика](/np-seo-case/services/uslugi-elektrika/)
-- [Услуги в Самара](/np-seo-case/cities/samara/)
+- [Услуги в Самаре](/np-seo-case/cities/samara/)

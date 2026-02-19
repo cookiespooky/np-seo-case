@@ -14,21 +14,21 @@ og_variant: "default"
 
 ## Ремонт квартир по городам
 
-- [Ремонт квартир в Москва](/np-seo-case/moskva/remont-kvartir/)
-- [Ремонт квартир в Санкт-Петербург](/np-seo-case/spb/remont-kvartir/)
-- [Ремонт квартир в Казань](/np-seo-case/kazan/remont-kvartir/)
-- [Ремонт квартир в Екатеринбург](/np-seo-case/ekaterinburg/remont-kvartir/)
-- [Ремонт квартир в Новосибирск](/np-seo-case/novosibirsk/remont-kvartir/)
-- [Ремонт квартир в Нижний Новгород](/np-seo-case/nizhniy-novgorod/remont-kvartir/)
-- [Ремонт квартир в Краснодар](/np-seo-case/krasnodar/remont-kvartir/)
-- [Ремонт квартир в Ростов-на-Дону](/np-seo-case/rostov-na-donu/remont-kvartir/)
-- [Ремонт квартир в Самара](/np-seo-case/samara/remont-kvartir/)
-- [Ремонт квартир в Челябинск](/np-seo-case/chelyabinsk/remont-kvartir/)
-- [Ремонт квартир в Уфа](/np-seo-case/ufa/remont-kvartir/)
-- [Ремонт квартир в Пермь](/np-seo-case/perm/remont-kvartir/)
-- [Ремонт квартир в Воронеж](/np-seo-case/voronezh/remont-kvartir/)
-- [Ремонт квартир в Волгоград](/np-seo-case/volgograd/remont-kvartir/)
-- [Ремонт квартир в Омск](/np-seo-case/omsk/remont-kvartir/)
+- [Ремонт квартир в Москве](/np-seo-case/moskva/remont-kvartir/)
+- [Ремонт квартир в Санкт-Петербурге](/np-seo-case/spb/remont-kvartir/)
+- [Ремонт квартир в Казани](/np-seo-case/kazan/remont-kvartir/)
+- [Ремонт квартир в Екатеринбурге](/np-seo-case/ekaterinburg/remont-kvartir/)
+- [Ремонт квартир в Новосибирске](/np-seo-case/novosibirsk/remont-kvartir/)
+- [Ремонт квартир в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/remont-kvartir/)
+- [Ремонт квартир в Краснодаре](/np-seo-case/krasnodar/remont-kvartir/)
+- [Ремонт квартир в Ростове-на-Дону](/np-seo-case/rostov-na-donu/remont-kvartir/)
+- [Ремонт квартир в Самаре](/np-seo-case/samara/remont-kvartir/)
+- [Ремонт квартир в Челябинске](/np-seo-case/chelyabinsk/remont-kvartir/)
+- [Ремонт квартир в Уфе](/np-seo-case/ufa/remont-kvartir/)
+- [Ремонт квартир в Перми](/np-seo-case/perm/remont-kvartir/)
+- [Ремонт квартир в Воронеже](/np-seo-case/voronezh/remont-kvartir/)
+- [Ремонт квартир в Волгограде](/np-seo-case/volgograd/remont-kvartir/)
+- [Ремонт квартир в Омске](/np-seo-case/omsk/remont-kvartir/)
 
 ## Коротко о стоимости
 

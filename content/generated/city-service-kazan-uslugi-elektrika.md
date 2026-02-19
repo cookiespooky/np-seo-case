@@ -1,20 +1,21 @@
 ---
 type: "page"
 slug: "kazan/uslugi-elektrika"
-title: "Услуги электрика в Казань — цены и услуги"
-description: "Услуги электрика в Казань: ориентировочные цены, состав работ и ответы на частые вопросы."
+title: "Услуги электрика в Казани — цены и услуги"
+description: "Услуги электрика в Казани: ориентировочные цены, состав работ и ответы на частые вопросы."
 page_kind: "city_service"
 city_slug: "kazan"
 city_name: "Казань"
+city_name_in: "Казани"
 service_slug: "uslugi-elektrika"
 service_name: "Услуги электрика"
 price_min: 1900
 price_max: 7300
 og_variant: "city_service"
 ---
-# Услуги электрика в Казань
+# Услуги электрика в Казани
 
-Услуга доступна в Казань. Страница содержит ориентировочную стоимость,
+Услуга доступна в Казани. Страница содержит ориентировочную стоимость,
 структуру работ и базовые ответы на частые вопросы.
 
 ## Ориентировочные цены
@@ -23,7 +24,7 @@ og_variant: "city_service"
 - Верхний диапазон: **до 7 300 ₽**
 - Актуализация стоимости выполняется после оценки объема работ.
 
-## Другие услуги в Казань
+## Другие услуги в Казани
 
 - [Ремонт квартир](/np-seo-case/kazan/remont-kvartir/)
 - [Ремонт ванной комнаты](/np-seo-case/kazan/remont-vannoj/)
@@ -38,13 +39,13 @@ og_variant: "city_service"
 
 ## Услуги электрика в других городах
 
-- [Услуги электрика в Екатеринбург](/np-seo-case/ekaterinburg/uslugi-elektrika/)
-- [Услуги электрика в Новосибирск](/np-seo-case/novosibirsk/uslugi-elektrika/)
-- [Услуги электрика в Нижний Новгород](/np-seo-case/nizhniy-novgorod/uslugi-elektrika/)
-- [Услуги электрика в Краснодар](/np-seo-case/krasnodar/uslugi-elektrika/)
-- [Услуги электрика в Ростов-на-Дону](/np-seo-case/rostov-na-donu/uslugi-elektrika/)
-- [Услуги электрика в Самара](/np-seo-case/samara/uslugi-elektrika/)
-- [Услуги электрика в Челябинск](/np-seo-case/chelyabinsk/uslugi-elektrika/)
+- [Услуги электрика в Екатеринбурге](/np-seo-case/ekaterinburg/uslugi-elektrika/)
+- [Услуги электрика в Новосибирске](/np-seo-case/novosibirsk/uslugi-elektrika/)
+- [Услуги электрика в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/uslugi-elektrika/)
+- [Услуги электрика в Краснодаре](/np-seo-case/krasnodar/uslugi-elektrika/)
+- [Услуги электрика в Ростове-на-Дону](/np-seo-case/rostov-na-donu/uslugi-elektrika/)
+- [Услуги электрика в Самаре](/np-seo-case/samara/uslugi-elektrika/)
+- [Услуги электрика в Челябинске](/np-seo-case/chelyabinsk/uslugi-elektrika/)
 
 ## Полезные статьи
 
@@ -54,11 +55,11 @@ og_variant: "city_service"
 
 ## FAQ
 
-### Сколько стоит услуги электрика в Казань?
+### Сколько стоит услуги электрика в Казани?
 
 Ориентировочный диапазон по каталогу: от 1 900 до 7 300 ₽. Цена обычно зависит от площади, состояния помещения и объема подготовительных операций.
 
-### Какие сроки выполнения работ в Казань?
+### Какие сроки выполнения работ в Казани?
 
 Сроки рассчитываются после уточнения объема и условий доступа. Для типовых заказов план работ согласовывается на старте.
 

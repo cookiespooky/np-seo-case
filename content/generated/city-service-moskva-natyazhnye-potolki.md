@@ -1,20 +1,21 @@
 ---
 type: "page"
 slug: "moskva/natyazhnye-potolki"
-title: "Натяжные потолки в Москва — цены и услуги"
-description: "Натяжные потолки в Москва: ориентировочные цены, состав работ и ответы на частые вопросы."
+title: "Натяжные потолки в Москве — цены и услуги"
+description: "Натяжные потолки в Москве: ориентировочные цены, состав работ и ответы на частые вопросы."
 page_kind: "city_service"
 city_slug: "moskva"
 city_name: "Москва"
+city_name_in: "Москве"
 service_slug: "natyazhnye-potolki"
 service_name: "Натяжные потолки"
 price_min: 1200
 price_max: 3300
 og_variant: "city_service"
 ---
-# Натяжные потолки в Москва
+# Натяжные потолки в Москве
 
-Услуга доступна в Москва. Страница содержит ориентировочную стоимость,
+Услуга доступна в Москве. Страница содержит ориентировочную стоимость,
 структуру работ и базовые ответы на частые вопросы.
 
 ## Ориентировочные цены
@@ -23,7 +24,7 @@ og_variant: "city_service"
 - Верхний диапазон: **до 3 300 ₽**
 - Актуализация стоимости выполняется после оценки объема работ.
 
-## Другие услуги в Москва
+## Другие услуги в Москве
 
 - [Ремонт квартир](/np-seo-case/moskva/remont-kvartir/)
 - [Ремонт ванной комнаты](/np-seo-case/moskva/remont-vannoj/)
@@ -38,13 +39,13 @@ og_variant: "city_service"
 
 ## Натяжные потолки в других городах
 
-- [Натяжные потолки в Санкт-Петербург](/np-seo-case/spb/natyazhnye-potolki/)
-- [Натяжные потолки в Казань](/np-seo-case/kazan/natyazhnye-potolki/)
-- [Натяжные потолки в Екатеринбург](/np-seo-case/ekaterinburg/natyazhnye-potolki/)
-- [Натяжные потолки в Новосибирск](/np-seo-case/novosibirsk/natyazhnye-potolki/)
-- [Натяжные потолки в Нижний Новгород](/np-seo-case/nizhniy-novgorod/natyazhnye-potolki/)
-- [Натяжные потолки в Краснодар](/np-seo-case/krasnodar/natyazhnye-potolki/)
-- [Натяжные потолки в Ростов-на-Дону](/np-seo-case/rostov-na-donu/natyazhnye-potolki/)
+- [Натяжные потолки в Санкт-Петербурге](/np-seo-case/spb/natyazhnye-potolki/)
+- [Натяжные потолки в Казани](/np-seo-case/kazan/natyazhnye-potolki/)
+- [Натяжные потолки в Екатеринбурге](/np-seo-case/ekaterinburg/natyazhnye-potolki/)
+- [Натяжные потолки в Новосибирске](/np-seo-case/novosibirsk/natyazhnye-potolki/)
+- [Натяжные потолки в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/natyazhnye-potolki/)
+- [Натяжные потолки в Краснодаре](/np-seo-case/krasnodar/natyazhnye-potolki/)
+- [Натяжные потолки в Ростове-на-Дону](/np-seo-case/rostov-na-donu/natyazhnye-potolki/)
 
 ## Полезные статьи
 
@@ -54,11 +55,11 @@ og_variant: "city_service"
 
 ## FAQ
 
-### Сколько стоит натяжные потолки в Москва?
+### Сколько стоит натяжные потолки в Москве?
 
 Ориентировочный диапазон по каталогу: от 1 200 до 3 300 ₽. Цена обычно зависит от площади, состояния помещения и объема подготовительных операций.
 
-### Какие сроки выполнения работ в Москва?
+### Какие сроки выполнения работ в Москве?
 
 Сроки рассчитываются после уточнения объема и условий доступа. Для типовых заказов план работ согласовывается на старте.
 

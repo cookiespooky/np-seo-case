@@ -8,6 +8,7 @@ page_kind: "article"
 og_variant: "article"
 city_slug: "kazan"
 city_name: "Казань"
+city_name_in: "Казани"
 service_slug: "natyazhnye-potolki"
 service_name: "Натяжные потолки"
 service_slug_alt: "remont-kvartir"
@@ -28,7 +29,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Натяжные потолки в Казань](/np-seo-case/kazan/natyazhnye-potolki/)
-- [Ремонт квартир в Казань](/np-seo-case/kazan/remont-kvartir/)
+- [Натяжные потолки в Казани](/np-seo-case/kazan/natyazhnye-potolki/)
+- [Ремонт квартир в Казани](/np-seo-case/kazan/remont-kvartir/)
 - [Натяжные потолки](/np-seo-case/services/natyazhnye-potolki/)
-- [Услуги в Казань](/np-seo-case/cities/kazan/)
+- [Услуги в Казани](/np-seo-case/cities/kazan/)

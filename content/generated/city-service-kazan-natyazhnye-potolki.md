@@ -1,20 +1,21 @@
 ---
 type: "page"
 slug: "kazan/natyazhnye-potolki"
-title: "Натяжные потолки в Казань — цены и услуги"
-description: "Натяжные потолки в Казань: ориентировочные цены, состав работ и ответы на частые вопросы."
+title: "Натяжные потолки в Казани — цены и услуги"
+description: "Натяжные потолки в Казани: ориентировочные цены, состав работ и ответы на частые вопросы."
 page_kind: "city_service"
 city_slug: "kazan"
 city_name: "Казань"
+city_name_in: "Казани"
 service_slug: "natyazhnye-potolki"
 service_name: "Натяжные потолки"
 price_min: 1000
 price_max: 2800
 og_variant: "city_service"
 ---
-# Натяжные потолки в Казань
+# Натяжные потолки в Казани
 
-Услуга доступна в Казань. Страница содержит ориентировочную стоимость,
+Услуга доступна в Казани. Страница содержит ориентировочную стоимость,
 структуру работ и базовые ответы на частые вопросы.
 
 ## Ориентировочные цены
@@ -23,7 +24,7 @@ og_variant: "city_service"
 - Верхний диапазон: **до 2 800 ₽**
 - Актуализация стоимости выполняется после оценки объема работ.
 
-## Другие услуги в Казань
+## Другие услуги в Казани
 
 - [Ремонт квартир](/np-seo-case/kazan/remont-kvartir/)
 - [Ремонт ванной комнаты](/np-seo-case/kazan/remont-vannoj/)
@@ -38,13 +39,13 @@ og_variant: "city_service"
 
 ## Натяжные потолки в других городах
 
-- [Натяжные потолки в Екатеринбург](/np-seo-case/ekaterinburg/natyazhnye-potolki/)
-- [Натяжные потолки в Новосибирск](/np-seo-case/novosibirsk/natyazhnye-potolki/)
-- [Натяжные потолки в Нижний Новгород](/np-seo-case/nizhniy-novgorod/natyazhnye-potolki/)
-- [Натяжные потолки в Краснодар](/np-seo-case/krasnodar/natyazhnye-potolki/)
-- [Натяжные потолки в Ростов-на-Дону](/np-seo-case/rostov-na-donu/natyazhnye-potolki/)
-- [Натяжные потолки в Самара](/np-seo-case/samara/natyazhnye-potolki/)
-- [Натяжные потолки в Челябинск](/np-seo-case/chelyabinsk/natyazhnye-potolki/)
+- [Натяжные потолки в Екатеринбурге](/np-seo-case/ekaterinburg/natyazhnye-potolki/)
+- [Натяжные потолки в Новосибирске](/np-seo-case/novosibirsk/natyazhnye-potolki/)
+- [Натяжные потолки в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/natyazhnye-potolki/)
+- [Натяжные потолки в Краснодаре](/np-seo-case/krasnodar/natyazhnye-potolki/)
+- [Натяжные потолки в Ростове-на-Дону](/np-seo-case/rostov-na-donu/natyazhnye-potolki/)
+- [Натяжные потолки в Самаре](/np-seo-case/samara/natyazhnye-potolki/)
+- [Натяжные потолки в Челябинске](/np-seo-case/chelyabinsk/natyazhnye-potolki/)
 
 ## Полезные статьи
 
@@ -54,11 +55,11 @@ og_variant: "city_service"
 
 ## FAQ
 
-### Сколько стоит натяжные потолки в Казань?
+### Сколько стоит натяжные потолки в Казани?
 
 Ориентировочный диапазон по каталогу: от 1 000 до 2 800 ₽. Цена обычно зависит от площади, состояния помещения и объема подготовительных операций.
 
-### Какие сроки выполнения работ в Казань?
+### Какие сроки выполнения работ в Казани?
 
 Сроки рассчитываются после уточнения объема и условий доступа. Для типовых заказов план работ согласовывается на старте.
 

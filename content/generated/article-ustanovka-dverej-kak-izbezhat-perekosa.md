@@ -8,6 +8,7 @@ page_kind: "article"
 og_variant: "article"
 city_slug: "ufa"
 city_name: "Уфа"
+city_name_in: "Уфе"
 service_slug: "remont-kvartir"
 service_name: "Ремонт квартир"
 service_slug_alt: "uslugi-elektrika"
@@ -28,7 +29,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Ремонт квартир в Уфа](/np-seo-case/ufa/remont-kvartir/)
-- [Услуги электрика в Уфа](/np-seo-case/ufa/uslugi-elektrika/)
+- [Ремонт квартир в Уфе](/np-seo-case/ufa/remont-kvartir/)
+- [Услуги электрика в Уфе](/np-seo-case/ufa/uslugi-elektrika/)
 - [Ремонт квартир](/np-seo-case/services/remont-kvartir/)
-- [Услуги в Уфа](/np-seo-case/cities/ufa/)
+- [Услуги в Уфе](/np-seo-case/cities/ufa/)

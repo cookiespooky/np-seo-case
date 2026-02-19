@@ -14,21 +14,21 @@ og_variant: "default"
 
 ## Услуги электрика по городам
 
-- [Услуги электрика в Москва](/np-seo-case/moskva/uslugi-elektrika/)
-- [Услуги электрика в Санкт-Петербург](/np-seo-case/spb/uslugi-elektrika/)
-- [Услуги электрика в Казань](/np-seo-case/kazan/uslugi-elektrika/)
-- [Услуги электрика в Екатеринбург](/np-seo-case/ekaterinburg/uslugi-elektrika/)
-- [Услуги электрика в Новосибирск](/np-seo-case/novosibirsk/uslugi-elektrika/)
-- [Услуги электрика в Нижний Новгород](/np-seo-case/nizhniy-novgorod/uslugi-elektrika/)
-- [Услуги электрика в Краснодар](/np-seo-case/krasnodar/uslugi-elektrika/)
-- [Услуги электрика в Ростов-на-Дону](/np-seo-case/rostov-na-donu/uslugi-elektrika/)
-- [Услуги электрика в Самара](/np-seo-case/samara/uslugi-elektrika/)
-- [Услуги электрика в Челябинск](/np-seo-case/chelyabinsk/uslugi-elektrika/)
-- [Услуги электрика в Уфа](/np-seo-case/ufa/uslugi-elektrika/)
-- [Услуги электрика в Пермь](/np-seo-case/perm/uslugi-elektrika/)
-- [Услуги электрика в Воронеж](/np-seo-case/voronezh/uslugi-elektrika/)
-- [Услуги электрика в Волгоград](/np-seo-case/volgograd/uslugi-elektrika/)
-- [Услуги электрика в Омск](/np-seo-case/omsk/uslugi-elektrika/)
+- [Услуги электрика в Москве](/np-seo-case/moskva/uslugi-elektrika/)
+- [Услуги электрика в Санкт-Петербурге](/np-seo-case/spb/uslugi-elektrika/)
+- [Услуги электрика в Казани](/np-seo-case/kazan/uslugi-elektrika/)
+- [Услуги электрика в Екатеринбурге](/np-seo-case/ekaterinburg/uslugi-elektrika/)
+- [Услуги электрика в Новосибирске](/np-seo-case/novosibirsk/uslugi-elektrika/)
+- [Услуги электрика в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/uslugi-elektrika/)
+- [Услуги электрика в Краснодаре](/np-seo-case/krasnodar/uslugi-elektrika/)
+- [Услуги электрика в Ростове-на-Дону](/np-seo-case/rostov-na-donu/uslugi-elektrika/)
+- [Услуги электрика в Самаре](/np-seo-case/samara/uslugi-elektrika/)
+- [Услуги электрика в Челябинске](/np-seo-case/chelyabinsk/uslugi-elektrika/)
+- [Услуги электрика в Уфе](/np-seo-case/ufa/uslugi-elektrika/)
+- [Услуги электрика в Перми](/np-seo-case/perm/uslugi-elektrika/)
+- [Услуги электрика в Воронеже](/np-seo-case/voronezh/uslugi-elektrika/)
+- [Услуги электрика в Волгограде](/np-seo-case/volgograd/uslugi-elektrika/)
+- [Услуги электрика в Омске](/np-seo-case/omsk/uslugi-elektrika/)
 
 ## Коротко о стоимости
 

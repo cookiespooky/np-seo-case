@@ -1,20 +1,21 @@
 ---
 type: "page"
 slug: "novosibirsk/ustanovka-santehniki"
-title: "Установка сантехники в Новосибирск — цены и услуги"
-description: "Установка сантехники в Новосибирск: ориентировочные цены, состав работ и ответы на частые вопросы."
+title: "Установка сантехники в Новосибирске — цены и услуги"
+description: "Установка сантехники в Новосибирске: ориентировочные цены, состав работ и ответы на частые вопросы."
 page_kind: "city_service"
 city_slug: "novosibirsk"
 city_name: "Новосибирск"
+city_name_in: "Новосибирске"
 service_slug: "ustanovka-santehniki"
 service_name: "Установка сантехники"
 price_min: 2300
 price_max: 8100
 og_variant: "city_service"
 ---
-# Установка сантехники в Новосибирск
+# Установка сантехники в Новосибирске
 
-Услуга доступна в Новосибирск. Страница содержит ориентировочную стоимость,
+Услуга доступна в Новосибирске. Страница содержит ориентировочную стоимость,
 структуру работ и базовые ответы на частые вопросы.
 
 ## Ориентировочные цены
@@ -23,7 +24,7 @@ og_variant: "city_service"
 - Верхний диапазон: **до 8 100 ₽**
 - Актуализация стоимости выполняется после оценки объема работ.
 
-## Другие услуги в Новосибирск
+## Другие услуги в Новосибирске
 
 - [Ремонт квартир](/np-seo-case/novosibirsk/remont-kvartir/)
 - [Ремонт ванной комнаты](/np-seo-case/novosibirsk/remont-vannoj/)
@@ -38,13 +39,13 @@ og_variant: "city_service"
 
 ## Установка сантехники в других городах
 
-- [Установка сантехники в Нижний Новгород](/np-seo-case/nizhniy-novgorod/ustanovka-santehniki/)
-- [Установка сантехники в Краснодар](/np-seo-case/krasnodar/ustanovka-santehniki/)
-- [Установка сантехники в Ростов-на-Дону](/np-seo-case/rostov-na-donu/ustanovka-santehniki/)
-- [Установка сантехники в Самара](/np-seo-case/samara/ustanovka-santehniki/)
-- [Установка сантехники в Челябинск](/np-seo-case/chelyabinsk/ustanovka-santehniki/)
-- [Установка сантехники в Уфа](/np-seo-case/ufa/ustanovka-santehniki/)
-- [Установка сантехники в Пермь](/np-seo-case/perm/ustanovka-santehniki/)
+- [Установка сантехники в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/ustanovka-santehniki/)
+- [Установка сантехники в Краснодаре](/np-seo-case/krasnodar/ustanovka-santehniki/)
+- [Установка сантехники в Ростове-на-Дону](/np-seo-case/rostov-na-donu/ustanovka-santehniki/)
+- [Установка сантехники в Самаре](/np-seo-case/samara/ustanovka-santehniki/)
+- [Установка сантехники в Челябинске](/np-seo-case/chelyabinsk/ustanovka-santehniki/)
+- [Установка сантехники в Уфе](/np-seo-case/ufa/ustanovka-santehniki/)
+- [Установка сантехники в Перми](/np-seo-case/perm/ustanovka-santehniki/)
 
 ## Полезные статьи
 
@@ -54,11 +55,11 @@ og_variant: "city_service"
 
 ## FAQ
 
-### Сколько стоит установка сантехники в Новосибирск?
+### Сколько стоит установка сантехники в Новосибирске?
 
 Ориентировочный диапазон по каталогу: от 2 300 до 8 100 ₽. На итог влияют доступность объекта, сложность узлов и требуемые сроки выполнения.
 
-### Какие сроки выполнения работ в Новосибирск?
+### Какие сроки выполнения работ в Новосибирске?
 
 Сроки рассчитываются после уточнения объема и условий доступа. Для типовых заказов план работ согласовывается на старте.
 

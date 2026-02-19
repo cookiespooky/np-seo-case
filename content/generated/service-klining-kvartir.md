@@ -14,21 +14,21 @@ og_variant: "default"
 
 ## Клининг квартир по городам
 
-- [Клининг квартир в Москва](/np-seo-case/moskva/klining-kvartir/)
-- [Клининг квартир в Санкт-Петербург](/np-seo-case/spb/klining-kvartir/)
-- [Клининг квартир в Казань](/np-seo-case/kazan/klining-kvartir/)
-- [Клининг квартир в Екатеринбург](/np-seo-case/ekaterinburg/klining-kvartir/)
-- [Клининг квартир в Новосибирск](/np-seo-case/novosibirsk/klining-kvartir/)
-- [Клининг квартир в Нижний Новгород](/np-seo-case/nizhniy-novgorod/klining-kvartir/)
-- [Клининг квартир в Краснодар](/np-seo-case/krasnodar/klining-kvartir/)
-- [Клининг квартир в Ростов-на-Дону](/np-seo-case/rostov-na-donu/klining-kvartir/)
-- [Клининг квартир в Самара](/np-seo-case/samara/klining-kvartir/)
-- [Клининг квартир в Челябинск](/np-seo-case/chelyabinsk/klining-kvartir/)
-- [Клининг квартир в Уфа](/np-seo-case/ufa/klining-kvartir/)
-- [Клининг квартир в Пермь](/np-seo-case/perm/klining-kvartir/)
-- [Клининг квартир в Воронеж](/np-seo-case/voronezh/klining-kvartir/)
-- [Клининг квартир в Волгоград](/np-seo-case/volgograd/klining-kvartir/)
-- [Клининг квартир в Омск](/np-seo-case/omsk/klining-kvartir/)
+- [Клининг квартир в Москве](/np-seo-case/moskva/klining-kvartir/)
+- [Клининг квартир в Санкт-Петербурге](/np-seo-case/spb/klining-kvartir/)
+- [Клининг квартир в Казани](/np-seo-case/kazan/klining-kvartir/)
+- [Клининг квартир в Екатеринбурге](/np-seo-case/ekaterinburg/klining-kvartir/)
+- [Клининг квартир в Новосибирске](/np-seo-case/novosibirsk/klining-kvartir/)
+- [Клининг квартир в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/klining-kvartir/)
+- [Клининг квартир в Краснодаре](/np-seo-case/krasnodar/klining-kvartir/)
+- [Клининг квартир в Ростове-на-Дону](/np-seo-case/rostov-na-donu/klining-kvartir/)
+- [Клининг квартир в Самаре](/np-seo-case/samara/klining-kvartir/)
+- [Клининг квартир в Челябинске](/np-seo-case/chelyabinsk/klining-kvartir/)
+- [Клининг квартир в Уфе](/np-seo-case/ufa/klining-kvartir/)
+- [Клининг квартир в Перми](/np-seo-case/perm/klining-kvartir/)
+- [Клининг квартир в Воронеже](/np-seo-case/voronezh/klining-kvartir/)
+- [Клининг квартир в Волгограде](/np-seo-case/volgograd/klining-kvartir/)
+- [Клининг квартир в Омске](/np-seo-case/omsk/klining-kvartir/)
 
 ## Коротко о стоимости
 

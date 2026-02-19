@@ -14,21 +14,21 @@ og_variant: "default"
 
 ## Натяжные потолки по городам
 
-- [Натяжные потолки в Москва](/np-seo-case/moskva/natyazhnye-potolki/)
-- [Натяжные потолки в Санкт-Петербург](/np-seo-case/spb/natyazhnye-potolki/)
-- [Натяжные потолки в Казань](/np-seo-case/kazan/natyazhnye-potolki/)
-- [Натяжные потолки в Екатеринбург](/np-seo-case/ekaterinburg/natyazhnye-potolki/)
-- [Натяжные потолки в Новосибирск](/np-seo-case/novosibirsk/natyazhnye-potolki/)
-- [Натяжные потолки в Нижний Новгород](/np-seo-case/nizhniy-novgorod/natyazhnye-potolki/)
-- [Натяжные потолки в Краснодар](/np-seo-case/krasnodar/natyazhnye-potolki/)
-- [Натяжные потолки в Ростов-на-Дону](/np-seo-case/rostov-na-donu/natyazhnye-potolki/)
-- [Натяжные потолки в Самара](/np-seo-case/samara/natyazhnye-potolki/)
-- [Натяжные потолки в Челябинск](/np-seo-case/chelyabinsk/natyazhnye-potolki/)
-- [Натяжные потолки в Уфа](/np-seo-case/ufa/natyazhnye-potolki/)
-- [Натяжные потолки в Пермь](/np-seo-case/perm/natyazhnye-potolki/)
-- [Натяжные потолки в Воронеж](/np-seo-case/voronezh/natyazhnye-potolki/)
-- [Натяжные потолки в Волгоград](/np-seo-case/volgograd/natyazhnye-potolki/)
-- [Натяжные потолки в Омск](/np-seo-case/omsk/natyazhnye-potolki/)
+- [Натяжные потолки в Москве](/np-seo-case/moskva/natyazhnye-potolki/)
+- [Натяжные потолки в Санкт-Петербурге](/np-seo-case/spb/natyazhnye-potolki/)
+- [Натяжные потолки в Казани](/np-seo-case/kazan/natyazhnye-potolki/)
+- [Натяжные потолки в Екатеринбурге](/np-seo-case/ekaterinburg/natyazhnye-potolki/)
+- [Натяжные потолки в Новосибирске](/np-seo-case/novosibirsk/natyazhnye-potolki/)
+- [Натяжные потолки в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/natyazhnye-potolki/)
+- [Натяжные потолки в Краснодаре](/np-seo-case/krasnodar/natyazhnye-potolki/)
+- [Натяжные потолки в Ростове-на-Дону](/np-seo-case/rostov-na-donu/natyazhnye-potolki/)
+- [Натяжные потолки в Самаре](/np-seo-case/samara/natyazhnye-potolki/)
+- [Натяжные потолки в Челябинске](/np-seo-case/chelyabinsk/natyazhnye-potolki/)
+- [Натяжные потолки в Уфе](/np-seo-case/ufa/natyazhnye-potolki/)
+- [Натяжные потолки в Перми](/np-seo-case/perm/natyazhnye-potolki/)
+- [Натяжные потолки в Воронеже](/np-seo-case/voronezh/natyazhnye-potolki/)
+- [Натяжные потолки в Волгограде](/np-seo-case/volgograd/natyazhnye-potolki/)
+- [Натяжные потолки в Омске](/np-seo-case/omsk/natyazhnye-potolki/)
 
 ## Коротко о стоимости
 

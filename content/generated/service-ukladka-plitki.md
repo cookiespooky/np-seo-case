@@ -14,21 +14,21 @@ og_variant: "default"
 
 ## Укладка плитки по городам
 
-- [Укладка плитки в Москва](/np-seo-case/moskva/ukladka-plitki/)
-- [Укладка плитки в Санкт-Петербург](/np-seo-case/spb/ukladka-plitki/)
-- [Укладка плитки в Казань](/np-seo-case/kazan/ukladka-plitki/)
-- [Укладка плитки в Екатеринбург](/np-seo-case/ekaterinburg/ukladka-plitki/)
-- [Укладка плитки в Новосибирск](/np-seo-case/novosibirsk/ukladka-plitki/)
-- [Укладка плитки в Нижний Новгород](/np-seo-case/nizhniy-novgorod/ukladka-plitki/)
-- [Укладка плитки в Краснодар](/np-seo-case/krasnodar/ukladka-plitki/)
-- [Укладка плитки в Ростов-на-Дону](/np-seo-case/rostov-na-donu/ukladka-plitki/)
-- [Укладка плитки в Самара](/np-seo-case/samara/ukladka-plitki/)
-- [Укладка плитки в Челябинск](/np-seo-case/chelyabinsk/ukladka-plitki/)
-- [Укладка плитки в Уфа](/np-seo-case/ufa/ukladka-plitki/)
-- [Укладка плитки в Пермь](/np-seo-case/perm/ukladka-plitki/)
-- [Укладка плитки в Воронеж](/np-seo-case/voronezh/ukladka-plitki/)
-- [Укладка плитки в Волгоград](/np-seo-case/volgograd/ukladka-plitki/)
-- [Укладка плитки в Омск](/np-seo-case/omsk/ukladka-plitki/)
+- [Укладка плитки в Москве](/np-seo-case/moskva/ukladka-plitki/)
+- [Укладка плитки в Санкт-Петербурге](/np-seo-case/spb/ukladka-plitki/)
+- [Укладка плитки в Казани](/np-seo-case/kazan/ukladka-plitki/)
+- [Укладка плитки в Екатеринбурге](/np-seo-case/ekaterinburg/ukladka-plitki/)
+- [Укладка плитки в Новосибирске](/np-seo-case/novosibirsk/ukladka-plitki/)
+- [Укладка плитки в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/ukladka-plitki/)
+- [Укладка плитки в Краснодаре](/np-seo-case/krasnodar/ukladka-plitki/)
+- [Укладка плитки в Ростове-на-Дону](/np-seo-case/rostov-na-donu/ukladka-plitki/)
+- [Укладка плитки в Самаре](/np-seo-case/samara/ukladka-plitki/)
+- [Укладка плитки в Челябинске](/np-seo-case/chelyabinsk/ukladka-plitki/)
+- [Укладка плитки в Уфе](/np-seo-case/ufa/ukladka-plitki/)
+- [Укладка плитки в Перми](/np-seo-case/perm/ukladka-plitki/)
+- [Укладка плитки в Воронеже](/np-seo-case/voronezh/ukladka-plitki/)
+- [Укладка плитки в Волгограде](/np-seo-case/volgograd/ukladka-plitki/)
+- [Укладка плитки в Омске](/np-seo-case/omsk/ukladka-plitki/)
 
 ## Коротко о стоимости
 

@@ -8,6 +8,7 @@ page_kind: "article"
 og_variant: "article"
 city_slug: "voronezh"
 city_name: "Воронеж"
+city_name_in: "Воронеже"
 service_slug: "natyazhnye-potolki"
 service_name: "Натяжные потолки"
 service_slug_alt: "remont-kvartir"
@@ -28,7 +29,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Натяжные потолки в Воронеж](/np-seo-case/voronezh/natyazhnye-potolki/)
-- [Ремонт квартир в Воронеж](/np-seo-case/voronezh/remont-kvartir/)
+- [Натяжные потолки в Воронеже](/np-seo-case/voronezh/natyazhnye-potolki/)
+- [Ремонт квартир в Воронеже](/np-seo-case/voronezh/remont-kvartir/)
 - [Натяжные потолки](/np-seo-case/services/natyazhnye-potolki/)
-- [Услуги в Воронеж](/np-seo-case/cities/voronezh/)
+- [Услуги в Воронеже](/np-seo-case/cities/voronezh/)

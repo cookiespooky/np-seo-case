@@ -8,6 +8,7 @@ page_kind: "article"
 og_variant: "article"
 city_slug: "perm"
 city_name: "Пермь"
+city_name_in: "Перми"
 service_slug: "ustanovka-santehniki"
 service_name: "Установка сантехники"
 service_slug_alt: "zamena-okon"
@@ -28,7 +29,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Установка сантехники в Пермь](/np-seo-case/perm/ustanovka-santehniki/)
-- [Замена окон в Пермь](/np-seo-case/perm/zamena-okon/)
+- [Установка сантехники в Перми](/np-seo-case/perm/ustanovka-santehniki/)
+- [Замена окон в Перми](/np-seo-case/perm/zamena-okon/)
 - [Установка сантехники](/np-seo-case/services/ustanovka-santehniki/)
-- [Услуги в Пермь](/np-seo-case/cities/perm/)
+- [Услуги в Перми](/np-seo-case/cities/perm/)

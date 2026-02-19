@@ -8,6 +8,7 @@ page_kind: "article"
 og_variant: "article"
 city_slug: "chelyabinsk"
 city_name: "Челябинск"
+city_name_in: "Челябинске"
 service_slug: "zamena-okon"
 service_name: "Замена окон"
 service_slug_alt: "remont-vannoj"
@@ -28,7 +29,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Замена окон в Челябинск](/np-seo-case/chelyabinsk/zamena-okon/)
-- [Ремонт ванной комнаты в Челябинск](/np-seo-case/chelyabinsk/remont-vannoj/)
+- [Замена окон в Челябинске](/np-seo-case/chelyabinsk/zamena-okon/)
+- [Ремонт ванной комнаты в Челябинске](/np-seo-case/chelyabinsk/remont-vannoj/)
 - [Замена окон](/np-seo-case/services/zamena-okon/)
-- [Услуги в Челябинск](/np-seo-case/cities/chelyabinsk/)
+- [Услуги в Челябинске](/np-seo-case/cities/chelyabinsk/)

@@ -8,6 +8,7 @@ page_kind: "article"
 og_variant: "article"
 city_slug: "moskva"
 city_name: "Москва"
+city_name_in: "Москве"
 service_slug: "sborka-mebeli"
 service_name: "Сборка мебели"
 service_slug_alt: "ustanovka-dverej"
@@ -28,7 +29,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Сборка мебели в Москва](/np-seo-case/moskva/sborka-mebeli/)
-- [Установка дверей в Москва](/np-seo-case/moskva/ustanovka-dverej/)
+- [Сборка мебели в Москве](/np-seo-case/moskva/sborka-mebeli/)
+- [Установка дверей в Москве](/np-seo-case/moskva/ustanovka-dverej/)
 - [Сборка мебели](/np-seo-case/services/sborka-mebeli/)
-- [Услуги в Москва](/np-seo-case/cities/moskva/)
+- [Услуги в Москве](/np-seo-case/cities/moskva/)

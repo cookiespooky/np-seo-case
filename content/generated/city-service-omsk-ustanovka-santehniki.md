@@ -1,20 +1,21 @@
 ---
 type: "page"
 slug: "omsk/ustanovka-santehniki"
-title: "Установка сантехники в Омск — цены и услуги"
-description: "Установка сантехники в Омск: ориентировочные цены, состав работ и ответы на частые вопросы."
+title: "Установка сантехники в Омске — цены и услуги"
+description: "Установка сантехники в Омске: ориентировочные цены, состав работ и ответы на частые вопросы."
 page_kind: "city_service"
 city_slug: "omsk"
 city_name: "Омск"
+city_name_in: "Омске"
 service_slug: "ustanovka-santehniki"
 service_name: "Установка сантехники"
 price_min: 2000
 price_max: 7100
 og_variant: "city_service"
 ---
-# Установка сантехники в Омск
+# Установка сантехники в Омске
 
-Услуга доступна в Омск. Страница содержит ориентировочную стоимость,
+Услуга доступна в Омске. Страница содержит ориентировочную стоимость,
 структуру работ и базовые ответы на частые вопросы.
 
 ## Ориентировочные цены
@@ -23,7 +24,7 @@ og_variant: "city_service"
 - Верхний диапазон: **до 7 100 ₽**
 - Актуализация стоимости выполняется после оценки объема работ.
 
-## Другие услуги в Омск
+## Другие услуги в Омске
 
 - [Ремонт квартир](/np-seo-case/omsk/remont-kvartir/)
 - [Ремонт ванной комнаты](/np-seo-case/omsk/remont-vannoj/)
@@ -38,13 +39,13 @@ og_variant: "city_service"
 
 ## Установка сантехники в других городах
 
-- [Установка сантехники в Москва](/np-seo-case/moskva/ustanovka-santehniki/)
-- [Установка сантехники в Санкт-Петербург](/np-seo-case/spb/ustanovka-santehniki/)
-- [Установка сантехники в Казань](/np-seo-case/kazan/ustanovka-santehniki/)
-- [Установка сантехники в Екатеринбург](/np-seo-case/ekaterinburg/ustanovka-santehniki/)
-- [Установка сантехники в Новосибирск](/np-seo-case/novosibirsk/ustanovka-santehniki/)
-- [Установка сантехники в Нижний Новгород](/np-seo-case/nizhniy-novgorod/ustanovka-santehniki/)
-- [Установка сантехники в Краснодар](/np-seo-case/krasnodar/ustanovka-santehniki/)
+- [Установка сантехники в Москве](/np-seo-case/moskva/ustanovka-santehniki/)
+- [Установка сантехники в Санкт-Петербурге](/np-seo-case/spb/ustanovka-santehniki/)
+- [Установка сантехники в Казани](/np-seo-case/kazan/ustanovka-santehniki/)
+- [Установка сантехники в Екатеринбурге](/np-seo-case/ekaterinburg/ustanovka-santehniki/)
+- [Установка сантехники в Новосибирске](/np-seo-case/novosibirsk/ustanovka-santehniki/)
+- [Установка сантехники в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/ustanovka-santehniki/)
+- [Установка сантехники в Краснодаре](/np-seo-case/krasnodar/ustanovka-santehniki/)
 
 ## Полезные статьи
 
@@ -54,11 +55,11 @@ og_variant: "city_service"
 
 ## FAQ
 
-### Сколько стоит установка сантехники в Омск?
+### Сколько стоит установка сантехники в Омске?
 
 Ориентировочный диапазон по каталогу: от 2 000 до 7 100 ₽. На итог влияют доступность объекта, сложность узлов и требуемые сроки выполнения.
 
-### Какие сроки выполнения работ в Омск?
+### Какие сроки выполнения работ в Омске?
 
 Сроки рассчитываются после уточнения объема и условий доступа. Для типовых заказов план работ согласовывается на старте.
 

@@ -1,20 +1,21 @@
 ---
 type: "page"
 slug: "volgograd/natyazhnye-potolki"
-title: "Натяжные потолки в Волгоград — цены и услуги"
-description: "Натяжные потолки в Волгоград: ориентировочные цены, состав работ и ответы на частые вопросы."
+title: "Натяжные потолки в Волгограде — цены и услуги"
+description: "Натяжные потолки в Волгограде: ориентировочные цены, состав работ и ответы на частые вопросы."
 page_kind: "city_service"
 city_slug: "volgograd"
 city_name: "Волгоград"
+city_name_in: "Волгограде"
 service_slug: "natyazhnye-potolki"
 service_name: "Натяжные потолки"
 price_min: 800
 price_max: 2400
 og_variant: "city_service"
 ---
-# Натяжные потолки в Волгоград
+# Натяжные потолки в Волгограде
 
-Услуга доступна в Волгоград. Страница содержит ориентировочную стоимость,
+Услуга доступна в Волгограде. Страница содержит ориентировочную стоимость,
 структуру работ и базовые ответы на частые вопросы.
 
 ## Ориентировочные цены
@@ -23,7 +24,7 @@ og_variant: "city_service"
 - Верхний диапазон: **до 2 400 ₽**
 - Актуализация стоимости выполняется после оценки объема работ.
 
-## Другие услуги в Волгоград
+## Другие услуги в Волгограде
 
 - [Ремонт квартир](/np-seo-case/volgograd/remont-kvartir/)
 - [Ремонт ванной комнаты](/np-seo-case/volgograd/remont-vannoj/)
@@ -38,13 +39,13 @@ og_variant: "city_service"
 
 ## Натяжные потолки в других городах
 
-- [Натяжные потолки в Омск](/np-seo-case/omsk/natyazhnye-potolki/)
-- [Натяжные потолки в Москва](/np-seo-case/moskva/natyazhnye-potolki/)
-- [Натяжные потолки в Санкт-Петербург](/np-seo-case/spb/natyazhnye-potolki/)
-- [Натяжные потолки в Казань](/np-seo-case/kazan/natyazhnye-potolki/)
-- [Натяжные потолки в Екатеринбург](/np-seo-case/ekaterinburg/natyazhnye-potolki/)
-- [Натяжные потолки в Новосибирск](/np-seo-case/novosibirsk/natyazhnye-potolki/)
-- [Натяжные потолки в Нижний Новгород](/np-seo-case/nizhniy-novgorod/natyazhnye-potolki/)
+- [Натяжные потолки в Омске](/np-seo-case/omsk/natyazhnye-potolki/)
+- [Натяжные потолки в Москве](/np-seo-case/moskva/natyazhnye-potolki/)
+- [Натяжные потолки в Санкт-Петербурге](/np-seo-case/spb/natyazhnye-potolki/)
+- [Натяжные потолки в Казани](/np-seo-case/kazan/natyazhnye-potolki/)
+- [Натяжные потолки в Екатеринбурге](/np-seo-case/ekaterinburg/natyazhnye-potolki/)
+- [Натяжные потолки в Новосибирске](/np-seo-case/novosibirsk/natyazhnye-potolki/)
+- [Натяжные потолки в Нижнем Новгороде](/np-seo-case/nizhniy-novgorod/natyazhnye-potolki/)
 
 ## Полезные статьи
 
@@ -54,11 +55,11 @@ og_variant: "city_service"
 
 ## FAQ
 
-### Сколько стоит натяжные потолки в Волгоград?
+### Сколько стоит натяжные потолки в Волгограде?
 
 Ориентировочный диапазон по каталогу: от 800 до 2 400 ₽. На итог влияют доступность объекта, сложность узлов и требуемые сроки выполнения.
 
-### Какие сроки выполнения работ в Волгоград?
+### Какие сроки выполнения работ в Волгограде?
 
 Сроки рассчитываются после уточнения объема и условий доступа. Для типовых заказов план работ согласовывается на старте.
 

@@ -8,6 +8,7 @@ page_kind: "article"
 og_variant: "article"
 city_slug: "spb"
 city_name: "Санкт-Петербург"
+city_name_in: "Санкт-Петербурге"
 service_slug: "ustanovka-santehniki"
 service_name: "Установка сантехники"
 service_slug_alt: "zamena-okon"
@@ -28,7 +29,7 @@ date_modified: "2026-02-19"
 
 Связанные разделы каталога:
 
-- [Установка сантехники в Санкт-Петербург](/np-seo-case/spb/ustanovka-santehniki/)
-- [Замена окон в Санкт-Петербург](/np-seo-case/spb/zamena-okon/)
+- [Установка сантехники в Санкт-Петербурге](/np-seo-case/spb/ustanovka-santehniki/)
+- [Замена окон в Санкт-Петербурге](/np-seo-case/spb/zamena-okon/)
 - [Установка сантехники](/np-seo-case/services/ustanovka-santehniki/)
-- [Услуги в Санкт-Петербург](/np-seo-case/cities/spb/)
+- [Услуги в Санкт-Петербурге](/np-seo-case/cities/spb/)
