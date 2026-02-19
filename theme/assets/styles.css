@@ -217,6 +217,10 @@ small { color: var(--muted); }
     margin: 0 0 12px 20px;
   }
 
+  .page-home .page-content > h2:first-of-type {
+    clear: both;
+  }
+
   .page-home .page-content > ul:nth-of-type(-n+3) {
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 14px;
