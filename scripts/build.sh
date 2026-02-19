@@ -9,6 +9,7 @@ CFG="${NOTEPUB_CONFIG:-./config.yaml}"
 RULES="${NOTEPUB_RULES:-./rules.yaml}"
 ART="./.notepub/artifacts"
 OUT="./dist"
+CUSTOM_DOMAIN="${CUSTOM_DOMAIN:-gorod-katalog.ru}"
 
 BASE_URL="$(awk -F'"' '/base_url:/ {print $2; exit}' "$CFG")"
 BASE_URL="${BASE_URL%/}"
@@ -27,12 +28,17 @@ echo "[2/6] index/build"
 "$BIN" index --config "$CFG" --rules "$RULES"
 "$BIN" build --config "$CFG" --rules "$RULES" --artifacts "$ART" --dist "$OUT"
 
-echo "[3/6] copy 404.html"
+echo "[3/7] copy 404.html"
 if [[ -f "$OUT/404/index.html" ]]; then
   cp "$OUT/404/index.html" "$OUT/404.html"
 fi
 
-echo "[4/6] normalize robots"
+echo "[4/7] write CNAME"
+if [[ -n "$CUSTOM_DOMAIN" ]]; then
+  printf "%s\n" "$CUSTOM_DOMAIN" > "$OUT/CNAME"
+fi
+
+echo "[5/7] normalize robots"
 cat > "$OUT/robots.txt" <<ROBOTS
 User-agent: *
 Allow: /
@@ -40,7 +46,7 @@ Allow: /
 Sitemap: ${BASE_URL}/sitemap.xml
 ROBOTS
 
-echo "[5/6] export content media"
+echo "[6/7] export content media"
 rm -rf "$OUT/media"
 mkdir -p "$OUT/media"
 rsync -a --prune-empty-dirs \
@@ -50,4 +56,4 @@ rsync -a --prune-empty-dirs \
   --exclude '*.md' \
   ./content/ "$OUT/media/"
 
-echo "[6/6] done -> $OUT"
+echo "[7/7] done -> $OUT"
