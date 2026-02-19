@@ -458,6 +458,9 @@ const articlesWithDates = articles
   .map((article, index) => ({ ...article, date: articleDate(index) }))
   .sort((a, b) => (a.date < b.date ? 1 : -1));
 
+const articleSnippet = (article) =>
+  `Категория: ${article.category}. Практические советы по теме материала и типовым задачам.`;
+
 writePage(
   "blog-index.md",
   {
@@ -473,9 +476,12 @@ writePage(
 
 Статьи по выбору подрядчиков, оценке сметы, срокам и контролю качества работ.
 
-${articlesWithDates.slice(0, 10).map((article, idx) => `${idx + 1}. [${article.title}](${route(`blog/${article.slug}`)}) — ${article.date}`).join("\n")}
+${articlesWithDates
+  .slice(0, 10)
+  .map((article, idx) => `${idx + 1}. [${article.title}](${route(`blog/${article.slug}`)}) — ${article.date}. ${articleSnippet(article)}`)
+  .join("\n")}
 
-[Следующая страница →](${route("blog/page/2")})
+[1](${route("blog")}) · [2](${route("blog/page/2")}) · [→](${route("blog/page/2")})
 `
 );
 
@@ -492,9 +498,12 @@ writePage(
   `
 # Блог — страница 2
 
-${articlesWithDates.slice(10, 20).map((article, idx) => `${idx + 11}. [${article.title}](${route(`blog/${article.slug}`)}) — ${article.date}`).join("\n")}
+${articlesWithDates
+  .slice(10, 20)
+  .map((article, idx) => `${idx + 11}. [${article.title}](${route(`blog/${article.slug}`)}) — ${article.date}. ${articleSnippet(article)}`)
+  .join("\n")}
 
-[← Назад к первой странице](${route("blog")})
+[←](${route("blog")}) · [1](${route("blog")}) · [2](${route("blog/page/2")})
 `
 );
 

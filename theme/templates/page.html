@@ -1,3 +1,13 @@
 <article class="page-content">
+  {{- $kind := printf "%v" (index .FM "page_kind") -}}
+  {{- if eq $kind "city_service" }}
+  <nav class="breadcrumbs" aria-label="Хлебные крошки">
+    <a href="{{ .BaseURL }}/">Главная</a>
+    <span>/</span>
+    <a href="{{ .BaseURL }}/cities/{{ index .FM "city_slug" }}/">{{ index .FM "city_name" }}</a>
+    <span>/</span>
+    <span>{{ index .FM "service_name" }}</span>
+  </nav>
+  {{- end }}
   {{ .Body }}
 </article>
