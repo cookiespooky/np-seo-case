@@ -63,6 +63,14 @@ jobs:
             BASE_PATH="$(echo "$SITE_URL" | sed -E 's#^[a-z]+://[^/]+(/.*)$#\1#;t; s#.*#/#')"
           fi
 
+          # Guardrail for custom domain migration:
+          # if BASE_PATH was left as '/repo/' from GitHub Pages project mode,
+          # force root path on non-github.io domains.
+          SITE_HOST="$(echo "$SITE_URL" | sed -E 's#^[a-z]+://([^/]+)/?.*$#\1#')"
+          if [[ "$SITE_HOST" != *".github.io" ]] && [ "$BASE_PATH" = "/${REPO}/" ]; then
+            BASE_PATH="/"
+          fi
+
           case "$BASE_PATH" in
             /*) ;;
             *) BASE_PATH="/${BASE_PATH}" ;;
