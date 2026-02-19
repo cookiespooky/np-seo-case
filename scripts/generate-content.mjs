@@ -275,7 +275,8 @@ ${cities.map((city) => `- [${city.name}](${route(`cities/${city.slug}`)})`).join
 `
 );
 
-services.forEach((service) => {
+services.forEach((service, serviceIndex) => {
+  const relatedArticles = pickArticles(serviceIndex * 2, 4);
   writePage(
     `service-${service.slug}.md`,
     {
@@ -296,6 +297,10 @@ services.forEach((service) => {
 ## ${service.name} по городам
 
 ${cities.map((city) => `- [${service.name} в ${cityIn(city)}](${route(`${city.slug}/${service.slug}`)})`).join("\n")}
+
+## Полезные статьи по теме
+
+${relatedArticles.map((article) => `- [${article.title}](${route(`blog/${article.slug}`)})`).join("\n")}
 
 ## Коротко о стоимости
 

@@ -30,6 +30,13 @@ og_variant: "default"
 - [Сборка мебели в Волгограде](/np-seo-case/volgograd/sborka-mebeli/)
 - [Сборка мебели в Омске](/np-seo-case/omsk/sborka-mebeli/)
 
+## Полезные статьи по теме
+
+- [Как сравнивать коммерческие предложения по услугам](/np-seo-case/blog/kak-sravnivat-kommercheskie-predlozheniya/)
+- [Как составить план работ для бригады](/np-seo-case/blog/kak-sostavit-plan-rabot-dlya-brigady/)
+- [Когда выгоднее делать клининг после ремонта](/np-seo-case/blog/kogda-vygodnee-delat-klining-posle-remonta/)
+- [Как работает модель «услуга × город» в каталоге](/np-seo-case/blog/kak-rabotaet-model-usluga-gorod-v-kataloge/)
+
 ## Коротко о стоимости
 
 Ориентировочный диапазон по каталогу: от 1 400 до 5 200 ₽

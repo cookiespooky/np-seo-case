@@ -30,6 +30,13 @@ og_variant: "default"
 - [Клининг квартир в Волгограде](/np-seo-case/volgograd/klining-kvartir/)
 - [Клининг квартир в Омске](/np-seo-case/omsk/klining-kvartir/)
 
+## Полезные статьи по теме
+
+- [Когда выгоднее делать клининг после ремонта](/np-seo-case/blog/kogda-vygodnee-delat-klining-posle-remonta/)
+- [Как работает модель «услуга × город» в каталоге](/np-seo-case/blog/kak-rabotaet-model-usluga-gorod-v-kataloge/)
+- [От чего зависит стоимость укладки плитки](/np-seo-case/blog/ot-chego-zavisit-stoimost-ukladki-plitki/)
+- [Замена окон в зимний период: что учесть](/np-seo-case/blog/zamena-okon-v-zimnij-period-chto-uchest/)
+
 ## Коротко о стоимости
 
 Ориентировочный диапазон по каталогу: от 2 600 до 8 400 ₽

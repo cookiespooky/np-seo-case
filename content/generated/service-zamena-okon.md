@@ -30,6 +30,13 @@ og_variant: "default"
 - [Замена окон в Волгограде](/np-seo-case/volgograd/zamena-okon/)
 - [Замена окон в Омске](/np-seo-case/omsk/zamena-okon/)
 
+## Полезные статьи по теме
+
+- [Приемка работ: пошаговая инструкция](/np-seo-case/blog/priemka-rabot-poshagovaya-instrukciya/)
+- [Типовые вопросы по гарантии на работы](/np-seo-case/blog/tipovye-voprosy-po-garantii-na-raboty/)
+- [Как оценить смету перед ремонтом квартиры](/np-seo-case/blog/kak-ocenit-smetu-pered-remontom-kvartiry/)
+- [Как подготовить квартиру к клинингу](/np-seo-case/blog/kak-podgotovit-kvartiru-k-kliningu/)
+
 ## Коротко о стоимости
 
 Ориентировочный диапазон по каталогу: от 6 800 до 18 500 ₽

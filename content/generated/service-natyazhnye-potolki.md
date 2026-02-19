@@ -30,6 +30,13 @@ og_variant: "default"
 - [Натяжные потолки в Волгограде](/np-seo-case/volgograd/natyazhnye-potolki/)
 - [Натяжные потолки в Омске](/np-seo-case/omsk/natyazhnye-potolki/)
 
+## Полезные статьи по теме
+
+- [Как рассчитать бюджет на ремонт в регионе](/np-seo-case/blog/kak-rasschitat-byudzhet-na-remont-v-regione/)
+- [Как выбрать сервис по отзывам и кейсам](/np-seo-case/blog/kak-vybrat-servis-po-otzyvam-i-kejsam/)
+- [Как не переплатить за срочные работы](/np-seo-case/blog/kak-ne-pereplatit-za-srochnye-raboty/)
+- [5 ошибок при выборе мастера по сантехнике](/np-seo-case/blog/5-oshibok-pri-vybore-mastera-po-santehnike/)
+
 ## Коротко о стоимости
 
 Ориентировочный диапазон по каталогу: от 900 до 2 600 ₽

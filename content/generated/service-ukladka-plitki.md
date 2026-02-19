@@ -30,6 +30,13 @@ og_variant: "default"
 - [Укладка плитки в Волгограде](/np-seo-case/volgograd/ukladka-plitki/)
 - [Укладка плитки в Омске](/np-seo-case/omsk/ukladka-plitki/)
 
+## Полезные статьи по теме
+
+- [Как проверить качество электромонтажных работ](/np-seo-case/blog/kak-proverit-kachestvo-elektromontazhnyh-rabot/)
+- [Сборка мебели после переезда: чек-лист](/np-seo-case/blog/sborka-mebeli-posle-pereezda-checklist/)
+- [Как сравнивать коммерческие предложения по услугам](/np-seo-case/blog/kak-sravnivat-kommercheskie-predlozheniya/)
+- [Как составить план работ для бригады](/np-seo-case/blog/kak-sostavit-plan-rabot-dlya-brigady/)
+
 ## Коротко о стоимости
 
 Ориентировочный диапазон по каталогу: от 1 600 до 4 200 ₽

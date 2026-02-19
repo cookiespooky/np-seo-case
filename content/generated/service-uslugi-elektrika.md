@@ -30,6 +30,13 @@ og_variant: "default"
 - [Услуги электрика в Волгограде](/np-seo-case/volgograd/uslugi-elektrika/)
 - [Услуги электрика в Омске](/np-seo-case/omsk/uslugi-elektrika/)
 
+## Полезные статьи по теме
+
+- [Натяжные потолки: как выбрать материал](/np-seo-case/blog/natyazhnye-potolki-kak-vybrat-material/)
+- [Минимальный набор работ при косметическом ремонте](/np-seo-case/blog/minimalnyj-nabor-rabot-pri-kosmeticheskom-remonte/)
+- [Приемка работ: пошаговая инструкция](/np-seo-case/blog/priemka-rabot-poshagovaya-instrukciya/)
+- [Типовые вопросы по гарантии на работы](/np-seo-case/blog/tipovye-voprosy-po-garantii-na-raboty/)
+
 ## Коротко о стоимости
 
 Ориентировочный диапазон по каталогу: от 1 800 до 6 800 ₽

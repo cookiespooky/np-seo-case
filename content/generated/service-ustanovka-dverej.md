@@ -30,6 +30,13 @@ og_variant: "default"
 - [Установка дверей в Волгограде](/np-seo-case/volgograd/ustanovka-dverej/)
 - [Установка дверей в Омске](/np-seo-case/omsk/ustanovka-dverej/)
 
+## Полезные статьи по теме
+
+- [Как не переплатить за срочные работы](/np-seo-case/blog/kak-ne-pereplatit-za-srochnye-raboty/)
+- [5 ошибок при выборе мастера по сантехнике](/np-seo-case/blog/5-oshibok-pri-vybore-mastera-po-santehnike/)
+- [Как проверить качество электромонтажных работ](/np-seo-case/blog/kak-proverit-kachestvo-elektromontazhnyh-rabot/)
+- [Сборка мебели после переезда: чек-лист](/np-seo-case/blog/sborka-mebeli-posle-pereezda-checklist/)
+
 ## Коротко о стоимости
 
 Ориентировочный диапазон по каталогу: от 3 200 до 9 800 ₽

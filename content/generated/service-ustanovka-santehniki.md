@@ -30,6 +30,13 @@ og_variant: "default"
 - [Установка сантехники в Волгограде](/np-seo-case/volgograd/ustanovka-santehniki/)
 - [Установка сантехники в Омске](/np-seo-case/omsk/ustanovka-santehniki/)
 
+## Полезные статьи по теме
+
+- [Сроки ремонта ванной комнаты по этапам](/np-seo-case/blog/sroki-remonta-vannoj-komnaty-po-etapam/)
+- [Установка дверей: как избежать перекоса](/np-seo-case/blog/ustanovka-dverej-kak-izbezhat-perekosa/)
+- [Как рассчитать бюджет на ремонт в регионе](/np-seo-case/blog/kak-rasschitat-byudzhet-na-remont-v-regione/)
+- [Как выбрать сервис по отзывам и кейсам](/np-seo-case/blog/kak-vybrat-servis-po-otzyvam-i-kejsam/)
+
 ## Коротко о стоимости
 
 Ориентировочный диапазон по каталогу: от 2 200 до 7 600 ₽

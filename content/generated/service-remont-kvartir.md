@@ -30,6 +30,13 @@ og_variant: "default"
 - [Ремонт квартир в Волгограде](/np-seo-case/volgograd/remont-kvartir/)
 - [Ремонт квартир в Омске](/np-seo-case/omsk/remont-kvartir/)
 
+## Полезные статьи по теме
+
+- [Как оценить смету перед ремонтом квартиры](/np-seo-case/blog/kak-ocenit-smetu-pered-remontom-kvartiry/)
+- [Как подготовить квартиру к клинингу](/np-seo-case/blog/kak-podgotovit-kvartiru-k-kliningu/)
+- [Сроки ремонта ванной комнаты по этапам](/np-seo-case/blog/sroki-remonta-vannoj-komnaty-po-etapam/)
+- [Установка дверей: как избежать перекоса](/np-seo-case/blog/ustanovka-dverej-kak-izbezhat-perekosa/)
+
 ## Коротко о стоимости
 
 Ориентировочный диапазон по каталогу: от 5 500 до 14 500 ₽

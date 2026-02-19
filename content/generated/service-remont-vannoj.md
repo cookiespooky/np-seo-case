@@ -30,6 +30,13 @@ og_variant: "default"
 - [Ремонт ванной комнаты в Волгограде](/np-seo-case/volgograd/remont-vannoj/)
 - [Ремонт ванной комнаты в Омске](/np-seo-case/omsk/remont-vannoj/)
 
+## Полезные статьи по теме
+
+- [От чего зависит стоимость укладки плитки](/np-seo-case/blog/ot-chego-zavisit-stoimost-ukladki-plitki/)
+- [Замена окон в зимний период: что учесть](/np-seo-case/blog/zamena-okon-v-zimnij-period-chto-uchest/)
+- [Натяжные потолки: как выбрать материал](/np-seo-case/blog/natyazhnye-potolki-kak-vybrat-material/)
+- [Минимальный набор работ при косметическом ремонте](/np-seo-case/blog/minimalnyj-nabor-rabot-pri-kosmeticheskom-remonte/)
+
 ## Коротко о стоимости
 
 Ориентировочный диапазон по каталогу: от 6 800 до 17 200 ₽
