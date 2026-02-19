@@ -20,6 +20,10 @@ page_kind: "home"
 Страницы структурированы по модели «услуга × город»
 и охватывают ключевые направления домашнего сервиса.
 
+<figure class="home-hero">
+  <img src="/np-seo-case/assets/hero.webp" alt="Каталог бытовых услуг по городам России" width="1200" height="675" loading="eager" decoding="async">
+</figure>
+
 ## Популярные услуги
 
 - [Ремонт квартир](/np-seo-case/services/remont-kvartir/)

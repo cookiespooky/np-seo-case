@@ -97,6 +97,20 @@ a:hover, a:focus { text-decoration-thickness: 2px; }
   color: var(--muted);
 }
 
+.home-hero {
+  margin: 12px 0 22px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--soft);
+}
+
+.home-hero img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 small { color: var(--muted); }
 
 .site-footer {
