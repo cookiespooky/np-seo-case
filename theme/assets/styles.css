@@ -1,18 +1,20 @@
 :root {
   color-scheme: light;
   --bg: #ffffff;
-  --text: #1f2328;
-  --muted: #57606a;
-  --line: #d0d7de;
-  --soft: #f6f8fa;
-  --link: #0969da;
+  --card: #ffffff;
+  --text: #0f172a;
+  --muted: #475569;
+  --line: rgba(2, 6, 23, 0.12);
+  --soft: rgba(2, 6, 23, 0.04);
+  --link: #0f172a;
+  --radius: 14px;
 }
 
 * { box-sizing: border-box; }
 
 body {
   margin: 0;
-  font: 16px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font: 17px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
   color: var(--text);
   background: var(--bg);
 }
@@ -20,34 +22,53 @@ body {
 a { color: var(--link); text-decoration: underline; text-underline-offset: 2px; }
 a:hover, a:focus { text-decoration-thickness: 2px; }
 
-.container { width: min(980px, 92vw); margin: 0 auto; }
+.container { width: min(1080px, 92vw); margin: 0 auto; }
 
 .site-header {
   border-bottom: 1px solid var(--line);
   background: #fff;
 }
 
-.header-inner {
+.nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  gap: 20px;
+  gap: 12px;
   padding: 14px 0;
 }
 
-.brand { color: var(--text); font-weight: 700; }
-
-.main-nav {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 14px;
+.nav__brand {
+  color: var(--text);
+  font-weight: 700;
+  letter-spacing: 0.2px;
 }
 
-.main-nav a { color: var(--text); font-size: 15px; }
-.main-nav a,
-.brand { text-decoration: none; }
-.main-nav a:hover,
-.brand:hover { text-decoration: underline; }
+.nav__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.nav__links a {
+  color: var(--text);
+  font-size: 15px;
+  padding: 8px 10px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.nav__brand { text-decoration: none; }
+
+.nav__links a:hover,
+.nav__links a:focus {
+  background: var(--soft);
+  text-decoration: none;
+}
+
+.nav__brand:hover,
+.nav__brand:focus {
+  text-decoration: underline;
+}
 
 .content-wrap { padding: 24px 0 48px; }
 
@@ -86,26 +107,15 @@ a:hover, a:focus { text-decoration-thickness: 2px; }
 
 .page-content blockquote {
   margin: 0 0 20px;
-  padding: 12px 14px;
+  padding: 14px 16px;
   border: 1px solid var(--line);
   background: var(--soft);
-  border-radius: 8px;
+  border-radius: var(--radius);
 }
 
 .page-content blockquote p {
   margin: 0 0 6px;
   color: var(--muted);
-}
-
-.page-home .page-content p > img {
-  display: block;
-  width: 100%;
-  height: auto;
-  margin: 12px 0 22px;
-  border: 1px solid var(--line);
-  border-radius: 8px;
-  overflow: hidden;
-  background: var(--soft);
 }
 
 small { color: var(--muted); }
@@ -120,7 +130,7 @@ small { color: var(--muted); }
 .footer-inner p { margin: 0; }
 
 @media (max-width: 720px) {
-  .header-inner {
+  .nav {
     align-items: flex-start;
     flex-direction: column;
   }
@@ -128,19 +138,60 @@ small { color: var(--muted); }
   .content-wrap { padding-top: 18px; }
 }
 
-/* Home: calm hero with text + image */
-.page-home .page-content > h1 + p > img {
+/* Home: notice + hero */
+.page-home .page-content > blockquote:first-of-type {
+  margin-top: 0;
+}
+
+.page-home .page-content > h1 {
+  margin: 0 0 10px;
+  font-size: clamp(1.9rem, 3.2vw, 2.75rem);
+  line-height: 1.12;
+  letter-spacing: -0.3px;
+}
+
+.page-home .page-content > p:nth-of-type(2) {
+  margin: 0 0 14px;
+  color: var(--muted);
+  font-size: 18px;
+}
+
+.page-home .page-content > p:first-of-type > img {
   display: block;
   width: 100%;
-  max-width: 420px;
+  max-width: 460px;
   height: auto;
-  margin: 0 0 14px;
+  margin: 0 0 16px;
   border: 1px solid var(--line);
-  border-radius: 8px;
+  border-radius: var(--radius);
   background: var(--soft);
 }
 
-/* Home: first 3 lists as card grids (services, cities, city-service pairs) */
+.page-home .page-content > p:nth-of-type(3) {
+  margin: 0 0 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.page-home .page-content > p:nth-of-type(3) > a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 14px;
+  border-radius: 12px;
+  border: 1px solid var(--line);
+  background: var(--card);
+  text-decoration: none;
+}
+
+.page-home .page-content > p:nth-of-type(3) > a:hover,
+.page-home .page-content > p:nth-of-type(3) > a:focus {
+  background: var(--soft);
+  text-decoration: none;
+}
+
+/* Home: first 3 lists as card grids */
 .page-home .page-content > ul:nth-of-type(-n+3) {
   list-style: none;
   padding: 0;
@@ -157,16 +208,40 @@ small { color: var(--muted); }
 .page-home .page-content > ul:nth-of-type(-n+3) li > a {
   display: block;
   border: 1px solid var(--line);
-  border-radius: 8px;
-  padding: 10px 12px;
+  border-radius: var(--radius);
+  padding: 14px;
   text-decoration: none;
   color: var(--text);
-  background: #fff;
+  background: var(--card);
 }
 
 .page-home .page-content > ul:nth-of-type(-n+3) li > a:hover,
 .page-home .page-content > ul:nth-of-type(-n+3) li > a:focus {
-  text-decoration: underline;
+  background: var(--soft);
+  text-decoration: none;
+}
+
+.page-home .page-content > ul:nth-of-type(4) {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 16px;
+  display: grid;
+  gap: 10px;
+}
+
+.page-home .page-content > ul:nth-of-type(4) li > a {
+  display: block;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 12px 14px;
+  text-decoration: none;
+  background: var(--card);
+}
+
+.page-home .page-content > ul:nth-of-type(4) li > a:hover,
+.page-home .page-content > ul:nth-of-type(4) li > a:focus {
+  background: var(--soft);
+  text-decoration: none;
 }
 
 /* Service and city pages: avoid long vertical lists */
@@ -211,10 +286,10 @@ small { color: var(--muted); }
 }
 
 @media (min-width: 768px) {
-  .page-home .page-content > h1 + p > img {
+  .page-home .page-content > p:first-of-type > img {
     float: right;
-    width: min(42%, 420px);
-    margin: 0 0 12px 20px;
+    width: min(46%, 520px);
+    margin: 0 0 16px 24px;
   }
 
   .page-home .page-content > h2:first-of-type {

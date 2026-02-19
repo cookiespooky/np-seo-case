@@ -212,6 +212,8 @@ writePage(
 Страницы структурированы по модели «услуга × город»
 и охватывают ключевые направления домашнего сервиса.
 
+[Услуги](${route("services")}) [Города](${route("cities")})
+
 ## Популярные услуги
 
 ${services.map((service) => `- [${service.name}](${route(`services/${service.slug}`)})`).join("\n")}
