@@ -1,0 +1,103 @@
+name: Deploy SEO Case to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      NOTEPUB_VERSION: v0.1.3
+      NOTEPUB_BIN: ./notepub
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Download notepub binary
+        run: |
+          curl -L -o notepub "https://github.com/cookiespooky/notepub/releases/download/${NOTEPUB_VERSION}/notepub_linux_amd64"
+          chmod +x notepub
+
+      - name: Resolve SITE_URL and BASE_PATH
+        env:
+          SITE_URL_RAW: ${{ vars.SITE_URL }}
+          BASE_PATH_RAW: ${{ vars.BASE_PATH }}
+        run: |
+          OWNER="${GITHUB_REPOSITORY_OWNER}"
+          REPO="${GITHUB_REPOSITORY#*/}"
+
+          if [ -n "${SITE_URL_RAW:-}" ]; then
+            SITE_URL="$SITE_URL_RAW"
+          else
+            SITE_URL="https://${OWNER}.github.io/${REPO}/"
+          fi
+
+          if [ -n "${BASE_PATH_RAW:-}" ]; then
+            BASE_PATH="$BASE_PATH_RAW"
+          else
+            BASE_PATH="/${REPO}/"
+          fi
+
+          case "$SITE_URL" in
+            */) ;;
+            *) SITE_URL="${SITE_URL}/" ;;
+          esac
+
+          case "$BASE_PATH" in
+            /*) ;;
+            *) BASE_PATH="/${BASE_PATH}" ;;
+          esac
+
+          case "$BASE_PATH" in
+            */) ;;
+            *) BASE_PATH="${BASE_PATH}/" ;;
+          esac
+
+          echo "SITE_URL=$SITE_URL" >> "$GITHUB_ENV"
+          echo "BASE_PATH=$BASE_PATH" >> "$GITHUB_ENV"
+
+      - name: Sync runtime config
+        run: |
+          jq --arg site "$SITE_URL" --arg base "$BASE_PATH" '.siteUrl=$site | .basePath=$base' data/site.json > data/site.json.tmp
+          mv data/site.json.tmp data/site.json
+
+      - name: Prepare config.yaml for Pages
+        run: |
+          MEDIA_BASE_URL="${SITE_URL}media/"
+          sed -i "s|base_url: \".*\"|base_url: \"${SITE_URL}\"|" config.yaml
+          sed -i "s|media_base_url: \".*\"|media_base_url: \"${MEDIA_BASE_URL}\"|" config.yaml
+
+      - name: Build site
+        run: ./scripts/build.sh
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

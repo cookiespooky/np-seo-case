@@ -1,0 +1,12 @@
+[
+  {"slug":"remont-kvartir","name":"Ремонт квартир","baseMin":5500,"baseMax":14500},
+  {"slug":"remont-vannoj","name":"Ремонт ванной комнаты","baseMin":6800,"baseMax":17200},
+  {"slug":"ukladka-plitki","name":"Укладка плитки","baseMin":1600,"baseMax":4200},
+  {"slug":"ustanovka-santehniki","name":"Установка сантехники","baseMin":2200,"baseMax":7600},
+  {"slug":"uslugi-elektrika","name":"Услуги электрика","baseMin":1800,"baseMax":6800},
+  {"slug":"sborka-mebeli","name":"Сборка мебели","baseMin":1400,"baseMax":5200},
+  {"slug":"natyazhnye-potolki","name":"Натяжные потолки","baseMin":900,"baseMax":2600},
+  {"slug":"zamena-okon","name":"Замена окон","baseMin":6800,"baseMax":18500},
+  {"slug":"klining-kvartir","name":"Клининг квартир","baseMin":2600,"baseMax":8400},
+  {"slug":"ustanovka-dverej","name":"Установка дверей","baseMin":3200,"baseMax":9800}
+]

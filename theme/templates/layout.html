@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  {{- $canonical := .Canonical -}}
+  {{- if not $canonical }}{{- $canonical = printf "%s/" .BaseURL -}}{{- end -}}
+  {{- $kind := printf "%v" (index .FM "page_kind") -}}
+  {{- $citySlug := printf "%v" (index .FM "city_slug") -}}
+  {{- $cityName := printf "%v" (index .FM "city_name") -}}
+  {{- $serviceSlug := printf "%v" (index .FM "service_slug") -}}
+  {{- $serviceName := printf "%v" (index .FM "service_name") -}}
+  {{- $priceMin := printf "%v" (index .FM "price_min") -}}
+  {{- $priceMax := printf "%v" (index .FM "price_max") -}}
+  {{- $datePublished := printf "%v" (index .FM "date") -}}
+  {{- $dateModified := printf "%v" (index .FM "date_modified") -}}
+  {{- $ogDefault := printf "%s/og-default.jpg" .AssetsBase -}}
+  {{- $ogCityService := printf "%s/og-city-service.jpg" .AssetsBase -}}
+  {{- $ogArticle := printf "%s/og-article.jpg" .AssetsBase -}}
+  {{- $variant := printf "%v" (index .FM "og_variant") -}}
+  {{- $ogImage := $ogDefault -}}
+  {{- if eq $variant "city_service" }}{{- $ogImage = $ogCityService -}}{{- end -}}
+  {{- if eq $variant "article" }}{{- $ogImage = $ogArticle -}}{{- end -}}
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#ffffff" />
+  <link rel="stylesheet" href="{{ .AssetsBase }}/styles.css" />
+  {{- if .Page.Description }}
+  <meta name="description" content="{{ .Page.Description }}" />
+  {{- end }}
+  {{- if .Meta.Robots }}
+  <meta name="robots" content="{{ .Meta.Robots }}" />
+  {{- end }}
+  {{- if .Canonical }}
+  <link rel="canonical" href="{{ .Canonical }}" />
+  {{- end }}
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Каталог бытовых услуг" />
+  <meta property="og:title" content="{{ .Title }}" />
+  {{- if .Page.Description }}
+  <meta property="og:description" content="{{ .Page.Description }}" />
+  {{- end }}
+  <meta property="og:url" content="{{ $canonical }}" />
+  <meta property="og:image" content="{{ $ogImage }}" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{{ .Title }}" />
+  {{- if .Page.Description }}
+  <meta name="twitter:description" content="{{ .Page.Description }}" />
+  {{- end }}
+  <meta name="twitter:image" content="{{ $ogImage }}" />
+  <meta name="twitter:url" content="{{ $canonical }}" />
+
+  {{- if eq $kind "city_service" }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "LocalBusiness",
+        "name": "ГородСервис",
+        "telephone": "+7 495 000-00-00",
+        "areaServed": "{{ $cityName }}",
+        "url": "{{ $canonical }}"
+      },
+      {
+        "@type": "Service",
+        "name": "{{ $serviceName }} в {{ $cityName }}",
+        "provider": {
+          "@type": "LocalBusiness",
+          "name": "ГородСервис",
+          "telephone": "+7 495 000-00-00"
+        },
+        "areaServed": "{{ $cityName }}",
+        "offers": {
+          "@type": "AggregateOffer",
+          "priceCurrency": "RUB",
+          "lowPrice": "{{ $priceMin }}",
+          "highPrice": "{{ $priceMax }}"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Сколько стоит {{ $serviceName }} в {{ $cityName }}?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ориентировочный диапазон по каталогу: от {{ $priceMin }} до {{ $priceMax }} ₽."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Какие сроки выполнения работ в {{ $cityName }}?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Сроки уточняются после оценки объема и условий выполнения работ."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Что входит в базовый состав работ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Базовый пакет зависит от конкретного объекта и фиксируется в плане работ."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Можно ли заказать предварительную оценку?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Да, оценка выполняется до согласования финальной сметы."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Есть ли гарантия на работы?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Гарантийные условия указываются в документах заказа."
+            }
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {"@type":"ListItem","position":1,"name":"Главная","item":"{{ .BaseURL }}/"},
+          {"@type":"ListItem","position":2,"name":"{{ $cityName }}","item":"{{ .BaseURL }}/cities/{{ $citySlug }}/"},
+          {"@type":"ListItem","position":3,"name":"{{ $serviceName }}","item":"{{ $canonical }}"}
+        ]
+      }
+    ]
+  }
+  </script>
+  {{- else if eq $kind "service" }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type":"ListItem","position":1,"name":"Главная","item":"{{ .BaseURL }}/"},
+      {"@type":"ListItem","position":2,"name":"Услуги","item":"{{ .BaseURL }}/services/"},
+      {"@type":"ListItem","position":3,"name":"{{ $serviceName }}","item":"{{ $canonical }}"}
+    ]
+  }
+  </script>
+  {{- else if eq $kind "city" }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type":"ListItem","position":1,"name":"Главная","item":"{{ .BaseURL }}/"},
+      {"@type":"ListItem","position":2,"name":"Города","item":"{{ .BaseURL }}/cities/"},
+      {"@type":"ListItem","position":3,"name":"{{ $cityName }}","item":"{{ $canonical }}"}
+    ]
+  }
+  </script>
+  {{- else if eq $kind "article" }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Article",
+        "headline": "{{ .Title }}",
+        "datePublished": "{{ $datePublished }}",
+        "dateModified": "{{ $dateModified }}",
+        "author": {"@type": "Organization", "name": "ГородСервис"},
+        "mainEntityOfPage": "{{ $canonical }}"
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {"@type":"ListItem","position":1,"name":"Главная","item":"{{ .BaseURL }}/"},
+          {"@type":"ListItem","position":2,"name":"Блог","item":"{{ .BaseURL }}/blog/"},
+          {"@type":"ListItem","position":3,"name":"{{ .Title }}","item":"{{ $canonical }}"}
+        ]
+      }
+    ]
+  }
+  </script>
+  {{- else }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "{{ .Title }}",
+    "url": "{{ $canonical }}"
+  }
+  </script>
+  {{- end }}
+  <title>{{ .Title }}</title>
+</head>
+<body>
+  {{ template "header.html" . }}
+  <main class="container content-wrap">
+    {{ .Body }}
+  </main>
+  {{ template "footer.html" . }}
+</body>
+</html>

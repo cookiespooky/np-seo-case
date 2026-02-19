@@ -1,0 +1,39 @@
+<section class="page">
+  <p class="eyebrow">Hub</p>
+  <h1>{{ .Page.Title }}</h1>
+  {{- if .Page.Description }}
+  <p class="deck">{{ .Page.Description }}</p>
+  {{- end }}
+  <div class="prose">
+    {{ .Body }}
+  </div>
+
+  {{- $items := .Collections.hub_items.Items }}
+  {{- if $items }}
+  <div class="section">
+    <h2>Materials</h2>
+    <div class="grid blog-grid">
+      {{- range $items }}
+      <article class="card blog-card">
+        <a class="blog-link" href="{{ $.BaseURL }}{{ .Path }}">
+          {{- if .FM.image }}
+          {{- $img := .FM.image }}
+          {{- if eq (printf "%.1s" $img) "/" }}
+          <img class="blog-image" src="{{ $.BaseURL }}{{ $img }}" alt="{{ .Title }}">
+          {{- else }}
+          <img class="blog-image" src="{{ $img }}" alt="{{ .Title }}">
+          {{- end }}
+          {{- else }}
+          <img class="blog-image" src="{{ $.AssetsBase }}/placeholder.svg" alt="">
+          {{- end }}
+          <div class="blog-body">
+            <h3>{{ .Title }}</h3>
+            {{- if .Description }}<p class="muted">{{ .Description }}</p>{{- end }}
+          </div>
+        </a>
+      </article>
+      {{- end }}
+    </div>
+  </div>
+  {{- end }}
+</section>

@@ -1,0 +1,26 @@
+site:
+  id: np-seo-case
+  base_url: "https://cookiespooky.github.io/np-seo-case/"
+  media_base_url: "https://cookiespooky.github.io/np-seo-case/media/"
+  title: "Каталог бытовых услуг"
+  description: "Каталог бытовых и ремонтных услуг в городах России. Структура «услуга × город», блог и справочные материалы."
+  default_og_image: "/assets/og-default.jpg"
+content:
+  source: "local"
+  local_dir: "./content"
+paths:
+  file_root: ./.notepub
+  artifacts_dir: ./.notepub/artifacts
+  snapshot_file: ./.notepub/snapshot/objects.json
+  cache_root: ./.notepub/cache
+theme:
+  dir: "."
+  name: "theme"
+  templates_subdir: "templates"
+  assets_subdir: "assets"
+rules_path: "./rules.yaml"
+server:
+  listen: "127.0.0.1:8080"
+cache:
+  html_ttl_seconds: 600
+  stale_if_error_seconds: 604800
