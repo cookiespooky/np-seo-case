@@ -48,16 +48,20 @@ jobs:
             SITE_URL="https://${OWNER}.github.io/${REPO}/"
           fi
 
-          if [ -n "${BASE_PATH_RAW:-}" ]; then
-            BASE_PATH="$BASE_PATH_RAW"
-          else
-            BASE_PATH="/${REPO}/"
-          fi
-
           case "$SITE_URL" in
             */) ;;
             *) SITE_URL="${SITE_URL}/" ;;
           esac
+
+          if [ -n "${BASE_PATH_RAW:-}" ]; then
+            BASE_PATH="$BASE_PATH_RAW"
+          else
+            # Derive path from SITE_URL:
+            # - https://owner.github.io/repo/ -> /repo/
+            # - https://custom-domain.tld/   -> /
+            # - https://domain.tld/subsite/  -> /subsite/
+            BASE_PATH="$(echo "$SITE_URL" | sed -E 's#^[a-z]+://[^/]+(/.*)$#\1#;t; s#.*#/#')"
+          fi
 
           case "$BASE_PATH" in
             /*) ;;
