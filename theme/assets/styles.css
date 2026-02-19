@@ -128,15 +128,45 @@ small { color: var(--muted); }
   .content-wrap { padding-top: 18px; }
 }
 
-/* Home: keep lists compact for lower layout cost */
-.page-home .page-content > ul {
-  columns: 2;
-  column-gap: 24px;
+/* Home: calm hero with text + image */
+.page-home .page-content > h1 + p > img {
+  display: block;
+  width: 100%;
+  max-width: 420px;
+  height: auto;
+  margin: 0 0 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--soft);
 }
 
-.page-home .page-content > ul li {
-  break-inside: avoid;
-  margin-bottom: 6px;
+/* Home: first 3 lists as card grids (services, cities, city-service pairs) */
+.page-home .page-content > ul:nth-of-type(-n+3) {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 16px;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 12px;
+}
+
+.page-home .page-content > ul:nth-of-type(-n+3) li {
+  margin: 0;
+}
+
+.page-home .page-content > ul:nth-of-type(-n+3) li > a {
+  display: block;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 10px 12px;
+  text-decoration: none;
+  color: var(--text);
+  background: #fff;
+}
+
+.page-home .page-content > ul:nth-of-type(-n+3) li > a:hover,
+.page-home .page-content > ul:nth-of-type(-n+3) li > a:focus {
+  text-decoration: underline;
 }
 
 /* Service and city pages: avoid long vertical lists */
@@ -178,8 +208,24 @@ small { color: var(--muted); }
   .page-city .page-content > ul {
     grid-template-columns: 1fr;
   }
+}
 
-  .page-home .page-content > ul {
-    columns: 1;
+@media (min-width: 768px) {
+  .page-home .page-content > h1 + p > img {
+    float: right;
+    width: min(42%, 420px);
+    margin: 0 0 12px 20px;
+  }
+
+  .page-home .page-content > ul:nth-of-type(-n+3) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 14px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .page-home .page-content > ul:nth-of-type(-n+3) {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 16px;
   }
 }
