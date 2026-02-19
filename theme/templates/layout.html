@@ -187,15 +187,6 @@
     ]
   }
   </script>
-  {{- else }}
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "{{ .Title }}",
-    "url": "{{ $canonical }}"
-  }
-  </script>
   {{- end }}
   <title>{{ .Title }}</title>
 </head>
