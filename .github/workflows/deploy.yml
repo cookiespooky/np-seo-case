@@ -48,6 +48,19 @@ jobs:
             SITE_URL="https://${OWNER}.github.io/${REPO}/"
           fi
 
+          # If CNAME is present and SITE_URL still points to github.io,
+          # prefer custom domain automatically.
+          if [ -f "./dist/CNAME" ]; then
+            CNAME_DOMAIN="$(tr -d '[:space:]' < ./dist/CNAME)"
+          elif [ -f "./CNAME" ]; then
+            CNAME_DOMAIN="$(tr -d '[:space:]' < ./CNAME)"
+          else
+            CNAME_DOMAIN=""
+          fi
+          if [ -n "$CNAME_DOMAIN" ] && [[ "$SITE_URL" == *".github.io"* ]]; then
+            SITE_URL="https://${CNAME_DOMAIN}/"
+          fi
+
           case "$SITE_URL" in
             */) ;;
             *) SITE_URL="${SITE_URL}/" ;;
