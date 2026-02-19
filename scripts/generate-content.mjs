@@ -210,9 +210,7 @@ writePage(
 Страницы структурированы по модели «услуга × город»
 и охватывают ключевые направления домашнего сервиса.
 
-<figure class="home-hero">
-  <img src="${assetPath("assets/hero.webp")}" alt="Каталог бытовых услуг по городам России" width="1200" height="675" loading="eager" decoding="async">
-</figure>
+![Каталог бытовых услуг по городам России](${assetPath("assets/hero.webp")})
 
 ## Популярные услуги
 
